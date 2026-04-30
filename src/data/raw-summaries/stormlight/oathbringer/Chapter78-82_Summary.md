@@ -1,0 +1,52 @@
+### 78: The Revel
+Veil arrives at the Oathgate platform steps with a wagon of stolen food to join the cult's revel. A woman in a flat white mask and two guards dressed as golden flamespren meet her to unload the spoils. Veil passes a test of loyalty by claiming to hear voices and is allowed to climb the steps to enlightenment. At the top, a rotund ex-ardent named Kharat serves as her guide and gives her the new name Kishi. The outer ring of the platform is filled with tables of candied meats and people wearing decaying high-fashion clothing.
+
+Kaladin dines with Highmarshal Azure and notices her strange sword hanging on a simple peg. He questions Azure's arrival in the city and why she hides her identity as a woman. Back on the platform, Veil uses a sound-based illusion to trick Kharat into leaving his post for a drink. She leaves a static illusion of herself behind and moves inward toward the Oathgate control building. The middle ring consists of lighteyes and ardents crawling on the ground in a state of madness and filth.
+
+Veil finds the central control building covered in a pulsing, black, veined mass called the Heart. This mass beats with an irregular rhythm and is surrounded by people in a trance-like state. Her shadow points toward the moonlight instead of away and warns her that the Heart is a trap. Drums sound from the city walls signaling a Voidbringer attack as Veil realizes the Fused might be hunting her. She puts on her Kishi face, crosses the crawling crowds, and leaps off the edge of the platform to escape.
+
+**Sentence Count Check:** 15
+
+---
+
+### 79: Echoes of Thunder
+Kaladin and Azure rush to the city wall as Fused trailing violet light attack with bloodied lances. The Fused swoop between towers, pinning soldiers to battlements and tossing them to their deaths. Kaladin organizes the scattered Eighth Platoon into a shield wall but avoids using Stormlight to prevent attracting screamers. A Fused with marbled black and red skin Lashes Kaladin, causing him to fall horizontally along the walkway. Kaladin uses the sky as his own, reorienting his perspective to drop safely into a tower doorway.
+
+He leaps from a tower window and crashes into the flying Voidbringer midair to protect his men. Kaladin summons Syl as a Shardknife and stabs the creature in the stomach while they spin through the sky. The Fused Lashes them both toward the ground at high speed while Kaladin seeks a lethal strike. Syl directs Kaladin to cut upward toward the heart, where he strikes a brittle, hard object. The Voidbringer dies instantly, and Kaladin uses a brief burst of Stormlight to heal from the hard landing.
+
+The remaining Fused retreat as army surgeons arrive to tend to the wounded guards. Kaladin learns from his men that he has achieved the Wall Guard's first confirmed kill of a Fused. Azure shows Kaladin the horizon, which is blanketed by thousands of enemy sphere lights. Kaladin reveals his Shardblade to Azure's officers and identifies himself as an agent of King Elhokar. Azure agrees to share her secrets and leads Kaladin away from the wall to explain her logistics.
+
+**Sentence Count Check:** 15
+
+---
+
+### 80: Oblivious
+Veil returns to Grund's shop and finds the building sagging and littered with storm refuse. Grund appears with his malformed hand tucked away and acts suspicious and desperate for more work. Pattern hums a warning about Grund's lies, prompting Veil to change her appearance to a market guard. She sneaks back to the shop and hears thugs arguing inside about a book Veil had previously requested. Veil rushes inside to find a gang called the Grips beating Grund and eating his flatbread.
+
+One thug strikes Grund's head with a cudgel before the gang flees into the back of the building. Veil summons Pattern as a Shardblade but realizes she cannot chase them while Grund is dying. Grund reveals that he hates Veil because her public food distributions drew the attention of the gang. He explains that the Grips killed his friends and forced him to wait for Veil to extort her gifts. Grund dies in Veil's arms, leaving her covered in his blood and questioning her impact on the poor.
+
+Veil goes to the tenement of Muri the seamstress and finds her packing to flee the city. Muri curses Veil for being oblivious and attracting the Grips to the neighborhood. The seamstress explains that the gang had been watching everyone Veil visited to seize the food. Shallan takes control and sits in Muri's abandoned room, feeling crushed by the failure of her Veil persona. She realizes that her attempts to help have only caused death and suffering for those she meant to save.
+
+**Sentence Count Check:** 15
+
+---
+
+### 81: Ithi and her Sister
+Kaladin meets with Azure and her officers in a common room to discuss the city's food supply. Azure uses a hidden latch in a back room to reveal a secret corridor running inside the city wall. This tunnel has existed for generations and provides a hidden path between various guard posts. The group descends a ladder into a large storage room filled with sacks of Soulcast grain. Azure shows Kaladin the jagged walls where she has been cutting out stone blocks with her Shardblade.
+
+Behind a locked door, they find an ardent named Ithi who uses a powerful hand-mounted Soulcasting fabrial. Ithi has vines growing under her skin and peeking out from the corners of her eyes. The room is lined with reflective metal plates that prevent screaming spren from sensing the Soulcasting. Azure explains that a man with angular features provided the metal and warned them about the screamers. This man also noted that the metal blocks all spanreed communication with the outside world.
+
+Azure keeps two ardents working in shifts to provide enough grain to sustain the Wall Guard. Kaladin realizes that the metal lining will not help him use his Radiant powers without being detected. He explains to Azure that a device called an Oathgate can transport the Kholin army into the city. Azure expresses enthusiasm for the plan and asks for the location of the transportation device. Kaladin admits that the Oathgate is currently inaccessible, presenting a major obstacle to the rescue mission.
+
+**Sentence Count Check:** 15
+
+---
+
+### 82: The Girl who Stood Up
+Shallan hides in the dark of Muri's abandoned room, cycling through a hundred faces to escape her pain. Wit arrives with a sphere of light and sits with her in the silence of the tenement. He tells Shallan that the thieves who killed Grund have been dispersed by a new neighborhood militia. Wit begins the story of "The Girl Who Looked Up," and Shallan uses Stormlight to create a massive illusion. The illusion depicts a village where everyone lives in total darkness and ignores a colossal wall.
+
+The girl in the story climbs the wall and discovers God's Light on the other side. She steals a piece of the light, but the act brings the first storms to the land of shadows. Wit explains that the people suffered but would never choose to go back to being blind. He uses the Stormlight to create two identical illusions of Shallan to reflect her internal state. One version collapses in self-loathing while the other stands tall with a sense of forgiveness.
+
+Wit tells Shallan that she is worth protecting and that she must accept her pain to move forward. He hands her Veil’s hat and leaves as the morning sun begins to shine into the room. Shallan returns to the tailor's shop and reunites with Adolin, wearing her white coat and trousers. Adolin notices her new outfit and comments that she looks sharp in the red and white style. Kaladin arrives with five hundred soldiers from the Wall Guard to begin the assault on the palace.
+
+**Sentence Count Check:** 15

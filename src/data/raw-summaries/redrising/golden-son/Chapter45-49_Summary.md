@@ -1,0 +1,52 @@
+### 45: Helldivers
+Darrow lands in the snowy city of Attica, which the Jackal has seized from Bellona allies. Victra greets Darrow and escorts him to a glass-walled citadel where the Jackal manages planetary bureaucracy. Darrow presents Victra with a bottle of Petrichor and gives the Jackal a leather box. A high-pitched alarm interrupts the meeting as Gray lurchers report a breach in the lower levels. The lights fail and a flash grenade stuns the occupants before masked intruders enter the room.
+
+The intruders are Sons of Ares led by Harmony and Sevro in cacodemon masks. They shoot the Gray guards and force the Jackal to provide the mainframe access codes. Ragnar attempts to intervene but is incapacitated by multiple stun blasts to his chest. Darrow and the intruders exchange intentional missed shots to maintain his cover before the Sons escape through a window. The Jackal identifies the attackers as the Sons of Ares and realizes his chief of security has betrayed him.
+
+The Jackal and Victra remain unaware that the Sons reached the citadel by clinging to Darrow's ship with ghostCloaks. Sun-hwa is dead in Darrow's cargo hold while the rescued Sons, including Fitchner and Mickey, escape in a separate shuttle. Darrow promises the Jackal they will hunt down the terrorists together once the Sovereign is defeated. The Jackal expresses frustration over losing his prisoners but accepts Darrow’s renewed vow of loyalty. Darrow watches the Sons' shuttle vanish into the mountains while standing beside his enemies.
+
+**Sentence Count Check:** 15
+
+---
+
+### 46: Brotherhood
+Darrow reunites with Dancer in a rusted warehouse office located within the manufacturing district of Agea. Dancer reveals that he is alive because Ares saved the Sons after Harmony's rogue assassination of several Senators. Mickey enters the room and weeps while thanking Darrow for rescuing him from the Jackal's torture chambers. Fitchner arrives and formally reveals himself as Ares, the leader of the Sons of Ares rebellion. He explains that his hatred for the Society began when his Red wife, Bryn, was "disposed of" for their illegal marriage.
+
+Fitchner confirms that Sevro is a half-Red and was born after a Carver modified Bryn's DNA for compatibility. The group discusses Titus and why Fitchner kept Darrow and Titus separated during their time at the Institute. Fitchner outlines a plan for Augustus to adopt Darrow as his heir to position him for the Sovereign’s throne. He intends for Darrow to inherit the entire Society through a calculated game of succession and political assassination. Darrow insists that he cannot continue the mission in isolation and demands regular communication with a trusted cabal of spies.
+
+Darrow declares his intention to visit his home in Lykos before committing to the next phase of the war. Fitchner opposes the risk but eventually relents when Darrow insists on seeking a blessing for his future actions. Darrow further reveals that he plans to take Mustang with him to the mines to test if she can accept his true identity. Fitchner warns that this could ruin the entire rebellion, but Darrow argues that change is only possible if they trust their hearts. Sevro promises to kill Mustang himself if she betrays Darrow's secret to the Golds.
+
+**Sentence Count Check:** 15
+
+---
+
+### 47: Free
+Darrow's ship descends into the southern Martian taiga to reach the three-hundred-meter-deep pit of Lykos. He stalks down the ramp followed by Ragnar and a squad of Obsidian bodyguards to intimidate the local Gray guards. Darrow finds Ugly Dan in a common room and orders the man to lead him to the bubbleGarden. Dan obeys without resistance, appearing aged and pathetic rather than the monster Darrow remembered from his youth. The group walks through the garden, which Darrow finds smaller and more neglected than it appeared in his memories.
+
+The garden is filled with weeds and trash left behind by Grays who use the space for drinking. Darrow visits the spot where Eo was buried and finds haemanthus flowers growing over the empty grave. He realizes the Grays must have exhumed her body long ago to display it in the Common as a warning. Darrow sits cross-legged in the garden and watches the sunset while reflecting on his past life and his lost love. He acknowledges that the stars in the sky are actually the warships of the fleet preparing for the coming war.
+
+Ragnar approaches Darrow in the silence of the garden to offer a brief moment of comfort. Darrow realizes that Eo was a girl with flaws and not the perfect martyr he has idolized for four years. He concludes that his heart cannot remain in the cage of his past and must move forward with the rebellion. Darrow stands and dusts his pants before leaving the garden for the final time. He decides that he no longer needs a blessing from the dead to justify the destruction he must cause.
+
+**Sentence Count Check:** 15
+
+---
+
+### 48: The Magistrate
+MineMagistrate Timony cu Podginus greets Darrow with a display of caviar and cheese while flanked by mine guards. Darrow treats the Copper with Peerless disdain and ignores his attempts to impress him with talk of refined culture. Ragnar uses a datapad to confront Podginus about a fourteen percent decrease in helium-3 production over the last quarter. The Magistrate blames the shortfall on dissent, sabotage, and the influence of the Persephone movement among the miners. Darrow listens as Podginus lists the various "packages" he has used to suppress the population, including biological plagues and artificial disasters.
+
+Darrow threatens to quarantine the mine and replace the current workforce with compliant clans from the equator. Podginus begs for mercy and claims the Reds of Lykos are the best miners in the world despite their rebellious nature. He reveals that he has been tampering with maps to make the miners fear the deposits are drying up. Darrow orders the Magistrate to increase rations and throw a feast for the workers using provisions from his ship. Podginus is confused by the request but complies to avoid the threat of execution or replacement.
+
+Darrow watches the celebration from a viewing room as the Reds dance and eat foods they have never seen before. He recognizes his brother Kieran and other childhood friends among the crowd but feels no personal joy in the event. Mustang joins Darrow and reveals she has drafted legislation to restructure the Board of Quality Control and end such corruption. She notes that the Magistrate has been skimming supplies for the black market while the population remains malnourished. Darrow takes Mustang's hand and leads her toward the tunnels to reveal the final truth of his origin.
+
+**Sentence Count Check:** 15
+
+---
+
+### 49: Why We Sing
+Darrow and Mustang descend into the Common of Lykos at night using ghostCloaks to remain invisible to the lingering miners. They reach Lambda Township, where Darrow enters his old family home and ducks to fit through the small door. He gives Mustang a holoCube containing his true history and tells her to enter only after she has finished watching it. Darrow finds his mother in the kitchen where she is preparing tea after hearing his footsteps on the stairs. She recognizes him instantly by his eyes despite his Golden height, carved features, and Peerless Sigils.
+
+Darrow kneels as his mother touches his face and confirms his identity with a whispered realization. They sit on the floor to talk, and she reveals that his Uncle Narol and cousin Loran supposedly died two years ago. She informs him that his sister Leanna is remarried and his brother Kieran is now the head of the household. Darrow learns that Dio is pregnant with Kieran's child and is currently sleeping in the upstairs room of the house. He explains his carving and his mission to his mother, who expresses skepticism about the feasibility of freeing millions of miners.
+
+A small girl named Eo, who is Kieran’s daughter, walks down the stairs and interrupts their private conversation. Darrow activates his ghostCloak to remain hidden while his mother picks up the child and comforts her. Mustang departs for the ship after watching the holoCube, and Darrow chooses to trust her rather than having Sevro intercept her. His mother tells the child that they sing so the dead will know they can still find joy. Darrow lingers in the doorway for a final moment before leaving his family to return to the war.
+
+**Sentence Count Check:** 15

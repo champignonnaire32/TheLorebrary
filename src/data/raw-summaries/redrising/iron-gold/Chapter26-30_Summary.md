@@ -1,0 +1,52 @@
+### Chapter 26: Lysander
+Dido au Raa enters the warroom with an armored column of Peerless Scarred to confront her husband Romulus. She reveals that her loyalists have seized control of Sungrave and other strategic locations across Io to depose Romulus as Sovereign. Romulus orders his guards to disarm Dido's men, but they refuse and remain loyal to her. Diomedes au Raa draws his razor and kills several of Dido’s soldiers, including Aevius, in a rapid display of combat skill. Bellerephon au Raa engages Diomedes in a duel until Dido orders a ceasefire to prevent further family bloodshed.
+
+Romulus surrenders to avoid more loss of life and allows Dido’s men to bind him and his children. Dido marks her face with the blood of the fallen Golds as a sign of respect before having them removed. Seraphina au Raa reunites with her mother and confirms she found the evidence Dido sent her to retrieve from the Gulf. Lysander and Cassius emerge from hiding and are immediately forced to their knees by Dido’s soldiers. Dido identifies them as the "gahja" and mockingly welcomes them as her guests after Seraphina explains they saved her life.
+
+Dido provides wafers and water to Lysander and Cassius to alleviate their severe dehydration. The soldiers release the muzzles from the prisoners' faces so they can eat and drink. Seraphina watches with amusement as her mother assumes control of the situation and the family dynamic. The capture of Romulus signals a successful coup by the Venusian-born Dido against the Raa family’s traditional leadership. Lysander observes that this transition of power is less bloody than a similar coup would be in the Core. Cassius remains wary of the new regime despite the offer of hospitality and a bath.
+
+**Sentence Count Check:** 15
+
+---
+
+### Chapter 27: Darrow
+Darrow and Sevro lead a squadron of Howlers through a storm over the Atlantic Ocean toward a deep-sea crab trawler. They are operating as outlaws from Greenland after the death of Wulfgar shifted Republic opinion against them. Alexandar au Arcos rescues a sailor who was swept overboard during the rough weather before the Howlers land on the ship's deck. Darrow disguises himself and his men as Society commandos to terrify the lowColor crew into submission. The Howlers seize the vessel, deactivate its communications, and lock the crew in the cargo hold to maintain their cover.
+
+Colloway lands a pelican on the trawler and drops a sonar-resistant submersible into the water for the next phase of the mission. Winkle, a Green cyber specialist, prepares to hack the Republic's Starhall mainframe to bypass the prison's external defenses. Darrow refuses Rhonna's request to join the submersible team because she is too short to pass as a Gray commando. Sevro expresses his disapproval of the plan to free a war criminal from Deepgrave Prison but agrees to the mission. The team enters the submersible and dives to the abyssal plain, avoiding detection by three patrolling Republic submarines.
+
+Min-Min pilots the submersible through the massive hydraulic legs of Deepgrave Prison as it crawls across the ocean floor. The submersible locks onto the prison's hull and uses a thermal drill to create an entry point into the desalination plant. Darrow leads the team into the facility, where they use nonlethal spider venom rounds to incapacitate guards and workers. Winkle loops the drone data to keep the team's presence hidden from the prison's central security monitors. The Howlers reach the Omega Level and find an emaciated, tongueless Obsidian guard in the cell where their target was supposed to be.
+
+**Sentence Count Check:** 15
+
+---
+
+### Chapter 28: Darrow
+The Howlers follow the tongueless Obsidian guard, whom they name Tongueless, through the prison's central processing facility. Darrow and his team use ghostCloaks to slip past guard stations and incapacitate security personnel with spider venom rounds. Tongueless leads them to the warden's quarters, where they confront a Copper named Videli cu Yancra. Darrow threatens the warden with Republic prosecution for his illegal graft and the luxury items found in his room. The warden admits that Prisoner 1126, Apollonius au Valii-Rath, paid for improved living arrangements and is still alive.
+
+The warden leads the team to a hidden, luxurious cellblock where Apollonius lives in comfort with books, wine, and Pink servants. Apollonius is found playing a violin while naked, surrounded by golden roses and expensive UV lights. Darrow lies to Apollonius, claiming they were sent by his brother Tharsus to return him to his fleet. Apollonius demands that Darrow remove his mask, but Darrow maintains his Venusian disguise and threatens to break the prisoner's nose. The team prepares to leave with Apollonius, but the prisoner suddenly lunges back to confront the warden.
+
+Apollonius gouges out the warden's eyes with his bare hands before the Howlers can intervene. Sevro and the team fire darts at Apollonius, but the Gold's immense physical strength allows him to resist the paralytic venom. Apollonius tackles Darrow and attempts to crush his neck until Tongueless strikes the Gold with a metal hookah. The blow allows Darrow to break free, and the venom finally causes Apollonius to collapse into unconsciousness. Darrow offers Tongueless a place on their ship as they prepare to evacuate the prison with their new prize.
+
+**Sentence Count Check:** 15
+
+---
+
+### Chapter 29: Lyria
+Lyria takes her leave day from the Telemanus estate and travels by train from the Citadel to the city of Hyperion. She wanders the massive city, feeling overwhelmed by the technology and the wealth of the citizens she observes. At a museum, she visits the Hall of Screams, a memorial filled with a million Red sigils from the liquidated mines. A Gold woman named Agilla au Vorelius accosts Lyria on the street and falsely accuses her of stealing a bracelet. Two Gray Watchmen detain Lyria, slam her against a wall, and put her in magnetic shackles despite finding no stolen goods.
+
+A man with a goatee and a limp named Philippe approaches the Watchmen and claims to be an old friend of Lyria's. He uses his status as a former member of the Sons of Ares to convince the guards to release her without an official report. Once the guards leave, Philippe admits he saw another Red commit the theft and decided to intervene to help Lyria. He spends the rest of the day escorting Lyria through the city, showing her sculptures and a zoo filled with resurrected animals. They share a expensive dinner at a Venusian restaurant where Philippe pays for the meal and multiple rounds of drinks.
+
+Lyria and Philippe sit in Hero Center and discuss their pasts while looking at the massive statue of the Iron Reaper. Lyria reveals that her family was killed by the Red Hand in an assimilation camp on Mars and that she saved her nephew. Philippe shares that he is mourning a lost husband and shows her a necklace of Bacchus given to him by his fiancé. He tells Lyria that she is a "world entire" and should not let the grander people of Luna make her feel small. They part ways at the train station, and Lyria returns to her bunk feeling happy to have made a new friend.
+
+**Sentence Count Check:** 15
+
+---
+
+### Chapter 30: Darrow
+The Howlers extract Apollonius and ten other high-value prisoners from Deepgrave and transport them back to the crab trawler in the submersible. Darrow feels a deep sense of guilt for releasing the war criminals and worries about the future consequences of his actions. Alexandar apologizes to Darrow for his physical reaction to the warden's blinding, but Darrow reassures him that the stress was natural. Tongueless reveals that he smuggled the warden’s terrier onto the submersible, earning the amusement of the Howlers. The team flies the prisoners to Baffin Island, where they have hidden a stolen Society frigate named the Nessus.
+
+Quicksilver provided the Nessus, a high-tech Venusian ship, for the mission after capturing it during a previous raid. Darrow's brother Kieran meets the team at the ship's garage and watches as the prisoners are moved to the brig. Sevro advocates for keeping Tongueless as a permanent member of the crew because of his combat contribution and the need for an Obsidian presence. Darrow agrees to let Tongueless join them on the condition that he understands they are heading into extreme danger. The Howlers begin the process of preparing the Nessus for its journey to the Venusian system.
+
+The presence of the prisoners on the ship creates a somber and disgusted mood among the Howlers and the support staff. Darrow observes the high quality of the Nessus, noting its superiority over many Republic-built vessels. He reflects on the necessity of the ship for his plan to end the war despite the ethical cost of the jailbreak. Kieran expresses concern about the new Obsidian addition to the group but accepts Darrow's decision. The mission to Venus is officially set in motion as the team consolidates their resources and prepares for departure. Darrow maintains a facade of confidence while privately grappling with the weight of his irrevocable choices.
+
+**Sentence Count Check:** 15

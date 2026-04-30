@@ -1,0 +1,52 @@
+### 30: Mother of Lies
+Shallan engages with Re-Shephir, the Midnight Mother, which is an ancient Unmade spren made of black oil. The spren attempts to rip Shallan's bond with Pattern away to insert itself into her soul. Shallan sees visions of the creature's origins as a splinter of a more terrible soul ordered to sow chaos. The creature imitates humans because it is intrigued by the physical violence it observes and commits. Shallan realizes the creature is terrified because a previous Lightweaver Radiant once imprisoned it in the tower.
+
+Shallan attacks the void with Stormlight and her own internal ferocity during the mental struggle. She pushes her essence into the creature's tar-like substance to overwhelm its instincts. The spren screeches in fear as it realizes Shallan understands its nature and its past imprisonment. Shallan lies to herself and the spren, projecting an image of absolute confidence to break the creature's will. The Midnight Mother breaks and flees the room as moving smoke through a tunnel leading deeper into the mountain.
+
+Adolin catches Shallan as the darkness dissolves and the midnight creatures made of oil vanish. Renarin uses Stormlight to heal a wounded bridgeman who was injured during the fight in the chamber. Shallan prevents the group from chasing the spren down the dark tunnel to ensure their safety. She observes that the tower's atmosphere feels lighter and the previous sense of dread has evaporated. The group discovers a central pillar filled with thousands of cut gemstones of immense value at the center of the room.
+
+**Sentence Count Check: 15**
+
+---
+
+### 31: Demands of the Storm
+Kaladin arrives at the city of Revolar with his group of parshmen and sees fifty thousand parshmen camped outside. Revolar is a city built in a hollow between hills that has been completely conquered by the parshman force. Sah expresses his joy at finally having a home and a life outside of human slavery in the city. Kaladin observes broken windows and looted homes, indicating a violent takeover by the parshman rebels. He notices the inner city gates are broken and the guardhouse has been burned during the earlier conflict.
+
+Syl reports that humans are being held in pens and old parshman quarters under heavy guard. A parshman scribe with a writing board processes Khen's group and notices their stone-headed spears. A Fused, which is a powerful parshman with glowing red eyes and carapace under the skin, approaches to inspect Kaladin. Kaladin senses a highstorm approaching and decides to use the chaos of the storm to escape his parshman companions. He steals a pouch of gemstones from Khen and sucks in the Stormlight to launch himself into the sky.
+
+Kaladin hovers above the city and observes the stormwall of the highstorm approaching from the east. He discovers human prisoners trapped in open pens and decides to stay to help them find shelter before the storm hits. After shouting warnings, he uses the Sylblade to cut the spears of parshman guards and directs them to move the humans. Two Fused with red eyes and violet-black auras fly into the storm to pursue Kaladin as he flees. Kaladin enters the storm and uses a mass of windspren to part the winds and protect a group of humans from the tempest.
+
+**Sentence Count Check: 15**
+
+---
+
+### 32: Company
+Shallan rests in Highprince Sebarial's lavishly decorated sitting room while Palona serves her steaming citrus tea. Shallan explains that Re-Shephir is an ancient spren that imitates human violence to understand humankind. She speculates that the Unmade might have been human in the distant past before becoming monsters. Navani Kholin's scholars begin searching for information about the Unmade, although their access to books is currently limited. Shallan feels a sense of accomplishment for her role in driving the Midnight Mother from the tower.
+
+She realizes that her three personas—Shallan, Veil, and Radiant—provide her with enough stability to face future challenges. The tower feels safer to her now that the oppressive aura of the spren has vanished. Adolin enters the room to inform Shallan that someone important has just arrived at the tower. He explains that it is not Kaladin, who has also recently returned, but someone else entirely. Jasnah Kholin enters the room at the head of a group, revealing she is alive.
+
+Jasnah appears no worse for wear despite the ordeal she has faced since the ship was attacked. Her hair is perfectly styled with ruby hairspikes and she wears a dress of Kholin red. Shallan is shocked to see her mentor alive after believing she had been murdered on the ship. The group gathers in the sitting room to discuss the recent events and the state of the tower. This revelation concludes the first major section of the book.
+
+**Sentence Count Check: 15**
+
+---
+
+### Interludes: Puuli, Ellista, Venli
+Puuli is a lighthouse keeper on the eastern coast of Roshar who gathers wood from ships wrecked by the new eastern storm. He recalls his grandfather's prophecy that people will come from the Origin with light in their pockets during the darkest night. Ellista is an ardent at the Jokasha Monastery who tries to read a romance novel while scholars bicker about the Everstorm. She discusses the Dawnchant with Ardent Urv, who reveals that Jasnah Kholin has correctly deciphered the ancient language. Urv offers Ellista a sequel to her romance novel in exchange for help translating a stubborn section of ancient text.
+
+Venli uses her new stormform, which is a listener form with red eyes and internal lightning, to climb into a chasm. She is accompanied by her former mate Demid and the voidspren Ulim, who appears as a human-shaped figure of lightning. Ulim directs the group to search for Shardplate and Shardblades among the debris at the bottom of the pit. They discover the body of Eshonai, who drowned in the floodwaters of the storm while holding onto her Blade. Venli feels a sense of loss and hears the Rhythm of the Lost, which is a mournful beat she thought she had forgotten.
+
+Ulim insists that the group strip the Shardplate from Eshonai's corpse despite listener taboos against touching the dead. He reveals that Eshonai had resisted the transformation into stormform and was never fully dedicated to Odium's cause. Venli realizes she is now free from her sister's judgment but feels terrified by her new independence. As they leave with the armor, a small spren resembling a white comet with light rings emerges from the corpse. This spren is a reacher, which is a type of lightspren that had been bonded to Eshonai before her death.
+
+**Sentence Count Check: 15**
+
+---
+
+### 33: A Lecture
+Shallan spends a day in her room sketching her experiences with the Unmade and contemplating Jasnah’s sudden return. She notes that the sense of dread pervading the tower has completely vanished since she drove Re-Shephir away. Adolin and Dalinar visit her separately to check on her health while she continues her research. Shallan decides to leave her room to find Jasnah and demand an explanation for her survival during the voyage. She discovers that Jasnah is in the basement chamber examining the massive crystal pillar at the tower's heart.
+
+The central pillar is a twenty-foot-tall construct made of many different fused gemstones including emeralds and rubies. Jasnah explains that the pillar is likely a complex fabrial, which functions by imprisoning spren in gemstones for power. Shallan expresses horror at the idea of permanently locking spren in boxes to power human technology. Jasnah commands Shallan to sketch the pillar with precise proportions and colors, reestablishing their previous master-ward relationship. Jasnah apologizes for the lack of foresight that led to the attack on their ship and the deaths of the crew.
+
+Jasnah reveals she is an Elsecaller, which is a Radiant order capable of transitioning between the physical and cognitive realms. She survived the knife to her chest by using Stormlight and escaping into Shadesmar, the cognitive realm of spren. Returning to the physical realm required finding a specific transfer point, which took her significant time and effort. Jasnah asks Shallan for her opinion on Kaladin and expresses a sense of being overwhelmed by the rapid changes. Shallan realizes that despite Jasnah's brilliance, both women are currently struggling with a lack of understanding about the tower.
+
+**Sentence Count Check: 15**

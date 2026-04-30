@@ -1,0 +1,52 @@
+### 36: The Devil and the Golem
+Hadrian retreats to his shower to scrub away the memory of Naia’s touch. He eventually sleeps in a corner of his room, avoiding the bed where the encounter occurred. During sleep, he experiences a dream of a dark ocean and greenish witch-lights beneath the waves. A voice calls his name from the darkness, though he cannot respond. He wakes and spends the morning reading historical texts about Victor Sebastos.
+
+The android Yume enters the suite with a food trolley to clear the previous night’s meal. Yume is a high-order virtual intelligence with gear mechanisms visible through glass at its joints. The golem delivers a formal apology from Kharn for the previous night's events. Yume claims that the diplomatic suite contains no surveillance equipment, which Hadrian doubts. The machine explains that it cannot lie because counterfactual data would introduce errors into its persona.
+
+Hadrian inquires about the status of his companions on the Mistral. Yume reports that they are still at the marina and will likely remain there. The android notes a nine-percent probability that the crew might leave without Hadrian. Hadrian keeps his sword close, uncertain of the android's physical capabilities or Kharn’s true intentions. He remains in the suite waiting for Valka and Tanaran to return from the ship.
+
+**Sentence Count Check:** 15
+
+---
+
+### 37: Tanaran
+Valka returns to the diplomatic suite accompanied by the Cielcin prisoner, Tanaran. She explains that the rest of the crew stayed on the ship because they are locked out of systems. The group travels to Kharn’s inverse pyramid throne room via a dark tramway. Tanaran removes its hood, revealing an eight-foot-tall xenobite with a horned crown and black eyes. Kharn Sagara speaks to the emissary in perfect Cielcin, calling humans "vermin."
+
+Tanaran explains that its clan was on a pilgrimage to Emesh to find ruins of the Quiet. Hadrian recounts how the Imperial Chantry tortured the Cielcin captain, Uvanari, for information. Kharn dismisses Hadrian’s attempt at diplomacy and speaks directly to the Cielcin priest. The Undying agrees to contact the Cielcin master, Prince Aranata Otiolo, to negotiate Tanaran's return. Kharn mocks the idea of peace and predicts the humans will eventually kill the xenobites.
+
+The Lord of Vorgossos stands up from his throne, revealing a surgically altered, mechanical torso. He disconnects a gray hose from his ribs, causing a rattle as he breathes through internal machines. A dozen SOMs, soldiers with sagging faces in dun uniforms, appear from the shadows. Kharn orders the guards to take Tanaran to a separate location within the palace. The SOMs seize Hadrian and Valka, ignoring Hadrian's shouts as they are forced away.
+
+**Sentence Count Check:** 15
+
+---
+
+### 38: The Face of Failure
+Hadrian and Valka sit in their suite discussing their failure to secure the prisoner. Valka reveals that the Mistral's crew is effectively trapped by network defenses they call "ice." Hadrian expresses his grief over Jinan, who chose to stay loyal to the fleet rather than join him. Valka offers to let Hadrian serve as her bodyguard if they manage to escape the station. They discuss the location of Akterumu, wondering if it is a Cielcin colony or an ancient ruin.
+
+Hadrian describes the Orchid Stair and the step-well he discovered earlier during his exploration. He explains that Kharn maintains his longevity by growing clone children to serve as replacement bodies. Valka reacts with visible horror at the mention of children being harvested for mind transfers. They hypothesize that a Mericanii artificial intelligence, or daimon, is managing the station's security. This entity is likely responsible for the remote override of the Mistral’s navigational systems.
+
+Hadrian suggests using Valka’s neural lace to hack into the station’s records. Their goal is to locate Tanaran and release the docking locks on their ship. Valka admits she has several ideas for how to proceed despite the danger. Hadrian contemplates kidnapping Yume for information but decides against it to avoid alerting Kharn. They agree to venture below the main city to find the station’s central archives.
+
+**Sentence Count Check:** 15
+
+---
+
+### 39: The Last Story
+Three days pass while Hadrian and Valka explore the galleries of the palace labyrinth. They eventually reach the door to the Orchid Stair and descend into a lush, subterranean garden. The stairwell is illuminated by phasma vigrandi, tiny glowing insects known as the fairy-lights of Luin. These creatures drift through the air like phosphorescent embers, settling on the high grass. Hadrian recalls telling his sister Cat a story about Kharn Sagara conquering a daimon.
+
+The descent leads through Nipponese-style arches and past hanging wooden prayer cards called ema. At the bottom of the well, Valka uses her neural lace to probe the local datasphere. She describes the sensation of navigating the network as trying to catch water in cupped hands. Hadrian draws his highmatter sword as the artificial lights in the hall suddenly flicker and die. A wet wind blows through the tunnel, carrying shadows and the smell of the distant sea.
+
+One of Kharn's mechanical "eyes" falls to the floor and is crushed by Hadrian’s boot. Valka realizes that an external force, not her own hacking, disabled the surveillance device. Red emergency lights activate along the floor of the tunnel to reveal the path forward. The heavy door at the end of the rough passage opens without Valka’s intervention. The pair hurries into the darkness, wary of whatever entity is interfering with the station's systems.
+
+**Sentence Count Check:** 15
+
+---
+
+### 40: The Garden of Everything
+Hadrian and Valka cross a metal catwalk over shallow pools containing eyeless, translucent fish. They enter a massive glade containing a meadow, a river, and a forest beneath the stone roof. Near a large tree, they find a tea service that is still warm to the touch. Hadrian sees bright eyes peering from behind the trunk before a small creature darts away. They chase the entity toward a metal bulkhead that cycles open automatically as they approach.
+
+Beyond the door lies a high-ceilinged arcade filled with glass pillars used as animal enclosures. The menagerie contains Terran birds, monkeys, and exotic alien lifeforms like the radial-armed tokolosh. They proceed into a rock garden filled with statues that are actually living, fungal-like organisms. The path leads to a dormitory area containing metal cots and decals with names like Ichirou. Hadrian realizes this is where the clone children were housed before being used as replacement bodies.
+
+Hadrian is suddenly struck by a telepathic sensation that seizes his muscles and vision. The voice from his dreams calls out his name and demands that he listen. His consciousness is pulled through a blur of corridors and down an ancient lift to a stony shore. Valka shakes him back to reality, threatening to slap him if he does not explain his trance. Hadrian informs her that the voice is real and he now knows the exact path to their destination.
+
+**Sentence Count Check:** 15

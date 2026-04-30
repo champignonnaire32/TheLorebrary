@@ -1,0 +1,54 @@
+### 36: Lysander: Jurisdiction
+Pytha and Cicero wake Lysander from a medically induced coma following his poisoning with Medusa’s Lament. Rhone Flavinius objects to the early waking, but Lysander demands a report on the war's progress. Pytha reveals that the Rim is abandoning the siege of Mars due to an emergency tightbeam from their home moons. Diomedes enters the room to confirm that the Obsidian warlord Volsung Fá has attacked Ilium. The Ilium Guard was destroyed by a Core-grade warfleet comprised of dreadnaughts, destroyers, and Ascomanni ships.
+
+Diomedes explains that the Dragon and Dust armadas must return to Jupiter immediately to protect Demeter’s Garter. Lysander realizes his faction cannot maintain the siege of Mars without the Rim's support and ships. Diomedes offers Lysander the Shield of Akari, a relic signifying a century pact, if Lysander sails with them. Lysander meets with his allies, Julia Bellona and Apollonius au Rath, to propose aiding the Rim. Julia agrees to the plan, while Apollonius mocks the Obsidian threat but remains to manage Mars.
+
+Rhone Flavinius attempts to stop Lysander from leaving Phobos, but Lysander asserts his authority as Dux. Helios au Raa takes imperium of the fleet and initially forbids Lysander from traveling on the Dustmaker. Lysander negotiates with Helios, agreeing to bring only ten Praetorians while the rest of his legion follows on the Lightbringer. Rhone reports that the Praetorian Kyber was wounded by a sniper but will survive to follow later. Lysander boards the Dustmaker while suffering from the internal pains of the remaining Medusa’s Lament poison.
+
+**Sentence Count Check: 15**
+
+---
+
+### 37: Darrow: Cacophony
+Darrow and Cassius arrive at an oblong asteroid on the outer shoulder of the Belt aboard the Archimedes. They have spent thirty-six days in transit while avoiding Rim hunting parties and Obsidian pirates. Cassius cleans the ship's walls and expresses concern that the asteroid might be empty or a trap set by Virginia. Darrow explains that he is following Virginia’s instructions and preparing for a final chance to win the war. He notes that the Republic’s light in the Belt has been replaced by Raa blue or extinguished entirely.
+
+Darrow describes his rigorous training syllabus which includes six hours of daily swordplay with Cassius to sharpen his skills. He consumes ten thousand calories a day to rebuild his physical mass while writing letters to his son, Pax. Aurae assists Darrow in studying "The Path to the Vale" and reading intelligence briefings on his enemies. Darrow learns of Atlas’s campaign on Luna and the mysterious tactics of the Obsidian warlord Volsung Fá. He observes that Sevro remains isolated in the machine shop listening to aggressive "Cacophony" music.
+
+Angular, pearly drone ships emerge from a hidden hangar in a crater to escort the Archimedes. A Pink man named Matteo appears via coms to welcome Darrow and identify his companion as a Bellona. Darrow finds Sevro in the machine shop sharpening a massive cleaver he has named "Abomination." Sevro refuses to participate in the landing or interact with Quicksilver, citing his personal rules and general anger. Darrow leaves Sevro behind and prepares to meet Quicksilver to request military aid for the Republic.
+
+**Sentence Count Check: 15**
+
+---
+
+### 38: Darrow: Tabula Rasa
+Darrow descends the ramp of the Archimedes and meets Matteo in a hangar beneath an asteroid crater. Matteo embraces Darrow and expresses grief for the deaths of Theodora, Orion, Alexandar, and Dancer. Sevro interrupts the mourning to demand that Matteo lead them to Quicksilver to discuss obtaining military metal. They enter a study hidden behind a hologram of a riot on Luna following the Day of Red Doves. Quicksilver, also known as Regulus ag Sun, floats above the digital mob while wearing a black kimono.
+
+Quicksilver admits he feels no satisfaction in the suffering of the Republic's citizens and blames the "mob" for the collapse. He descends to the floor and greets Darrow and Sevro, noting Sevro's resemblance to his father, Fitchner. Quicksilver refuses to provide ships or weapons, stating that the Republic’s cause has reached its terminus. He reveals that he no longer believes in the people and has spent his resources on a secret project. Sevro accuses Quicksilver of being a coward for abandoning the Free Legions and hiding in the Belt.
+
+Quicksilver unveils the Tabula Rasa, an interstellar generation ship constructed inside the hollowed-out asteroid. Darrow views a miniature world with trees, fruit bushes, and a small sun floating in the center. Hundreds of children without sigils run through the garden under the instruction of automaton teachers. Quicksilver explains that he intended to remove the Color hierarchy and start human civilization over with a blank slate. Sevro trembles with rage upon realizing the metal for a navy was used to build a life raft.
+
+**Sentence Count Check: 15**
+
+---
+
+### 39: Darrow: Under the Golden Gaze
+Darrow walks through the Tabula Rasa's garden with Quicksilver as the miniature sun begins to dim for the evening. Quicksilver explains that the garden is the heart of the ship, which is designed to flee the solar system. He admits that he began building this interstellar vessel years ago when the Republic was at the height of victory. Darrow questions why Quicksilver did not build more warships like the Morning Star to end the war with Gold. Quicksilver claims that victory would not erase the sickness of the Color hierarchy or the nature of Gold.
+
+Quicksilver shares a story about how a Gold creditor murdered his partner and four children years prior. He reveals that he keeps the Gold’s heartbeat recorded in a ring to remind himself of his trauma. The Gold is still alive in a life pod being overtaken by the Tabula Rasa’s current trajectory. Quicksilver admits he considers Darrow a son but refuses to give him the ships needed for the war. Darrow takes the eyeball ring from Quicksilver and advises him to show mercy to his old enemy.
+
+Darrow uses the Tabula Rasa’s massive telescopic array to observe the current state of the solar system. He watches recordings of the Dust and Dragon armadas abandoning Mars to race toward Jupiter at full torch. Darrow discovers that Volsung Fá has attacked the moons of Jupiter with a fleet of Volk and Ascomanni ships. He realizes the Ilium Guard has been destroyed and the Raa home system is currently in total chaos. Darrow decides to take the Archimedes to Jupiter to meet with the Daughters of Ares at Kalyke.
+
+**Sentence Count Check: 15**
+
+---
+
+### 40: Lyria: Departure
+Lyria examines the surgical scar on her head four weeks after Matteo removed the Figment parasite. She performs a mental grid test to prove her personality and memories have returned to their original state. Matteo takes Lyria to a basin where she uses a control to incinerate the inert parasite with intense light. He informs her that Darrow is in the adjacent room and is preparing to depart for the Rim. Lyria enters Darrow’s medical suite and demands to go with him to rescue her friend Volga.
+
+Darrow initially refuses, stating that the Rim is a warzone and he is not on a rescue mission for Volga. He apologizes for the failure of the assimilation camps and the loss of Lyria’s family on Mars. Lyria scolds Darrow for his arrogance and reminds him that Volga sacrificed herself to protect the Red people. Darrow remains firm in his decision and tells Lyria she will be sent back to Mars on an automated ship. Lyria leaves the medical suite feeling small and angry that her chance to matter has been denied.
+
+Lyria meets Sevro Barca on the automated ship and accidentally informs him that his son, Ulysses, is dead. Sevro reacts with violence, choking Lyria until she explains that the Red Hand nailed the infant to a tree. He gives Lyria a silver holocube to deliver to Virginia before stumbling off the ship in a state of grief. Lyria realizes she is alone in the hangar and sees Darrow’s ship, the Archimedes, with its cargo bay open. She leaves the holocube on her intended ship and runs toward Darrow's vessel to stow away.
+
+**Sentence Count Check: 15**
+
+---

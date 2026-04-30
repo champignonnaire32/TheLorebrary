@@ -1,0 +1,52 @@
+### 1: A beginning is the time for taking the most delicate care that the
+Reverend Mother Gaius Helen Mohiam, a Bene Gesserit Proctor with glittering eyes, visits Castle Caladan to test the ducal heir, Paul Atreides. Paul’s mother Jessica prepares him for the encounter while masking her own fear of the old woman’s authority. Thufir Hawat, the Master of Assassins, has previously explained that House Atreides is taking over the desert planet Arrakis from the Harkonnens. Arrakis is the sole source of melange, a geriatric spice mined under a CHOAM Company contract for immense wealth. Paul experiences a prophetic dream of an Arrakeen cavern where he sees a girl and hears dripping water.
+
+Mohiam dismisses Jessica and uses the Voice, a vocal technique that compels obedience, to command Paul to approach her. She presents a green metal cube containing a lightless void and poises the gom jabbar, a poison-tipped needle, at Paul’s neck. The old woman warns that the gom jabbar kills only animals and Paul will die if he withdraws his hand. Paul recites the Litany against Fear as the box begins to induce a sensation of intense, burning pain. He feels the agony of his hand seemingly crisping and turning to charred bone while he remains perfectly still.
+
+Mohiam watches with a predatory look as Paul endures the peak of the induced neurological torture. The Reverend Mother observes his reactions closely to see if he will succumb to the animal urge to flee. Paul maintains his composure and refuses to cry out or jerk away from the needle at his throat. The pain stops abruptly as though a switch has been turned off, leaving Paul drenched in sweat. Mohiam withdraws the gom jabbar and commands Paul to remove his hand from the lightless void of the box.
+
+**Sentence Count Check:** 15
+
+---
+
+### 2: He jerked his hand from the box, stared at it astonished. Not a mark. No
+Paul withdraws his hand and discovers it is completely unmarked because the pain was caused by nerve induction. Mohiam explains that the Bene Gesserit sift people to find the humans who can override their physical instincts. Jessica returns and Mohiam confirms Paul is human, though she warns against hoping he is the Kwisatz Haderach. The Reverend Mother describes the Kwisatz Haderach as a male who can see into masculine and feminine genetic pasts. She reveals that previous male candidates died because they were destroyed by the psychological areas a Truthsayer cannot see.
+
+On Giedi Prime, the immensely fat Baron Vladimir Harkonnen spins a relief globe of Arrakis while discussing his trap. Piter de Vries, a Mentat trained as a human computer and assassin with blue eyes, presents a message from Duke Leto. The message declares kanly, a formal vendetta, against the Baron after the Atreides accept the Emperor's order to take Arrakis. Piter reveals that Dr. Yueh has been subverted despite his Imperial Conditioning, a psychological lock against taking life. The Harkonnens plan to use Yueh to disable defenses while framing the Lady Jessica as a traitor.
+
+Baron Harkonnen intends to use two legions of the Emperor's elite Sardaukar troops disguised in Harkonnen livery for the attack. This arrangement will bring the Harkonnens an irrevocable directorship in the CHOAM Company and immense spice wealth. Feyd-Rautha watches as the Baron and Piter argue over the details of the invasion and the distribution of spoils. The Baron expresses a mock pity for Duke Leto while ensuring the Duke’s complete and public destruction. The meeting concludes as the Baron orders food, confident that his plan to annihilate the Atreides is unstoppable.
+
+**Sentence Count Check:** 15
+
+---
+
+### 3: adjoining soundproofed Meditation Chamber.
+Jessica and Reverend Mother Mohiam discuss Paul’s future in the morning room while Paul waits in the Meditation Chamber. Mohiam berates Jessica for bearing a son instead of the daughter required for the Bene Gesserit breeding program. Jessica defends her choice by stating she gave Duke Leto the heir he desired, sensing the Kwisatz Haderach potential. The Reverend Mother warns that they may lose both the Atreides and Harkonnen lines due to this complication. She describes the political tripod of the Emperor, Landsraad, and Spacing Guild as an unstable structure facing a flood.
+
+Mohiam admits the Missionaria Protectiva has seeded Arrakis with religious legends to provide protection for Bene Gesserit personnel. Paul enters and describes his dreams of a girl with blue eyes who calls him Usul and asks about water. He recites a poem by Gurney Halleck that he remembers telling the girl in his prophetic vision. Mohiam identifies the blue eyes as a sign of spice saturation and realizes Paul has seen the future. The old woman gives Paul a brief hint about ruling and departs the castle in tears.
+
+Thufir Hawat enters the training room and warns Paul about Arrakis storms and the Fremen, the desert-dwelling people. He explains that Fremen wear stillsuits, which are recycle-based garments that reclaim the body's moisture in the desert. Hawat departs for Arrakis, reminding Paul to always sit facing the door and keep his knife arm free. Gurney Halleck, a warrior with an inkvine scar, enters with weapons and a nine-string baliset instrument. Gurney Halleck spars with Paul using practice rapiers and defensive shield belts that generate a field to repel fast blows.
+
+**Sentence Count Check:** 15
+
+---
+
+### 4: fearfully to his pillow throbbing in the night.
+The warrior-poet thinks of his dead sister and wonders if Paul ever listens fearfully to his pillow throbbing in the night. Gurney Halleck continues the spar and lectures Paul on the necessity of fighting regardless of his current mood. Paul successfully counters Gurney’s attack with a bodkin, a small dagger, proving his awareness has improved through training. Dr. Wellington Yueh arrives and gives Paul a tiny Orange Catholic Bible printed on delicate filament paper. Paul reads a passage about human deafness and lacking senses, which causes Yueh to react with sudden, painful emotion.
+
+Yueh explains that the book belonged to his late wife and advises Paul to keep the gift a secret. Duke Leto enters and discusses the political trap of Arrakis and the acquisition of a CHOAM directorship. He reveals his plan to recruit the Fremen as a military force to rival the Emperor’s elite Sardaukar legions. Leto informs Paul that he has Mentat potential and offers him the choice to continue his specialized awareness training. Paul accepts the challenge and feels a sense of terrible purpose reawakening within him as they prepare to leave.
+
+The Atreides household boards a Spacing Guild Heighliner, a massive interstellar ship, for the journey to Arrakis. They arrive at Arrakeen, a smaller city chosen for its traditional value and easier defensive perimeter. Jessica inspects the stone hall of the government mansion while freight handlers unload their packaged belongings. She finds a painting of the Old Duke and a mounted bull's head among the boxes in the great hall. The sound of cargo handlers from the Guild shuttle depositing more loads echoes through the entryway of the residence.
+
+**Sentence Count Check:** 15
+
+---
+
+### 5: Jessica stood in the center of the hall. She moved in a slow turn, looking
+Jessica inspects the carvings and high-buttressed walls of the Arrakeen mansion while contemplating the high cost of its construction. She unpacks the painting of the Duke’s father and the bull's head, artifacts of the Atreides family history. Duke Leto joins her and they discuss the dusty nature of the city and the south wing apartments. Leto has already hung the key to Caladan Castle in the dining hall to mark their final departure from home. He informs Jessica that he has engaged Fremen servants, including a head housekeeper known as the Shadout Mapes.
+
+Leto explains that the title Shadout means "well-dipper" and that the Fremen have legends about the Bene Gesserit. He mentions that Duncan Idaho has negotiated a truce with the Fremen, who have promised to stop raiding villages. The Duke expresses his fatigue and the necessity of preventing trained spice hunters from leaving the planet on shuttles. He warns Jessica that the planet is infested with Harkonnen intrigues and requires constant vigilance from their security forces. Leto departs for the landing field to meet his staff reserves and attend a late strategy conference with his officers.
+
+Jessica remains in the Great Hall and glares at the painting of the Old Duke in his matador costume. She whispers a curse at the painting before being interrupted by the arrival of the Shadout Mapes. Mapes is a wrinkled woman with the blue eyes of a person saturated by melange spice. Jessica clarifies her status as the Duke’s bound concubine and mother of his heir to the questioning servant. A water-seller cries out in the street as Mapes mentions the mansion's massive cistern that holds fifty thousand liters.
+
+**Sentence Count Check:** 15

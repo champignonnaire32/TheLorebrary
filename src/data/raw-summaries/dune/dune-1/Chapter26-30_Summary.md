@@ -1,0 +1,54 @@
+### 26: coolness and the moisture were blessed relief. Then, as his planet killed
+Liet-Kynes dies in the desert as his planet's natural processes reclaim him. Paul and Jessica are intercepted by a Fremen troop led by Stilgar in the night. The Fremen use Chakobsa, an ancient hunting language, and reveal they were sent by Liet to find the fugitives. Stilgar identifies Paul as the Duke’s son but considers Jessica a liability to the tribe's water safety. Paul separates from his mother to provide better tactical options during the tense standoff.
+
+Stilgar mentions that Paul used a thumper to cross the desert, a device that attracts sandworms. Jessica subdues Stilgar using Bene Gesserit combat techniques to prove she is not a weak outworlder. Paul escapes into the rocks and disarms a Fremen named Jamis with a straight-hand jab. He captures a maula pistol, which is a projectile weapon that fires small bolts. Jessica bargains with Stilgar, offering to teach the tribe the "weirding way" of combat for their protection.
+
+Stilgar agrees to grant sanctuary to Paul and Jessica in exchange for military training. He explains that the Harkonnens believe the Atreides pair died in a desert storm. The troop prepares to move toward their hidden base while avoiding Imperial patrols. Jessica notes the military discipline of the Fremen as they organize into a squad line. Paul remains hidden in the rocks until his mother gives the order for him to descend safely.
+
+**Sentence Count Check:** 15
+
+---
+
+### 27: The voice of a young boy or girl sounded from the darkness above Paul:
+Chani, the daughter of Liet, reveals herself to Paul while holding him at gunpoint. She is described as having an elfin face and black eyes stained by spice. Paul recognizes her immediately from his recurring prescient visions on Caladan. Chani mocks Paul for his noisy climbing and leads him down to the basin floor. Stilgar returns Paul's captured weapon and promises he will earn his own maula pistol later.
+
+Stilgar gives Paul and Jessica gauze squares called the "kerchief of the bakka" to mark them as tribe members. Jessica identifies the term as meaning "the weeper" and senses the religious significance behind the cloth. The troop starts a forced march toward the Cave of the Ridges to avoid the coming daylight. Paul is assigned to Chani’s care and warned not to leave any tracks in the sand. Jessica realizes the Fremen have been heavily conditioned by the Missionaria Protectiva’s religious myths.
+
+The group moves silently across the desert, mimicking the sounds and motions of the natural environment. Paul feels the weight of his destiny as he follows Chani through the dark landscape. Stilgar leads the forty-two people with precision, aiming to reach safety before the sun rises. Jessica observes that the entire Fremen culture is trained for military order and survival. They arrive at a narrow split in a basin wall that leads into a hidden cave system.
+
+**Sentence Count Check:** 15
+
+---
+
+### 28: be the fate of such a daughter? she asked herself. Would he try to limit the
+The troop enters the Cave of the Ridges and secures the entrance with a moisture-trapping doorseal. Stilgar shows Jessica the distant Sietch Tabr across a basin through oil-lensed binoculars. He explains that the Fremen bribe the Spacing Guild with spice to prevent orbital satellite surveillance. This secrecy allows the Fremen to carry out a massive ecological project to transform Arrakis. They aim to plant trees and grass to eventually create open water on the desert planet.
+
+Jessica realizes that Liet-Kynes is the architect of this global ecological transformation plan. Stilgar reveals that he might be challenged for leadership because Jessica bested him in combat. Jessica uses the "adab" memory to recite ancient religious prophecies to the gathered Fremen. She identifies herself as a Sayyadina, a priestess figure within their established religious framework. The troop responds with ritualistic chants, confirming their belief in the legends planted by the Bene Gesserit.
+
+Paul eats a meal of bird flesh and spice honey that triggers a massive prescient awakening. He experiences a trinocular vision of time where he sees the future as a physical landscape. His awareness focuses on a "terrible purpose" and a future jihad fought in his name. He sees the "Heisenberg indeterminacy" of his visions, where the act of seeing changes the outcome. Chani watches Paul with wonder as he sinks into a deep, spice-induced trance during the rest period.
+
+**Sentence Count Check:** 15
+
+---
+
+### 29: one who proved our fortune by his tahaddi challenge. I invoke the rite … at
+Jamis invokes the amtal rule to challenge Paul to a duel to the death in the cave. He believes Paul's victory in the desert was an accident and seeks to reclaim his honor. Stilgar tries to dissuade Jamis but must uphold the tribal law of combat. Paul is given a crysknife, a sacred blade carved from the tooth of a dead sandworm. Jessica uses the Voice to plant a suggestion of agony in Jamis's mind before the fight.
+
+The duel takes place in a circle formed by the troop under the light of glowglobes. Paul struggles because his training is designed for fighting against shields, which are absent here. He repeatedly slows his attacks out of habit, nearly allowing Jamis to strike him. Chani provides Paul with tactical advice, warning him that Jamis favors his right side after a parry. Jessica watches in terror as her son faces a lethal opponent in a ritualized knife fight.
+
+Paul overcomes his shield-fighting inhibitions and kills Jamis with a precision strike to the chest. The Fremen are shocked when Paul asks Jamis to yield, as their rules permit only death. After the kill, the troop recovers Jamis's body to process it for its water content. Stilgar gives Paul the secret name Usul, meaning "the base of the pillar," for his tribe. Paul also chooses the name Muad’Dib, the name of the desert mouse, for his public identity.
+
+**Sentence Count Check:** 15
+
+---
+
+### 30: And Jessica heard the after-stillness that hummed in the air with the last
+The troop holds a funeral ceremony for Jamis to recover his water for the tribe's stores. Paul sheds tears for the dead man, a rare and sacred act the Fremen call "giving moisture." He is presented with Jamis's water counters, which represent the exact volume of water recovered from the corpse. Chani accepts the counters for safekeeping, a gesture that carries unspoken romantic and social implications. Stilgar leads the group to a massive hidden underground reservoir containing millions of decaliters of water.
+
+On Giedi Prime, Feyd-Rautha Harkonnen celebrates his seventeenth birthday by fighting in the family arena. He faces a slave-gladiator who is an undrugged Atreides soldier provided by the Mentat Thufir Hawat. The soldier is marked with a hawk design in blood and attempts to kill Feyd-Rautha. Feyd-Rautha uses a poisoned blade hidden in his black-gloved hand to paralyze and defeat the opponent. Count and Lady Fenring observe the match from the Baron’s golden box as Imperial representatives.
+
+Feyd-Rautha wins the crowd's favor by sparing the gladiator's head and ordering an honorable burial. The Baron realizes that the people now adore his nephew more than they fear the current leadership. Lady Fenring reveals her plan to seduce Feyd-Rautha to preserve the Harkonnen bloodline for the Bene Gesserit. The Baron and Count Fenring discuss the Emperor's dissatisfaction with the handling of the Fremen on Arrakis. Feyd-Rautha’s victory cements his position as the heir-designate despite the underlying political treachery.
+
+**Sentence Count Check:** 15
+
+---

@@ -1,0 +1,52 @@
+### 26: The Vayadan
+Hadrian hands the bridge of the Merciless to Pallino to search for the chimeric monster on the hull. He equips his titanium armor and de-synchronizes his terminal from the bridge projectors. Siran and a trias of soldiers join Hadrian as they descend into the ship's corridors. Hadrian orders Centurion Udax to blow the port gangway and retreat to the inner airlocks. A massive thundering sound signals the arrival of the Cielcin general, Iubalu, inside the vessel.
+
+Iubalu hacks the ship's communications to taunt Hadrian and his men in their own language. The group enters the hold and finds the bodies of several legionnaires torn apart in the vacuum. Hadrian realizes Iubalu is hiding in the shadows of the catwalks and gantries above. The Cielcin general reveals that Syriani Dorayaica wants to capture Hadrian for his personal collection. Hadrian attempts to lure the beast toward the side entrances to reach reinforcements at the cubiculum.
+
+Iubalu drops a massive crane wreckage to distract the soldiers before erupting from a maintenance grate. The demon moves with impossible speed, killing one soldier by breaking his neck and another with a crushing punch. Hadrian manages to cut off one of Iubalu's ceramic blades using his highmatter sword. A grenade blast fails to injure the chimera, which continues its assault by killing the third man of the trias. Hadrian shoves Siran toward the hallway and slams the titanium door to face the monster alone.
+
+**Sentence Count Check:** 15
+
+---
+
+### 27: The Battle of the Beast
+Hadrian and Siran sprint toward the cubiculum while Iubalu grinds through the heavy door behind them. Centurion Udax reports over the comms that the Cielcin have broken off their attack on the port side. Hadrian realizes Cade has successfully sabotaged the ship's venting systems to distract the enemy fleet. The doors to the cubiculum open just as Iubalu leaps at the retreating legionnaires. Hadrian slides into a control niche while Siran and two guards open fire with energy lances.
+
+Hadrian strikes Iubalu's shoulder with his highmatter blade but is sent flying by the creature's counter-blow. The impact severs a power conduit, plunging the corridor into darkness as Iubalu hauls itself back up. One legionnaire is pulled into the shadows and dismembered by the monster before the rest can fire plasma rounds. Iubalu enters the cubiculum and fires rockets from its chest, destroying several rows of cryonic fugue creches. Hadrian manages to gouge one of Iubalu's arms loose by driving his blade into the shoulder ball joint.
+
+Udax and another Irchtani arrive to blast Iubalu with a plasma howitzer, melting the creature's metal components. Iubalu retaliates by impaling the second Irchtani with an ejected sword blade before standing on its fused legs. Hadrian challenges the monster to personal combat to lead it away from the remaining sleepers. He severs Iubalu's leg at the hip with his highmatter emitter, causing the massive chimera to topple. After a grenade destroys the beast's pelvis, Hadrian executes the dying Iubalu as it claims the "Prophet" has seen his death.
+
+**Sentence Count Check:** 15
+
+---
+
+### 28: The Devil Triumphant
+Three million people gather at the Campus Raphael to witness Hadrian's triumphal parade through the city of Forum. The Emperor commissions the legendary painter Vianello to record the event on a massive canvas. Imperial Martians in red armor lead the procession through the hippodrome and the Grand Colosseum. Parade floats display crucified Cielcin officers and mounds of captured alien weaponry before the gathered crowds. Hadrian rides on a floating barge dressed in Imperial argent white to mark his status as a cousin of the Blood.
+
+The group proceeds to the Last Stair, where the great princes of the realm dip their banners in salute. Hadrian carries Iubalu’s heraldic spear, which is topped with a broken circle and silver chimes. At the top of the stairs, Hadrian kneels before Emperor William XXIII and presents the captured alien staff. The Emperor returns Hadrian’s sword and places the living gold Grass Crown upon his head. The crown constitutes the highest military honor bestowed for saving the lost legions and defeating the Vayadan-General.
+
+Emperor William XXIII publicly acknowledges Hadrian's discovery of the alliance between the Cielcin and the Extrasolarian barbarians. The Emperor pulls Hadrian to his feet to face the cheering masses of the high lords. Hadrian notices that several powerful houses, including Bourbon and Hohenzollern, refuse to dip their banners. Below the palace, a containment field is activated to incinerate Iubalu's remains with violet star-fire. The crowd echoes the Emperor’s decree for the death of the enemy and the glory of mankind.
+
+**Sentence Count Check:** 15
+
+---
+
+### 29: Far Beyond the Sun
+Hadrian changes into a common white suit with red stripes to attend a victory ball at the Peronine Palace. Valka arrives in a black gown adorned with gems and a silver pin to secure her hair. The group passes through mirrored halls guarded by Martian soldiers to reach the glowing colonnade. A nuncius announces Hadrian's arrival with a crystal clarion as the ballroom doors are opened by footmen. Hadrian leads Valka into the baroque chamber, which features a massive fresco of Earth as a nude woman.
+
+Prince Alexander greets the group and introduces Hadrian to his brothers, Princes Ricard and Philip. Ricard remains seated and expects Hadrian to kiss his signet ring as a gesture of submission. The princes mock Hadrian's achievements and boast about a Jaddian gladiator named Irshan who could defeat him. Valka reacts icily to the princes' condescending remarks about her foreign origins and "wild" nature. Hadrian quickly excuses the group to find wine and avoid further entrapment in the princes' social games.
+
+Valka and Hadrian discuss the nature of Imperial power and the "costumery" of the Sollan court. A young nobleman named Lord Andrew Curzon approaches to request a holograph with the "Devil of Meidua." Hadrian realizes Curzon is a distant relative from a branch of his mother’s family that split centuries ago. A young lady in the group whispers rumors that Hadrian grew a new head after being decapitated by a Pale prince. The orchestra falls silent before playing "Far Beyond the Sun" to signal the arrival of the Emperor.
+
+**Sentence Count Check:** 15
+
+---
+
+### 30: Selene
+Emperor William XXIII and Empress Maria Agrippina enter the ballroom preceded by a long list of Imperial titles. The entire assembly kneels in silence as the royal couple proceeds to the white balustrade to greet the lords. Hadrian notes the physical similarity of the royal family, who have intermarried for ten thousand years. The Emperor speaks briefly with Chantry officials before retreating from the hall with his massive entourage. Valka expresses her disdain for the display, while Hadrian considers his own status as a palatine lord.
+
+A palace eunuch accompanied by Martian guards delivers a white envelope with an Imperial sunburst seal to Hadrian. The message is an invitation from Princess Selene for Hadrian to join her for a dance. The guards perform a second security search on Hadrian before allowing him to ascend to the royal platform. Hadrian meets the Princess, who is as beautiful as her mother and possesses hair the color of flame. Selene questions why Hadrian is not wearing his Grass Crown, and he explains he does not wish to be vain.
+
+Hadrian leads Selene onto the dance floor while discussing her brother Alexander’s growth as a knight. He reveals his own history as a disowned outcaste who once dreamed of becoming a scholiast. Selene listens with interest and touches his hair before they join a larger group of dancers in the center of the hall. Hadrian introduces the Princess to his companions Crim and Ilex, though he senses her polite distance from the "other" members of his company. The dance concludes with Selene expressing a desire to see Hadrian again before he goes to find Valka.
+
+**Sentence Count Check:** 15

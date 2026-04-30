@@ -1,17 +1,83 @@
 ---
+import { getCollection } from 'astro:content';
+import Layout from '../layouts/Layout.astro';
+import SearchBar from '../components/SearchBar.tsx';
+import type { SearchItem } from '../components/SearchBar.tsx';
 
+const allSummaries = await getCollection('summaries');
+
+// Get unique series and unique books for the search data
+const uniqueSeriesMap = new Map();
+const searchDataMap = new Map<string, SearchItem>();
+
+allSummaries.forEach(summary => {
+  const seriesSlug = summary.data.series.toLowerCase().replace(/\s+/g, '-');
+  const bookSlug = summary.data.book.toLowerCase().replace(/\s+/g, '-');
+  
+  // Build the unique Series list for the homepage grid
+  if (!uniqueSeriesMap.has(seriesSlug)) {
+    uniqueSeriesMap.set(seriesSlug, {
+      seriesName: summary.data.series,
+      url: `/${seriesSlug}`
+    });
+  }
+
+  // Populate the Search Data array for the fuzzy finder
+  const seriesKey = `series-${seriesSlug}`;
+  if (!searchDataMap.has(seriesKey)) {
+    searchDataMap.set(seriesKey, {
+      type: 'Series',
+      title: summary.data.series,
+      url: `/${seriesSlug}`
+    });
+  }
+
+  const bookKey = `book-${seriesSlug}-${bookSlug}`;
+  if (!searchDataMap.has(bookKey)) {
+    searchDataMap.set(bookKey, {
+      type: 'Book',
+      title: summary.data.book,
+      subtitle: summary.data.series, // Give context that this book belongs to a specific series
+      url: `/${seriesSlug}/${bookSlug}`
+    });
+  }
+});
+
+const seriesList = Array.from(uniqueSeriesMap.values());
+const searchData = Array.from(searchDataMap.values());
 ---
 
-<html lang="en">
-	<head>
-		<meta charset="utf-8" />
-		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-		<link rel="icon" href="/favicon.ico" />
-		<meta name="viewport" content="width=device-width" />
-		<meta name="generator" content={Astro.generator} />
-		<title>Astro</title>
-	</head>
-	<body>
-		<h1>Astro</h1>
-	</body>
-</html>
+<Layout title="The Distiller | Narrative Summaries">
+  <div class="max-w-4xl mx-auto py-12 px-4 sm:px-6">
+    <div class="mb-12">
+      <h1 class="text-4xl md:text-5xl font-bold mb-6 tracking-tight text-gray-900 dark:text-white transition-colors duration-300">
+        The Distiller Archive
+      </h1>
+      <p class="text-xl text-gray-600 dark:text-gray-400 leading-relaxed max-w-2xl mb-8 transition-colors duration-300">
+        High-Density Narrative Summaries for returning readers. 
+        Select a series below to begin your refresher.
+      </p>
+      
+      <SearchBar client:load searchData={searchData} />
+    </div>
+
+    <div class="grid gap-6 md:grid-cols-2">
+      {seriesList.map(series => (
+        <a href={series.url} class="block group relative p-6 bg-white dark:bg-gray-800 rounded-lg border border-gray-200 dark:border-gray-700 hover:border-gray-400 dark:hover:border-gray-500 transition-colors shadow-sm dark:shadow-none">
+          <div class="text-sm font-bold text-gray-500 uppercase tracking-widest mb-2 transition-colors duration-300">
+            Series
+          </div>
+          <h2 class="text-2xl font-bold text-gray-900 dark:text-gray-100 group-hover:text-blue-600 dark:group-hover:text-white transition-colors duration-300">
+            {series.seriesName}
+          </h2>
+          <div class="mt-4 text-gray-500 dark:text-gray-400 text-sm flex items-center transition-colors duration-300">
+            Access Records 
+            <svg class="w-4 h-4 ml-2 group-hover:translate-x-1 transition-transform" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3" />
+            </svg>
+          </div>
+        </a>
+      ))}
+    </div>
+  </div>
+</Layout>

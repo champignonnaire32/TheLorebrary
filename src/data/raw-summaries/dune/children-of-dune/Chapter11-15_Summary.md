@@ -1,0 +1,52 @@
+### 11: ‘She lives in us and in her own flesh,’ Leto said. ‘Her counsel can be
+Leto and Ghanima discuss the influence of ancestral memories and the necessity of the Golden Path. They acknowledge that Alia is becoming a creature of the Bene Gesserit and carries dangerous Harkonnen blood. Ghanima expresses fear of the "shadow demons" lurking within her own psyche during their private argument. Leto reveals that their plan includes a Trial of Possession which threatens their sanity. They conclude that killing Alia might be easier but decide to proceed with Leto's more complex strategy.
+
+Prince Farad’n of House Corrino walks through his black rose garden on the planet Salusa Secundus. Bashar Tyekanik introduces him to The Preacher, a blind man wearing a black gauze Ixian mask that uses skin sensors for sight. Farad’n describes a dream where water flows upward and a snake transforms into an exploding sandworm. The Preacher refuses to interpret the dream but claims he can command Duncan Idaho to serve House Corrino. He advises Farad’n to focus on the small details of strategy and the hopes of his future subjects.
+
+Leto visits the Lady Jessica in her quarters within Sietch Tabr during the early morning hours. He proves his identity by reciting intimate memories of her late Duke that only she should know. Leto warns her that she must learn to live with her own internal ancestral recordings to avoid becoming an Abomination. Leto claims Alia is plotting to abduct Jessica and blame the act on House Corrino to secure power. Jessica realizes that her grandson possesses the wisdom of millions of years and represents a new evolution of humanity.
+
+**Sentence Count Check:** 15
+
+---
+
+### 12: ‘But you’ve not seen such a message?’
+Leto continues his conversation with Jessica regarding the Bene Gesserit plan to breed the twins together. He reveals that the Sisterhood knows Jessica is the daughter of Baron Harkonnen and may use this for blackmail. Leto explains that he does not plan to extend his life through melange but seeks a different perfection. He mentions that the entire universe with all of its time is contained within his own mind. Jessica listens in silence, fingering a poisoned gom jabbar needle hidden beneath the folds of her robe.
+
+Leto asserts that some things occur beyond Jessica's control and that his father Paul failed to die when he should have. He challenges Jessica to show him Paul's body and suggests that The Preacher might be a possibility. Leto argues that Jessica ran away to Caladan and left Alia alone with the burdens of power. He dismisses her attempts to judge Alia's breaking of Bene Gesserit commandments as hypocritical. Jessica is outraged by his accusations but finds herself unable to respond effectively to his arguments.
+
+Leto argues that his grandmother's reactions are blind and conditioned by her training on the planet Wallach. He uses the Voice, a specialized vocal control, to silence her when she tries to protest his analysis of her behavior. Jessica realizes that her grandson has been playing her like a fine instrument throughout their entire interview. She feels a trembling uncertainty about her next moments as she confronts the unchild's superior will. Leto prepares to issue a command that will set the next stage of his Golden Path in motion.
+
+**Sentence Count Check:** 15
+
+---
+
+### 13: ‘You,’ he said. ‘Blindly. If you’ve any honesty left in you at all, you’ll
+Leto commands Jessica to look inward and realize how she has been conditioned by the Bene Gesserit. He proves his power by manipulating her physical responses and silencing her tongue with the Voice. Leto meets Ghanima in the second anteroom and informs her that their manipulation of their grandmother was successful. Ghanima reports that she distracted Alia with the Convocation of the Faith to allow the secret meeting. The children prepare for the next phase of their plan while Jessica remains shaken by the encounter.
+
+The Preacher enters the great square of Arrakeen accompanied by a young guide named Assan Tariq who serves as his surrogate eyes. Alia watches the blind man from a hidden slit in the Temple's battlement while feeling the presence of the Baron within her. She suspects that the heretical blind man might be her brother Paul returned to destroy her religious empire. The square is filled with pilgrims who watch as the blind man prepares to speak to the city. Alia recalls her argument in the Council where she delayed a vote on Jessica's position.
+
+The Preacher stands on the Temple steps and bellows that he has brought four specific messages. He first addresses Alia, the suzerain of the temple, warning her that she has sold her future for an empty purse. He claims that reason arises from pride and that Muad’Dib died because of his knowledge of the future. The crowd grows as the blind man prepares to deliver a sermon against the current religious orthodoxy. Alia remains paralyzed by the sound of his voice, which resembles that of her dead brother.
+
+**Sentence Count Check:** 15
+
+---
+
+### 14: ‘My second message,’ The Preacher said, ‘is for Stilgar,
+The Preacher directs his second message to Stilgar, warning him that a rigid code of ethics will lead to exile. He tells Princess Irulan to flee because humiliation is a thing that no person can ever truly forget. The blind man commands Duncan Idaho to take his horns and perform the duties he knows best. He preaches to the gathered crowd that holiness has replaced love within the religion of the desert. Finally, he warns the priesthood that they who pray for dew will instead bring forth a destructive deluge.
+
+Alia watches the blind man depart the square without interference from her guards or the gathered pilgrims. She reflects on the fragility of her power and the threats posed by the Landsraad and the Spacing Guild. Her internal voice, the Baron, encourages her to proceed with the plan to eliminate Jessica and discredit House Corrino. Alia decides to have The Preacher spied upon to find a flaw in his charismatic influence. She fears that the populace is beginning to recognize their chains and see a hope for escape.
+
+Leto and Stilgar stand on a narrow rock ledge called The Attendant during the waning light of the second moon. Leto explains that the Empire cannot continue without a proper focus for human life that prioritizes existence over death. He tells Stilgar that he has seen three potential paths for the future in his dreams. One path requires the death of Jessica, while another involves an incestuous marriage between Leto and Ghanima. Leto asserts that he must reduce his father to human stature by undeifying the myth of Muad’Dib.
+
+**Sentence Count Check:** 15
+
+---
+
+### 15: changing universe. But much that is stored can be lost in that chance
+Stilgar leads Leto back to Sietch Tabr while contemplating the beauty and water-richness of the young Fremen women. He notices that the traditional cave-metropolis culture is being replaced by open villages made of mud bricks. Stilgar realizes that the new vision of Arrakis has joined his people to the rest of the open Imperial universe. He feels his old beliefs crumbling as he acknowledges that sameness and stability are no longer guaranteed. Leto intercepts him near a qanat, a water canal, and smiles, noting that tradition is no longer an absolute guide.
+
+Alia sits at her mirror and discusses the necessity of the Regency with her husband, Duncan Idaho. She asks Duncan to abduct the Lady Jessica and make the act appear to be the work of House Corrino. Duncan notices that Alia's features remain youthful but her eyes have become cruel and calculating. He suspects that Alia is lying about her motives and may be influenced by a hidden personality. Duncan observes pilgrims gathering in the plaza and tribal merchants selling marble that has been etched by desert storms.
+
+Duncan enters a Mentat trance, a state of human computation, to analyze the true nature of the relationships surrounding the Imperial family. He realizes that Alia is possessed by an ancestral ego and has become a dangerous Abomination. The computation reveals that Alia actually desires the death of her mother to remove a threat to her power. Duncan concludes that House Corrino will not risk a nuclear attack from space due to the threat of retaliation. He agrees to carry out an abduction but resolves to do so according to his own secret strategy.
+
+**Sentence Count Check:** 15

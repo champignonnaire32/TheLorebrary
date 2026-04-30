@@ -1,0 +1,52 @@
+### Chapter 5: The First Song
+Ugly Dan and his Tinpots arrest Darrow and Eo for trespassing in the forbidden garden zone. Darrow surrenders to avoid execution, but Dan beats him with a thumper before manacling them. After three days in a cell, Darrow and Eo meet at the gallows for their public flogging. Eo whispers for Darrow to break the chains and sings a forbidden song during her punishment. ArchGovernor Nero au Augustus orders Eo’s execution by hanging for her act of musical rebellion.
+
+Nero au Augustus arrives with a retinue including Peerless Scarred Golds and two giant Obsidian bodyguards. The magistrate delivers a speech about order and discipline while Darrow undergoes a forty-eight-lash flogging. Darrow pleads with the ArchGovernor to take Eo’s punishment, but the magistrate gags him with a stone. Eo begins her mournful song as the thirteenth lash falls, silencing the gathered crowd of Reds. Augustus finds the display fascinating and orders his camera crew to continue recording the forbidden performance.
+
+The ArchGovernor shames the crowd by asking if any other Reds wish to join Eo in her zealotry. No one speaks or moves, leaving Eo alone on the gallows with her husband watching. Augustus orders the hanging to proceed so he can attend a meeting with a man named Arcos. The Tinpots prepare the noose while Darrow remains bound and helpless below the platform. Eo looks only at Darrow as her death sentence is finalized by the high-ranking Gold. The camera records every moment of the confrontation for broadcast to the other mining colonies.
+
+**Sentence Count Check:** 15
+
+---
+
+### Chapter 6: The Martyr
+Darrow stands at the base of the gallows to watch Eo die after Bridge removes his gag. Eo calls her sister Dio to the scaffold to deliver her final words instead of speaking to Darrow. Dio weeps and clings to Eo’s feet until Tinpots stun her and drag her away. Eo screams for the crowd to break the chains and throws her crushed haemanthus flower to the ground. The trapdoor opens, and Darrow rushes forward to pull Eo’s feet to ensure her neck breaks quickly.
+
+Thousands of Reds perform the Fading Dirge by thumping their chests in a fading rhythm as the Golds fly away. Darrow’s family guards him through the night to prevent him from committing suicide in his grief. Darrow sneaks out of his home through a hidden tunnel and finds the town square quiet. He encounters his Uncle Narol, who is drinking and reveals that Darrow’s mother knew he would attempt to leave. Narol walks with Darrow to the gallows and encourages him to break the chains before departing.
+
+Darrow cuts Eo’s body down with a stolen slingBlade and carries her to a ventilation duct in the Webbery. His sister Leanna and other women watch in silence as he drags the body into the secret garden. Darrow buries Eo beneath a tree and places haemanthus bulbs over her heart and his own. When Darrow returns home, Kieran strikes him and the family mourns until Ugly Dan arrives to arrest him. Darrow is hanged the next morning, but Uncle Narol pulls his feet while winking to secretly save his life.
+
+**Sentence Count Check:** 15
+
+---
+
+### Chapter 7: Other Things
+Darrow wakes up in a dark, abandoned tunnel feeling the pressure of being buried alive. He claws his way out of the dirt and realizes he is still alive despite the hanging. A mechanical tumbler vehicle arrives, and figures wearing Octobernacht demon masks emerge to retrieve him from the grave. They guide him into the vehicle where he meets a woman named Harmony and a man named Ralph. Harmony reveals they are members of the Sons of Ares and that Darrow was drugged before his execution.
+
+Darrow grabs Harmony’s hand and demands to know why he is not dead, nearly crushing her brittle bones. Harmony removes her mask to reveal a face that is half-scarred from a steam burn and half-beautiful. She tells Darrow that Ares has a mission for him and that his survival was orchestrated for a purpose. The tumbler travels through paved tunnelroads and passes through a checkpoint manned by unsuspecting Tinpots. Darrow fingers his wedding band and feels a deep sense of shame for failing to die with Eo.
+
+The vehicle arrives at a warehouse complex lit by harsh sulfur lights and marked with a strange symbol. Harmony leads Darrow into the garage and announces that they have arrived at their destination. Darrow remains numb and focused on the memory of Eo rather than the political mission of the rebels. He observes that the Reds in this group have the proper Sigils but do not belong to his home colony. The group prepares to introduce Darrow to their leader, a man named Dancer, inside the hidden facility.
+
+**Sentence Count Check:** 15
+
+---
+
+### Chapter 8: Dancer
+Dancer is a thick, middle-aged man with pitviper scars on his neck and a withered left arm. He explains that Uncle Narol has been an informant for the Sons of Ares since before Darrow’s father died. Darrow attacks Harmony in a fit of rage, but Dancer intervenes and promises Darrow justice for his wife. Harmony cleans Darrow’s wounds with antibac and skinres while mocking Eo for being a useless dreamer. Darrow bathes in a heated shower and dresses in sleek, black garments with a high collar and epaulets.
+
+Dancer challenges Darrow to a game involving a bowl containing a lamb card and a reaper’s scythe card. Darrow realizes the game is rigged with two scythes and eats his card to claim he drew the lamb. Dancer accepts the clever deception and begins explaining the true history of the Gold Color’s rise to power. He reveals that the Golds nuked the moon Rhea to ash and established a hierarchy based on the Conquering. Dancer explains that the Sons of Ares take their name from the Greek god of violence and bloodlust.
+
+The group takes a series of lifts upward while Dancer explains how they hijacked the broadcast of Eo’s death. He tells Darrow that the colonies now view Eo as a martyr named Persephone, the goddess of spring. Darrow demands to kill ArchGovernor Augustus, but Dancer tells him his sights are set too low for true justice. They reach the surface and exit into a luxurious room with wood floors and a self-playing piano. Darrow presses his hands against a glass window and sees a sprawling, terraformed city for the first time.
+
+**Sentence Count Check:** 15
+
+---
+
+### Chapter 9: The Lie
+Darrow watches Golds and Silvers flying through the air with graceful gravBoots above a city filled with parks and fountains. He sees ships called ripWings escorting air yachts through a sky that is blue and filled with stars. The city is protected by a shimmering atmospheric bubble, proving that the terraforming of Mars is already complete. Darrow realizes that Octavia au Lune has lied to the Reds about being the pioneers of a barren planet. The Reds are actually slaves toiling to support a thriving, high-tech empire that has existed for centuries.
+
+Dancer explains that Luna became the port for space colonization seven hundred years ago after Earth became overcrowded. The Golds conquered Earth and established the Color hierarchy to maintain order and efficiency across the Solar System. Helium-3 mined by the Reds is used to terraform other worlds, most of which are already habitable. HighReds serve as maintenance and grain workers in the cities, while LowReds are kept in total ignorance below ground. Those who dissent in the cities are vanished by the Society to maintain the illusion of perfect order.
+
+Darrow feels the gravity of five hundred years of slavery and clenches his fists in hatred for the Golds. He asks Dancer what it will take to reclaim the planet, and Dancer responds that it will require blood. Darrow accepts that he must become the avenging hand that Eo’s song and his father’s dance required. He looks at his scarred, burned hands and decides they are now meant for violence rather than love. Darrow formally asks for his mission, signaling his commitment to the Sons of Ares and their war.
+
+**Sentence Count Check:** 15

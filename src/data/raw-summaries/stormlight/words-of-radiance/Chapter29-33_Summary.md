@@ -1,0 +1,52 @@
+### 29. Rule of Blood
+Highprince Torol Sadeas completes a plateau run and captures a gemheart after slaughtering Parshendi warriors. He meets Meridas Amaram, who is now a Shardbearer wearing full Shardplate armor and carrying a Shardblade. Sadeas rides a Ryshadium, a breed of horse far superior in size and strength to any other. He throws the captured gemheart at Highprince Hatham’s feet to display his lack of greed and to irritate Dalinar Kholin. Later, Sadeas and his wife Ialai watch Adolin Kholin duel Eranniv in the dueling arena.
+
+Sadeas realizes Adolin is intentionally fighting poorly to lure more duelists into challenging him for his Shards. Ialai informs Sadeas of a failed assassination attempt on King Elhokar involving a sabotaged balcony. Sadeas plans to use his title as Highprince of Information to investigate the attempt and undermine Dalinar’s authority. He observes that Dalinar is appointing himself Highprince of War, creating a power struggle within the kingdom. Sadeas decides to wait for Dalinar to fail before renouncing his own title in protest.
+
+He watches the crowd roar as Adolin wins his duel with a "lucky" blow. Sadeas identifies Adolin as a weapon that can be goaded and pushed toward a cliff's edge. He tells Ialai to stop discouraging duelists from fighting Adolin to see how the youth develops. Sadeas also requests that Highprince Ruthar join him on his next unsanctioned plateau run. He reflects on his own mortality and the need for conquest to achieve immortality.
+
+**Sentence Count Check:** 15
+
+---
+
+### 30. Nature Blushing
+Shallan Davar spots a small lait, a sheltered valley protected by rock walls where plants thrive despite the highstorms. She enters the grove of bone-white trees with red leaves to sketch the flora and a pond containing bright orange eels. Shallan draws a portrait for Gaz that depicts him as a noble soldier to encourage his better nature. Vathah and his mercenaries wait while Shallan finishes her artistic studies in her sketchbook. Tyn confronts Shallan about her lack of experience and warns her that the professional criminal life is brutal.
+
+Shallan lies to Tyn by claiming she plans to scam Adolin Kholin by impersonating his betrothed. Tyn approves of the plan but suggests Shallan stay at an inn to maintain an air of mystery. She warns Shallan that Adolin is a flirt who has been nearly engaged many times. Shallan worries about her future without Jasnah Kholin to facilitate the actual betrothal. She realizes she must find Urithiru and stop the Voidbringers despite Tyn's distractions.
+
+Pattern, the Cryptic spren appearing as a shifting geometric pattern, counts the leaves on a nearby tree. Shallan sketches a vision of Yalb and other sailors surviving a shipwreck on a rocky shore. She draws a disturbing image of a woman with a hammer and chisel over a stone-like body. Tyn notes that Shallan is a natural at forging signatures and should practice that skill more. The caravan prepares to reach the Shattered Plains the following morning.
+
+**Sentence Count Check:** 15
+
+---
+
+### 31. The Stillness Before
+Kaladin arrives at Bridge Four's barracks with a group of forty former bridgemen who have completed their first patrol. He observes an ardent, a holy scholar of the Vorin faith, attempting to sketch the famous bridgemen. As a highstorm approaches, Kaladin prepares to guard the king while sensing an unusual stillness in the air. Pitt, a man from Bridge Seventeen, thanks Kaladin for reforging the broken bridgemen into soldiers. Kaladin notices that Teft has successfully transformed the men but cannot find his lieutenant.
+
+On the caravan, Tyn practices palming spheres with Shallan and warns her about the immodesty of exposing a safehand. Tyn reveals that King Hanavanar of Jah Keved is dead along with six highprinces. The Assassin in White, a Shin man with large eyes and a Shardblade, reportedly caused the deaths and triggered a succession war. Shallan fears for her brothers' safety but has no way to contact them since her spanreed was lost. Tyn mentions that Highprince Valam is currently fighting for the succession in Vedenar.
+
+The caravan camps for the night just a few hours away from the warcamps of the Shattered Plains. Tyn uses her spanreed, a device that allows long-distance communication via linked spren, to gather intelligence. Shallan struggles with her guilt over lying to Tyn while continuing her training in deception. The highstorm begins to batter the caravan as Shallan huddles with her slaves. Pattern whimpers that something "bad" is coming as the storm passes.
+
+**Sentence Count Check:** 15
+
+---
+
+### 32. The One Who Hates
+Kaladin dreams of the Stormfather, a massive face in the clouds, who warns that Kaladin will eventually kill Sylphrena. He wakes in the king’s palace as the highstorm ends and feels the presence of "the one who hates." Szeth-son-son-Vallano, the Assassin in White, uses a Shardblade to cut a hole through the stone palace walls. Szeth utilizes Stormlight to lash Adolin to the ceiling and Dalinar to the floor using gravity-altering Surgebinding. He cuts Kaladin’s right arm with his Shardblade, causing the limb to turn grey and become uselessly dead.
+
+Dalinar catches Szeth’s Shardblade between his palms, and Kaladin tackles the assassin through the hole in the wall. Before the attack, Kaladin orders his bridgemen to evacuate the king through the kitchens. Adolin and Dalinar charge the assassin together in a trident formation to protect Elhokar. Szeth reveals he can walk on walls and ceilings by manipulating the direction of his personal gravity. The assassin apologizes for his actions while streaming Stormlight from his mouth and wounds.
+
+Kaladin realizes that Szeth is a Surgebinder like himself but possesses far more experience. Sylphrena transforms into a ribbon of light and urges Kaladin to continue fighting. Dalinar shouts that he will not allow the assassin to take Elhokar as he took Gavilar. Szeth clarifies that he is actually at the palace to kill Dalinar rather than the king. Kaladin and the assassin plummet from the palace balcony into the rainy night.
+
+**Sentence Count Check:** 15
+
+---
+
+### 33. Burdens
+Kaladin and Szeth fall one hundred feet to the rocks, but Kaladin drains Stormlight from Szeth's pouches to survive. Kaladin heals his dead arm with the captured Light, shocking Szeth into believing the Knights Radiant have returned. Szeth flees the battlefield in terror, screaming that he was called Truthless and a liar by his people. Kaladin returns to the palace to find a countdown scratched into King Elhokar's door predicting the end of nations in thirty-eight days. He finds Beld dead and carries the wounded Hobber, whose legs have been permanently killed by the assassin's Blade.
+
+Dalinar and Adolin recover from their wounds and discuss the impossibility of Szeth's gravity-defying powers. Elhokar drinks heavily from a pitcher of violet wine while trembling in fear for his life. Navani Kholin notices the glyphs on the bedroom door and asks Renarin to translate them. Kaladin questions Syl about why Szeth can surgebind without an apparent spren bond. Syl notes that Szeth's Shardblade is different and consumes an unusual amount of Stormlight.
+
+Kaladin realizes he needs to learn more "Words" to reach the assassin's level of power. He visits the kitchens to find the bodies of the guards who fell during the infiltration. Hobber tells Kaladin that he feels useless now that his legs are dead and grey. Kaladin promises Hobber that he is still part of Bridge Four and suggests he work as a cook. He drains the last of his Light and carries Hobber back to the safety of the king's quarters.
+
+**Sentence Count Check:** 15

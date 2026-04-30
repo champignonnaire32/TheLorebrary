@@ -1,0 +1,52 @@
+### 41: The Black Feast
+Syriani Dorayaica sends a messenger and addresses the Cielcin people gathered at the temple. He orders the bodies of the murdered princes to be distributed as food for the massive alien army. The Prophet claims his victory over the humans and dedicates his triumph to the Watcher god Miudanar. Syriani commands the Cielcin to begin eating the ninety thousand defenseless human prisoners as a final sacrifice. Koskinen is killed instantly as his arms are torn from his body by the monsters in the front lines.
+
+Hadrian screams and tries to free himself from the iron chains binding him to the altar. He watches in horror as the Cielcin slaughter his men while the sky darkens from an artificial eclipse. Syriani taunts Hadrian, claiming his legend is a lie and his god has deserted him. The great king demands that Hadrian admit his past actions at Berenike were fraudulent to break his spirit. True darkness falls as Syriani raises a Jaddian blade to execute the kneeling prisoner on the altar.
+
+Hadrian experiences a vision of himself reflected across infinite possibilities in a kaleidoscopic hall of mirrors. He meets a ragged version of himself from a failed timeline who gives him a highmatter sword. Reaching across time, the alternate Hadrian tells him to avenge their collective suffering. Hadrian wakes up, activates the sword, and severs his chains to parry the killing blow. He wounds Syriani in the side and activates his shield-belt to face the enemy general Vati.
+
+**Sentence Count Check:** 15
+
+---
+
+### 42: Sacrifice
+Valka and Corvo reveal they are alive and communicating via Hadrian’s wrist-terminal comms. Corvo directs the Tamerlane's remaining guns to fire on the Cielcin temple from the broken bridge. Hadrian, Elara, and Ilex run through the carnage toward the ruined battleship while laser fire vaporizes the horde. They reach an Ibis-class lander piloted by Crim, who has arrived to evacuate the survivors. Pallino sits in the hatchway with a heavy plasma rifle to hold back the approaching monsters.
+
+The shuttle can only hold thirty-five of the ninety thousand humans stranded on the desert plains. Panicking men and women crowd the ship as the Cielcin deploy a swarm of iron-serpent drones called nahute. A nahute strikes Elara in the back, boring into her spine and killing her instantly. Pallino is forced to let her body fall from the rising shuttle as they flee toward the Tamerlane. The old soldier is devastated by the loss but must continue defending the small group of survivors.
+
+A winged general named Aulamn lands on the shuttle's canopy and smashes the glass with its armored fingers. The monster reaches inside and kills Crim by crushing his head between its talons. Before dying, Crim detonates magnetic mines that blow off the Iedyr's arm and blast it away from the ship. The shuttle crashes onto the Tamerlane's charcoal-gray hull, leaving a thousand-foot scar in the adamant. Hadrian leads the survivors out of the wreckage and retrieves a bloodstained pistol for Ilex.
+
+**Sentence Count Check:** 15
+
+---
+
+### 43: The Son of Fortitude
+Hadrian and the survivors navigate the Tamerlane’s exterior hull while scoured by a dry wind. They head toward a service hatch located a half-mile away near the vessel's stern. Aulamn survives the crash and falls from the sky to resume its attack on the group. The winged monster kills several legionnaires with a mounted weapon before landing on the deck. Ilex shoots the creature with Crim's pistol, but Aulamn kills her by throwing a knife into her eye.
+
+Hadrian attempts to fight the one-armed monster but is incapacitated by his severe injuries and exhaustion. Pallino tackles the giant and uses a knife to sever the mechanical cords in its neck. The blind and nearly headless Aulamn retaliates by beating Pallino and slamming him against the hull plates. Hadrian throws his broken Jaddian sword to Pallino as a final act of desperation. Pallino manages to catch the weapon and drive the blade deep into the monster's spinal column.
+
+Aulamn dies at last, and Pallino collapses beside the corpse with mortal injuries including broken ribs. He tells Hadrian that it is his duty to survive because he is the only one who matters. Pallino reflects on his life and hopes to see Elara and his fallen friends in the afterlife. He dies in Hadrian's arms after urging him to give the enemy hell. Hadrian says a brief goodbye to his oldest friend and runs into the ship to escape the closing Cielcin.
+
+**Sentence Count Check:** 15
+
+---
+
+### 44: Flight of the Ascalon
+Hadrian runs through the crumbling interior of the Tamerlane toward the launch bays. He is accompanied by Ensign Leon and a small group of battered survivors. They reach a guard station where they retrieve phase disruptors and new shield-belt power packs. Corvo reports that the Cielcin have breached the ship and are boarding from the dorsal hull. The group attempts to use a tramway shaft to bypass the blocked main stairs and reach Valka.
+
+Cielcin warriors trap the humans in a tunnel and demand their surrender at the edge of a tramway platform. Hadrian refuses to be taken alive and leads a suicidal charge against the enemy line. The deck suddenly collapses under the weight of the dying ship, sending everyone falling into the dark. Hadrian survives the sixty-story fall because his shield protects him from the impact with the debris. He wakes up alone ten minutes later to find the rest of his companions have been killed.
+
+Valka guides Hadrian toward the Ascalon via comms as he limps through the smoke-filled corridors. He finds a Cielcin scimitar to use as a cane and discovers a familiar silver chain on a corpse. The pendant is a piece of the Quiet's shell, which Hadrian believes is a sign of divine providence. He descends a long maintenance stair while avoiding pursuers who track his movements through the ship. Hadrian finally reaches the launch bay level where the Ascalon waits for its final departure.
+
+**Sentence Count Check:** 15
+
+---
+
+### 45: A Man Must Belong
+Hadrian reaches the Ascalon and finds Valka waiting for him in the forward airlock. Valka uses a service repeater to kill the Cielcin pursuers and shoots down a swarm of nahute. They seal the airlock and Valka begins the launch sequence while the ship thrumms with power. Corvo stays behind on the Tamerlane's bridge to provide cover fire for their escape. The Ascalon lances out of the hold and jumps to warp inside Eue's atmosphere to evade the fleet.
+
+Hadrian wakes up in the navigator's chair after passing in and out of consciousness during transit. Valka cares for him and gives him water while explaining their randomized course to avoid pursuit. She discovers the extent of his injuries and the missing fingers from his seven years of torture. Hadrian is deeply traumatized and weeps as he describes the slaughter of his friends. Valka comforts him in the shower, helping him wash away years of filth and blood.
+
+Hadrian decides they must travel to Colchis despite the centuries that have passed since his youth. He knows that his mentors and friends like Siran and Gibson are long dead. Valka agrees to the destination, and they prepare for the long journey back to the Imperium. They realize they are the only ones left to warn the Emperor about the unified Cielcin threat. Hadrian reflects on his need for a people and a home as they sail through the silence of space.
+
+**Sentence Count Check:** 15

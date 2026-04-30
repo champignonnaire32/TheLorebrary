@@ -1,0 +1,52 @@
+### Chapter 55: The Ignoble House Barca
+Sevro recovers in the infirmary after his self-inflicted hanging while Mickey and Dr. Virany, a lithe and tan woman, treat his injuries. Mustang informs the group that Cassius is being sutured and that Sefi has successfully united the Obsidian tribes. Victra enters the room and abruptly proposes marriage to Sevro, leading them to exchange their Jupiter Institute rings. Darrow reflects on the long voyage ahead and the potential danger Sefi now poses as a pan-tribal leader. The wedding takes place seven nights later in a hangar with Mickey acting as the officiant for the couple.
+
+Mickey delivers a shortened benediction as the Howlers and Telemanuses gather to witness the union. Sevro and Victra choose to use the name Barca, marking Victra's departure from her elder house, Julii. The following celebration spans the entire fleet with dances and liquor flowing on various warships. Kavax au Telemanus clumsily attempts to learn Red dances from a mechanic while Daxo watches from the sidelines. Mustang and Darrow share a quiet moment on the dance floor as the tension of the war briefly fades.
+
+Daxo observes that Mustang keeps Darrow at a distance because she is afraid of losing him to the conflict. Victra joins Darrow and jokes about her new status as a wife while wearing Antonia’s stolen shoes. Clown interrupts the conversation to ask Darrow if Pebble might be interested in a handsome Gray captain. Holiday arrives and pulls Darrow away from the festivities to deliver urgent news regarding a communication. She reveals that the Jackal has established a direct link and is waiting to speak with the Reaper.
+
+**Sentence Count Check: 15**
+
+---
+
+### Chapter 56: In Time
+Darrow enters the training room to face a lifelike hologram of the Jackal sitting in a simple chair. The Jackal taunts Darrow by asking if he received the message containing his uncle’s severed head. He reveals that he personally pushed a shard of skull into Quinn’s brain to ensure her death during the previous war. Darrow responds by pitying the Jackal, claiming that the ArchGovernor is broken and only seeks to feel important. The Jackal sneers at the insult and accuses Darrow of hungering for Gold status since their time at the Institute.
+
+Mustang steps into the holographic field and tells her brother that his misery stems from his own covetous nature. The Jackal responds with vitriol, calling his sister a whore for her relationship with Darrow. Mustang reveals that she loved him for years and defended him until she learned he murdered their brother Claudius. She states that their mother loved him as well, but he threw away every chance at a real family connection. Darrow steps forward to vow that the Rising will burrow through the Jackal's bunker and bring him to justice.
+
+The hologram vanishes, leaving Darrow and Mustang alone under the glass dome and the cold stars. Mustang cries over the final loss of her brother while Darrow comforts her despite her messy appearance. Darrow pulls her close and promises that they still have a whole life ahead of them after the war. He reflects on the fragility of their relationship and the many questions that still divide them. They stand together in silence for several minutes before deciding to return to the wedding celebration.
+
+**Sentence Count Check: 15**
+
+---
+
+### Chapter 57: Luna
+The Red Armada sails past the Rubicon Beacons, a sphere of transponders each as large as two Obsidian. Darrow leads a massive fleet including the Morning Star, which features a seven-kilometer-long red scythe painted on its hull. Society civilian vessels and traders flee in a frenzy, causing chaos as Lunar defense forces fire on fleeing ships. Lucius au Sejanus, a Gold Praetorian with an aquiline face and gray hair, requests a diplomatic parley. Darrow denies the request and fires a long-range missile at the Citadel to signal that he is there for war.
+
+The Morning Star crew prepares for battle while Darrow privately coordinates a secret mission with Orion. He orders a flight clearance for a shuttle, intending to release Cassius to prevent him from being killed by vengeful crewmates. Mustang and Sevro assist Darrow in clearing the halls so they can move Cassius to the auxiliary hangar unnoticed. They enter the brig and find Antonia watching from her cell as they offer Cassius his freedom. Cassius swears an oath on his father and brother to leave the war forever if they let him go.
+
+Sevro unlocks the cell door and directs Cassius to climb into an orange cargo crate for transport. Cassius shakes Darrow’s hand in a gesture of kinship and expresses regret that Sevro’s father is dead. As Sevro reaches out to shake hands, Cassius suddenly jerks him forward and strips the pistol from his holster. Cassius forces Darrow and Mustang to their knees at gunpoint, claiming his actions are a matter of duty. When Sevro attempts to draw his razor, Cassius shoots him once in the shoulder and six times in the chest.
+
+**Sentence Count Check: 15**
+
+---
+
+### Chapter 58: Fading Light
+Sevro collapses to his knees and dies in Darrow’s arms while blood bubbles from his multiple chest wounds. Antonia cackles with delight from her cell as Darrow weeps over the body of his best friend. Cassius strikes Darrow in the head with the pistol, rendering him dazed and unable to fight back. Mustang intervenes to prevent Cassius from killing Darrow, arguing that the Sovereign will want him alive for questioning. Cassius releases Antonia from her cell using the passcard, and she immediately strikes Mustang in the face.
+
+Antonia shoves the barrel of a scorcher into Darrow's mouth and forces him to vomit before spitting on him. The captors fit Darrow into a metal prisoner harness and dump him into the cargo crate. Sevro’s corpse and Mustang are piled on top of Darrow like garbage before the lid is slammed shut. Antonia and Cassius use a camera jammer to move the crate through the hangar and onto the prepared shuttle. The Morning Star flight officer clears the shuttle for launch, unaware that the Reaper has been kidnapped.
+
+Cassius broadcasts an emergency signal and identifies himself as the Morning Knight to the Lunar Defense Command. Aja au Lune answers the call and expresses shock that Cassius is alive before granting him docking clearance. Cassius demands a guarantee of safety for Mustang, which Aja grants by swearing on her own word. Antonia shows Sevro’s body to Aja via hologram to prove they have successfully captured the leaders of the Rising. Aja reveals that the ArchGovernor is already at the Citadel and that his fleet is waiting to spring a trap.
+
+**Sentence Count Check: 15**
+
+---
+
+### Chapter 59: The Lion of Mars
+Obsidians drag the prisoners into a hangar where they are tortured with ionPikes, two-meter long spears that electrocute targets. Lilath, a woman with a small, pinched face, and the Boneriders wait to receive the captives in their bone-adorned armor. Tharsus au Valii-Rath, a lofty man with tattooed fingers and painted nails, mocks the prisoners and tries to buy Sevro's bones. Cassius refuses the offer and identifies himself as the Morning Knight, asserting his authority over the state's property. The Jackal arrives wearing gold armor that incorporates the actual rib cage of the late Fitchner au Barca.
+
+Adrius taunts Mustang about her childhood and touches her jaw, prompting a defensive reaction from Cassius. Darrow attempts to attack the Jackal after seeing Fitchner’s ribs, but he is restrained and muzzled by the guards. The Jackal kisses Antonia and takes Sevro’s wolf-engraved pistol as a trophy to replace his own sidearm. The Ash Lord appears via hologram to report that the Rising’s fleet is approaching and orders the trap to be sprung. Adrius addresses his Boneriders, telling them that they are fighting to prevent the end of their Age of rule.
+
+Lilath returns with Darrow’s slingBlade, which has been heated to a red glow inside a ripWing engine. The Jackal orders Cassius to cut off Darrow’s hand to ensure he cannot use a weapon in the Citadel. Mustang begs Cassius to maintain his honor, but he ignores her as he prepares to strike. Cassius swings the superheated blade through Darrow’s right wrist, cauterizing the wound as the hand falls. The Jackal holds the severed hand aloft as a trophy while his men chant the Society's war cry.
+
+**Sentence Count Check: 15**

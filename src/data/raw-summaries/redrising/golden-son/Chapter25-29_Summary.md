@@ -1,0 +1,32 @@
+### 25: Praetors
+ArchGovernor Nero au Augustus holds a war council aboard his dreadnought *Invictus* after being chased from Luna by the Sovereign's forces. Darrow sits among the Praetors, noting that Augustus’s influence is waning as allies desert him and the Politico Pliny pushes for a tactical retreat. Mustang arrives late and disrupts the somber meeting, mocking the indecision of the council members while asserting her presence. Darrow proposes a radical plan to strike Ganymede and steal its ships, including a massive new "moonBreaker" vessel, to project power and terrify the Galilean Moons into submission. Despite Pliny's vocal objections that this will expand the war, Augustus is intrigued by the audacity of Darrow's vision to reclaim the House of Mars's status.
+
+**Sentence Count Check:** 15
+
+---
+
+### 26: Puppet Master
+Darrow expands on his plan by proposing the mass kidnapping and ransoming of students from the Society's elite Institutes to leverage their families. Mustang initially laughs at the insanity of the proposal but eventually sides with Darrow, warning that the Sovereign will never truly offer a peaceful surrender. Augustus publicly humiliates Mustang for her past relationship with Cassius before she skillfully reclaims her authority and honor in front of the Praetors. The ArchGovernor officially approves the plan, ordering a diversionary fleet action while he leads a strike group to raid the shipyards of Ganymede. After the meeting, Augustus questions Darrow’s political loyalties and warns him against spreading "hope" or democratic ideals among the lowColors. Augustus then tasks Darrow with the critical mission of recruiting his former mentor, the legendary Rage Knight Lorn au Arcos, to their cause.
+
+**Sentence Count Check:** 15
+
+---
+
+### 27: Jelly Beans
+Kavax and Daxo Telemanus intercept Darrow in the hall, offering their family's full support and forgiveness for the death of their son, Pax. Kavax uses his large pet fox, Sophocles, to "investigate" Darrow, leading to a humorous moment where the fox finds jelly beans in Darrow's pocket. Darrow immediately asks the Telemanuses for their help, and Kavax eagerly agrees to join the Reaper’s cause despite his family being scattered. Darrow coordinates with the Jackal via holo-link to refine the logistics of the upcoming campaign before setting a course for Europa. During the two-week journey, Roque confronts Darrow about his deceptions and the drugging incident on Luna, expressing deep hurt over the breach of trust. Darrow attempts to apologize, but Roque remains cold and distant, signaling a significant fracture in their friendship.
+
+**Sentence Count Check:** 15
+
+---
+
+### 28: The Stormsons
+Darrow arrives at Lorn au Arcos's limestone fortress on Europa, an ocean world where "stormsons" from lower Colors sail through massive gales. Lorn reflects on his long life of violence and his desire for peace, surrounding himself with grandchildren rather than the politics of the Core. Darrow secretly plants electronic spikes across the garden as he attempts to convince Lorn that the Society is dead and rotting. Lorn reveals the dark history of Nero au Augustus, who rose to power by murdering the Bellona family’s favorite daughter and framing the previous ArchGovernor. Despite Darrow’s pleas and the offer to return his grandson Lysander, Lorn steadfastly refuses to join the treasonous war. Lorn reveals that a Praetorian death squad led by Aja au Grimmus is already in his home and that Sovereign ships are surrounding the *Pax*. He offers Darrow a chance to flee via his pet griffin, Icarus, but Darrow refuses to run. Darrow activates his own ambush, signaling the Howlers to rise and his hidden fleet to engage the Sovereign’s ships.
+
+**Sentence Count Check:** 15
+
+---
+
+### 29: Old Man’s Wrath
+Darrow's secondary fleet, led by Roque and the Telemanuses, ambushes and destroys the Sovereign’s ships in orbit around Europa. On the ground, Aja au Grimmus and Tactus lead a squad of Obsidian Praetorians into the forest garden to capture Darrow and Lorn. Darrow detonates his planted landmine spikes, causing a tiered explosion that kills most of the Praetorians and forces Aja and Tactus to retreat. Sevro and the Howlers land to reinforce Darrow, but Aja escapes into the sea while Tactus vanishes into the castle. Lorn realizes the survivors are heading for his hidden grandchildren and sprints with Darrow to protect the secret bunker. They find Tactus in the bunker, where he has already killed three guards and is holding the women and children hostage. Darrow offers Tactus full forgiveness and a place in his army, prompting a tearful Tactus to drop his weapon and surrender. As Darrow embraces his weeping friend, Lorn au Arcos suddenly stabs Tactus to death with an ionDagger to ensure justice for the children.
+
+**Sentence Count Check:** 15

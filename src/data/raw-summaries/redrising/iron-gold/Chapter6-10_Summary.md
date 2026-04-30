@@ -1,0 +1,52 @@
+### Chapter 6: Ephraim
+Ephraim Horn, a Gray freelancer and former legionnaire, hides inside a stone sarcophagus within the Hyperion Museum of Antiquities on Luna. He is joined by Volga, a lean Obsidian woman born in a Society breeding program who possesses immense physical strength. His team also includes Cyra, a Green locksmith with cybernetic hardware embedded in her skull, and Dano, a young Red acrobat. They have successfully infiltrated the museum by hiding inside relic crates shipped from Earth to bypass the fortress-level security. Ephraim consumes zoladone, a black pill that suppresses empathy and boosts dopamine, to numb the memories of his deceased fiancé.
+
+The team's objective is the Razor of Silenius au Lune, a legendary whip-sword known as the Lightbringer, currently held in the Conquerors Exhibit. Cyra manages to disable most security grids, but the exhibit itself remains on an isolated server, forcing Dano to use spider gloves—high-friction climbing gear—to navigate the pressure-sensitive floor. Volga uses a railgun to destroy security drones while Dano cuts through the duroglass casing to retrieve the ivory-handled weapon. Ephraim observes the brutal efficiency of the museum's history, noting the genocide of pre-Color humans by Gold conquerors using solocene gas. As alarms scream and disabling gas fills the room, Ephraim secures the Razor in a foam carry case.
+
+The group prepares to escape as the museum enters a full lockdown state with metal security doors sealing the exits. Ephraim uses custom acid to melt through the marble floor to create an improvised exit route. He remains focused on the mission's tactical execution, refusing to allow the adrenaline or his personal depression to interfere with the heist. The team coordinates their movements through the museum's staff corridors to reach their extraction point. Ephraim summons an autonomous autoflier to meet them five kilometers away from the museum site. They exit the building just as the security forces begin to mobilize against the breach.
+
+**Sentence Count Check:** 15
+
+---
+
+### Chapter 7: Ephraim
+The day after the heist, Ephraim meets with Oslo, a White arbiter with black skin and white irises, in a minimalist Luna penthouse. Oslo carefully inspects the Lightbringer Razor using a digital monocle to confirm its authenticity before depositing the payment into Ephraim's Echo City account. During the exchange, Oslo reveals that this is the final acquisition for his mysterious employer, effectively terminating their three-year business relationship. Ephraim attempts to probe Oslo for the identity of the client, but Oslo responds with a cryptic riddle about a cat and an anaconda. This sudden lack of future work leaves Ephraim feeling hollow and increasingly desperate as he lingers in the suite drinking vodka.
+
+Later, Ephraim meets his crew at a bar built inside a renovated advertising dirigible on the South Promenade to disburse their shares. He transfers six hundred thousand credits to each member, including Cyra, despite her earlier failure to bypass the exhibit's internal security. The atmosphere is tense as Dano complains about the lack of a bonus while Cyra displays visible desperation for more work. Volga, the Obsidian, tries to maintain a sense of friendship by inviting Ephraim to stay for more drinks and jokes. Ephraim remains cynical, viewing the commercialized environment and his associates with detachment fueled by his ongoing substance abuse.
+
+The gathering is interrupted by the arrival of two Gold youths wearing legion epaulets and iron griffin pins, signifying they are Arcos descendants. One Gold approaches the Pink girl Dano was watching, asserting his social dominance by placing a hand on her waist. Ephraim's hand drifts to his concealed pistol as he feels a surge of resentment toward the Aureate class that was permitted to remain after the Rising. He ignores Volga's pleas for him to stay and share stories, choosing instead to leave the dirigible as the Golds' laughter echoes behind him. Ephraim descends into the Luna night, his mind fixated on the inequality that persists despite the Republic's supposed victory.
+
+**Sentence Count Check:** 15
+
+---
+
+### Chapter 8: Lysander
+Lysander au Lune, the twenty-year-old grandson of the late Sovereign Octavia au Lune, wakes from a recurring nightmare on the starship Archimedes. He lives in exile with Cassius au Bellona, the former Morning Knight, and Pytha, a Blue pilot from the Martian city of Thessalonica. For ten years, they have patrolled the Asteroid Belt as independent protectors, hiding Lysander’s true identity from the Republic and the remaining Gold factions. The Archimedes is a Whisper-class corvette of the Ganymede Dockyards, scarred by a decade of skirmishes and repairs. They change course to investigate a distress signal from the Vindabona, a cargo hauler drifting near the Rim.
+
+Lysander and Cassius perform an extravehicular approach to the Vindabona, using an asteroid for cover before boarding via a service airlock. Inside, they discover a massacre in the escape pod bay, with blood and gore smeared across the walls but no bodies present. Lysander uses the "Mind's Eye," an analytical state of heightened perception taught by his grandmother, to determine that the attackers used blades and hammers. They identify the perpetrators as Ascomanni, savage Obsidian tribes from deep space who follow the legends of their ancestors. The duo follows a trail of viscera to a storage room where they find six traumatized survivors hidden under a pile of corpses.
+
+The survivors reveal that a Gold woman paid them to transport her to a specific asteroid, S-1392, before the Ascomanni ambushed them. Pytha alerts Cassius that three Ascomanni warships, including a Storm-class corvette, are inbound to the location. Cassius orders an immediate evacuation of the prisoners, but Lysander insists on searching for the missing Gold passenger to uphold his sense of honor. He jumps off the lift against Cassius’s orders and navigates the darkening halls alone, listening to the guttural nagal speech of the raiders. Lysander eventually finds a room where lowColor prisoners are trapped in mesh cages and a naked Gold woman hangs from the ceiling in a tactical tacNet.
+
+**Sentence Count Check:** 15
+
+---
+
+### Chapter 9: Lysander
+Lysander enters the torture chamber and finds the Gold woman alive but severely burned and covered in engine oil. He identifies himself as Castor au Janus, a false identity, and uses his Razor to cut her free from the constricting tacNet. The woman reveals a Palatine accent and immediately demands stimulants, injecting three doses at once to combat her injuries. While Lysander attempts to free the other lowColor prisoners, the woman strikes him in the temple and steals his custom Bellona Razor. She flees into the hallway, leaving Lysander dazed and unable to cut the remaining fiberwire cages with his bare hands.
+
+An Obsidian warrior discovers Lysander, forcing him to engage in a desperate close-quarters struggle without his primary weapon. Lysander uses his plasma pistol to kill two raiders, but the third manages to pin him against a wall and attempt to crush his throat. He kills the final attacker by firing a plasma bolt into the Obsidian's heart at point-blank range before sprinting toward the docking level. Pytha provides navigational guidance as more Ascomanni board the Vindabona, their rhythmic death chants echoing through the ship's infrastructure. Lysander slams into the Gold woman again near the transfer bridge, noticing she is now covered in blood and clutching his stolen weapon.
+
+The two board the Archimedes just as Cassius kills the pursuing Obsidian warriors and seals the airlock bulkhead. The ship immediately comes under fire from the Ascomanni corvette's railguns, causing significant depressurization and engine damage. Lysander carries the unconscious Gold woman to the medical bay, where he discovers she has a lacerated liver and severe axe wounds. He treats her injuries with resFlesh and bloodsim while she mumbles a plea for help at asteroid S-1392. While cleaning her face, Lysander peels away a layer of camouflaging resFlesh to reveal a Peerless Scar on her cheek.
+
+**Sentence Count Check:** 15
+
+---
+
+### Chapter 10: Darrow
+Darrow of Lykos, the ArchImperator of the Republic, stands before the Senate on Luna to announce the liberation of Mercury. He is accompanied by Sevro au Barca, both dressed in military whites, while Mustang, the Sovereign, presides over the session from the Morning Chair. The Senate is divided between the Optimates, who support the war effort, and the Vox Populi, led by Darrow’s old mentor Dancer. Darrow requests a Resolution of Liberty Eternal to draft twenty million new troops and levy taxes for a final assault on Venus. He argues that the Ash Lord's defeat is the only way to ensure a lasting peace for the solar system.
+
+Dancer challenges Darrow’s authority, accusing him of disobeying Senate orders by launching an unauthorized Iron Rain on Mercury that cost one million lives. He highlights the loss of two hundred thousand Obsidians and the illegal use of the Fourth Fleet, questioning if the legions truly belong to the People. Dancer portrays Darrow as a man in love with his own myth who refuses to listen to the voice of those he helped liberate. He emphasizes the poverty and suffering on Mars and within the Republic, suggesting that Darrow’s obsession with total victory is destroying the state. The debate becomes a public confrontation between the ideals of military necessity and democratic oversight.
+
+The tension peaks when Dancer invokes his right to present a surprise witness to the Senate body. Julia au Bellona, the mother of Cassius and a long-time enemy of Darrow, enters the chamber as an emissary from the Ash Lord. She ignores the Sovereign's protests and claims that the Ash Lord sought an armistice during the Siege of Mercury. Julia accuses Darrow of responding to their peace overtures with an Iron Rain instead of diplomatic dialogue. She concludes by stating that the Society wishes to discuss terms for a permanent and lasting peace between the two warring factions.
+
+**Sentence Count Check:** 15

@@ -1,0 +1,52 @@
+### 31: Piece of Mind
+Hadrian hangs by his ankles fifty feet above black water in a pit within Dharan-Tun. Cielcin captors make a surgical incision on his temple to prevent him from losing consciousness through blood pooling. A free arm allows him to signal surrender, though he initially spits at his gaolers when pulled up. Syriani Dorayaica and the MINOS operative Urbaine use a neural collar to alternate between numbness and agony. Medical machinery and needles in his limbs hydrate him and replenish his blood to prolong the torture.
+
+The Prophet demands the coordinates of the Sollan Emperor's tour of the provinces. Hadrian hallucinates scents of myrrh and visions of the Chantry on Nessus while struggling to maintain silence. Urbaine controls Hadrian’s spinal nerve and sensory cortex to maximize the impact of every physical injury. The Cielcin flay Hadrian’s thighs and whip his back until the meat is exposed and raw. Syriani explains that Dharan-Tun is a planet-sized vessel protected by ice and warp envelopes.
+
+Under extreme duress, Hadrian finally speaks and betrays several planetary names from the Emperor’s itinerary. He shouts the names Perfugium, Vanaheim, and Balanrot before falling silent in shame. Urbaine smiles as the neural collar inhibits Hadrian's physical pain to allow him to contemplate his betrayal. Syriani orders the guards to lower the bound prisoner back into the pit for further confinement. The Prophet expresses satisfaction with the confession before leaving the torture chamber with his MINOS associates.
+
+**Sentence Count Check:** 15
+
+---
+
+### 32: Wandering and Release
+Hadrian lies on the stone floor of a cave cell with half the skin of his thighs missing. He hears a memory of his own voice urging him to find a way out through internal struggle. He crawls toward the water in his cell and sees his reflection with white-streaked hair and a scarred temple. Severine, a Mandari-looking MINOS operative, arrives and mocks Hadrian by reciting his titles like "Royal Knight" and "Demon in White." She questions how he survived the atomic blast at Berenike and notes his brain processes information faster than a computer.
+
+Severine offers Hadrian a path to escape death by joining MINOS and mapping his synaptic data. She explains that Minos was the first king who built civilization to separate men from animals. The operative proposes creating a new host body using Hadrian’s blood to host his transcribed consciousness. Hadrian realizes that Severine intends to use the copy of his mind as a slave or a puzzle to be solved. He rejects the offer and identifies Severine as a duplicate of a woman he previously killed on Arae.
+
+Hadrian mentions the Quiet and claims it gave him the ability to perceive possible world states. He attempts to stand on the surface of the water using his time-warped perception but immediately falls and screams. Severine reacts with shock to his ability to stand and questions where he encountered the Quiet. She eventually activates the collar's agony to demand more information before leaving him face-down in the shallow water. A human slave and Cielcin guards enter the cell to find Hadrian nearly drowned after Severine’s departure.
+
+**Sentence Count Check:** 15
+
+---
+
+### 33: Living the Lie
+A scarred human slave pushes Hadrian through the corridors of the Dhar-Iagon palace in a wheeled chair. They pass headless human corpses hanging on hooks above gutters filled with blood for the Cielcin palate. Hadrian arrives at a shelf overlooking an abyss where Syriani Dorayaica sits at a massive stone table-trough. The Prophet presents Hadrian to a congregation of white-masked Cielcin soldiers and counselors as the "True King of Man." Syriani announces that the Great Affront has confessed and betrayed the location of the Sollan Emperor.
+
+Human slaves bring in large trays of rotting meat lined with the red wool of Sollan legionary tunics. Hadrian recognizes his own pitchfork and pentacle insignia on the garments and realizes the meat is his Red Company. Syriani clarifies that the Tamerlane was captured and the survivors were brought to Dharan-Tun. The Prophet admits he already possessed the Emperor's itinerary through the ship's records and other prisoners. He displays the severed head of Adric White, the Tamerlane’s navigator, to prove he knew the coordinates all along.
+
+The Prophet explains that the torture was a test to see if a human "kinsman" could be broken. He commands a white-robed courtier to commit suicide by stepping into the abyss to demonstrate true faith. Syriani lists the names of over thirty planets on the Emperor’s tour including Nessus and Siraganon. He mocks Hadrian by stating that no one is coming to save him and that his death is inevitable. The Cielcin courtiers then descend into a bestial frenzy, tearing apart the human remains on the banquet table.
+
+**Sentence Count Check:** 15
+
+---
+
+### 34: The Descent
+Severine and medical technicians visit Hadrian daily to extract his IV lines and remove his medical correctives. His fingernails regenerate and his flayed skin heals into flat white scars over the course of several weeks. Severine brings a crate containing Hadrian's cleaned and repaired black Royal Knight armor with the pitchfork and pentacle sigil. He dons the skin-suit and breastplate while the technicians remove the neural collar that had chafed his neck. Severine notes that Hadrian has grown old before his time with his hair shot through with white marble streaks.
+
+The party boards Syriani’s landing barge which is a broken-circle shaped vessel with massive glass windows. Hadrian views the surface of Dharan-Tun which is covered in industrial pits, world-ship foundries, and icy mountains. He sees the green, mossy planet Eue in the sky which is the holiest site in the Cielcin universe. Syriani identifies his people as "Godsborne" and explains they were brought to Eue by the gods known as Watchers. The Prophet reveals that a species called the Enar built the ancient city of Akterumu on the planet below.
+
+A massive fleet of Cielcin worldships, each appearing as a moon, orbits Eue in a cosmic display of power. Syriani explains that the clan chiefs, the Aetavanni, have gathered for the first time in twenty thousand years. He seizes his general Vati by the wrist in a rare display of Cielcin affection or comfort. Hadrian realizes the Cielcin effort is focused entirely on the total annihilation of the human race. The barge begins its descent toward the surface of Eue to deliver Hadrian to his execution site.
+
+**Sentence Count Check:** 15
+
+---
+
+### 35: The Broken Circle
+The landing barge descends over Eue’s stagnant marshes and yellow slime molds toward a black sand desert. Hadrian sees massive structures on the horizon that he initially mistakes for mountains but realizes are five-mile-high walls. These ramparts form the ring-city of Akterumu, which was built by the Enar species before the Cielcin arrived. Thousands of Cielcin from various clans gather on the plains with blue and violet banners to witness the Prophet's arrival. Syriani explains that the blood-clans trace their lineages through "branchings" back to the original generals of the King Elu.
+
+The Prophet leads his scahari warriors and MINOS personnel onto the black sands via a lift platform. Hadrian views the ancient bas-reliefs on the city walls depicting crab-like Enar conquerors with segmented limbs and pincers. Syriani states that the Enar were unworthy heralds and that the Cielcin scavenged their weapons and technology. The ring-city is so vast that its far side appears only as a blur against the horizon of the planet. Hadrian notes that the interior of the walls is terraced with thousands of trapezoidal windows and arched galleries.
+
+Hadrian insults the Cielcin as scavengers who have stolen everything from their faith to their technology. Syriani retaliates by slashing Hadrian’s left cheek with his talons, leaving five deep channels that bleed into his eye. The Prophet takes Hadrian's chain and drags him toward a black dome at the center of the vast plain. Hadrian realizes the dome is actually the obsidian skull of the Watcher Miudanar and identifies the site as the Shrine of the Skull. Cielcin guards seize him as a strange voice crashes over his mind and a white pain flares behind his eyes.
+
+**Sentence Count Check:** 15

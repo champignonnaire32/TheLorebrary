@@ -1,0 +1,52 @@
+### Chapter 20: Dissent
+Sevro seizes command from Darrow as they arrive at a Sons of Ares safe house in the industrial sector. The Sons discover that the group consists of Golds and a Red when the Obsidian disguises fail. Darrow fears the Jackal will identify them through security footage and launch a brutal reprisal against lowColors. Sevro orders the Howlers to prepare bombs and find an escape route before the Society's legions arrive. Holiday takes charge of the datacenter while Darrow heads to the lockup to interrogate Kavax.
+
+Kavax explains that Virginia suspected Roque’s betrayal at the Triumph and saved the crew of the Pax, Darrow's former flagship. Virginia alerted House Arcos and Orion, allowing them to survive the initial assassination attempts on their bridges. The Sovereign hid within Roque's fleet during the coup and remains a threat to the Rising. Kavax confirms that the crew Darrow liberated is alive and still serves under Orion’s command. Mustang did not kill Darrow in the tunnels because she believes in his vision for a new world.
+
+Kavax reveals that he was a mentor and father figure to Virginia when her own father failed her. The Moon Lords are currently losing their war and will likely fall within two months. Virginia and Quicksilver attempted to broker a peace that would pardon her allies and imprison the Jackal. This peace agreement would maintain the existing hierarchy while implementing minor social reforms. Kavax claims that Virginia contacted Sevro months ago, a fact that Sevro did not disclose to Darrow.
+
+**Sentence Count Check:** 15
+
+---
+
+### Chapter 21: Quicksilver
+Quicksilver reveals he is a founding member of the Sons of Ares and the rebellion's primary financier. Sevro reacts with violence, punching the Silver and threatening him with a knife to force an escape. Darrow intervenes after realizing Quicksilver’s husband is Matteo, the man who trained him and Sevro. Quicksilver proves his identity by providing the secret location and engineering details of the city of Tinos. He explains that he used Fitchner as his sole contact to the lowColor cells to prevent total compromise.
+
+Quicksilver hired Fitchner years ago as a mercenary and assassin to clear his business competition. He eventually became a co-conspirator when he discovered Fitchner was using his resources to start the Sons. The tycoon criticizes Sevro’s leadership, calling his recent actions a bad investment that resulted in chaos. Quicksilver claims that ethnic cleansing and nuclear war are detrimental to the species' progress and his business. He orchestrated the peace summit on Phobos to remove the Jackal from power and install Virginia as ArchGovernor.
+
+Quicksilver believes the Jackal is currently the greatest threat to the stability of the Solar System. He views Golds as vampire kings who stifle human evolution to maintain their own artificial paradise. The Silver pledges his entire empire, including hackers and security teams, to Darrow’s cause without reservation. Sevro remains distrustful and threatens to detonate a thousand kilograms of explosives across the moon’s refineries. Darrow realizes they must reassess their strategy because their tactical assets have significantly expanded with Quicksilver’s help.
+
+**Sentence Count Check:** 15
+
+---
+
+### Chapter 22: The Weight of Ares
+Darrow uses a jammer to block the signal when Sevro attempts to press the detonation switch. Sevro flees into the hallway to escape the jamfield, prompting Darrow to chase him at full speed. The two men engage in a vicious physical struggle involving punches, kicks, and grappling on the floor. Darrow eventually pins Sevro with a haymaker and a boot, forcing the fight to a grueling halt. Sevro breaks down in tears and admits he is terrified of losing more friends or failing as a leader.
+
+He confesses that he felt inadequate compared to Darrow and their fallen father figure, Fitchner. Darrow places a hand on Sevro’s head and accepts responsibility for the deaths of their comrades and Fitchner. Sevro admits he only joined Darrow at the Institute because he wanted to belong to a community. He reveals a deep-seated hatred for the refugees because their weakness reminds him of his own struggles. Darrow shares his own feelings of resentment toward the girl he once loved and the burden of her martyrdom.
+
+He questions if Eo’s death was worth the loss of their child and the resulting interstellar war. The two friends joke about the Vale and the possibility of their fathers watching them from the afterlife. Darrow explains that they need allies like Quicksilver to build a functional world after the war ends. Sevro breaks the detonator in half, signaling his willingness to follow Darrow’s new strategic direction. The Howler One officially yields to the Reaper and asks for his next set of orders.
+
+**Sentence Count Check:** 15
+
+---
+
+### Chapter 23: The Tide
+Darrow and Sevro return to the ready room to announce that Quicksilver is a loyal Son. The Howlers and Sons perform a ritual of commitment by pulling out their achlys-9 suicide teeth with pliers. Darrow contacts the Jackal via a direct holoLink to claim responsibility for Quicksilver's kidnapping. He demands the release of all political prisoners and a public confession for the murder of Nero au Augustus. The Jackal refuses to negotiate and threatens to kill everyone Darrow loves before cutting the signal.
+
+Darrow prepares a massive broadcast that will reach billions of people across the entire Solar System. He plays a recording of Eo’s song and reveals his Sigil-barren hands to the public. The speech calls for all Colors to unite and rise against the Gold hierarchy to reclaim their freedom. Darrow explicitly forbids the murder of civilians and mandates that the rebellion focus on justice over vengeance. LowColors in the Hollows respond to the message by thumping their fists against their cages in a rhythmic heartbeat.
+
+The broadcast triggers mutinous responses in factories, mines, and cities from Mercury to Pluto. Rollo and his engineering teams use Quicksilver’s access codes to shut down the power in the Society’s military spire. Ragnar leads a thousand Sons on flat maintenance skiffs to board the darkened military building in null gravity. The Sons breach the spire’s viewports and engage in a bloody battle with Gold knights and Gray guards. Sevro organizes the surging mobs of Phobos into a battering ram to seize control of the moon’s infrastructure.
+
+**Sentence Count Check:** 15
+
+---
+
+### Chapter 24: Hic Sunt Leones
+Phobos falls into total chaos as lowColor mobs overwhelm the tram systems and military checkpoints. HighColors attempt to evacuate the Needles in luxury yachts while the Society’s navy shoots down rebel skiffs. Darrow and Holiday arrive at a hidden hangar to board a custom luxury yacht provided by Quicksilver. The ship is loaded with billions of credits’ worth of high-tech weapons and essential supplies. Darrow changes into sealSkin, a specialized mottled white nanofiber weave designed for polar temperatures.
+
+He watches live feeds of Sevro and the Howlers continuing the urban warfare across the moon. Ragnar arrives at the hangar carrying a golden curule, a twisted scepter of military power taken from a subGovernor. Darrow bends the scepter against his knee and tells Ragnar to give it to his sister as a trophy. Mustang intercepts Darrow in the hangar after being led there by Kavax and Ragnar’s secret communications. Darrow initially reacts with hostility and threatens to fly the ship through her if she does not move.
+
+Mustang explains she was trying to broker a compromise to save Mars from her brother’s tyranny. She reveals that she has kept Darrow’s soldiers at their stations and wants to believe in his vision. Darrow is surprised to find that Mustang has already deduced his plan to visit the Valkyrie Spires on the Martian ice. Mustang offers an alliance between the Rising and the remaining loyalist houses of Augustus, Telemanus, and Arcos. Darrow agrees to let her join the mission to the ice so she can prove her commitment to the Rising’s dream.
+
+**Sentence Count Check:** 15

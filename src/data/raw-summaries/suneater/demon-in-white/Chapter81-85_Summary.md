@@ -1,0 +1,52 @@
+### 81: THE LABYRINTH AGAIN
+Hadrian, Pallino, and Valka navigate the starport's maintenance tunnels after retreating from the Storm Wall. The sight of a discarded toy reminds Hadrian of the thousands of refugees pushed into the cramped underground bunkers. He encounters a scout who reports that Captain Bassander Lin is already at the starport terminal. Hadrian orders the legionnaire Renna to lead the civilians into the tramway tunnels to clear the main atrium. The tunnels vibrate as Sollan colossi, massive walking war machines, march on the tarmac above.
+
+Cielcin nahute, which are serpentine drones, breach the access tunnels and prompt a bloody engagement. Valka initially refuses to leave the civilians but eventually joins Hadrian as they move deeper into the infrastructure. A massive colossus crashes through the starport roof, creating a secondary breach that allows more xenobites to swarm in. Hadrian realizes the starport gate is untenable and orders Lin to abandon it to secure the tramway instead. The team bypasses the main terminal to enter a series of narrow maintenance passages leading toward the landing field.
+
+Lorian Aristedes provides a map via Hadrian's entoptics, marking a path to the perimeter watchtowers. Hadrian encounters a crowd of fleeing refugees and forces them to make a path for his armed strike team. He witnesses the arrival of armored chimeras, the monstrous human-alien hybrids known as the Demons of Arae. Realizing the refugees are in extreme danger, Hadrian instructs his men to prepare explosives for a desperate gambit. The group splashes through ruined corridors toward the cargo ship Kupari to begin their sabotage plan.
+
+**Sentence Count Check:** 15
+
+---
+
+### 82: THE DEPTHS BELOW
+Hadrian leads a team of fifty men through the maintenance tunnels toward the cargo ship Kupari. He orders the retrieval of heavy fuel cells from the ship’s girdle to serve as improvised explosives. The team finds the Kupari in a scorched landing pit, where its silver hull is ionized and blackened. Hadrian climbs a ladder to the surface to scout the Cielcin lines and sees the massive vayadan Bahudde. He observes a new, larger Cielcin siege tower descending from the heavens amidst the burning wreckage of the fleet.
+
+The soldiers struggle to carry the heavy fuel canisters through narrow access corridors without the aid of float pallets. Hadrian senses a pursuit and uses his highmatter sword, a blade of liquid metal, to cut through invisible nahute. A scahari warrior ambushes Hadrian, tearing his cape and sinking its claws into his armored environment suit. Hadrian kills the attacker with a precise thrust of Sir Olorin's sword and urges his men to keep moving. The team reaches a tramway platform where Bassander Lin orders his men to muscle the canisters onto the tracks.
+
+Cielcin berserkers encircle the small squad on the platform, forcing Hadrian and Valka into a defensive stand. Valka kills a crawling monster with her repeater while Hadrian clears a path with his moonlight blade. Bassander Lin uses a detonator wand to trigger the fuel cells, causing a massive white-heat explosion in the tunnels. The blast ripples upward, destroying a third of the Cielcin landing fleet and incinerating thousands of enemy warriors. In the aftermath, Hadrian and Pallino rejoin their forces and decide to retreat over the top via the colossus leg.
+
+**Sentence Count Check:** 15
+
+---
+
+### 83: NO MAN'S LAND
+Hadrian and his men scramble up the leg of the fallen colossus to reach the starport tarmac. He witnesses the Cielcin fleet in ruins but notes a massive new siege crawler advancing toward the Storm Wall. Lorian Aristedes refuses to open the fortress gates for the refugees, fearing a stampede will endanger those already inside. The Cielcin begin a sepulchral drumming and chanting "Teke! Teke!" as they mobilize for a final assault. Swarms of nahute weave a metallic net across the plain, pursuing the retreating Sollan forces.
+
+Hadrian, Valka, and Bassander Lin run across a mile of open ground toward the safety of the fortress. A Cielcin orbital laser from the fortress Dharan-Tun fires a pillar of light that incinerates a Sollan Sparrowhawk. The Irchtani auxiliaries, winged centaur-like aliens led by Udax and Barda, arrive to carry the strike team. Hadrian’s guardian Irchtani dives through a heat wave as the orbital laser continues to scorch the tarmac. He releases his grip and drops a hundred feet onto the deck of the alien crawler, using his suit to absorb the impact.
+
+Hadrian engages Cielcin marksmen on the crawler’s catwalks, cutting through their weapons and armor with his sword. Valka and Bassander land on lower levels, joined by Irchtani who fire plasma burners into the swirling combat. The orbital laser strikes again, overwhelming a Sollan colossus’s shield and reducing the massive machine to molten slag. Hadrian locates a rear hatch and works with Bassander Lin to cut through the heavy titanium-alloy door. The team enters the dark, intestine-like halls of the crawler as it continues its slow march toward the Storm Wall.
+
+**Sentence Count Check:** 15
+
+---
+
+### 84: THE CRAWLER
+Hadrian leads his team into the crawler's interior, which resembles a hollowed asteroid filled with rippling conduits. They discover a massive mining drill at the front of the machine intended to breach the Storm Wall. A pale, hairless human named Urbaine reveals himself as a MINOS representative serving the Cielcin. Udax decapitates Urbaine with his zitraa, the razor-sharp Irchtani sword, but the doctor's consciousness survives in his severed head. The giant chimera Bahudde emerges from the darkness, slamming its fist through the catwalks to attack the group.
+
+Bahudde seizes Hadrian in its iron grip and nearly crushes his ribs before Bassander Lin intervenes. Bassander leaps onto the giant’s shoulder and severs its arm with a highmatter blade, freeing Hadrian. Urbaine uses his Extrasolarian technology to infect Valka with a virus, causing her to collapse in agonizing screams. Hadrian finds Urbaine’s severed head and smashes it with his sword to terminate the viral attack on Valka. Barda’s Irchtani unit destroys the crawler’s treads on the outside, causing the massive vehicle to tip and halt.
+
+Hadrian rushes to Valka’s side and removes her helmet to find her pale, convulsing, and partially paralyzed. Valka uses her internal machinery to speak the Cielcin tongue, channeling a message from Prince Syriani Dorayaica. The Prince orders Bahudde to overload its power cells to create a suicide blast against the Storm Wall. Hadrian carries Valka in his arms as the group retreats down the crawler’s ramp onto the tarmac. Bahudde emerges from the wreckage, a mechanical giant with its chest cavity prepared for a final detonation.
+
+**Sentence Count Check:** 15
+
+---
+
+### 85: THE WINGED CENTURION
+Hadrian sets Valka on her feet as Bahudde and two dozen Cielcin pilots emerge from the crippled crawler. Valka insists on staying to fight despite her paralysis, while Udax and Barda lead the Irchtani into the air. Hadrian engages the Cielcin pilots on the tarmac, cutting through their nahute whips and armor. Bassander Lin attempts to plant a magnetic grenade on the giant’s calf but is kicked away and incapacitated. Bahudde howls in fury as it limps toward the Wall, its power cells ready to detonate upon impact.
+
+Hadrian stands his ground against the giant, remaining unmoving even as Bahudde strikes him with a man-high fist. Udax leads a phalanx of Irchtani in a dive, filling the air with plasma fire to blind the chimera. The winged centurion Udax alights on Bahudde’s face and buries his zitraa deep into the giant’s last red eye. Bahudde seizes Udax and crushes him to death, leaving only a red smear and brown feathers on the pavement. The Irchtani flock around their fallen leader in a vengeful frenzy, harrying the blinded giant with plasma burners.
+
+Valka uses her remaining strength to hack into Bahudde’s internal systems, forcing the giant to collapse. The chimera’s chest cavity opens, revealing the floating brain and organs that serve as its core. Hadrian approaches the dying giant and asks "Why?", to which Bahudde replies that its master will become like the Watchers. The giant dies as its internal lights fade, ending the immediate threat to the Storm Wall's integrity. Hadrian kindles his sword to avenge Udax but ultimately leaves the body to the Irchtani to finish their mourning.
+
+**Sentence Count Check:** 15

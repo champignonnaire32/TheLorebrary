@@ -1,0 +1,52 @@
+### 11: Decimation
+Hadrian visits the medica to treat wounds on his face and chest inflicted by Udax the Irchtani. Valka informs him that Pallino is stable but unconscious after losing significant blood during the attack. Hadrian retrieves his silver pendant and prepares to meet the fortress castellan to discuss the incident. Sir Amalric Osman arrives and grovels before Hadrian, offering to execute the Irchtani responsible for the assault. Hadrian orders Osman to stand and questions him about the status of the thousand Irchtani stationed at Fort Din.
+
+Osman reveals that the Irchtani unit has been locked in their barracks because they refuse to name the specific attackers. He explains that if the unit were human, he would invoke decimation, a military punishment where one in ten soldiers is executed by lot. Hadrian explicitly forbids decimation and threatens to report Osman to the Imperial office for a disproportionate response. He reminds the castellan that his squire is Prince Alexander, making the safety of the mission a matter of high Imperial interest. Hadrian demands that the life of Udax be given to him instead of the military justice system.
+
+Valka comments on Hadrian's talent for mayhem as they leave the medical exam room. Hadrian suspects that Udax might have been used as a weapon by a third party rather than acting out of simple racial tension. He decides to speak with the Irchtani elder, Barda, to understand the motivations behind the sudden violence. Osman remains confused by Hadrian's request but complies with the order to halt the planned mass execution. Hadrian leaves his bloodstained cape with the castellan and prepares to descend into the fortress dungeons.
+
+**Sentence Count Check:** 15
+
+---
+
+### 12: Udax
+Hadrian descends into the damp rock-hewn dungeons of Fort Din, which remind him of previous prisons on Emesh and Vorgossos. Prisoners recognize him as the Halfmortal and shout at him as he follows the warden to the end of the hall. He reaches the cell of Udax, who initially refuses to speak while lying on his cot with his back turned. Hadrian addresses the Irchtani as an exemplar of his race and notes that Udax nearly defeated him in their duel. Udax rolls over and argues that he only lost because Hadrian possessed a superior high-matter sword.
+
+Hadrian informs Udax that the castellan intends to decimate his unit because they refuse to identify the other attackers. He challenges Udax’s claim that humans treat Irchtani like pets and reveals that he is the only one preventing the execution of his kithuun. Udax laughs but eventually admits that he was hired by a human to assassinate Hadrian. The Irchtani describes the employer as someone who behaved like a priest and wore the muslin blindfold characteristic of a Chantry cathar. Hadrian realizes the Chantry may still view him as a threat despite his favor with the Emperor.
+
+Hadrian orders the warden to move to the end of the hall so he can speak privately with the prisoner. He explains to Udax that his employer intended for him to die in the attack to frame the Irchtani as savages. Udax provides the names of the three other soldiers, Gaaran, Ivar, and Luen, who participated in the scrap. Hadrian promises that while they must still be whipped for the assault, they will not be executed or treated worse than human soldiers. He shakes Udax's dry, scaly hand through the bars before returning to the upper levels of the keep.
+
+**Sentence Count Check:** 15
+
+---
+
+### 13: Too Close to the Sun
+Four Irchtani soldiers, including Udax and Gaaran, are brought to the whipping posts in the main yard at sunset. Hadrian stands with Sir Amalric and Kithuun-Barda to observe the punishment as the Irchtani are lashed by their own kin. The surrounding Irchtani units screech and caw at the sky during the spectacle while human personnel watch from the barracks steps. Hadrian allows civilian broadcasts of the event to ensure the story is public knowledge and to prevent any "disappearances" of the prisoners. He reflects on the deep divide between humans and Irchtani but takes solace in preventing the death of a hundred soldiers.
+
+After the crowd departs, Hadrian stays in the yard and touches the gouges in the posts where Irchtani claws bit into the wood. He imagines a conversation with his deceased tutor, Tor Gibson, about the identity of the person who hired Udax. Hadrian argues that the Chantry would not have been so obvious as to send a blindfolded cathar to hire alien mercenaries. His internal Gibson warns him that his rapid rise to fame and the worship of his soldiers make him a threat to the Empire. The imaginary tutor notes that the Emperor likely sent Hadrian to Gododdin to marginalize him and slow his momentum.
+
+Hadrian acknowledges that the stories told by his soldiers will only grow in his absence, further building his legend. He realizes that a successful mission will bring him back to the capital in a position of even greater influence and danger. The internal dialogue concludes with the warning that he may find himself flying too close to the sun and his enemies. He envisions the faces of his many rivals, including members of the Imperial family and high-ranking Chantry priests. Hadrian accepts that any one of them, or all of them collectively, could be behind the attempt on his life.
+
+**Sentence Count Check:** 15
+
+---
+
+### 14: Request and Require
+Hadrian attends a briefing where analysts present data from the light-probes deployed near the datanet relay station. Tor Varro notes that it may take several years of scanning the empty volume of space to find the lost legion ships. Hadrian abruptly decides that the Red Company will depart for the relay by the end of the current week. Sir Amalric Osman protests the short timeline, suggesting that a few more weeks would not hurt the mission's chances. Hadrian refuses the delay, citing the danger of remaining on Gododdin where a second assassination attempt might occur.
+
+Commandant Ruan, the orbital dockmaster, joins the meeting via holograph and claims a one-week departure is impossible for a full convoy. Hadrian grants them two weeks instead and mentions that Prince Alexander suggested the Red Company escort a second convoy to Nemavand. He orders the mobilization of twenty cohorts from the orbital station and twenty thousand more soldiers from the ground vaults. Osman points out the immense logistical difficulty of forming new legions from the survivors of the Bargovrin siege. Captain Mahendra Verus of the ISV Mintaka volunteers his ship to serve as an additional escort for the transports.
+
+Hadrian further demands that the thousand Irchtani soldiers at Fort Din be reassigned to his personal command. He intends to protect them from local reprisals and from whoever hired Udax to kill him. Prince Alexander breaks his silence to support the demand, causing the senior staff to bow in submission to his Imperial rank. Hadrian later meets with Barda and Udax on the ceremonial wall to inform them of their new assignment. The Irchtani are surprised that Hadrian is protecting them by taking them to the front lines of the war.
+
+**Sentence Count Check:** 15
+
+---
+
+### 15: The Shadows of Arae
+The Tamerlane, an Eriel-class dreadnought with a mile-long mass driver, breaks orbit from Gododdin as the sun rises. Captain Corvo directs the bridge crew to chart a course past the moon toward the coordinates for the warp jump. Hadrian watches the Legion station and the accompanying convoy ships, including the Mintaka, through the bridge display. He reflects on his previous mission to the planet Arae seventy years ago, where he discovered the Exalted. The Exalted are post-human machine-hybrids created by a group called MINOS who discard their biological bodies for metal forms.
+
+Hadrian explains to Prince Alexander that the Extrasolarian group MINOS had been contracted by the Cielcin on Arae. He suspects that similar machine-augmented forces or Extrasolarian mercenaries are behind the disappearance of the current troop convoys. The Red Company will awaken their full complement of ninety thousand crew and legionnaires as they approach the dangerous relay sector. Crim confirms that the Irchtani soldiers have been placed in cryonic fugue under the supervision of the medic Okoyo. Hadrian decides to stay awake for several months to avoid brain damage from repeated short-term freezing.
+
+Captain Corvo expresses concern that they are walking into a trap set by the Extrasolarians or a Cielcin alliance. Hadrian notes that while the Cielcin usually raid for food, targeting specific troop convoys suggests a more sophisticated strategic shift. He adjusts his heavy aristocratic cape, which is designed to impair the right arm to signify social status. The Tamerlane executes its primary sub-light burn, pushing the crew into their seats as the ship accelerates into the dark. Hadrian warns his inner circle that the nature of the war has changed and they must be prepared for an unprecedented threat.
+
+**Sentence Count Check:** 15

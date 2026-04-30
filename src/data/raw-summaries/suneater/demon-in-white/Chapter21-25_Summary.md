@@ -1,0 +1,54 @@
+# Chapter 21-25 Summary
+
+### 21: Demon in Black
+Hadrian seals his black skinsuit and activates the suit's thermal regulators. He steps into armored boots and cuisses before pulling a sable tunic over his head. The black ceramic breastplate and helmet magnets clamp onto the suit via gimbal-mounted hardware. Servos whine as the pauldrons and vambraces shift into place to follow Hadrian's movements. He fastens a belt equipped with shield controls and a holster for his highmatter sword.
+
+Valka arrives at the suit locker door while Hadrian finishes securing leather shoulder straps. Hadrian informs her that the Cielcin are attacking and have already destroyed the Androzani. He checks his forearm readouts to confirm that suit power and air reservoirs are nominal. Valka expresses concern about him leading the boarding party instead of Chiliarch Pallino. Hadrian argues that he must go because he is the only one who can communicate with the enemy.
+
+Valka hands Hadrian his sword pommel-first after he finishes searching for it. She presses her fingers against the trident and pentacle sigil embossed on his chest armor. Hadrian forces a smile and jokes that he cannot be killed, though they both know he is vulnerable. He instructs Valka to go to the bridge so Aristedes can have help directing the battle. The two share a kiss before the ship jolts from a shield impact, prompting Hadrian to depart.
+
+**Sentence Count Check:** 15
+
+---
+
+### 22: Into the Maw
+Hadrian stands in the crash webbing of a Shrike-class shuttle with twenty ivory and scarlet armored soldiers. The shuttle navigators plot a course through enemy fire toward the massive Cielcin vessel. Suit entoptics project the cabin interior onto Hadrian's eyes so he can monitor the silent legionnaires. Prime Centurion Siran checks her energy lance settings while the pilot officer announces thirty seconds to contact. The shuttle retro-rockets fire before the craft impacts the alien hull with a sharp jolt.
+
+Plasma cutters spiral into the Cielcin hull to create an aperture for the boarding party. Five mapping drones deploy through the hatch and use red lasers to scan the dark tunnels. Hadrian leads the men left into rounded, ribbed passages that follow non-Euclidean patterns. Silent alarm lights flash high on the walls, but the team initially encounters no enemy resistance. Hadrian communicates with Valka via a conduction patch to confirm that the Mistral's shields are holding.
+
+The Cielcin spring an ambush by sliding wall panels aside and releasing waves of nahute. These metal serpents possess drill-bit teeth and fly through the air to strike at the soldiers' faces. Hadrian ignites Olorin's sword and slices a charging serpent in half before the Cielcin warriors wail a war cry. The legionnaires activate suit torches to illuminate the painted resin masks of the Cielcin attackers. Irchtani reinforcements arrive on mighty wings and use zitran blades to help clear the remaining enemies.
+
+**Sentence Count Check:** 15
+
+---
+
+### 23: Kingdoms of Death
+Hadrian leads his group deeper into the Cielcin ship through damp, cave-like tunnels. They enter a factory chamber where multi-legged white worms crawl in vats to produce textile silk. The team moves into a terraced plaza decorated with silk banners and formless metal statues. An Irchtani soldier discovers a half-eaten human corpse inside a spartan Cielcin dwelling. Hadrian identifies the victim as a missing legionnaire and orders the room torched to incinerate the remains.
+
+The group approaches a massive bulkhead door at the end of the lozenge-shaped square. They find a mechanical airlock with a pill-shaped hatch and a wheel-lock center. Hadrian cycles his men through the airlock in groups of five to reach the central hold. While waiting for the final scouts to pull back, Hadrian hears metallic clanging from the dark levels below. Two white, slender arms descend from the ceiling and pull a screaming soldier into the darkness.
+
+A bone-white demon of Arae falls from the ceiling and stands twice as tall as a man. The monster possesses four long arms, dog-like legs, and a horned mask with a hooked visor. It drags a soldier away after surviving plasma fire from the panicked legionnaires. Hadrian and his remaining men retreat into the airlock and weld the outer hatch shut. The demon hammers against the metal door with its fists before eventually ceasing its attack.
+
+**Sentence Count Check:** 15
+
+---
+
+### 24: Beyond the Doors of the Dark
+Hadrian and his team enter a massive, airless hold filled with twisted catwalks and deep chasms. They locate the ISV Merciless hanging in the dark and find its hull scarred by deep scratches. The boarding party enters the ship through a forced airlock and navigates corridors filled with loose wires. Hadrian proceeds to the cubiculum where thousands of soldiers are interred in hexagonal fugue ports. He discovers that many pods have been gutted for food, leaving the floor stained with blood and cryo-fluid.
+
+The team finds a twenty-foot-high monument built from hundreds of human skulls in the center of the hold. Metal rods and silk ropes hold the bone structure together alongside painted Cielcin prayer cards. Hadrian swears an oath by Earth to destroy the Cielcin for constructing this macabre tower. A soldier checks the computer consoles and confirms that seven thousand legionnaires are still alive in fugue. Valka reports that the Mintaka's engines have been disabled and the crew is fighting in the halls.
+
+Centurion Cade reports that his unit is pinned down while attempting to reach the Cielcin fuel reservoirs. Hadrian orders Chiliarch Pallino to fire the Merciless's primary starboard laser at the Cielcin worldship. The high-powered beam strikes the forward inhabited section of the planetoid to create a massive distraction. Secondary explosions rock the Cielcin vessel as systems deeper within the asteroid are destroyed. Hadrian prepares for the inevitable counterattack as the Cielcin move to surround the captured Imperial ship.
+
+**Sentence Count Check:** 15
+
+---
+
+### 25: In the Belly of the Whale
+Hadrian monitors the Merciless's internal security cameras while waiting for the Cielcin counterattack. The distraction strike successfully draws the enemy away from other battle groups toward the hold. Irchtani scouts on the hull report hundreds of Cielcin warriors and nahute approaching the ship. Hadrian orders the hull defense turrets to fire, scattering the initial wave of attackers with high-caliber rounds. Centurion Cade reports that his team has reached the Cielcin fuel control room but is trapped inside.
+
+Valka explains that blowing the coolant tanks will crack the Dewar flask and vent the antimatter fuel. Hadrian authorizes Cade to destroy the tanks once the enemy breaches the control room door. Irchtani defenders at the airlocks use pink hydrogen plasma rifles and grenades to hold the gangways. Cielcin warriors scuttle through the open airlocks after the hull defense turrets run out of ammunition. Reinforcements from the third and seventh centuries arrive in the hold to strike the Cielcin from the rear.
+
+Hadrian attempts to recall his hull scouts but receives no response on the Irchtani communication band. An alien voice intercepts the channel and reveals that the scouts have all been killed. The speaker identifies himself as Iubalu, a Holy Slave and a member of the White Hand. Iubalu taunts Hadrian for fleeing the earlier ambush and calls him a "hurati," or mouse. The Exalted Cielcin crushes a scout's helmet on camera before landing heavily on the Merciless's hull.
+
+**Sentence Count Check:** 15

@@ -1,0 +1,52 @@
+### 35: Teatime
+Darrow and his team infiltrate the Invictus, Pliny's hijacked flagship, using a supply ship disguise to bypass the fleet. Sevro and the crew ignore an Orange docker and enter the hangar, where Darrow is joined by Ragnar, a pale giant of the Obsidian race. The war party moves through the ship, intimidating the crew with their presence and Lorn au Arcos’s reputation as a legendary fighter. They liberate forty Peerless loyalists from the brig, including the Jackal, who has been held captive by Pliny's forces. Darrow and the Jackal reunite and confirm that Mustang reached Darrow safely while Pliny's attempt to isolate them failed.
+
+The group heads to the galley where they use a leechCraft thermal drill, a device for burrowing through ship hulls, to melt the floor. Darrow rides the drill as it crashes onto the ArchGovernor’s table, interrupting Pliny’s meeting with several powerful Peerless Golds. Lorn au Arcos threatens to kill everyone in the room if anyone approaches Darrow, ensuring their safety through his fearsome status. Darrow publicly accuses Pliny of treason against Nero au Augustus and reveals that all of Pliny's powerful allies failed to kill him. He humiliates Pliny by slapping him twice and forcing him to kiss his House Mars ring in front of the assembled Golds.
+
+Pliny is immediately abandoned by the other Peerless, who execute him with their razors as Darrow walks away. The remaining Golds salute Darrow, signaling their shift in loyalty back to the rising power of House Mars. Darrow reflects on the nature of trust and realizes he must mend his strained relationships with Lorn and Roque. He tells the gathered Peerless to spread the word that the Reaper is sailing to Mars to call for an Iron Rain. The chapter ends with Darrow preparing to launch a massive invasion to reclaim the planet from the Bellona.
+
+**Sentence Count Check:** 15
+
+---
+
+### 36: Lord of War
+Darrow gathers a massive armada around the dock moon of Phobos, fueled by warmongers and second sons seeking glory. He uses the Jackal to spread news of Pliny's fall and the call for the first Iron Rain in twenty years. The fleet faces the Bellona and Sovereign forces blocking Mars, while the Ash Lord's Scepter Armada is still a week away. Darrow addresses his legions, using a ritual of blood and masks to inspire his followers to fight for their own destiny. He promises to take the Thousand Cities of Mars and eventually destroy the Sovereign, Octavia au Lune.
+
+The Jackal prepares a virus to shut down planetary communications for fifteen minutes, blinding enemy sensors during the initial drop. Darrow instructs the Jackal to save his father, Nero au Augustus, once the capital city of Agea is taken. Whites, the ethereal and barefoot priests of the Society, conduct a traditional ceremony marking the warriors' brows with laurel. Every Gold smears their face with blood and recites the names of their enemies, including Cassius, Aja, and the Sovereign. Individual hunters and Olympic Knights are expected to hunt Darrow's signal for the bounty on the Reaper’s head.
+
+Darrow assigns Orion to lead the flagship Pax while Roque and Victra command the broader fleet in space. He insists on attacking Agea directly, despite Roque's concerns about the high casualty count and the strategic risk. Darrow reconciles with Roque before the battle, apologizing for past slights and the deaths of Quinn and Lea. Lorn warns Darrow that the "boy warlord" legends have spread and urges him to be a better man than the one who tricked him. Victra and Theodora offer final words of support as Darrow and the Howlers head to the hangar for the launch.
+
+**Sentence Count Check:** 15
+
+---
+
+### 37: War
+The hangar bay of Darrow's ship is a massive cavern filled with thousands of soldiers preparing for the planetary assault. Orion, Roque, and Victra manage the space battle, launching ripWings, which are silent fighters, to breach enemy ship hulls. Darrow questions if the Sons of Ares is a Gold trick, but Sevro's howl is met with a fanatical response from the legions. The traditional Society standards are replaced by new banners featuring wolves and slingBlades, marking the legions as Darrow's own. Darrow realizes the lowColors love him for the choice he gave them, rather than just for victory and glory.
+
+Sevro warns Darrow that his performance today will be recorded and broadcast to make the entire fleet truly his. He argues that if Darrow wins Mars and reveals his true nature, he will transcend Color and become a living god. Proctor Jupiter, a hedonistic Gold who lost a duel to Fitchner, joins the group as an emissary for the loyalist cities. Jupiter reports that Cassius and Karnus are conducting ground operations inside the shielded capital city of Agea. He also mentions a series of mysterious heavy shuttles that landed in the city the previous night.
+
+Milia and other Golds from the Institute reunite with Darrow's team, highlighting the messy alliances of the civil war. Mustang oversees the troop operations and expresses concern that the Bellona might kill her father before they land. Darrow reassures her that Nero is a valuable bargaining chip and will likely be kept alive for leverage. The team prepares for launch as the ship reaches the designated coordinates for the drop. Darrow watches Mustang leave to lead her men, feeling the weight of the coming invasion of Mars.
+
+**Sentence Count Check:** 15
+
+---
+
+### 38: The Iron Rain
+Darrow waits in a spitTube, a high-velocity magnetic launch mechanism, feeling the intense fear of the coming Iron Rain. He reflects on his dual identity as a Gold and a Red, carrying Eo’s hair in his pendant as a reminder of his mission. The Howlers and his commanders exchange jokes and professions of love over the coms to mask their terror before launch. Darrow tells his friends "Hic sunt leones" before the tubes fire, launching them into the chaotic space battle. He is claimed by extreme velocity and bile as he rips through the magnetic stream toward the Martian atmosphere.
+
+Space is filled with fire and lightning as behemoths of metal exchange missiles and railgun fire in eerie silence. Victra’s mother switches sides as promised, unleashing over two hundred leechCraft boarding vessels into the core of the Bellona fleet. Kavax and the Telemanuses land on the flagship Warchild to begin a bloody boarding operation against Imperator Bellona. Darrow is part of a massive rain of men in starShells, heavily armored exoskeletons used for planetary insertion, falling toward Mars. He witnesses thousands of soldiers dying in the descent as their armor folds under the heat and enemy anti-air munitions.
+
+Darrow breaks through the atmosphere, where sound returns and surface gunfire carves holes through the falling swarm. He watches Daria the Harpy die instantly when a missile strikes her during the final dive through the clouds. The team slams into a snow-covered mountain, where Sevro pukes from the stress and the Howlers mourn their lost comrades. Darrow realizes the true horror of modern war is the constant threat of unseen death from technology and chance. The squad sheds their thermal exoskeletons to skip across the Martian plains using gravBoots toward the target city of Agea.
+
+**Sentence Count Check:** 15
+
+---
+
+### 39: At the Wall
+Roque informs Darrow that the Sovereign, Octavia au Lune, is secretly on Mars and trapped behind the shields of Agea. Darrow reveals to Mustang and Sevro that he already knew she was there because he tracked Aja’s radiation signature. The army advances through the Valles Marineris, a massive canyon filled with lakes and forests that houses the capital city. They stage their forces at Olympus, the floating mountain, which Ragnar’s men have already cleared of resistance. Mustang analyzes the enemy's static defenses and concludes that the Bellona are likely setting a trap for the invaders.
+
+Darrow addresses his council, confirming that the Sovereign is the primary target and her capture will fracture the Society. He orders his friends to avoid engaging Cassius, Karnus, or Aja to stay focused on seizing Octavia. The vanguard moves fast through the green canyon, using speederbikes and starShells to evade drones and minefields. They reach the massive ninety-kilometer-wide defensive wall of Agea, which nips the edge of the planetary shield. Feint assaults draw fire from the wall's turrets while Darrow’s elite squad dives into the river to find an alternate entry.
+
+Following a path prepared by the Sons of Ares, the team swims through a deep underwater tunnel beneath the city wall. Darrow, Ragnar, Mustang, and Sevro surface in the muddy riverbank inside the city, hoping for a surprise infiltration. They find a lone Brown girl standing in the mud, who snatches an EMP globe, a device for disabling electronics, from her basket. Darrow prevents Sevro from shooting the girl, only to realize that Bellona knights are waiting for them atop the wall. The girl activates the globe, triggering a trap that begins to kill Darrow’s team as their technology fails.
+
+**Sentence Count Check:** 15

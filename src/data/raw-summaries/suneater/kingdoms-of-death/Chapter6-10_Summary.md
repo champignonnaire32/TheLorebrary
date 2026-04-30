@@ -1,0 +1,52 @@
+### 6: Old Scars
+Hadrian Marlowe resides at Maddalo House on the planet Nessus seventy years after the events on Berenike. He practices swordplay in a vaulted gymnasium using a complex fencing gimbal system that projects holographic knights. The machine uses articulated metal arms to simulate four distinct opponents including a samurai and a knight in Gothic plate. During a session, Hadrian strikes down three of the four drones before pausing the simulation. He notices Valka and Tribune Bassander Lin watching him from the gymnasium entrance.
+
+Bassander Lin comments on a black eight-winged angel flag belonging to the former dictator Marius Whent. Hadrian towels himself off and mentions that he uses a black leather glove to hide the scars on his left arm. These deep scars were caused by a highmatter sword—a weapon utilizing a pentaquark reservoir—during his time in the Grand Colosseum. Valka uses her demarchist implants and neural lace to ensure the ancient villa is not bugged by the Chantry. Lin expresses his gratitude to Hadrian for rescuing him from the battlefield on Berenike.
+
+Hadrian returns to his bedchamber to dress in a white tunic and high boots for the evening meal. He examines his collection of artifacts including a piece of white shell from the Quiet and a silver genetic phylactery. During dinner in the garden, Lin reveals that he overheard a rumor from Sir Gray Rinehart, Director of Legion Intelligence. The rumor suggests that Emperor William XXIII intends to appoint Hadrian as an "Auctor" of the Imperium. An Auctor serves as an Imperial proxy with the power to command Legions and issue laws with the Emperor's own voice.
+
+**Sentence Count Check:** 15
+
+---
+
+### 7: The King's Demon
+Hadrian spends several weeks attending advisory sessions at the Magnarch’s palace before receiving an official Imperial summons. The Emperor’s manservant, an androgyn named Nicephorus, leads Hadrian and Valka to a private chapel for the meeting. Emperor William XXIII kneels before an altar frescoed with the image of Earth while Archprior Leonora watches nearby. Hadrian kneels before the monarch and requests the release of Valka, who is technically a prisoner of the state. The Emperor orders all his attendants and logothetes to leave the room so he can speak with Hadrian privately.
+
+William XXIII paces the chapel and discusses the "miracles" Hadrian performed at Vorgossos, Aptucca, the Colosseum, and Berenike. He admits that the Chantry viewed Hadrian as a heretical threat and acted against him without direct Imperial orders. The Emperor demands that Hadrian perform "magic" for him to prove his status as the Earth’s Chosen. Hadrian refuses to perform a demonstration and instead cites his numerous military victories as sufficient proof of his value. Valka interrupts the conversation to defend Hadrian, leading to a tense exchange with the Emperor and the Archprior.
+
+The Emperor dismisses the Archprior's demands for Valka’s punishment and continues his discussion about Hadrian's future utility. He explains that Hadrian is too valuable a tool to remain idle on Nessus despite the Chantry's desire for his execution. Instead of naming Hadrian an Auctor, the Emperor appoints him as an apostol to the Lothrian Commonwealth. Hadrian is tasked with securing military support from the Commonwealth, a massive human nation governed by a Grand Conclave. The Emperor orders the Magnarch Karol Venantian to immediately outfit Hadrian’s ship, the Tamerlane, for the long journey to Padmurak.
+
+**Sentence Count Check:** 15
+
+---
+
+### 8: Shattered Glass
+Hadrian boards the Ascalon, a Challis-class interceptor designed for secret transport, to leave the surface of Nessus. He and Valka watch from the bridge as the ship approaches the massive Tamerlane battleship in orbit. The Tamerlane is over twelve miles long and houses ninety thousand personnel, including frozen infantry and naval officers. Upon docking, Hadrian reunites with Captain Otavia Corvo, who has not aged because she remained in fugue for seventy years. First Officer Bastien Durand and the rest of the crew also awaken from their long stasis to resume their duties.
+
+Hadrian meets his old friends Pallino and Elara, who have only been out of stasis for a single day. He also acknowledges Commander Lorian Aristedes, a short man with silvered braces on his fingers due to his physical condition. The crew prepares for a voyage to Padmurak that will take over forty-three standard years to complete. Captain Corvo plans a seven-year initial leg to Gododdin at top speed to refuel and test the ship's systems. Hadrian decides to stay awake during the first segment of the journey instead of entering fugue with the rest of the company.
+
+Hadrian returns to his private quarters and finds the room exactly as he left it decades earlier. He discovers shattered glass on the floor near a sideboard and realizes his preservation bubble has broken. The Galath blossom inside—a silver-edged flower from his youth—has withered into a gray, desiccated husk. Using his second sight, Hadrian looks through infinite variations of time but finds no possibility where the flower remains whole. He crushes the remains of the dead flower in his fist and orders a stevedore to clean up the shards.
+
+**Sentence Count Check:** 15
+
+---
+
+### 9: Kings and Pawns
+Hadrian searches through crates in the cold hold of the Ascalon to find a missing silver half-moon pendant. This pendant is a genetic phylactery containing the DNA of Valka, which she gave him as a sign of their commitment. In the Tavrosi culture, such items are exchanged between partners because traditional marriage is forbidden by the Demarchy. Hadrian sifts through boxes of clothing and combat armor crafted on Forum but fails to locate the artifact. Commander Lorian Aristedes sits nearby and suggests that the item might have been left behind at Maddalo House.
+
+Lorian questions Hadrian about whether they are actually going to Padmurak or planning to go "renegade." Hadrian confirms they are following the Emperor's orders to perform their duty and secure the Commonwealth's support. He explains that the Chantry still believes he is a false prophet, especially after the recorded events on Berenike. Hadrian mentions the rumor that the Emperor intended to name him an Auctor, effectively making him a co-Emperor. Lorian reacts with shock and speculates that the Padmurak mission is a test designed to buy the Emperor more time.
+
+They discuss the Emperor's advanced age and the likelihood that he is preparing for a dynastic transition. Hadrian worries that Prince Alexander, who fears him, may be named as the successor to the throne. If Alexander becomes Emperor, Hadrian believes his position as an Auctor would be extremely dangerous and politically volatile. Elara and Pallino enter the hold to assist with the search after speaking with Valka about the missing items. Hadrian decides to check the fugue lockers as a final effort to find his washbasin and the silver phylactery.
+
+**Sentence Count Check:** 15
+
+---
+
+### 10: Paradise
+The Tamerlane arrives at Padmurak, a cold world where the capital city Vedatharad is built beneath massive alumglass domes. Hadrian observes the brutal concrete architecture and the utilitarian efficiency of the Commonwealth’s infrastructure from his shuttle. He dons his specialized combat armor and deploys his helmet, which clicks into place with a series of pressure seals. Valka wears a red tunic with a breastplate embossed with the Marlowe house sigil of a pitchfork and pentacle. The delegation disembarks onto a tarmac where they are met by a double line of Lothrian soldiers in gray uniforms.
+
+Hadrian notices the Lothriad carved above a hangar entrance, representing the approved thoughts and phrases of the state. A gray-suited representative welcomes them using guttural Lothrian speech that is translated and censored by machines. The representative leads the group through the empty streets of Eleventh Dome, which have been scrubbed clean for the visit. Black-armored guards stand on every corner of the city, which is filled with steam and condensation from the climate systems. Valka notes that the environment reminds her of her home in the Tavros Demarchy because of its sterile and controlled nature.
+
+The delegation arrives at the People's Palace, a massive stone ziggurat surrounded by barracks and the offices of the secret police. Camera drones follow Hadrian and his forty guards as they mount the red-carpeted steps of the central pyramid. They pass through security scanners that detect Hadrian’s highmatter sword, shield projector, and his adamantine arm bones. Three identical gray-suited officials greet them in the palace atrium and use scripted phrases to explain the local customs. The officials inform Hadrian that the Grand Conclave is not currently in session and he must wait to be summoned.
+
+**Sentence Count Check:** 15

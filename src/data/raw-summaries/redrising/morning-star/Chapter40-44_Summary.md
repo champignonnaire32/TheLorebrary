@@ -1,0 +1,52 @@
+### Chapter 40: Yellow Sea
+Darrow waits on a sulfur dune on the moon Io with Sefi and five Valkyrie in black pulseArmor. Sevro and Clown scout a nearby settlement while Holiday provides sniper cover from the top of an assault ship. Mustang has arranged a meeting with the Moon Lords, the Gold rulers of the Jovian moons. Io is described as a volcanic, dry moon covered in pulseFields used for large-scale agriculture to feed the Rim. Three Ionian warships land, and seven Golds disembark wearing organic kryll breathing masks and skippers, which are air-powered boots for rapid ground movement.
+
+Mustang arrives with Legate Vela au Raa, the sister of the newly elected Sovereign of the Rim, Romulus au Raa. Sevro reacts with hostility, but Mustang insists that the Moon Lords' code of honor ensures their safety as guests. Vela informs Darrow that Romulus will not meet him in the desert and instead invites him to his private estate. Darrow decides to trust the invitation despite the risk of a trap or betrayal. He instructs Sevro to lay waste to the area if they do not return within six hours.
+
+Mustang and Darrow leave their weapons behind and prepare to travel to the Wastes of Karrack. Sefi remains with Darrow as part of the diplomatic party, though she is instructed to stay behind initially. The Ionian Golds emphasize their adherence to the "Iron Gold" ancestors, contrasting themselves with the "decadent" Core Golds. Darrow acknowledges that his fleet is hidden and vulnerable in orbit near the moon Sinope. The group departs the landing zone to face Romulus au Raa in his home.
+
+**Sentence Count Check:** 15
+
+---
+
+### Chapter 41: The Moon Lord
+Darrow and Mustang arrive at Romulus au Raa’s simple estate located in the shadow of a dormant volcano. They remove their boots at the entrance of the house, which is protected by a discreet pulseBubble to maintain a breathable environment. Vela takes Mustang to speak with Romulus first, leaving Darrow alone in a courtyard garden filled with citrus trees. Darrow meets Romulus’s young daughter, Seraphina au Raa, who is working in the garden without servants. Romulus appears and dismisses his daughter, revealing himself as a man with a scarred face and a blue and black marble prosthetic eye.
+
+Romulus and Darrow sit on stone benches to discuss the potential for an alliance against the Sovereign. Romulus expresses his disdain for the Core's decadence and their failure to uphold the true purpose of Gold violence. Darrow challenges Romulus, calling him a disciplined tyrant rather than a civilized leader. Romulus asks Darrow for the truth regarding the death of his father and daughter during the Triumph on Mars. Darrow confirms that Antonia au Severus-Julii personally killed the young girl after Vixus hamstrung her.
+
+Romulus accepts this painful truth and thanks Darrow for his honesty before revealing a complication. He explains that he cannot make a blind decision because another guest has already arrived at the estate. Darrow notes the polished boots he saw at the door, realizing a Core representative is present. Romulus admits he is weighing his options between Darrow’s proposal and the Sovereign’s peace offering. He then reveals that the Sovereign’s emissary is Darrow’s former friend, Roque au Fabii.
+
+**Sentence Count Check:** 15
+
+---
+
+### Chapter 42: The Poet
+Darrow and Mustang enter an orchard to find Roque au Fabii, now an Imperator, finishing a meal. Roque greets them with formal grace, despite having betrayed Darrow and participated in the deaths of Fitchner and Lorn. The meeting includes the ArchGovernor of Titan and a high-ranking female Imperator as witnesses to the negotiations. Roque blames Darrow for the death of their friend Quinn and the millions killed during the Siege of Mars. Mustang interrupts the personal recriminations to demand that both sides present their formal propositions to the Moon Lords.
+
+Roque offers the Rim Golds full cessation of hostilities and the removal of the Societal garrison from Jupiter. He promises equal representation in the Senate and the delivery of Antonia au Julii to the Rim for justice. Darrow counters by offering the Rim total independence from the Core, with no taxes or mandatory military service. He reveals that Admiral Orion is currently commanding a hidden armada ready to strike the Sword Armada. To secure the deal, Darrow makes the ultimate sacrifice by offering to reveal and dismantle all Sons of Ares cells within the Rim.
+
+Mustang produces a datapad containing falsified evidence that the Sovereign has cached nuclear weapons on Asteroid S-1988 for use against the Rim. Romulus is enraged by the implication that the Core planned another "Rhea" style annihilation of a rebellious moon. Roque admits a secret nuclear depot exists but claims the specific evidence of intent is a lie. Romulus rejects Roque’s pleas, spits blood in his face to declare a bloodfeud, and orders him to leave Io. Darrow confronts Roque one last time, and Roque tells him that Quinn's death was the moment their friendship ended.
+
+**Sentence Count Check:** 15
+
+---
+
+### Chapter 43: Here Again
+On the bridge of the dreadnought Dejah Thoris, the Gold leaders perform a traditional pre-battle blood ritual. A young girl carries a dagger to cut the hands of the commanders, who then smear the blood on their faces. Mustang and Romulus lead the combined forces of the Martian Reformers and the Rim Golds. Darrow watches the ceremony from the side with Sefi, feeling like an outsider to the Gold culture he is using. He wears red pulseArmor equipped with a slingBlade and a gravFist designed for close-quarters ship boarding.
+
+Darrow says his farewells to Kavax au Telemanus, who treats Darrow as a true member of his family. Kavax invites Darrow to go fishing on his estate on Mars once the war is over. Sophocles the fox sits on Kavax’s shoulder and takes a watermelon jellybean from Darrow’s armor joint. Darrow realizes that Kavax might be the luckiest man among them for maintaining his capacity for kindness. Mustang approaches Darrow and warns him that he is not invincible and must return safely.
+
+Darrow pulls Mustang into a kiss amidst the noise of the hangar bay and the vibrating engines of departing ships. He feels a sudden shudder of fear that this might be the last time they see each other. Mustang returns to her own ship to take command of her portion of the fleet. Sefi waits by Darrow's shuttle, watching the Peerless Scarred return to their respective vessels. Darrow boards his shuttle and prepares to join his own strike force for the upcoming engagement.
+
+**Sentence Count Check:** 15
+
+---
+
+### Chapter 44: The Lucky Ones
+Darrow paces the bridge of his ship as his skeleton crew of Blues prepares for the arrival of Roque's fleet. Roque’s massive Sword Armada crosses the void from Europa to Io to engage the combined rebel forces. Darrow contacts Admiral Orion, who commands the pirate fleet from the dreadnought Persephone’s Howl. Orion jokes about her transition from pirate to admiral and promises to shoot a hole in Antonia's bridge for a red parrot. Victra arrives on Darrow's bridge in golden armor, having been sent by Sevro to ensure Darrow's safety.
+
+Darrow initiates a group com-link with the Howlers, including Sevro, Clown, Pebble, and Holiday. The Howlers are crammed into starShells—heavy mechanized boarding suits—waiting in the hangar bays. They joke about the smell of the moon and their lack of hygiene before the battle. Sefi accidentally broadcasts at maximum volume, causing a brief moment of levity as Holiday helps her adjust her equipment. Darrow tells his friends that they are the lucky ones because they have the chance to make a difference.
+
+Darrow broadcasts an open frequency message to his entire fleet and to Quicksilver on Mars. He declares that they are not defined by Color but by their shared humanity and their fight against fear. He urges his soldiers to follow him through the night to reach the morning on the other side. Darrow pulls his razor into its slingBlade form and commands all ships to prepare for battle. The crew roars in response, and the marines slam their boots against the deck in a final show of readiness.
+
+**Sentence Count Check:** 15

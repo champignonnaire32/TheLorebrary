@@ -1,0 +1,52 @@
+### 6: Alone
+Hadrian returns to his private suite aboard the Tamerlane after meeting with the Imperial family. He removes his ceremonial boots and belt before entering the lounge, which is decorated with relics like Admiral Marius Whent’s black-skulled banner. Valka Onderra Vhad Edda is already there, surrounded by research papers and inscriptions she brought from the ruins at Calagah. She asks how the meeting with Prince Aranata went, and Hadrian mentions the boy is whining about his junior officer quarters. Hadrian pours himself a glass of Kandarene red wine to settle his nerves after the stress of the Imperial audience.
+
+He places his rings and a Galath blossom in a ceramic basin that was a gift from Jinan. Valka refuses his offer of marriage, citing her Tavrosi heritage and their culture's lack of such institutions. Hadrian reflects on Valka’s appearance, noting that she looks barely older than when they met due to her time in fugue. They discuss the Empress’s hostility, specifically how she called Valka a "witch" because of her illegal neural computer. Hadrian expresses fear for Valka’s safety now that the Imperial court is fully aware of her demarchist implants.
+
+Valka dismisses his worries and asks if he successfully gained access to the Imperial archives. Hadrian reveals the Emperor is withholding access as a form of ransom until their current mission is complete. He complains that they are being set up to fail by ministers like War Minister Bourbon so the public forgets their heroics. Valka mocks Bourbon’s Royal French lineage, which Hadrian defends as a valuable piece of historical continuity. Valka embraces Hadrian, reminding him that the ultimate success or failure of their expedition remains in their own hands.
+
+**Sentence Count Check: 15**
+
+---
+
+### 7: Before the Sun Fell
+The Tamerlane enters the orbit of Gododdin, a vibrant blue-green agricultural planet. Hadrian stands on the bridge observation platform and reflects on his future role in the planet's eventual destruction. Captain Otavia Corvo opens a holographic channel to Sir Amalric Osman, the Knight-Castellan of Fort Din. Osman welcomes the Red Company and asks if the legends regarding Hadrian’s inability to die are true. Hadrian reveals himself to the castellan, and they arrange to land at the civilian field in the city of Catraeth.
+
+The landing party arrives at the airfield and is greeted by clean air and a sudden rain shower. Hadrian points out the massive granaries where "bromos," genetically engineered oats used for military protein-base, are processed. They travel in groundcars through the white stone streets of Catraeth toward the mountain fortress of Fort Din. As they ascend, Hadrian watches the city's residents go about their daily lives at bakeries and bookshops. The group reaches the stark concrete citadel of Fort Din, where a Legionary guard of fifty men awaits them.
+
+Hadrian walks toward Sir Amalric alone to emphasize his status as a palatine lord rather than a simple soldier. A massive orbital mirror, a hexagonal structure with three arms, shifts to magnify the sun's light over the city. Hadrian performs a religious sign of the sun disc to mask his surprise at the blinding artificial light. Sir Amalric kneels before Hadrian, though the Knight Victorian declines to offer a signet ring for the man to kiss. Hadrian introduces Valka as his scientific advisor and orders that they begin the mission briefing immediately without rest.
+
+**Sentence Count Check: 15**
+
+---
+
+### 8: Dream Evil
+The mission briefing takes place in a utilitarian room where a data analyst explains the disappearance of five convoy vessels. Three ships, including the Valiant and the Merciless, sent fragmentary distress signals before their communication arrays were disabled. Scholiast Tor Varro calculates that the potential search area covers over twenty-four thousand cubic light-years of space. Commodore Mahendra Verus reports that a fast courier ship has been dispatched to the convoy’s last known trajectory. The telemetry indicates the ships were intercepted while traveling at full warp, implying the use of a gravity net or magnetic grapnel.
+
+Varro argues that timing an attack at superluminal speeds requires the computational power of prohibited artificial intelligence. He suggests that the precision of the strike points toward Extrasolarian involvement rather than the less technologically advanced Cielcin. Hadrian recalls the atrocities committed by the Cielcin and the "ice" threat posed by the machine-obsessed Extrasolarians. Sir Amalric asks if the attack could be linked to the Extrasolarian stronghold of Vorgossos. Hadrian repeats the official Imperial lie that Vorgossos was destroyed, though he knows the planet actually vanished into the dark.
+
+The group discusses Syriani Dorayaica, a new Cielcin prince who prioritizes military targets over the simple slaughter of colonies. Hadrian warns that the war is evolving and that the Imperium faces a new generation of dedicated Cielcin leaders. Bastien Durand points out that the briefing is purely academic until the scout ship returns in two months. Valka suggests that they can begin scanning the volume with sail probes while they wait for more data. Hadrian decides to remain at Fort Din for two months to allow his team to coordinate with the local Legion analysts.
+
+**Sentence Count Check: 15**
+
+---
+
+### 9: The Devil’s Cohort
+The Red Company leadership gathers in their Fort Din suite to discuss the upcoming search for the missing convoy. Prince Alexander insults Ilex by calling her a "homunculus," which provokes a defensive response from the lictor Crim. Valka corrects the prince, explaining that Ilex is actually a dryad with a genome partially derived from trees and algae. Hadrian intervenes, reminding Alexander that palatines are also "grown to order" in tanks by the Imperial High College. They activate a holographic call to Captain Corvo on the Tamerlane to update her on the two-month delay.
+
+During the meeting, Prince Alexander suggests outfitting a second convoy to serve as bait for the mysterious attackers. The crew discusses the logistics of keeping soldiers awake instead of in fugue to repel potential boarding parties. Hadrian orders Tor Varro to assess the local orbital forces to see if a resupply mission is feasible. He grants the ship's crew shore leave in Catraeth but insists on inspecting the city personally first. After the call ends, Hadrian dismisses the group but orders Prince Alexander to remain behind for a private reprimand.
+
+Hadrian tells the prince the story of how he and Captain Corvo executed the vicious tyrant Emil Bordelon. He lectures Alexander on the Eight Forms of Obedience, emphasizing that a leader must serve those he commands. Hadrian insists that a knight must judge individuals by their actions and character rather than their caste or bloodline. He commands the prince to find Lieutenant Commander Garone and beg for his pardon for the earlier insult. Once Alexander leaves, Valka teases Hadrian for his moral growth since the days he killed the priest Gilliam Vas.
+
+**Sentence Count Check: 15**
+
+---
+
+### 10: Pinion and Claw
+Hadrian and Valka spend several days exploring the Grand Bazaar in Catraeth as anonymous commoners. They visit a wooden bookshop and eat pastries while walking under the red banners of the fortress walls. Pallino joins them on a walk and tells a story about a security guard who tried to scan his weapons in a starport. A high, hawk-like hunting cry interrupts them, and they discover a unit of Irchtani drilling near the fort's southern barracks. The Irchtani are flying xenobites from the planet Judecca who are man-sized with emerald feathers and long, bladed wings.
+
+Hadrian observes that the Irchtani use long cutlasses called zitraa and have hands positioned at the midpoint of their wings. Kithuun Barda, the chiliarch of the thousand-man auxiliary unit, greets Hadrian with a wing salute. A hostile Irchtani named Udax interrupts, accusing the humans of treating the xenobites like animals in a zoo. Hadrian tries to pacify the group by mentioning his childhood admiration for the legendary hero Simeon the Red. Udax becomes enraged by the historical comparison and insults Hadrian for his inability to fly.
+
+Udax suddenly attacks, slashing at Hadrian’s chest and kicking him backward with powerful alien legs. Hadrian’s armorweave cape protects him from the blade, but he is forced to draw his highmatter sword to defend himself. He parries a lethal blow, and his glowing blue blade effortlessly slices through the alien's steel cutlass. Imperial prefects swarm the yard, forcing the Irchtani to the ground and stunning a soldier who attempts to escape into the sky. Hadrian confirms that Pallino and Valka are safe before demanding to speak with Sir Amalric Osman about the incident.
+
+**Sentence Count Check: 15**

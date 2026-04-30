@@ -1,0 +1,52 @@
+### 46: SHADOWS OF THE PAST
+Hadrian visits the Grand Colosseum on Forum to meet Crown Prince Aurelian and watch the games. The Grand Colosseum is a massive arena seating 750,000 people, featuring sailing screens and ten thousand statues. Hadrian meets Princess Selene and her sisters, Titania and Vivienne, while they watch ships flood the arena floor. He is introduced to various high-ranking figures, including Lord Peter Habsburg, the Lord Minister of Works. Empress Maria Agrippina summons Hadrian and forces him to humiliate himself by crawling toward her on the carpet to show obedience.
+
+Prince Alexander intervenes to stop his mother's humiliation of Hadrian, defending the knight in front of the court. Alexander later apologizes to Hadrian for the incident and asks to accompany him when he next leaves Forum. During the games, Prince Ricard and Prince Philip taunt Hadrian about his past as a gladiator on Emesh. Philip makes crude comments about Valka, Hadrian's Tavrosi partner, prompting Hadrian to confront the prince. Two Martian Guards, soldiers in formal white combat armor, intervene to separate Hadrian from the Imperial siblings.
+
+The Empress accuses Hadrian of attacking Philip and insults his outcaste status as a former gladiator. Ricard and Philip demand that Hadrian be punished, suggesting he be whipped for his insolence. Philip notices the gladiator teams from Car-Tannae fighting with nets and suggests Hadrian should be forced to fight. These nets are weapons made of highmatter that use remote-activated energy fields to trap enemies. The Empress agrees to the proposal, forcing Hadrian into a combat trial to settle the dispute.
+
+**Sentence Count Check:** 15
+
+---
+
+### 47: ONCE A MYRMIDON
+Hadrian is escorted to his landing shuttle on the royal strand by twelve Martian Guards. He informs Siran of the Empress's demand that he fight in the Colosseum for the amusement of the court. Hadrian rejects the white Imperial colors and demands a red and black Red Company combat kit. He skins out of his civilian tunic and dons a nanocarbon suit underlayment beneath his scarlet breastplate. Siran notices Hadrian's hands shaking but he insists he is ready for the upcoming single combat.
+
+Hadrian realizes his personal highmatter armor is out of reach aboard the Tamerlane and he must use spare equipment. He clicks through the latches of his black and scarlet gear while contemplating the recurring patterns of his life. Siran asks to accompany him, but the rules of the trial dictate it must be a solo engagement. The centurion embraces Hadrian and warns him not to let the company down in the arena. Hadrian accepts her support before returning to the guards to face his judgment.
+
+Hadrian reflects on the Empress's goal to publicly humiliate and destroy his reputation rather than kill him. He prepares to enter the Grand Colosseum as a representative of his own mercenary company rather than a knight of the throne. The Martian Guards lead him back toward the arena through the clouds and flying towers of Forum. Hadrian views the upcoming fight as a consequence of his own rage and pride. He prepares to step into the arena and into the eyes of the entire Empire.
+
+**Sentence Count Check:** 15
+
+---
+
+### 48: HALFMORTAL
+Hadrian enters the arena carrying a spear, a round hoplon shield, a ceramic sword, and a parrying dagger. He walks through a narrow channel in the flooded arena where static fields hold back massive walls of water. The master of ceremonies announces him as the Hero of Aptucca and the Demon in White to the cheering million-person crowd. Hadrian faces Irshan, Prince Philip's personal gladiator and a Maeskolos of Jadd from the eali al’aqran caste. Irshan is a superhumanly fast warrior dressed in colorful yellow and blue silks with a black mandyas robe.
+
+Irshan catches Hadrian's thrown spear with his bare hands and breaks the wooden shaft over his knee. The two engage in a sword duel where Irshan uses a curving Jaddian scimitar to pressure Hadrian's shield. Irshan utilizes his superior genetic reflexes to slap Hadrian's blade aside and deliver a series of disorienting strikes. During the struggle, Irshan kicks Hadrian's shield into the water and knocks him to the ground. Hadrian realizes the Empress intended for him to be killed when Irshan draws a forbidden highmatter blade from his jacket.
+
+Hadrian stabs the parrying dagger through Irshan's foot to pin him to the platform before seizing the highmatter blade. The highmatter edge severs Hadrian's left arm but stops when it hits his adamant bones, revealing his secret prosthesis. Hadrian uses the broken ceramic sword to stab Irshan in the neck, killing the assassin as the crowd screams "Halfmortal." Irshan's body suddenly dissolves into a red and yellow slurry due to dispholide, a Chantry poison hidden in his blood. Hadrian flees the arena to his shuttle, which explodes just as he arrives, leaving him severely wounded.
+
+**Sentence Count Check:** 15
+
+---
+
+### 49: REGENERATION
+Hadrian awakens in a medical bay after spending weeks in a regeneration tank to heal his extensive injuries. Valka sits by his bedside, having been woken from her fugue state by Corvo when Hadrian was brought in. Hadrian learns that Siran survived the shuttle explosion because she had run toward the arena during the initial panic. The explosion killed the pilot officer and was likely orchestrated by the Chantry or Lord Augustin Bourbon. Valka informs Hadrian that the footage of his duel has been broadcast throughout the Empire, solidifying his legend.
+
+The Emperor issues an apology for the events in the Colosseum, claiming he was detained by the War Ministry. Hadrian deduces that the Empress and Bourbon conspired to use the Maeskolos to kill or humiliate him. He explains to Valka that the Empress views him as a dangerous influence on her children due to his associations with "witches" and aliens. Valka expresses exhaustion and doubt regarding their mission to make peace with the Cielcin. She reminds Hadrian that he killed Nobuta and that their path has led only to more war.
+
+Hadrian defends his actions, stating his faith lies in his soldiers and companions rather than the Imperial nobility. He declares his intention to continue fighting against the Cielcin, the Extrasolarians, and his enemies within the Chantry. Valka eventually falls asleep in her chair, and Hadrian encourages her to rest and eat. He asks Valka to send Siran to see him so he can confirm her safety with his own eyes. Finally, Hadrian instructs Valka to find Crim to begin planning his next move.
+
+**Sentence Count Check:** 15
+
+---
+
+### 50: EVIL EYES
+Hadrian waits outside the Imperial water garden while four Knights Excubitor stand guard in their mirrored armor. He studies a twelve-thousand-year-old painting called "The Fall of London" which depicts the Mericanii's defeat by the God Emperor. As the Council meeting ends, Hadrian confronts Lord Augustin Bourbon in the hallway in front of other logothetes. Hadrian removes his glove to reveal his scarred left hand and forces Bourbon to touch his adamant bones while kissing his ring. He glares at Bourbon with a silent curse, frightening the War Minister into a hasty retreat.
+
+Hadrian enters the garden to find Emperor William XXIII sitting in a Savonarola chair near a pool of lotus blossoms. The Emperor dismisses Hadrian from Forum, stating his presence has become a political liability and a lightning rod for trouble. Hadrian asks about the Quiet, the future-dwelling entities he encountered in the ruins on Emesh. He explains that the Mericanii daimon on Vorgossos and the Cielcin both have knowledge of these beings. The Emperor is shocked by Hadrian's knowledge and admits the existence of "oracles" in Imperial history.
+
+The Emperor grants Hadrian access to the Imperial Library on Colchis and gives him a gold ring featuring Sir George the Dragonslayer. Hadrian is ordered to take the Tamerlane and Prince Alexander and leave Forum immediately to begin his research. William admits that the Empress suggested banishing Hadrian to a prison colony but he prefers to keep him as a useful servant. Hadrian asks if he is still to marry Princess Selene, but the Emperor remains non-committal about the future. The Emperor uses the name "Halfmortal" for the first time before dismissing Hadrian from his presence.
+
+**Sentence Count Check:** 15

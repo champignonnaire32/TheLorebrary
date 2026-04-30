@@ -1,0 +1,21 @@
+### Chapter 6: The Tleilaxu Question, from
+Teg reflects on his mother's lingering influence in his home, even after his family had lived there for years. He notices Patrin's return for a notebook, sensing a shared awareness of his mother's pervasive presence. Meanwhile, on Tleilax, Tylwyth Waff, the Master of the Masters, surveys Bandalong, seeing it as his domain. He muses on the Tleilaxu's millennia of patient planning, through the eras of Leto II and the Scattering, all leading to their ultimate ascendancy. Waff perceives this era as "the long beginning," a complex strategy involving surmounting disasters and enduring humiliations.
+
+The Bene Tleilax had cultivated a false image of weakness and evil, deceiving even the Bene Gesserit, a point Waff emphasizes to his silent councillors. He examines his elfin appearance in a mirror, noting that while Face Dancers could imitate him, they would not deceive his own kind. After the morning bell, Waff, as the Mahai and Abdl, identifies with all Tleilaxu, considering them legalists of the Shariat. He believes the ghola on Gammu represents the culmination of their prolonged strategic waiting, justifying all their patience.
+
+Waff then meets an Honoured Matre, who interrogates him about the ghola he made for the witches, possessing an aged athletic physique, orange eyes, and striking attire. She reveals critical knowledge about a girl on Rakis and demands details about the ghola's memory restoration, shocking Waff with her "Voice" ability. Recognizing her true nature as a hunter of no-ships, Waff deceptively claims the Bene Gesserit seek the ghola. In a calculated act of feigned submission, Waff assassina tes the Honoured Matre and one of her attendants with poisoned darts. His Face Dancers then mimic the deceased Matres, discovering their untraceable origins on Gammu and confirming their sexual power, indicating a successful Tleilaxu deception.
+
+**Sentence Count Check:** 15
+
+---
+
+### Chapter 7: Assessment of Ix, Bene Gesserit
+Sheeana awakens in a priestly complex after her desert trial, surrounded by white-robed priests and priestesses, feeling fear. The priestess Cania reassures her, identifying herself as Sheeana's night attendant. Sheeana senses the priests' fear and confronts them about their intentions to harm her, which they deny. She then demands that the "haram" priests be sent away, which Cania eagerly orchestrates, leaving only Sheeana and her day attendant, Alhosa. Historian-locutor Dromind explains to his colleagues that Sheeana's name is a modern form of the ancient Siona, who served Shai-hulud.
+
+High Priest Tuek moves Sheeana into his own quarters, initiating a process of propitiation from all ranks, with Sheeana receiving a fine stillsuit and new priestly robes. Dromind persists in expounding on the original Siona, linking her to Duncan Idaho and their widespread descendants, but he is dismissed by Tuek for questioning Sheeana's purpose. Tuek later orders Dromind's elimination in the desert after Dromind suggests further tests on Sheeana and questions her childish inquiries. Sheeana gradually recognizes her immense power over her attendants, who fulfill her every whim, including bringing her children from the streets as playmates.
+
+The Bene Gesserit closely observe Sheeana's unceasing curiosity and educational interactions with the priests, with Taraza ordering a constant defense force and regular reports. Sheeana never reveals her true origins or Shaitan's actions, keeping it a private matter as payment for her survival. Despite her continued curiosity, Sheeana makes fewer desert trips, realizing answers about Shaitan might not be found there. Taraza's final message to her observers confirms Sheeana is "the one," ready for their next move.
+
+**Sentence Count Check:** 15
+
+---

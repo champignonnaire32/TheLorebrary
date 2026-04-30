@@ -1,0 +1,52 @@
+### Chapter 6: Chapter 6
+Alia observes the Guild entourage entering the reception hall from a hidden spy window. Paul sits on the Lion Throne wearing golden robes and a personal shield while surrounded by guards. The Guild Ambassador, a Steersman named Edric who swims in a tank of orange spice gas, presents his credentials. Edric offers a gift called Hayt, a Tleilaxu ghola created from the dead flesh of Duncan Idaho. This ghola features mechanical metal eyes and has been trained as a Zensunni-mentat, a human computer with philosophical conditioning.
+
+Alia identifies the man as Idaho through her genetic memory but realizes he is a Tleilaxu reconstruction. Paul recognizes the face and voice of his former mentor but notes the ghola has no memory of his past life. The Emperor questions Hayt about his name and his potential for service to the Atreides throne. Hayt explains that his mind is cleansed and he makes decisions without the constraints of cause and effect. Paul privately worries about what the Tleilaxu, masters of biological engineering from the axolotl tanks, have hidden in the flesh.
+
+After dismissing the Guild, Paul commands the ghola to stay behind for further questioning. Stilgar argues that the creature should be killed for its water, but Paul refuses to send the gift away. Hayt candidly admits to Paul that the Tleilaxu intended for him to destroy the Emperor. Paul asks the ghola how he should protect himself, and Hayt advises him to send the gift away. Paul decides to keep the ghola despite the danger because of the debt he feels toward the original Idaho.
+
+**Sentence Count Check:** 15
+
+---
+
+### Chapter 7: Chapter 7
+Irulan enters a sparse stone cell to visit the Reverend Mother Gaius Helen Mohiam. Mohiam has been imprisoned in Paul's Keep after being intercepted on a Guild heighliner. The two women use Bene Gesserit finger-talk to communicate secretly while a guard monitors them through glass. Irulan explains that the Lady Jessica will not help the Sisterhood against her own son. Mohiam uses her training to achieve calm through meditation while dealing with the failure of her mission.
+
+The Reverend Mother commands Irulan to exploit the loneliness of the Emperor and his sister Alia. She instructs Irulan to arrange private encounters between the siblings to explore potential crossbreeding. Irulan reports that Chani has adopted a Fremen fertility diet that bypasses the contraceptive drugs she has been administering. Mohiam reacts with rage to the news that a wild Fremen heir might be born to the Atreides line. The Sisterhood requires a pure genetic line and fears that a child will consolidate Paul's power permanently.
+
+Mohiam orders Irulan to introduce an abortifacient into Chani's food or to kill the concubine outright. Irulan protests the danger of such an action, fearing she will be caught and executed by the Emperor. The Reverend Mother dismisses Irulan's fear, stating that the Princess is a spent asset in the war for genes. Irulan departs the cell, resolving to act as a princess of the Empire despite the risk of death. Mohiam consults the Dune Tarot, a set of divination cards, and sees omens of betrayal and a hoodwinked sibyl in the cards.
+
+**Sentence Count Check:** 15
+
+---
+
+### Chapter 8: Chapter 8
+Alia stands on the south platform of the Fane of the Oracle, a massive temple complex, watching a mob of pilgrims. She notices vendors selling red and green Dune Tarot decks, a new technology used for divination. The Princess retreats to her private quarters and dismisses the Fremen guards assigned by Stilgar. She enters a training chamber filled with Ixian machines designed to hone Bene Gesserit physical awareness through sensory stimuli. Alia strips naked and prepares to practice with a fencing mirror and a target dummy armed with a blade.
+
+The fencing dummy uses servomotors and reflector circuits to simulate a lethal combat opponent. Alia activates the target shield and begins an attack-parry-counter sequence with her sword and crysknife. She gradually increases the difficulty until eight marker lights are active, a level that can maim or kill. In a state of exaltation, she pushes the machine to eleven lights, exceeding the limits of the finest swordsmen. Paul enters the room and throws a knife into the deactivating stud to stop the dangerous training session.
+
+Stilgar witnesses the feat and warns that the Princess requires a mate to stabilize her wild behavior. Paul agrees with the Naib's assessment and promises to discuss the matter of a husband with his sister later. The siblings discuss Irulan's report that the Guild is attempting to capture a live sandworm for transport. Stilgar notes that capture would require Fremen accomplices and a suitable world to start the spice cycle. Paul expresses concern that his prescient visions are being clouded by the widespread use of the Dune Tarot.
+
+**Sentence Count Check:** 15
+
+---
+
+### Chapter 9: Chapter 9
+Paul meets with Edric and his aide Scytale, a Tleilaxu Face Dancer who can mimic any human form. Edric uses a beam pointer to indicate a shrine on a relief map of the palace. The Steersman openly questions whether Paul is a god or merely a man conspiring to create a religion. Scytale stands by, appearing vacant but possessing eyes that laugh at the Emperor's court. Paul utilizes his mentat abilities to process thousands of data bits during the tense conversation.
+
+Stilgar enters the room and orders the guards to move closer to the Guild Ambassador's spice tank. Edric argues that prescience would annihilate itself if it were the only force in the universe. Paul warns the Ambassador that his sister Alia is a goddess who could strike him dead with a glance. Scytale suggests that people cling to Imperial leadership because they are lonely in the infinity of space. After the Guildsmen depart, Paul turns his attention to his own religious officials and the history of Earth.
+
+Korba the Qizara arrives with shigawire reels, which are glittery storage devices containing historical records requested by the Emperor. Paul compares his Jihad to the ancient terrors of Genghis Khan and Hitler, who killed millions in their time. The Emperor calculates that his own legions have killed sixty-one billion people and sterilized ninety planets. Korba reports that strangers and potential Sardaukar spies are trampling the plants in the palace gardens. Paul commands Korba to identify and kill these intruders quietly to maintain order in the Sacred Precincts.
+
+**Sentence Count Check:** 15
+
+---
+
+### Chapter 10: Chapter 10
+Alia crouches in the desert to examine the tattered remains of a young woman's body on a dune. The victim was a Fremen woman addicted to semuta, a narcotic normally forbidden by the tribes. Medics determine the cause of death was a Tleilaxu poison known as the throat of hell. Paul sent Alia to investigate because the presence of an addicted Fremen suggests a deep societal rot. Hayt, the ghola, waits nearby while the mortuary attendants prepare to remove the remains.
+
+During the flight back to Arrakeen, Hayt demonstrates a piloting style identical to the original Duncan Idaho. The ghola admits he experiences flashes of imagery and spasms of memory from his former life. While flying over the tomb of Paul's father, Hayt feels a ghost arm on his shoulder and weeps. Alia touches the ghola's tear, marveling at the Fremen act of giving water to the dead. Hayt identifies himself as a disciple of awareness rather than a mere servant of the Atreides.
+
+The ghola warns Alia that the Emperor is destroying himself by allowing flattery and servility to cloud his rule. He advises Alia to judge her enemies and friends with the calculated order of a ruler. Hayt suddenly leans across the controls and kisses Alia, an act she realizes she secretly desired. Alia threatens to have him flayed for his presumption, but the ghola notes that he only took what was offered. They conclude the investigation by discussing the possibility that the dead woman was a Face Dancer mimic.
+
+**Sentence Count Check:** 15

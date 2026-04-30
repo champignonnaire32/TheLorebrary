@@ -1,0 +1,52 @@
+### 58: Never Again
+Dalinar and King Elhokar argue in Dalinar's quarters while Kaladin sits in chains. Elhokar demands Kaladin's execution for slandering Brightlord Amaram in the dueling arena. Dalinar refuses to permit the execution, prompting the king to settle on indefinite imprisonment instead. Kaladin reminds Dalinar that Elhokar requested his service, but Dalinar orders him to accept the prison sentence as a soldier. Dalinar reveals that seventeen witnesses refuted Kaladin's claims that Amaram stole his Shardblade.
+
+Torol Sadeas slams the door to his quarters and dictates a response to the challenge while sweating from the near-duel. He observes that Adolin is becoming as formidable as the young Blackthorn once was. Sadeas instructs his wife Ialai to use their spies to find information that will ruin Dalinar's reputation. He also decides to activate the assassins they have planted within the Alethi camps. Sadeas states his intent to see Dalinar wounded and desperate before finally ending his life.
+
+Soldiers transfer Kaladin to a stone cell in Dalinar's warcamp prison while wearing chains on his hands and feet. Kaladin observes a sign of respect from a guard but tells Syl he will never trust a lighteyed man again. He lies down on a stone bench in the small, windowless room. Syl watches him from an invisible bench on the wall as he closes his eyes. The chapter concludes with Kaladin sitting in a cage as the end of Part Three.
+
+**Sentence Count Check:** 15
+
+---
+
+### Interludes: Interludes
+Lift, a Reshi thief with tan skin and long black hair, breaks into the Bronze Palace in Azir alongside a group of master thieves. She uses her "awesomeness"—fueled by metabolizing food into Stormlight—to climb smooth bronze walls with the help of Wyndle, a Cultivationspren appearing as a trail of vines. While sneaking through the palace, she is hunted by Darkness, the Herald Nale, who possesses a crescent birthmark and a Shardblade. Darkness uses a Larkin, a winged creature with a snout that sucks Investiture, to drain Lift of her powers before capturing her. Lift escapes when the viziers are distracted by the death of her companion Gawx, an Azish youth whose throat was slit by a minion.
+
+Lift returns to the palace to save Gawx using the Surge of Regrowth, breathing light into his body until he revives. Gawx is immediately declared the Prime Aqasix, the ruler of Azir, by the viziers because he survived a fatal wound. Darkness bows to the new emperor and leaves the palace without completing the execution. Meanwhile, Szeth-son-son-Vallano sits atop Urithiru, a massive mountain-city tower, and concludes that the return of Stormlight-using men means his banishment was a mistake. He decides to seek answers for himself and flies south from the mountains.
+
+On the Shattered Plains, Eshonai fully embraces her Stormform, a listener form characterized by red eyes and the ability to summon lightning. She stages a coup within the city of Narak, seizing control from the other members of the Five who resist the transformation. Eshonai organizes a mass transformation for thousands of listeners during the upcoming highstorms. She allows her former friend Thude to lead a group of dissenters into the chasms, intending to let them die in the next storm. Eshonai prepares her new army to use a summoned highstorm to destroy the Alethi forces during their final march.
+
+**Sentence Count Check:** 15
+
+---
+
+### 59: Fleet
+Kaladin paces his windowless cell on the third day of his imprisonment. He considers using the Stormlight from the spheres in the hallway to break out but decides against it due to Dalinar's orders. Syl tells him that doing what is right matters more than following the law. Kaladin speaks against King Elhokar's instability and claims the kingdom would be better off without him. He expresses agreement with Moash and the conspirators regarding the necessity of removing the king.
+
+Hoid, appearing as Wit, manifests in the room outside Kaladin's cell and begins tuning a stringed instrument. He ignores Kaladin's questions about his entrance and insists on telling a story. Wit plays a fast, energetic rhythm and describes a man named Fleet who raced against a highstorm. Fleet runs across the entire continent of Roshar, leading the storm from the eastern sea to the western shores. He crosses mountains and plains, staying just ahead of the wall of wind and lightning.
+
+Fleet eventually reaches the land of Shinovar but dies of exhaustion just before finishing the race. Wit explains that although Fleet's body failed, his spirit rose and continued to fly within the winds. The story states that Fleet won the race by refusing to let his will be broken by the storm. Kaladin asks for the meaning of the tale, but Wit instructs him to decide the meaning for himself. Wit salutes Kaladin with his sword before disappearing from the prison hallway.
+
+**Sentence Count Check:** 15
+
+---
+
+### 60: Veil Walks
+Shallan stays awake late into the night comparing ancient maps of Natanatan with modern maps of the Shattered Plains. She concludes that the ancient city of Stormseat was located directly on the Shattered Plains rather than in the highlands. Pattern, her Cryptic spren who appears as a complex shifting geometric pattern, questions her lack of sleep. Shallan explains that she must find the Oathgate, a teleportation device that once connected Stormseat to Urithiru. She plans to use this information to convince Brightlord Sebarial to take her onto the Plains.
+
+Shallan observes that Brightlord Amaram is also searching for the Voidbringers and the path to Urithiru. She receives a letter stating that Navani Kholin is too busy caring for a sick Dalinar to meet with her. Shallan tries to practice her Surgebinding by manifesting an illusion of her alter ego, Veil. Veil is a darkeyed Alethi woman with a pointier nose and tan skin. Shallan notices that she does not glow while holding Stormlight if she is actively powering a large illusion.
+
+Pattern warns Shallan that she must stop lying to herself and remember the truths of her childhood. Shallan briefly sees a vision of her younger self huddled on the bed and unable to laugh. She suppresses these memories and focuses on learning how to attach her illusions to Pattern. By infusing Pattern with Stormlight, she allows the illusion of Veil to move independently through the room. Shallan succeeds in making the illusion glide across the floor by having Pattern crawl beneath its feet.
+
+**Sentence Count Check:** 15
+
+---
+
+### 61: Obedience
+Shallan recalls her childhood as a quiet daughter who avoided her father's presence. Brightlord Lin Davar beat servants and others in her name whenever she angered him. Her brothers Balat, Wikim, and Jushu requested that she tell stories and jokes when their father was absent. Lin Davar's political influence and wealth grew significantly after he discovered a marble deposit on his lands. Despite his success, his temperament became colder and more prone to violent outbursts.
+
+During a family meal, Lin orders Balat to break off his engagement to Eylita Tavinar due to her low social rank. When Balat mentions their brother Helaran, Lin becomes enraged and forbids the name from being spoken. Lin orders his guards to slaughter Balat's new axehound pups as punishment for his son's defiance. Shallan finds Balat in the kennels surrounded by the corpses of the animals and small insects called painspren. Balat reveals that he met with Helaran and considered fleeing the house to live as a commoner.
+
+Shallan overhears her father ordering the captain of his guards, Rin, to assassinate Helaran in the city of Valath. Lin Davar offers Helaran's Shardblade to Rin as payment for the murder. Shallan's stepmother Malise confronts Lin about the order, but he dismisses her and shouts about the family's lack of obedience. Shallan hides in her room as the two continue a violent argument in the hallway. She observes that her father is being controlled by an unseen force she identifies as something awful.
+
+**Sentence Count Check:** 15

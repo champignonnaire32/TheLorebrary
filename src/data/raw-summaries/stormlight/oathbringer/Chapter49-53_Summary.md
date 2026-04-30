@@ -1,0 +1,52 @@
+### 49: Born unto Light
+Twenty-three years ago, Dalinar Kholin uses firemoss in a dark den to escape his craving for the Thrill of battle. He watches a wrestling match where a smaller man defeats a larger opponent through superior technique. Seeking a physical outlet, Dalinar challenges the champion wrestler named Makh to a freeform bout. The spectators and the wrestler refuse to fight him because of his status as Highprince, leaving him frustrated and unfulfilled. His officers inform him that his previous tavern brawl left one man paralyzed, another with an amputated arm, and a third brain-damaged.
+
+Toh arrives to tell Dalinar that his wife, Evi, has gone into labor earlier than expected. Dalinar rushes to the palace and finds Evi exhausted after the birth of their first child. He lifts his healthy son into the air and experiences a burst of joy as golden spheres called gloryspren appear. Dalinar names the boy Adolin, a traditional name meaning "born unto light," after consulting with his wife. Looking at his son, Dalinar resolves to build a more honorable future and support his brother’s kingdom.
+
+King Gavilar later meets Dalinar in a private den and admits that his diplomatic efforts with the Rift have failed. Gavilar expresses a desire to return Alethkar to its ancient glory and mentions his fascination with the Knights Radiant. He explains that Tanalan is raising an army at Rathalas and that the other highprinces are watching for weakness. Instead of sending Dalinar to the Rift, Gavilar orders him to fight border wars in Herdaz and Jah Keved. Dalinar accepts the command to remind the world why they fear the Blackthorn’s sword.
+
+**Sentence Count Check:** 15
+
+---
+
+### 50: Shash Thirty-Seven
+Captain Kaladin uses his Windrunner abilities to fly Dalinar, Navani, Elhokar, and several scholars across the Shattered Plains. They arrive at the Alethi warcamps, which were originally built within the curved walls of ancient stone domes. Dalinar notes that the camps are mostly intact after the Everstorm, though the population has shifted toward Urithiru. Queen Fen of Thaylenah contacts the group via spanreed and agrees to visit the tower city after experiencing a vision. Navani begins sketching designs for a new type of flying ship that would utilize Windrunner Lashings for transport.
+
+Dalinar visits the warcamp monastery to investigate the disappearance of a madman who claimed to be the Herald Talenel. He meets the ardent Kadash, who is packing records and remains skeptical of Dalinar’s claims about the death of the Almighty. Kadash reveals that spanreed links to other Vorin leaders are active and they are discussing the nature of the Desolation. Dalinar discovers that someone used a Shardblade to cut a hole in the stone wall of the madman's locked room. Inside the empty cell, Dalinar finds a small dart tipped with a poison derived from blackbane.
+
+Kaladin identifies the poison and confirms that the Herald was likely targeted for abduction or assassination. Dalinar hands the poisoned dart and the monastery records to Navani for further scholarly analysis. He orders Kaladin to practice flying in front of a highstorm to test the logistics of moving large groups. Dalinar instructs the captain to travel to Thaylen City to help Queen Fen activate her Oathgate. Kaladin agrees to the mission and launches Dalinar back into the air to rejoin the others.
+
+**Sentence Count Check:** 15
+
+---
+
+### 51: Full Circle
+Moash works as part of a parshman sledge crew hauling lumber through the Alethi countryside toward Kholinar. He observes the Fused, ancient spirits inhabiting parshmen bodies, as they hover in the air with mesmerizing grace. The army passes through vast orchards protected by stone ridges built up over generations from accumulated storm crem. Moash tells a parshman named Sah that he previously killed one of the Fused in a surprise encounter. He realizes the invaders are not merely destroying the land but are instead preparing to occupy and rule it.
+
+The army reaches the suburbs of Kholinar and releases the weakest human captives to burden the city as refugees. Moash is assigned to a lumberyard where he must build siege equipment for the upcoming assault on the capital. He laughs hysterically upon realizing he is once again performing the same labor he did in the Alethi warcamps. Meanwhile in Urithiru, Shallan receives a letter from Mraize regarding her new spy assistant, Ishnah. The Ghostbloods claim Ishnah is a minor informant and they offer to help Shallan eliminate her if necessary.
+
+Shallan experiments with Lightweaving and discovers she can attach an illusion to a gemstone to make it self-sustaining. She meets with King Elhokar in his audience chamber and reveals her ability to disguise herself as different people. Shallan offers to lead a team of spies to infiltrate Kholinar and secure the Oathgate from the inside. Elhokar agrees to the plan and writes a formal request for Shallan to join his expeditionary force. Shallan prepares to leave for the capital, hoping to escape her complicated life and help Adolin reclaim his home.
+
+**Sentence Count Check:** 15
+
+---
+
+### 52: After his Father
+Eighteen and a half years ago, Dalinar returns to his camp after crushing a Veden raiding party at the border. He has spent four years on continuous campaign, securing Alethi lands in Herdaz and moving into Jah Keved. The Blackthorn feels the constant warmth of the Thrill and takes satisfaction in his overwhelming military victories. Kadash reports that the enemy suffered heavy casualties while the Alethi lost only two hundred men in the rout. Dalinar rests in his tent, preferring the simple life of a soldier over the complex politics of the royal court.
+
+Evi unexpectedly arrives at the warcamp, wearing traditional Vorin clothing and sturdy walking boots. She explains that Navani encouraged her to visit because Dalinar has not seen his family in over a year. Dalinar reacts with anger and tells Evi that the battlefront is too dangerous for her and the children. Evi reveals that she named their second son Renarin, a combination of Riran and Alethi terms meaning "born unto himself." Dalinar feels a surge of shame for his neglect but allows Evi to massage his shoulders and calm his temper.
+
+Dalinar walks through the camp to find his eldest son, Adolin, who is pretending to fight imaginary enemies atop a chull. Adolin salutes his father and expresses his desire to win his own Shardblade in battle one day. The boy points out his younger brother, Renarin, who is a toddler quietly pulling at blades of grass. Dalinar summons his Shardblade, Oathbringer, and allows Adolin to marvel at the weapon while warning him against pride. He eventually follows Evi to her stormwagon and falls into a deep sleep, leaving the war behind for the night.
+
+**Sentence Count Check:** 15
+
+---
+
+### 53: Such a Twisted Cut
+Jasnah Kholin researches the history of the Veden Siln dynasty while working in the library basement of Urithiru. She uses spanreeds to communicate with her fellow Veristitalians, Jochi and Ethid, who are stationed in other nations. Ethid reports that she is tracking a man she believes is the Herald Nale and a young Edgedancer in Azir. Jasnah shares her conclusion that the Heralds are mentally broken and cannot be relied upon as resources. Jochi provides updates on the devastation in Thaylenah and the movement of parshmen who have stolen ships.
+
+Highprince Meridas Amaram enters the library and requests a private conversation with Jasnah to discuss her uncle. Jasnah refuses to leave the room and proceeds to insult Amaram’s intelligence and his mother’s character in front of the scholars. When Amaram reaches for his Shardblade, Jasnah threatens him with her Radiant powers and a display of Stormlight. Amaram retreats in disgrace, but Jasnah realizes he remains a dangerous threat to the stability of the monarchy. Shallan approaches Jasnah to request a leave of absence so she can join Elhokar’s mission to Kholinar.
+
+Jasnah observes Renarin standing by a wall covered in palm-size stone tiles in the ancient library. Renarin discovers a hidden drawer containing a ruby that has been cut into a strange, inefficient shape. Navani examines the gemstone and notes that the "twisted cut" makes it vibrate and lose Stormlight rapidly. Renarin uses his Radiant abilities to send a wave of Light through the wall, causing hundreds of similar drawers to slide open. The group realizes the ancient Radiants used these encoded vibrating gems to preserve their knowledge for future generations.
+
+**Sentence Count Check:** 15

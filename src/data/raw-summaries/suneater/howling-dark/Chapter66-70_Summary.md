@@ -1,0 +1,52 @@
+### 66: A Bloody Star
+Prince Aranata demands Hadrian serve as a warrior for the Otiolo clan to conquer rival Cielcin groups. The negotiation is interrupted by a blinding red light as the Empire attacks the Cielcin worldship, the Bahali imnal Akura, with antimatter and nuclear weapons. Kharn Sagara realizes an Imperial fleet has emerged from warp and accuses Raine Smythe of orchestrating the ambush. Sagara physically threatens Smythe, lifting her by the jaw while demanding the truth about the fleet's arrival. Bassander Lin steps forward and stuns Sagara’s son, Ren, before turning his phase disruptor on Sagara himself.
+
+Lin shoots Sagara twice in the face, effectively killing the Undying and causing his machine components to fail. The Cielcin prince and his retinue are left blinded and confused by the polarized light of the nuclear fire above. Sagara's machine-flesh plates slide and whir as his body collapses into a smoldering wreck at the end of the pavilion. Smythe appears genuinely shocked by the attack, proving she was excluded from the Empire's tactical plan. The sudden death of the Lord of Vorgossos leaves his servants, the SOMs (Sub-Optimal Models), inert and listless across the garden.
+
+Valka and Hadrian huddle together as the sky is torn apart by the ongoing destruction of the massive worldship. The Cielcin vessel, larger than a moon, is broken into smoldering pieces by the fury of fusion fire and antimatter. Sagara’s daughter, Suzuha, screams in terror before the silence of the garden is replaced by the roar of descending chaos.
+
+**Sentence Count Check:** 13
+
+---
+
+### 67: Traitor and Patriot
+Following Sagara's death, his children Ren and Suzuha collapse into fits, their limbs thrashing against the garden floor. Bassander Lin declares that Strategos Hauptmann and the Imperial fleet have arrived to finalize the war against the Cielcin. Prince Aranata screams in grief as he watches the wreckage of his worldship burn and spin off into space. Hadrian tries to explain to the Cielcin that the Empire followed them, but Lin orders him to stand aside at gunpoint. The Cielcin launch an attack using nahute, which are toothed steel serpents that drill through human armor and flesh.
+
+Hadrian activates his highmatter sword, a blade made of exotic material that shines like moonlight, to defend himself. He parries the staff of the herald Oalicomn and kills the alien by cutting him into two pieces. In the chaos, Hadrian seizes the prince’s young son, Nobuta, intending to use the child as a protective hostage. Tor Varro carries the unconscious Suzuha toward the Imperial lines while Jinan secures the boy, Ren. The group retreats down the hill toward the Garden gate while plasma fire from Imperial lances illuminates the trees.
+
+Hadrian finds the mutilated body of the slave girl who served as a translator, her neck pierced by a drill-wound. He drags Nobuta toward the treeline, passing the inert forms of Sagara’s SOM army that no longer have a master's will. Valka returns to find Hadrian, and the group prepares to board the Schiavona with their new Cielcin prisoner.
+
+**Sentence Count Check:** 13
+
+---
+
+### 68: The Narrow Way
+Hadrian reaches the Garden gate where Smythe, Crossflane, and Lin are holding a defensive line against the Cielcin. A rear guard of armored hoplites stays behind to hold the gate, sacrificing their lives as the nahute drones swarm. The retreating humans find the main bulkhead to the hangar sealed and are forced into a narrow side passage. They navigate a massive hold where seventy-two Mericanii weapons, including the colossal Astrophage, are stored in gestation pods. These ancient machines are sentient titans larger than mountains, designed by minds that perceive creation through alien senses.
+
+Cielcin scahari, or warriors, pursue the group onto a narrow steel catwalk suspended over the bottomless hold. Bassander Lin destroys the catwalk spar, sending a wave of Cielcin soldiers falling into the darkness below. The group reaches the hangar and finds the Schiavona, but the hangar doors are under heavy Cielcin bombardment. Smythe orders the hostages and most of the men onto the ship while she and Crossflane reinforce the hangar gate. A massive explosion strikes the statue-framed doorway, vaporizing the centurion Mozgus and his hoplites instantly.
+
+A second blast rocks the hangar, throwing Hadrian up the ship's ramp just before it seals shut. Valka and a legionnaire pull Hadrian to safety as the ramp closes, leaving the officers trapped in the fire. Looking back through the smoke, Hadrian sees no sign of life from Smythe or Crossflane at the shattered door.
+
+**Sentence Count Check:** 13
+
+---
+
+### 69: Divide and Conquer
+Inside the Schiavona, Hadrian informs the seventy-three survivors that Smythe and Crossflane are dead in the hangar. Tor Varro moves the unconscious children to the medica, noting the blinking blue indicator lights behind their ears. Valka theorizes that Sagara is using remote synaptic kinesis to transfer his consciousness into his children’s neural implants. Bassander Lin assumes command as the ranking officer and begins organizing a defense of the adamant-hulled ship. The ship is trapped by a service umbilical, preventing its escape while Cielcin forces assault the hull with explosives.
+
+Hadrian suggests contacting the Red Company aboard the Mistral, but the Schiavona's external communications are blocked by the Demiurge. Bassander decides to lead a small team through the maintenance hatch and the service umbilical to reach the mercenary ship. He asks for volunteers to help him infiltrate the Cielcin-infested corridors to bring back the three hundred Norman soldiers. Jinan and a decade of legionnaires volunteer to join Lin, while Valka chooses to remain with Hadrian on the ship. Lin stands in silence upon realizing his lieutenant, Greenlaw, was killed during the retreat from the garden.
+
+Despite his grief, the captain vaults onto a supply crate to finish his perfunctory briefing to the remaining crew. He orders the ship’s security to hold the hangar bay and directs Hadrian to deal with the captives. The captain then departs with his team, leaving Hadrian behind to manage the diplomatic situation with the Cielcin prince.
+
+**Sentence Count Check:** 13
+
+---
+
+### 70: Play the Orator
+Valka monitors Sagara's children, explaining that the Undying’s mind is compiling itself into their new machine-linked hardware. Hadrian enters the holography booth to communicate with Prince Aranata, who is leading the siege outside the ship. The prince reveals he has captured twenty prisoners, including a blinded Raine Smythe and a battered William Crossflane. Aranata demands the return of his son, Nobuta, and begins executing human soldiers with Smythe’s captured highmatter sword. Sir William Crossflane stands to protect his men, but the prince seizes him by the hair and bites his throat out.
+
+The Cielcin then devour Crossflane’s body, leaving a thick stripe of red blood across the black hangar floor. Tanaran mocks Hadrian, claiming he is a coward who lacks the spine to harm a child like Nobuta. Hadrian recites his family’s motto and drives his highmatter blade through the Cielcin child’s chest, killing Nobuta instantly. Hadrian deactivates the blade and watches the prince howl in a wordless scream of deep-throated anguish and pain. In a frenzy of retaliatory grief, the Cielcin soldiers fall upon the remaining human prisoners to feast on them.
+
+Hadrian watches through the holograph as the Cielcin tear Smythe’s arm from its socket and begin to consume her. He shuts off the projection booth, ending the communication as the Cielcin continue their retaliatory massacre. The negotiations end in total failure as the Schiavona remains trapped under siege.
+
+**Sentence Count Check:** 13

@@ -1,0 +1,78 @@
+---
+import { getCollection } from 'astro:content';
+import Layout from '../../layouts/Layout.astro';
+
+export async function getStaticPaths() {
+  const allSummaries = await getCollection('summaries');
+  
+  // Group by series
+  const grouped = allSummaries.reduce((acc, summary) => {
+    const seriesData = summary.data.series;
+    if (!acc[seriesData]) acc[seriesData] = new Map();
+    
+    const bookData = summary.data.book;
+    const bookSlug = bookData.toLowerCase().replace(/\s+/g, '-');
+    if (!acc[seriesData].has(bookSlug)) {
+      acc[seriesData].set(bookSlug, {
+        bookName: bookData,
+        bookOrder: summary.data.bookOrder || 99,
+        url: `/${seriesData.toLowerCase().replace(/\s+/g, '-')}/${bookSlug}`
+      });
+    }
+    return acc;
+  }, {} as Record<string, Map<string, any>>);
+
+  return Object.keys(grouped).map(seriesName => {
+    const seriesSlug = seriesName.toLowerCase().replace(/\s+/g, '-');
+    return {
+      params: { series: seriesSlug },
+      props: { 
+        seriesName, 
+        books: Array.from(grouped[seriesName].values()).sort((a, b) => a.bookOrder - b.bookOrder)
+      },
+    };
+  });
+}
+
+const { seriesName, books } = Astro.props;
+---
+
+<Layout title={`${seriesName} | The Distiller`}>
+  <div class="max-w-4xl mx-auto py-12 px-4 sm:px-6">
+    <div class="mb-16">
+      <div class="mb-4">
+        <a href="/" class="text-sm font-bold text-gray-500 dark:text-gray-500 hover:text-gray-800 dark:hover:text-gray-300 transition-colors uppercase tracking-widest flex items-center">
+          <svg class="w-4 h-4 mr-2" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 19l-7-7m0 0l7-7m-7 7h18" />
+          </svg>
+          Back to Archive
+        </a>
+      </div>
+      <h1 class="text-4xl md:text-5xl font-bold mb-6 tracking-tight text-gray-900 dark:text-white transition-colors duration-300">
+        {seriesName}
+      </h1>
+      <p class="text-xl text-gray-600 dark:text-gray-400 leading-relaxed max-w-2xl transition-colors duration-300">
+        Select a book below to view chapter records.
+      </p>
+    </div>
+
+    <div class="grid gap-6 md:grid-cols-2">
+      {books.map((book: any) => (
+        <a href={book.url} class="block group relative p-6 bg-white dark:bg-gray-800 rounded-lg border border-gray-200 dark:border-gray-700 hover:border-gray-400 dark:hover:border-gray-500 transition-colors shadow-sm dark:shadow-none">
+          <div class="text-sm font-bold text-gray-500 uppercase tracking-widest mb-2 transition-colors duration-300">
+            Book {book.bookOrder}
+          </div>
+          <h2 class="text-2xl font-bold text-gray-900 dark:text-gray-100 group-hover:text-blue-600 dark:group-hover:text-white transition-colors duration-300">
+            {book.bookName}
+          </h2>
+          <div class="mt-4 text-gray-500 dark:text-gray-400 text-sm flex items-center transition-colors duration-300">
+            Access Book
+            <svg class="w-4 h-4 ml-2 group-hover:translate-x-1 transition-transform" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3" />
+            </svg>
+          </div>
+        </a>
+      ))}
+    </div>
+  </div>
+</Layout>

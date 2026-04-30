@@ -1,0 +1,52 @@
+### 14: Ironstance
+Adolin Kholin prepares for a Shardblade duel in a newly constructed stone preparation room at the warcamps. He addresses his Shardblade, which is shaped like a long eel with crystal ridges, before his armorers arrive to affix his Shardplate. Navani Kholin burns a red glyphward for safety and glory while Renarin Kholin ensures Adolin has followed his pre-duel superstitions. Adolin enters the arena and fights Salinor Eved, who carries a Shardblade but wears borrowed slate-grey Plate belonging to the King. Instead of traditional dueling forms, Adolin uses Ironstance to brutally smash Salinor’s helm and breastplate with two-handed strikes.
+
+The highjudge awards the victory to Adolin after he rips off Salinor's pauldron to fulfill the requirement of breaking three armor pieces. Adolin forces Salinor to touch the ruby at the pommel of his Blade to break the soul-bond. Adolin claims the Shardblade as a prize and immediately hands the weapon to his brother, Renarin. Renarin hesitates but accepts the Blade, completing his set of Shards alongside his existing Plate. Navani notes that Adolin's display of brutality masked his true dueling skill from potential future opponents.
+
+Adolin agrees to use this perception of pit-fighting trickery to secure more duels from overconfident lighteyes. The crowd's reaction shifts from anticipation of a spectacle to stunned silence at the efficiency of the beating. Adolin reflects on his father’s plan for Alethkar and his own role as a soldier rather than a politician. He dismisses his Blade into mist after the victory is finalized and retreats to the staging room. The chapter concludes with Adolin sitting on a reinforced bench, feeling drained by the influence of the Thrill.
+
+**Sentence Count Check:** 15
+
+---
+
+### 15: A Hand with the Tower
+Shallan Davar travels across the Frostlands in Tvlakv’s caravan while using knobweed sap to treat her rotting feet. Pattern, a Cryptic spren appearing as a shifting geometric pattern, eavesdrops on Tvlakv and the mercenary Tag as they plot to sell Shallan. Shallan confronts Tvlakv by the fire, claiming she will receive a grand fortune upon her arrival at the Shattered Plains. During the argument, Shallan unintentionally glows with Stormlight and her tattered dress appears momentarily restored to perfection. Tvlakv cowers in fear, mistaking the display for the authority of a high-ranking woman of the court.
+
+The guard Bluth returns to camp with reports of several dozen deserters following the caravan's trail. Bluth explains that deserters are broken men who have abandoned their oaths and will likely kill for the wagons. Tvlakv immediately orders the parshmen to douse the fire and harness the chulls, which are large crustaceans used for hauling. The caravan flees eastward into the night, hoping to put a gully between themselves and the bandits. Shallan watches the bandit campfires on a nearby hillside as the wagons move with agonizing slowness.
+
+Pattern reproduces the voices of the conspirators with perfect accuracy to inform Shallan of their true intentions. Shallan realizes that expectation is about how she views herself rather than just what others think of her. The first moon rises, illuminating the landscape and making the caravan's progress feel dangerously exposed. The group avoids a confrontation as the distance between the wagons and the bandits increases throughout the night. Shallan remains alert on the wagon seat, listening to the crunching footsteps of the chulls against the stone.
+
+**Sentence Count Check:** 15
+
+---
+
+### 16: Swordmaster
+Kaladin leads a Bridge Four detachment to the lighteyes' sparring grounds to guard Dalinar’s sons during their training. He observes lighteyed officers using the King’s Shardblades, which are massive soul-severing swords, for practice under the supervision of ardents. Moash expresses resentment toward the special status of the grounds, while Kaladin notes that their exclusion defines the space. Kaladin commands Drehy to watch from the roof while he and Moash monitor the entrances for potential assassins. Syl, an honorspren appearing as a small translucent woman, questions Kaladin about his continued distrust of Dalinar Kholin.
+
+Kaladin admits that Dalinar is a good man but believes he is being fooled by the murderer Brightlord Amaram. Adolin and Renarin arrive at the grounds wearing Shardplate, which is magical suits of armor that grant superhuman strength. Kaladin insults Adolin by refusing to perform servant duties, prompting Adolin to threaten him while acknowledging Kaladin saved his life. Renarin carries his newly won Shardblade, which he must bond for five days before he can dismiss it. The senior ardent introduces the brothers to the swordmasters, who are ardents trained specifically in combat.
+
+Kaladin spots a man named Zahel leaning against a railing, watching the princelings with the chained menace of a warrior. Zahel is an ex-soldier turned ardent with a scruffy beard and eyes that appear much older than his face. Adolin identifies Zahel as a swordmaster and asks him to train Renarin, who has never practiced with a sword. Zahel accepts the task and prepares to teach Renarin the fundamentals of fighting while wearing Plate. Kaladin and Syl watch as the various groups of ardents and lighteyes continue their routines within the sandy courtyard.
+
+**Sentence Count Check:** 15
+
+---
+
+### 17: A Pattern
+Shallan continues her journey toward the Shattered Plains while studying the flora of the Frostlands to distract herself from fear. She sketches Bluth and eventually produces an idealized drawing of him as a dashing soldier in a clean uniform. Shallan questions the caravan's parshmen, who have marbled skin and squat bodies, finding they do not understand the concept of freedom. A second column of roiling smoke appears on the horizon ahead of them, signaling that a larger group is nearby. Tvlakv argues that they should cut east to avoid being caught between the deserters and the new group.
+
+Shallan overrides him, ordering the caravan to head toward the smoke in hopes of finding protection from a larger caravan. She retreats into the back of her wagon and practices breathing in Stormlight from a sapphire sphere. The Stormlight fills her with energy and rapidly heals the wounds and scabs on her feet. Pattern informs Shallan that he is a scholar who came to study humans before she eventually kills him. He explains that the ancient Knights Radiant killed their spren by breaking their oaths, which led to the Deadeye Shardblades.
+
+Shallan denies being a Knight Radiant but realizes she has subconsciously spoken the First Ideal in her past. Pattern warns her that she must speak truths to grow in power, as she currently lives lies. Shallan braids her hair and prepares for the encounter ahead, noticing that her physical pain has completely vanished. She knocks on the wagon wall to signal Bluth to stop as they approach the source of the smoke. Bluth observes that the smoke is coming from burning wagons, indicating that the group ahead has been attacked.
+
+**Sentence Count Check:** 15
+
+---
+
+### 18: Bruises
+Lopen visits Kaladin at the sparring grounds, bringing military tallies on a shell and eating a Herdazian meat-wrap called chouta. Zahel trains Renarin by ordering him to jump off the arena roof repeatedly to test the durability and limits of Shardplate. Adolin performs a graceful Shardblade training sequence in the sand, drawing the attention of both the guards and Syl. Zahel challenges Kaladin to a duel using a blunted Shardblade fitted with metal guards to prevent cutting. During the match, Zahel drops the Blade to close the distance and strikes Kaladin with hand-to-hand combat maneuvers.
+
+Zahel defeats Kaladin by using superior tactics, though Kaladin argues he would have succeeded in protecting his charge. Adolin joins the fray in full Plate, mocking Kaladin’s ability to fight two Shardbearers simultaneously. Kaladin charges Adolin, fueled by memories of the Shardbearer who killed his brother and the betrayal by Amaram. Kaladin uses his half-spear to knock Adolin's Blade aside and tackles the prince, knocking the armored man to the ground. Adolin uses the superhuman strength of his Plate to throw Kaladin eight feet through the air into the sand.
+
+Kaladin secretly draws Stormlight from his pouch to instantly heal his dislocated shoulder and bruises. The Stormlight unexpectedly drains away, leaving Kaladin weak as Zahel holds a Blade to his neck to end the fight. Zahel scolds Adolin for throwing an unarmored partner with such lethal force, noting that Kaladin shows extreme tenacity. Adolin retreats to help Renarin while Zahel laughs at Kaladin's insistence that he is nothing like the prince. Kaladin lies in the sand and realizes that the Stormlight left him because his intent in the fight was not protective.
+
+**Sentence Count Check:** 15

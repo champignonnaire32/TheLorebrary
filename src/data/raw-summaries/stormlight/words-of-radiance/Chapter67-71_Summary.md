@@ -1,0 +1,52 @@
+### 67: Spit and Bile
+Dalinar and Navani walk through the Alethi warcamps while discussing the logistics of the upcoming expedition to the Shattered Plains. Navani shares a breakthrough from her fabrial research suggesting that the gemstones in Shardblades were not originally part of the weapons. She explains that these stones were likely added after the Recreance to allow men to bond and summon the Blades. Dalinar focuses on the lack of support from other highprinces, as most remain loyal to Sadeas or prefer their comfortable lives in the camps. Navani urges Dalinar to lead the highprinces with encouragement rather than contempt despite their many failings.
+
+At the king’s feast, Dalinar discovers that Sadeas has circulated mocking, falsified transcripts of Dalinar's highstorm visions. The documents include cruel commentary designed to portray Dalinar as a madman and Navani as his delusional enabler. Amaram approaches Dalinar and expresses his belief that the visions are divine messages from the Almighty. Wit interrupts to insult Amaram, calling him a cretin and implying his hands are not as clean as they appear. Dalinar refuses to be shamed and instead stands on a table to publicly announce that his visions are real and will be shared with the world.
+
+After the feast, Dalinar speaks privately with Wit while the servants clear away the remains of the party. Wit confirms to Dalinar that he is indeed a tyrant, though he argues that Alethkar currently requires such a ruler. Dalinar expresses regret for the way he and Gavilar unified the kingdom through force and violence. Wit reveals that he must leave the warcamps soon because he is being hunted by the "father of hatred." He warns Dalinar not to trust him completely before vanishing into the night.
+
+**Sentence Count Check:** 15
+
+---
+
+### 68: Bridges
+Kaladin leads Bridge Four out onto the Shattered Plains as part of a massive scouting expedition ordered by Dalinar. He realizes his ability to draw Stormlight is flickering and fears his bond with the honorspren Syl is weakening. Syl appears in a distracted, child-like state and tells Kaladin he is making bad and naughty choices. Kaladin continues to struggle with his secret promise to Moash to assist in the assassination of King Elhokar. He feels trapped between his two conflicting oaths to Dalinar and his friend Moash.
+
+Moash approaches Kaladin in his new suit of Shardplate, which has been painted blue with red accents. He tells Kaladin that the conspirators plan to kill the king with an arrow to avoid direct suspicion on the guards. Moash insists that Kaladin’s gift of the Shards proves that he deep down believes the assassination is the right choice. Meanwhile, Adolin attempts to build a friendship with Kaladin by discussing tactics for fighting the Assassin in White. Kaladin remains skeptical of the prince but admits that Adolin is trying to be genuinely kind to him.
+
+Shallan spends the expedition sketching rock strata and identifying the white stone remains of ancient structures hidden beneath the crem. She identifies the ruins as being centuries old and uses her sketches to document the unusual growth patterns of local moss. As the army reaches a distant plateau, a carpenter with a distinctive birthmark triggers a hidden emergency mechanism on a bridge. The bridge collapses while Dalinar, Shallan, and Kaladin are crossing it, sending them plunging into the deep chasm below. Kaladin frantically reaches for Stormlight as he falls, hearing a terrified scream from Syl that vibrates through his bones.
+
+**Sentence Count Check:** 15
+
+---
+
+### 69: Nothing
+Kaladin survives the two-hundred-foot fall into the chasm by drawing a final burst of Stormlight just before impact. He wakes up in the dark canyon and finds that all of the spheres in his pockets have been drained dun. After checking himself for broken bones, he discovers Shallan is also alive and relatively uninjured in the nearby darkness. They inspect the wreckage of the bridge and confirm that several lighteyed officers and scribes died during the fall. Kaladin realizes that Dalinar and Adolin were not among the corpses, meaning they likely survived the bridge collapse.
+
+Shallan explains that the bridge fell because a saboteur triggered an emergency latch designed to drop the structure during a retreat. She and Kaladin search the area for supplies, recovering a spear and a few spheres from fallen soldiers. They find a dead Parshendi warrior and several Alethi spearmen who were pushed off the plateau during a sudden ambush. Shallan checks her records and realizes that a highstorm is predicted to arrive the following night. This storm will create a fatal flash flood in the narrow canyons, giving them less than twenty-four hours to escape.
+
+The pair begins walking westward through the winding maze of the chasms to reach the Alethi warcamps. Kaladin takes the lead, using his experience as a bridgeman to navigate the treacherous and alien environment of the canyon floor. Shallan struggles to keep up in her silk dress, which becomes torn and stained as she picks her way through the debris. They discuss the unlikely nature of their survival and Kaladin’s belief that windspren protected them during the fall. Despite their mutual dislike, they agree to cooperate to survive the impending storm and the monsters living in the dark.
+
+**Sentence Count Check:** 15
+
+---
+
+### 70: From a Nightmare
+A chasmfiend pursues Kaladin and Shallan through the dark canyons after they attract its attention with their shouting. The beast is described as a sinuous, sleek monster with an arrowlike face and sharp, powerful mandibles. Shallan leads them back to a pile of corpses they found earlier, hoping the creature will stop to eat the carrion. They hide and watch the chasmfiend, noting that it is surrounded by a school of glowing, arrow-shaped spren. Shallan observes that the creature is a predator meant for breaking shells, though it appears to be pupating on the Plains.
+
+After escaping the beast, they find a dry spot to rest for the night and share rations of flatbread and chull jerky. Shallan uses her sketching skills to map their path through the chasms from memory, though she initially hides her talent. Kaladin criticizes her for her high station, accusing her of treating darkeyed people as mere playthings for her amusement. Shallan retorts that Kaladin is an odious and intolerant man who uses his past trauma as an excuse to be hateful. They reach a tense standoff before the sound of scraping carapace in the distance forces them back into silence.
+
+In the morning, they continue their journey, but Kaladin realizes he has accidentally led them in the wrong direction. Shallan studies the plateau formations and realizes that the Shattered Plains are perfectly symmetrical in their layout. She concludes that the Plains were formed by cymatics, where a massive vibration or weapon broke the stone into a pattern. Shallan uses this realization to map the entire area and identify the location of the center of the Shattered Plains. She tells Kaladin that she now knows where the Parshendi are hiding and where the legendary Oathgate is located.
+
+**Sentence Count Check:** 15
+
+---
+
+### 71: Vigil
+Back at the warcamps, Teft and Sigzil keep a vigil at the edge of the chasm in the hope that Kaladin is still alive. Teft shares stories of his childhood with the Envisagers, a cult that believed the Knights Radiant would return under duress. He reveals that his mother died in one of the group's dangerous experiments and that he later turned his father in for execution. Highprince Dalinar visits the watchpost to check on the men, though he believes Kaladin has already died in the fall. Renarin joins Bridge Four in their vigil, continuing to work alongside the darkeyed soldiers as if he were one of them.
+
+In the chasms, the chasmfiend returns and corners Kaladin and Shallan in a narrow fissure in the canyon wall. The beast is unable to reach them inside the crack but settles down to wait for them to emerge. Kaladin watches the creature's massive green eye as it peers into their hiding spot with predatory intelligence. They realize that the highstorm is approaching quickly and that staying in the fissure will lead to certain death by drowning. Shallan and Kaladin share a moment of vulnerability where they realize they have both been broken by past tragedies.
+
+Kaladin decides to sacrifice his life by distracting the chasmfiend so that Shallan can escape and return the map to Dalinar. He asks Shallan to apologize to Adolin for him and admits that the prince is actually a good person. Shallan refuses to let him die and argues against his logic before deciding to take action herself. She reaches over his shoulder and surprises him by manifesting a Shardblade from thin air. The chapter ends as the shimmering weapon appears in her hand, revealing her secret status as a Radiant to Kaladin.
+
+**Sentence Count Check:** 15

@@ -1,0 +1,52 @@
+### Chapter 36: Lysander
+Lysander and Cassius attend a Raa family dinner in a stone room filled with oxygen-making ivy. They dine with Dido, Seraphina, the children Thalia and Paleron, and the seemingly senile grandmother Gaia. The meal consists of simple roasted fish, rice, and flatbreads served with polite interaction between the Golds and their lowColor servants. Dido explains that the Rim is under a strict ration cycle where Golds eat the same weight ratio as agricultural Reds. Lysander observes the Raa cousins, including the hostile Bellerephon and the serene blademaster Diomedes.
+
+Cassius identifies himself as Regulus, a former centurion from the Martian Civil War who fell in the Lion’s Rain. He claims to have seen the Reaper fight once and dismisses him as overrated to the amusement of Diomedes. The conversation shifts to the scarcity of the Rim and the loyalty inspired by the hierarchy’s adherence to honor and principle. Dido notes that the Rim has faced only two terrorist incidents in the last year compared to the higher historical average. She mentions that Seraphina was sent to the Gulf to retrieve a specific "spark" for their cause.
+
+Dido directly asks Lysander if he wants revenge for his family while Cassius warns him with a look to stay cautious. Lysander admits that Gold is not dead and feels the pull of the old virtues within the Raa household. Dido shifts the tone by stating the "spark" Seraphina was supposed to bring back is currently missing. She accuses the pair of theft and questions where Lysander's razor has gone. Two Obsidians enter the room and place the pair's hidden safe in the center of the dinner table.
+
+**Sentence Count Check:** 15
+
+---
+
+### Chapter 37: Lysander
+Lysander identifies the safe as a halcon-7 model and warns Dido that it contains plasma charges set to detonate if drilled. Dido demands they open it to prove the razor is not inside and offers her friendship in exchange for cooperation. Cassius attempts to negotiate for their freedom, ship, and pilot in exchange for providing the combination once they reach a safe distance. Dido rejects the offer because a secondary detonation code could be used to destroy the contents remotely. She insists there is no time for trust because a character named Vela is already rallying legions at Karath.
+
+The Raa family discusses the urgency of retrieving evidence from the safe to secure their allies during the ongoing coup. Diomedes reminds the family that the pair are guests who have eaten their bread and should not be violated according to tradition. Bellerephon expresses impatience and urges Dido to use force to get the combination. Dido recounts the death of her daughter Thesalia, who was killed by a Martian boot during Augustus's summit eleven years ago. She lists those she holds responsible for the tragedy, ending with the name Cassius au Bellona.
+
+Dido reveals that she knows Cassius’s true identity and blames him for the deaths of her daughter and her brother Marcus. She signals a Brown servant to bring in a specialist named Pelebius and his "pet." A Violet enters carrying a glass jar filled with a noxious yellow liquid containing a strange creature. Dido explains the pain of losing a child and her commitment to vengeance against the Bellona family. She demands the combination one last time while her Obsidians move into positions behind the guests.
+
+**Sentence Count Check:** 15
+
+---
+
+### Chapter 38: Lysander
+Cassius lunges for the safe but is restrained by Obsidians while Bellerephon strikes Lysander with a razor-whip. Diomedes expresses doubt that the man is Cassius, but Dido reveals they found a Bellona razor hidden under a titanium shell. The Violet specialist uses a "gruesli," a slug-like creature that eats masks, to strip the synthetic skin from Cassius’s face. The creature's tentacles pierce Cassius’s skin and suck away the mask, revealing his true features and various puncture wounds. Cassius spits blood and identifies himself fully as Cassius au Bellona.
+
+Dido accuses Cassius of killing her brother Marcus, the Joy Knight, and demands the safe’s combination to start a war. Cassius warns that the Rim cannot defeat Darrow and that a war would only return mankind to a dark age. Dido counters by claiming the Republic is failing and that Darrow has become an outlaw abandoned by his wife and mentor. She threatens to let "dragons" kill Lysander if Cassius does not cooperate with her demands. Cassius looks at Lysander with sorrow but refuses to give up the combination, choosing his duty to protect the people.
+
+Diomedes refuses to execute Cassius because the man is still a guest under the laws of hospitality. Seraphina offers to do the deed herself, but Dido orders her to sit down and commands Bellerephon to act instead. Bellerephon challenges Cassius to single combat in the Bleeding Place to settle the blood feud for his grandfather and cousin. Cassius accepts the challenge with a grin despite his injuries and the lack of a proper weapon. The Raa family prepares to move the confrontation to their traditional dueling arena.
+
+**Sentence Count Check:** 15
+
+---
+
+### Chapter 39: Ephraim
+Ephraim’s team uses a gravWell and an EMP drone to pull a Gold shuttle down into a half-completed hospital. The crash results in a pile of debris including shattered fliers and disembodied heads from unfortunate hoverbikers. Volga and Dano enter the breached hull while Ephraim follows, struggling with fear and symptoms of zoladone withdrawal. They find the passengers paralyzed by anacene-17 gas, hanging upside down in their crash webbing. A red fox attacks the team inside the ship but Volga manages to lock it in the cockpit.
+
+Dano finds the primary prize, the ten-year-old Pax Augustus, and cuts him free from his seat. Ephraim identifies the secondary prize as a Gold girl and takes her sun brooch as a trophy. He discovers a massive Telemanus Gold with a red beard who was being protected by the fox. Ephraim leaves a blood-red handprint on the wall to frame the Red Martians for the kidnapping. He finds Lyria among the servants and considers killing her to prevent her from identifying him to the authorities.
+
+Ephraim cannot bring himself to shoot Lyria and instead carries her out of the ship to their escape vehicle. The Telemanus giant recovers from the gas and lunges at the team, knocking Ephraim down and caving in Dano’s skull with a single punch. Volga fires a plasma rifle at the giant and drags the injured Ephraim into the car. The team escapes to a warehouse where Syndicate technicians remove tracking devices from the kidnapped children. Ephraim hides Lyria in a taxi and sets explosives to destroy their equipment and the warehouse before fleeing through the tunnels.
+
+**Sentence Count Check:** 15
+
+---
+
+### Part III: Dust - Chapter 40: Lysander
+Cassius reflects on a white edelweiss flower his father gave him before the Bellona family was massacred on Mars. He expresses his fear that there is nothing after death and that the Void is the only thing waiting for him. Lysander argues that they should give Dido the evidence to restore order to the Society and stop the wolves. Cassius warns Lysander that opening the safe will lead to their deaths once the Raa discover Lysander's true identity. The two men realize their brotherhood has ended as Cassius is led to the Bleeding Place for his duel.
+
+The Bleeding Place is a circular amphitheater where hundreds of Golds gather to watch the combat. Bellerephon uses a long hasta while Cassius is given a standard razor and a small aegis shield generator. The duel begins and Bellerephon quickly wounds Cassius’s head and shoulder with the superior reach of his weapon. Cassius uses a "Snapping Branch" gambit to pull Bellerephon close and severs both of the knight's arms. He offers to spare Bellerephon’s life in exchange for their freedom, but Dido refuses and Bellerephon chooses death.
+
+Cassius executes Bellerephon, but Dido immediately orders another cousin, Fabera, to enter the ring and continue the fight. Cassius kills Fabera and then a third knight named Bellagra as Dido continues to snap her fingers for new challengers. Lysander realizes Dido is using the deaths of her kin to unite the Rim's divided houses in a blood frenzy against the Interior. Cassius stands exhausted over a pile of corpses and reasserts his honor as the Morning Knight. Dido finally calls upon Seraphina to enter the circle and honor House Raa by fighting the wounded Cassius.
+
+**Sentence Count Check:** 15

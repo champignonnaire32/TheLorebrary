@@ -1,0 +1,52 @@
+### 21: The Scattering Bene Gesserit Analysis (Archives)
+Odrade watches the Great Square of Keen from a bow window while sitting on a red cushion. She argues with High Priest Hedley Tuek about the security and guardianship of the young girl Sheeana. Odrade recalls her Bene Gesserit education at a creche on the artificial world of Al Dhanab. She identifies herself as a specialist in security and archival details with a notable Atreides talent for detail. Below her window, five naked men perform an arrhythmic ritual called the Dance Diversion or Siaynoq.
+
+A phalanx of tall Priest Guardians wearing yellow helmets clears a path through the bazaar for Sheeana. The mob in the square begins chanting and throwing clods of dirt to break the dancers' pattern. Violence erupts in the crowd as onlookers strike each other with clubs while the Guardians remain disdainful. The dancers are eventually overwhelmed and trampled by the surging mob as Sheeana enters Odrade's building. Odrade observes the physical pheromones and movements, interpreting them as a sophisticated and unconscious language.
+
+Sheeana bursts into the room laughing and expresses her admiration for the beauty of the dancers. Odrade recognizes that this secret language is the key to trapping the Tleilaxu Master named Waff. She understands more of Mother Superior Taraza’s broader design for the mission on Rakis. Odrade plans to accompany Sheeana into the desert to interact with the sandworms at the first opportunity. She intends to bring Waff along to witness Sheeana's command over the Divided God of the desert.
+
+**Sentence Count Check:** 15
+
+---
+
+### 22: Leto II, God Emperor of Dune,
+Miles Teg hides Lucilla and the Duncan Idaho ghola under a life-shield blanket in the Gammu forest. He leads the group westward using a "memory-path" prepared by his deceased aide, Patrin. Teg mourns Patrin, who sacrificed himself as a decoy to divert Schwangyu’s search parties. Lucilla expresses concern that searchers will eventually discover their location if they remain on foot. The trio waits for full darkness before moving toward a secret destination known only to Teg.
+
+Duncan demands an explanation for the attempts on his life and the Sisterhood's ultimate goals. Teg observes that Duncan exhibits a new vitality and may possess the powers of a Truthsayer. The group traverses a dangerous open rock passage where the life-shield offers no protection against lasgun fire. Teg scratches secret marks into tree bark to signal his path to Taraza or his trained subordinates. He notes the striking physical resemblance between Lucilla and Odrade, realizing they share a common Atreides ancestry.
+
+Teg resolves to delay Lucilla’s sexual imprinting of Duncan until the ghola’s pre-ghola memories are awakened. He worries that Lucilla’s training as an Imprinter might cause her to see him as an obstacle. The party reaches a volcanic rock barrier containing a hidden crawl space concealed by scrub bushes. Teg points out a charred patch of ground designed to trick searchers into believing a no-ship departed. He leads Lucilla and Duncan into a Harkonnen no-globe that has remained hidden and functional for millennia.
+
+**Sentence Count Check:** 15
+
+---
+
+### 23: Assessment of Ix, Bene Gesserit Archives
+High Priest Hedley Tuek debates the heretical Atreides Manifesto with Odrade in his private audience chamber. Odrade announces that she has summoned the Bashar Miles Teg to take control of Rakis's planetary defenses. She mocks Tuek's inability to protect Sheeana after a security failure occurs on a city rooftop. Tuek feels trapped between the Bene Gesserit and the Tleilaxu Master Waff, who is hiding nearby. Odrade notices Tuek's nervous glances toward a wall-hanging and realizes Waff is listening to their conversation.
+
+Odrade invites Waff to enter the room, and he arrives accompanied by two shape-shifting Face Dancers. Tuek discloses that Waff is proposing a secret melange cartel to fix spice prices across the universe. Waff prepares to use dart throwers concealed within his sleeves to assassinate both Tuek and Odrade. Odrade warns Tuek of the murder plot just as Waff raises his arms to fire the weapons. She moves with superior speed, breaking Waff’s arms with a slashing blow and a precise kick.
+
+Odrade seizes Waff’s throat and orders the Face Dancers to leave the chamber or watch their Master die. A poisoned dart strikes and kills High Priest Tuek, leaving his body sprawled on the floor. Odrade splints Waff's broken bones using cushions and strips of fabric from the priest's furniture. She informs Waff that they are now allies against the aggressive Honoured Matres returning from the Scattering. Odrade secures Waff’s loyalty by performing a Zensunni handsign and acknowledging the Tleilaxu's secret religious faith.
+
+**Sentence Count Check:** 15
+
+---
+
+### 24: A Guide to Trial and Error in Government: Bene Gesserit
+Mother Superior Taraza studies genetic data and cell samples from Waff in her private chambers. She concludes that any offspring between the Sisterhood and the Tleilaxu would possess impenetrable mental barriers. Taraza expresses frustration with her dependency on Archivists and the mechanical search systems of the holoprojector. She looks at a bust of Sister Chenoeh and wonders how the ancient woman made such critical decisions. Internal opposition to Taraza’s strategy on Rakis continues to grow among the Reverend Mothers of Chapter House.
+
+Taraza orders the Bashar Burzmali to travel to Gammu to locate the missing Miles Teg and the ghola. She suspects Teg has hidden the fugitives because he failed to use the Sisterhood’s secret communication contacts. Taraza considers the vulnerability of Chapter House Planet despite the protection of its orbiting no-ships. She analyzes Odrade's report on the Rakian dances and the potential for a new language with the worms. The Mother Superior decides to delay direct military intervention on Rakis to give Teg more time to communicate.
+
+Taraza admits that Odrade’s secret Atreides prescience is a dangerous and divisive talent within the Sisterhood. She identifies Lucilla as the primary agent tasked with eliminating Odrade if the breeding plan fails. Taraza acknowledges that the Honoured Matres from the Scattering represent a lethal threat to Bene Gesserit continuity. She sends a message to Odrade granting her limited autonomy to protect Sheeana using her own judgment. The Sisterhood continues to struggle with the long-term effects of the Tyrant’s Golden Path on human expansion.
+
+**Sentence Count Check:** 15
+
+---
+
+### 25: Dar-es-Balat, Description
+Miles Teg encounters Duncan Idaho in a dining alcove within the ancient Harkonnen no-globe. The no-globe contains nullentropy bins filled with exotic weapons, clothing, and melange-dusted food artifacts. Duncan expresses his hatred for a priapean clock that depicts a male figure entering a female. Teg notes that the structure is a fossil of early Ixian technology that remains invisible to scanners. A wall near the core displays twenty-one skeletons of the artisans murdered by the Harkonnens to keep the secret.
+
+Teg begins a brutal reawakening procedure designed to restore Duncan’s pre-ghola memories through extreme agony. He insults Duncan’s courage and calls him a ghola to provoke a state of total desperation. Duncan attacks with blinding speed, attempting to strike Teg's nerves before being kicked into the table. Teg inflicts severe physical pain on the boy, ensuring Duncan sees his face during every moment of torment. The process succeeds when Duncan screams a curse at the God Emperor and recalls his final moment of life.
+
+Duncan describes his death at the hands of Sardaukar who were wearing Harkonnen uniforms to kill him. Lucilla arrives and confirms her status as an Imprinter, a sexual adept trained to ensnare the ghola. Teg confesses his revulsion for the deceptions and cruelties he has performed for the Sisterhood’s survival. Duncan mockingly hums a Gurney Halleck song and challenges Lucilla’s intention to use him for breeding. A violent and hidden power stirs within Duncan as he envisions Lucilla dead and covered in blood.
+
+**Sentence Count Check:** 15

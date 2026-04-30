@@ -1,0 +1,52 @@
+### 26: Leadership Secrets of the Bene
+Waff (a Tleilaxu Master) leads Odrade and Sheeana toward the desert edge while wearing new desert robes and stillsuits (survival gear that recycles body moisture). Odrade observes the tension in their fragile alliance as she waits for news of Teg, Burzmali, and the ghola. Waff reminds Odrade that his arms still ache from when she broke them during their initial meeting. The group crosses a spindly causeway leading over the Dar-es-Balat ring-qanat (a water-filled defensive moat) and toward the open dunes. Sheeana picks up a pebble and throws it through the fence meshes as she prepares to summon a worm.
+
+Sheeana leads them nearly a kilometre into the desert to a maze of bedrock and giant boulders. She begins a hard-rhythmed dance on the sand to call Shaitan (the name Sheeana uses for the great sandworms). A giant sandworm at least sixty metres long crests the dune and approaches the group with a sibilant hiss. Waff drops to his knees in worship as the worm presents its open, fire-filled maw to Sheeana. Odrade observes the internal furnace rumbling and the smell of ozone and cinnamon emanating from the creature.
+
+Sheeana commands the worm to lower its mouth and stay still while she scrambles up its side. Odrade and Waff follow her onto the worm's hard, corrugated back which feels like non-organic plastrete. Sheeana lifts a ring on the worm's surface to expose the pink, pulsing soft tissue underneath to steer the beast. The worm lurches into motion and carries the trio away from Dar-es-Balat into the open desert. Odrade notices that the worm is moving toward the site of the ancient Idaho River bridge of its own volition.
+
+**Sentence Count Check:** 15
+
+---
+
+### 27: The Jokes of Ancient Dune: Bene
+Duncan Idaho (the ghola) trains in the no-globe's practice hall using a mobile cage to drive a series of combat exercises. Teg watches from a control console and realizes that Duncan is integrating ancient combat styles with modern Keep techniques. Lucilla observes the training briefly before leaving, as Duncan maintains a delaying game against her attempts to Imprint him. Teg uses the console to send shadow forces, including hunter-seekers (deadly floating drones), to attack Duncan from multiple directions. Duncan parries the attacks with blurred speed and destroys three hunter-seekers using antique Harkonnen equipment.
+
+Duncan pauses the session to towel off and notes that his relationship with Lucilla has become a duel of guards. Teg warns Duncan that Lucilla is a full Reverend Mother and should not be underestimated. Duncan reminds Teg that he has known many Reverend Mothers in his previous lives and is no longer just a child. Teg notes Duncan's physical resemblance to Duke Leto Atreides, specifically the hawk-like facial features and moral certainty. Duncan questions Teg about his legendary military reputation and the choices he made at Arbelough to spare his enemies.
+
+The pair resumes training with Teg introducing a sudden burn-line (a laser-like attack) that Duncan parries with ease. Duncan explains his fluid combat philosophy while moving with a speed that Teg's aging reflexes struggle to counter. A final bolt of pain hits Teg's arm through the controls, signaling his defeat and Duncan's mastery of the seven attitudes. Lucilla enters the hall and confronts them, asserting that the Sisterhood flows like water and will eventually fill every gap. She realizes that Taraza views them all as expendable pawns in a much larger and more dangerous design.
+
+**Sentence Count Check:** 15
+
+---
+
+### 28: First Draft, Atreides Manifesto:
+Mother Superior Taraza uses a hundred-heartbeat relaxation trance to fight fatigue while working late at the Bene Gesserit Chapter House. She recalls the death of Sister Baram, a Night Proctor who died from a fatal nerve defect during Taraza's childhood. Taraza reviews Odrade's decision to form a three-cornered alliance on Rakis involving the priests and the Tleilaxu. She worries about Miles Teg's three-month silence and whether he has successfully hidden the ghola in a bolt-hole. An acolyte with pale hair and observant eyes enters to rub Taraza's back and serve her tea.
+
+Taraza attempts to sleep but finds herself obsessing over the return of the Honoured Matres (the "whores" of the Scattering). She suspects the Lost Ones returned from the Scattering because they ran out of melange and failed to recreate axolotl tanks. Burzmali returns from Gammu and informs Taraza that the Keep has been destroyed with no survivors. He reports that the attackers used 12-Uri (a new Ixian explosive) and left mechanical brain-probe holes in Schwangyu's skull. Burzmali confirms that Patrin died in a decoy ship explosion, leaving only fragments behind for identification.
+
+Burzmali suggests that Patrin might have used his knowledge as a Gammu native to find an ancient Harkonnen no-globe (a facility hidden from prescience). Taraza orders Burzmali to return to Gammu with agents to search for Patrin's family and hidden contacts. She grants him permission to infiltrate the planet under the guise of placing a funeral marker for Teg. Burzmali is warned to saturate his team with shere (a drug that blocks truth-probes) to prevent information leaks if captured. Taraza emphasizes that they must stay ahead of other searchers who are also hunting for the missing ghola.
+
+**Sentence Count Check:** 15
+
+---
+
+### 29: Mother Superior Taraza; Argument
+Waff gloats that God will judge them as the worm carries the group across the desert toward the Tyrant's barrier wall. Odrade reflects on the ride and how her stillsuit catchpockets are puffing outward as they fill with recycled sweat. She recalls using Voice (a vocal technique that compels obedience) like a whip on Sheeana earlier to teach the child that her mind and body are precious tools. Odrade flashes back to waiting in a Dar-es-Balat courtyard where she was observed by many hidden eyes from tiered balconies. The senior priest Albertus approaches her with a message regarding a delay in the travel route.
+
+Odrade uses her Reverend Mother training to read the fear and weak-boned nature of Albertus as he approaches. She accuses him of plotting to kill her and reveals that Sheeana knows the priesthood's every evil thought. Albertus falls to his knees in terror, realizing that his secret plans have been exposed by Odrade's scrutiny. Odrade commands him to obey Sheeana and the Sisterhood while mocking his shallow laughter and defensive facades. She identifies the "directed hysteria" she has aimed at the priesthood to ensure their submission to the new alliance.
+
+Back in the present, Waff scowls and hides his countenance as he remains in awe of Sheeana's "Holy Presence." Odrade watches the worm rings in front of her and notes the watchful ornithopters keeping pace with their journey overhead. She considers the decadence of the Rakian people who hide from the sun and dull their senses with spice beer. The group continues their pilgrimage across the ancient Sareer, moving toward a destination chosen by the worm itself. Odrade realizes the priests have been successfully manipulated into a state of contagious fear and compliance.
+
+**Sentence Count Check:** 15
+
+---
+
+### 30: The Atreides Manifesto:
+Teg and Duncan stand in a wood-panelled hallway after Lucilla leaves the practice hall in a state of anger. Lucilla retreats to her personal quarters, which are decorated with blue fabrics and baroque carvings from the Harkonnen era. She reflects on her role as an Imprinter (a Sister trained to sexually condition subjects) and the need to gather Duncan's sexual forces into the Bene Gesserit continuity. Lucilla believes the procreative drive must remain buried in the psyche to ensure the survival of the species. She prepares to teach Duncan a final lesson to ready him for his future role on Rakis.
+
+Duncan sits in a dressing cubicle and reads ancient script worked into the tiles that demands purity and heart confession. He fastens the clips of a plain tunic he salvaged from a null-entropy bin (a container that preserves contents indefinitely) after removing all Harkonnen insignia. Lucilla enters the room and attempts to stroke Duncan's arm, but he threatens to kill her if she touches him again. Duncan asserts that he is not a stud for the Sisterhood and stands poised on the balls of his feet. Lucilla admits she does not know Taraza's full plan but mentions a young girl on Rakis who controls worms.
+
+Teg appears in the doorway holding an antique Harkonnen lasgun to ensure that Lucilla listens to his Mentat projections. He reveals that Duncan has been trained to be irresistible to women to serve as a Bene Gesserit weapon. Teg announces that Burzmali has left signs outside the no-globe by scratching animal marks onto the trees. The group prepares to commit the Harkonnen library's maps of Giedi Prime to memory before they attempt to escape. Teg explains that he has used ancient map equipment to locate the hidden Forest Guard Station that serves as the Keep.
+
+**Sentence Count Check:** 15

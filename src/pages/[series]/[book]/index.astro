@@ -1,0 +1,85 @@
+---
+import { getCollection } from 'astro:content';
+import Layout from '../../../layouts/Layout.astro';
+
+export async function getStaticPaths() {
+  const allSummaries = await getCollection('summaries');
+  
+  // Group all chunks by their Series and Book
+  const grouped = allSummaries.reduce((acc, chunk) => {
+    const key = `${chunk.data.series}|${chunk.data.book}`;
+    if (!acc[key]) acc[key] = [];
+    acc[key].push(chunk);
+    return acc;
+  }, {} as Record<string, typeof allSummaries>);
+
+  const paths = [];
+
+  // Loop through each book
+  for (const [key, chunks] of Object.entries(grouped)) {
+    const seriesData = chunks[0].data.series;
+    const bookData = chunks[0].data.book;
+    
+    // Create URL-friendly slugs
+    const seriesSlug = seriesData.toLowerCase().replace(/\s+/g, '-');
+    const bookSlug = bookData.toLowerCase().replace(/\s+/g, '-');
+
+    // Sort chunks by their starting chapter
+    chunks.sort((a, b) => a.data.startChapter - b.data.startChapter);
+
+    const formattedChunks = chunks.map(chunk => ({
+      range: chunk.data.range,
+      url: `/${seriesSlug}/${bookSlug}/${chunk.data.range}`
+    }));
+
+    paths.push({
+      params: { series: seriesSlug, book: bookSlug },
+      props: { 
+        seriesName: seriesData, 
+        bookName: bookData, 
+        chunks: formattedChunks 
+      },
+    });
+  }
+
+  return paths;
+}
+
+const { seriesName, bookName, chunks } = Astro.props;
+---
+
+<Layout title={`${bookName} | The Distiller`}>
+  <div class="max-w-4xl mx-auto py-12 px-4 sm:px-6">
+    
+    <!-- Header -->
+    <div class="mb-16">
+      <div class="mb-4">
+        <a href={`/${seriesName.toLowerCase().replace(/\s+/g, '-')}`} class="text-sm font-bold text-gray-500 dark:text-gray-500 hover:text-gray-800 dark:hover:text-gray-300 transition-colors uppercase tracking-widest flex items-center">
+          <svg class="w-4 h-4 mr-2" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 19l-7-7m0 0l7-7m-7 7h18" />
+          </svg>
+          Back to {seriesName}
+        </a>
+      </div>
+      <h1 class="text-2xl font-bold text-gray-600 dark:text-gray-500 mb-2 uppercase tracking-widest transition-colors duration-300">{seriesName}</h1>
+      <h2 class="text-4xl sm:text-5xl font-extrabold text-gray-900 dark:text-white tracking-tight mb-6 transition-colors duration-300">{bookName}</h2>
+      <p class="text-xl text-gray-600 dark:text-gray-400 max-w-2xl transition-colors duration-300">
+        Select a chapter range below to begin reading the concrete narrative refresher.
+      </p>
+    </div>
+
+    <!-- Navigation Grid -->
+    <div class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-4">
+      {chunks.map(chunk => (
+        <a 
+          href={chunk.url} 
+          class="block text-center py-6 px-4 bg-white dark:bg-gray-800 border border-gray-200 dark:border-gray-700 rounded hover:border-blue-500 dark:hover:border-gray-500 hover:bg-gray-50 dark:hover:bg-gray-750 transition-colors group shadow-sm dark:shadow-none"
+        >
+          <div class="text-xs text-gray-500 dark:text-gray-500 uppercase tracking-widest mb-1 group-hover:text-gray-700 dark:group-hover:text-gray-400 transition-colors duration-300">Chapters</div>
+          <div class="text-2xl font-bold text-gray-900 dark:text-gray-100 group-hover:text-blue-600 dark:group-hover:text-white transition-colors duration-300">{chunk.range}</div>
+        </a>
+      ))}
+    </div>
+    
+  </div>
+</Layout>

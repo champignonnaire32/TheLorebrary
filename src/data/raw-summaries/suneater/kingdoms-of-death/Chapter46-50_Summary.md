@@ -1,0 +1,52 @@
+### 46: TO COLCHIS
+Valka calculates the travel time to Colchis as over twenty-eight years while standing on the bridge of the Ascalon. Hadrian realizes the ship has spent eleven years in the Tamerlane’s hold and is now light-years from any star. Valka explains that the tightbeam maser, a communication device, and several antenna clusters are destroyed, preventing datanet access. Hadrian refuses to signal the Imperium for rescue, fearing they would be imprisoned or prevented from reaching Colchis. Valka reports that the bromos protein nutrition bars will only last for half the journey.
+
+Hadrian inspects his maimed hands and shoulder injuries while discussing the ship's hydroponics systems. Valka states that they must purge the rotten plant matter and replant the vegetable beds to survive the voyage. Hadrian experiences a flashback of the charnel heap at Akterumu and the silver-blooded Cielcin leader, Syriani Dorayaica. Valka holds Hadrian's hand and kisses his brow, asking for his help to maintain the vessel. Hadrian agrees to work despite his pain, acknowledging that the ship requires a crew to function properly.
+
+Valka returns to the navigator's seat to chart a course north-northwest of the galactic core. Hadrian calculates their position as twenty-five kilolights from the nearest Imperial frontier. Valka explains that the Cielcin likely control vast swaths of the galaxy through their nomadic movements. The warp core thrums to life, charging the air as the sublight engines remain silent. Hadrian watches the stars smear from indigo to violet as the Ascalon jumps into the long dark.
+
+**Sentence Count Check:** 15
+
+---
+
+### 47: THE LONG DARK
+Hadrian and Valka spend the first months of the journey purging algae vats and replanting the water gardens. Valka uses her neural lace, a machine in her brain that stores vast volumes of encoded data, to manage the aquaculture. The pair harvests squash, onions, and herbs to supplement their diet of rehydrated bromos bouillon porridge. Hadrian spends years strengthening his body and writing about his experiences in the dungeons of Dharan-Tun. Valka proposes that one of them must enter cryonic fugue to conserve the limited supply of TX-9 cooling fluid.
+
+Hadrian insists that Valka sleep because she is a Tavrosi clansman with a shorter natural lifespan than a palatine. Valka eventually agrees to the freeze after years of shared labor and silence on the vessel. They move to the cubiculum, the ship's highest level, where forty empty fugue creches are installed. Valka undresses, revealing her black clan saylash fractal tattoos that spiral up her arm and down her hip. She hands Hadrian her silver half-moon pendant and asks him to wake her when the time is right.
+
+Hadrian assists Valka with the blood line and cuffs before closing the metal and glass lid of the creche. Valka falls asleep as the cryonic fluid fills the tank, leaving Hadrian alone on the ship. Hadrian spends the next twenty-two years maintaining the vessel and writing volumes of history on his terminal. He spends much of his time in the cubiculum watching Valka’s sleeping face through the glass. Nearly a year before their arrival at Colchis, Hadrian initiates the revival sequence to wake Valka from her deep dream.
+
+**Sentence Count Check:** 15
+
+---
+
+### 48: THE FAR SHORE
+The Ascalon lands on a rocky shelf above the blue-green sea of Colchis after twenty-eight years of travel. Hadrian weeps as he experiences the smell of salt and the sight of the orange gas giant, Atlas, in the sky. Valka confirms that they have evaded Imperial customs and patrols while checking the ship’s general communication logs. A group of villagers from Racha approaches the ramp, dressed in dun homespun clothing with blue and red spiral embroidery. An old man named Ejaz identifies Hadrian as the Halfmortal and recalls seeing Valka’s markings centuries ago.
+
+Hadrian asks about Siran of Emesh, but the villagers explain that she and her husband Lem have been dead for centuries. Ejaz explains that Lem lived to be three hundred years old due to his patrician status and served as eolderman. The villagers decide to take Hadrian and Valka to see Imrah, the current Keeper of the island's tombs. Imrah reveals that she is Siran’s great-great-granddaughter and invites the travelers into her home for green broth. Valka recounts the destruction of the Red Company to Imrah while Hadrian stares into his cup in silence.
+
+Imrah informs Hadrian that she has been maintaining a fugue pod for nearly five hundred years on the island of Thessa. She explains that Siran helped a man named Tor Gibson escape the athenaeum and hide in a cryonic creche. Hadrian realizes that Gibson, his old tutor and scholiast, has been waiting for his return for centuries. Imrah describes how her family has protected the pod through generations, from Siran to Elara to Amarta. The Keeper agrees to take Hadrian and Valka to Thessa immediately to revive the sleeping scholiast.
+
+**Sentence Count Check:** 15
+
+---
+
+### 49: THE ISLE OF THE DEAD
+Imrah’s brother Alvar pilots a boat to the island of Thessa, where the Red Company once stayed. Hadrian observes the white barracks modules and stone foundations that the local villagers have maintained over centuries. They climb a steep cliff path toward a solitary dome of scuffed white tile that serves as a hospital module. Hadrian passes a row of stone cairns, rounded mounds tied with red and white prayer cards made of imperishable fiber. Imrah identifies the graves of her ancestors, including Siran, and explains that her father was shipwrecked ten years prior.
+
+Hadrian weeps at Siran’s cairn and places a flat rock on the mound as a sign of respect. He resolves to build similar monuments for all ninety thousand of his soldiers who died at Akterumu. Valka comforts Hadrian, reminding him that his soldiers died because they believed in his cause. The group enters the hospital module, where a single fugue creche remains powered by an underwater reactor. Valka brushes Imrah aside to operate the black glass consoles and initiate the revival sequence.
+
+The centrifuge spins up to warm the TX-9 fluid from 77 Kelvin toward the required 300 Kelvin. A saline flush replaces the cryonic fluid as the pneumatic lid of the creche rises. Hadrian catches Tor Gibson as the old man coughs up violet fluid and experiences fugue blindness. Gibson mistakes Hadrian for someone named Livy before recognizing his voice and touching his face. Hadrian embraces the old scholiast, who is dressed in a white blanket and appears younger in the wake of the freeze.
+
+**Sentence Count Check:** 15
+
+---
+
+### 50: MEMORY AND HISTORY
+Gibson recovers for two days in an officer's block while muttering snatches of scholastic English in his sleep. Hadrian calculates the current date as ISD 17089, confirming that five centuries have passed since they left Colchis. Gibson explains that he petitioned the college to document the Rachan culture as a cover for his stay. Siran assisted Gibson by installing the medica and sending a false report of his death to the athenaeum in Aea. Hadrian admits that he is not "all right" and discusses his trauma from the pits of Dharan-Tun with his tutor.
+
+Hadrian and Valka spend four years on Thessa living in solitude with the aging Gibson. Hadrian builds ninety stone cairns on the island's plateau to honor the soldiers he lost in the war. Gibson reveals that Tor Alcuin warned him of his arrest centuries ago as a professional courtesy. The scholiast explains that Lord Alistair Marlowe was a harsh man forged by the Orin Rebellion and his mother's death. Gibson urges Hadrian to forgive both his father and himself for the events of the past.
+
+Hadrian helps the Rachan fishermen with their catch and listens to Gibson teach the local children. Gibson recites Homer’s Odyssey by a bonfire, comparing Hadrian's journey to that of the soldier Ulysses. Valka rests her head on Hadrian's shoulder while they listen to the story of a man who cannot return to the same home. Gibson tells Hadrian that the island is not his tomb and that he must continue his fight against the Cielcin. Hadrian and Valka drink green wine on the veranda as they prepare to leave Colchis and return to the wider galaxy.
+
+**Sentence Count Check:** 15

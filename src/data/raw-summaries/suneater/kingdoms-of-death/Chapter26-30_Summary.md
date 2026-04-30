@@ -1,0 +1,52 @@
+### 26: THE CAVE
+Severine treats Hadrian’s wounds before Cielcin guards fix a metal collar with a whining locking mechanism around his neck. Hadrian describes Dharan-Tun as a moon-sized world with tunnels and halls housing billions of Cielcin and their thralls. Guards throw Hadrian into a dark cave cell containing a pool of bitter water and a primitive iron latrine. He experiences grief for Valka Onderra and his Red Company but recalls Iovan stating her implants posed a problem. Hadrian drinks from the pool and marks the passing days until a door admits light and two human visitors.
+
+Doctor Severine and the sorcerer Urbaine enter the cell accompanied by a floating drone carrying a crate. Urbaine, a pale man in a high-collared purple jacket with machine-gray eyes, mocks Hadrian’s current status. The sorcerers reveal they survived the battle on Berenike by broadcasting their digital daimon images to orbit. They toss Hadrian a foil-wrapped legion-style ration bar and state the crate contains a year’s supply of food. Severine and Urbaine define themselves as posthuman data rather than ghosts and dismiss Hadrian’s philosophical objections.
+
+Urbaine explains that the Cielcin intend to eradicate only the yukajjimn, the human caste that refuses to kneel. He claims that under the Prophet’s Hand, humanity will evolve and spread across galaxies as part of a new paradigm. Hadrian lunges at Urbaine and strikes the sorcerer’s jaw after the magus mentions Valka’s brain-chewing worm. The nerve induction collar activates, flooding Hadrian’s nervous system with the sensation of burning metal and snapping cords. The sorcerers exit the cell, leaving the glowsphere light active and instructing Hadrian to eat for his coming trials.
+
+**Sentence Count Check: 15**
+
+---
+
+### 27: THE WHITE HAND
+Hadrian marks notches on his cell wall and eats two ration bars daily to maintain a sense of time. Cielcin guards wearing black armor with the White Hand badge eventually enter the cell to bind Hadrian’s wrists. The guards march Hadrian through the streets of Dharan-Tun where he observes human slaves and Lothrian thralls. They cross a bridge over a massive pit to reach the Dhar-Iagon, a fortress-palace illuminated by glowing magma. Inside the palace, Hadrian sees monolithic statues of the Watchers depicted with tendrils, wings, and multiple misshapen arms.
+
+Hadrian enters a black chamber where Cielcin retainers prostrate themselves before Prince Syriani Dorayaica. Syriani wears sculpted black armor and a silver crown, holding a silver-chased spear during the formal ceremony. The four remaining members of the Iedyr Yemani, the White Hand chimeras, appear from the shadows of the hall. These include Vati, the winged Aulamn, the six-legged tank Teyanu, and the floating multi-handed chassis of Hushansa. The chimeras demand blood for their fallen kin, but Syriani declares Hadrian is protected by the laws of the kingsmoot.
+
+Syriani announces that the fleet is sailing for Akterumu, the location where the Cielcin first met their whispering gods. The Prince seizes Hadrian’s right hand and bites off two fingers to represent his own lost kin, Iubalu and Bahudde. After swallowing the fingers, Syriani orders Hadrian’s gown torn and proclaims him the Aetavanni, or Prince of Men. Guards hold Hadrian as a lash strikes his back four times, causing blood to soak his legs and the palace floor. Syriani sentences Hadrian to be hung from the outer city wall so that all human slaves may see their broken king.
+
+**Sentence Count Check: 15**
+
+---
+
+### 28: HADRIAN BOUND
+Hadrian hangs by a chain attached to his right wrist above the iron towers and magma rivers of Dharan-Tun. He views the industrial fumes of foundries and mills while swinging as a naked warning to the Cielcin populace. Guards periodically haul him into a low-ceilinged chamber to torment him and force him to consume salted urine. A mute human slave with a legionnaire’s tattoo cleans Hadrian’s wounds and provides clean water from a squeeze bottle. The slave identifies Hadrian as a Palatine before stealing the Emperor’s ring and snapping the Quiet’s shell pendant from his neck.
+
+The slave strikes Hadrian with his heel and flees with the stolen items, leaving Hadrian to be suspended again. Over five days, Hadrian experiences cycles of hanging and recovery under the care of a different mute female slave. Hadrian begins to hallucinate, seeing his dead brother Crispin standing on the vertical city wall eating an apple. Urbaine and Severine appear in the plaza below to mock Hadrian’s status as Earth’s supposed Chosen champion. Hadrian attempts to summon his second sight to find a path to escape but finds his connection to time sundered.
+
+He envisions the eagle of Prometheus and identifies with the titan’s eternal torment upon the mountain of Caucasus. His right arm turns blue from blood loss and contusion, causing paroxysms of pain whenever he moves his body. Hadrian shouts threats at Urbaine, vowing to kill the sorcerer despite his physical incapacitation and starvation. He realizes there is no hero coming to save him and that the Cielcin are a flood intended to unmake humanity. The sorcerers decide not to cut him down yet, leaving him to hang until his physical and mental resistance fully breaks.
+
+**Sentence Count Check: 15**
+
+---
+
+### 29: MARKING TIME
+Cielcin guards eventually lower Hadrian from the wall and march him back to his original cave cell. Hadrian recovers by crawling to the water’s edge and consuming the remaining stock of ration bars left by Urbaine. He begins a new set of marks on the stone wall to track his continued isolation and slow physical healing. His wounds harden into scars, but his right shoulder remains permanently damaged and unable to lift his arm. Hadrian realizes his right hand is now useless for swordsmanship due to the missing fingers and the poorly knit tissues.
+
+He spends his time muttering to himself and staring at the shadows cast by the floating glowsphere camera. When the ration bars run out, Hadrian catches and eats raw blind fish from the pool to avoid starvation. He notes that at least a standard year has passed according to his carvings, though he may have lost months earlier. His muscles waste away, and walking across the cell becomes a trial of strength and physical endurance. Hadrian reflects on his love for the Empire as a place where humanity can remain human despite its many failings.
+
+He concludes that the Empire is lost to him as he languishes in the darkness of the enemy’s dungeon. The only sound in his cell is the metronomic drip of water and the occasional splash of eyeless fish. He recognizes that he is no longer the man who stood unburnt on Berenike or caught highmatter in his hand. The silence of the cave eventually leads Hadrian to stop talking and settle into a state of gray sickness. He remains trapped in the single point of light provided by his enemies, which serves only to illuminate his cage.
+
+**Sentence Count Check: 15**
+
+---
+
+### 30: THE TRUTH AND THE LIE
+Guards drag Hadrian to a grotto where the walls are sculpted with circular Cielcin anaglyphs representing virtues and princes. Syriani Dorayaica appears in sleeveless silk robes and silver jewelry, having discarded his battlefield armor for a sybaritic appearance. The Prophet explains that pain purifies the soul and reveals the division between the spirit and the material substance. He defines Utannash as the Deceiver who authored the Lie of the universe to punish the godsborne Cielcin race. Syriani claims the Watchers seek to destroy the universe to free the Cielcin into the true world of Iazyr Kulah.
+
+The Prophet leads Hadrian through palace gardens where luminescent fish and phosphorescent fungi illuminate carved mural stories. He explains that the Cielcin homeworld of Se Vattayu was left behind under the guidance of Elu and twelve princes. Syriani describes human icons as blasphemous idols that deepen the Lie by depicting material things as real. He admits that he intends to become a god by sacrificing Hadrian’s people to the entities in the darkness. The Prince of Princes demands the coordinates and planet names for the Emperor’s secret travel itinerary across the stars.
+
+Hadrian denies knowing the specific coordinates, prompting Syriani to strike him into a shallow pool with his hand. Syriani crushes a glowing fish in his fist to demonstrate the fragility of life and the inevitability of his victory. He reveals that he also sees the rivers of time and knows Hadrian is destined to die at Akterumu. The Prophet states that after Hadrian’s death, humanity will fall and become slaves before being erased from existence. Scahari warriors in painted battle-masks seize Hadrian and take him away at Syriani’s command to prepare for the end.
+
+**Sentence Count Check: 15**

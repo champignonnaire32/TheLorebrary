@@ -1,0 +1,52 @@
+### 21: Chapter 21
+Leto waits at False Sietch to meet with a Bene Gesserit delegation. False Sietch is a kilometer-wide structure of irregular domes serving as a school for Museum Fremen. Moneo informs Leto that the Reverend Mothers expect a rich reward for their attendance. Leto instructs Moneo to prevent any liaison between Duncan Idaho and the Ixian Ambassador, Hwi Noree. Reverend Mothers Anteac and Luyseyal enter the oval reception hall in a double file.
+
+Both women are Truthsayers, with Anteac sporting a scar and Luyseyal possessing red hair. Leto speaks to them using the voice of his grandmother Jessica before switching to his own tones. He reveals that his human skull has dissolved because his brain is growing to an enormous size. Luyseyal carries a vial of blue spice essence which she intends to use as a toxin against Leto. Leto identifies the scent of the pheromones and the essence, forcing Luyseyal to surrender the vial.
+
+The Reverend Mothers warn Leto that Ixians are developing a machine to predict his actions. Leto dismisses their fears and maintains that he can conquer any mechanical brain the Ixians build. Duncan Idaho arrives at the chamber to report scattered raiding parties attacking the Forbidden Forest. Leto commands Idaho to deploy his guards to specific ambush points and leave one survivor at each. Leto orders Moneo to replace the wolves in his forest with "human wolves" to act as predators.
+
+**Sentence Count Check:** 15
+
+---
+
+### 22: Chapter 22
+Leto remains alone in his audience chamber while his mind processes the presence of Hwi Noree. He recognizes that Hwi is the evidence that the Ixians have discovered his most secret secret. He contemplates the possibility of reversing his metamorphosis but realizes it is impossible. The internal "mob" of his ancestral memories mocks his self-pity and reminds him of his task. Leto considers himself a whole population and the ultimate loner tasked with the Golden Path.
+
+He seeks a distraction by exploring the memories of his ancestors through a mental safari. Leto recalls Norma Cenva, the woman who actually designed the first Guild ship. He dismisses the idea of reliving sexual exploits or musical performances by Mozart and Bach. He reflects on his ability to witness any historical event, such as the cowardice of Napoleon. The past beckons as a siren call that threatens to trap him in a permanent dreamstate.
+
+Leto trembles in the gloom as he realizes no antidote exists for his current condition. He views himself as a hunter caught in the net of his own created myths. A Fish Speaker guard whispers at the portal that God appears to be troubled. Her companion suggests that the sins of the universe would trouble any being. Leto hears their words and weeps silently in the isolation of the chamber.
+
+**Sentence Count Check:** 15
+
+---
+
+### 23: Chapter 23
+Inmeir and a squad of Fish Speakers fly Duncan Idaho and Siona to the village of Goygoa. Goygoa is built of black stone and sits within a pocket of green hills and orchards. Siona explains that the site was once Shuloch, a place where "water stealers" were executed. Idaho observes the local inhabitants wearing faded clothes and walking with bare feet. The pilot Inmeir informs Idaho that he will return to Onn while Siona stays at the Citadel.
+
+While walking through the village square, Idaho encounters an eight-year-old boy with dark curly hair. The child possesses the exact facial features and genotype of Idaho as a young boy. This boy wears a blue singlesuit made of durable cordlock punji cotton. The child tells Idaho he is not his father before running back to a stone house. Siona confirms that the boy is the son of Idaho's predecessor who vanished in the Citadel.
+
+Idaho meets Irti, the boy's mother and a former Fish Speaker who resembles the Lady Jessica. Irti’s sixteen-year-old son confronts Idaho and tells him to leave because he causes his mother pain. Siona leads Idaho to a hilltop and describes the Empire as a prison of market villages. She claims Leto restricts humanity to these villages to suppress their forming forces and potential crises. Idaho mutters that he will not be used as a stud for Leto's breeding program with Siona.
+
+**Sentence Count Check:** 15
+
+---
+
+### 24: Chapter 24
+Idaho marches ahead of the Royal Cart into a massive underground hall deep beneath the plaza of Onn. The square hall is over a kilometer wide and filled with massed Fish Speaker delegates. Leto retracts the wheels of his cart to move on suspensors and avoid crushing the women's feet. He addresses the crowd as his "brides" and begins the Great Sharing ritual of Siaynoq. Women in white gowns present their infants to Leto during a "Change of the Guard" ceremony.
+
+Leto explains that he utilizes a female army because their loyalty fastens onto the leader instead of the military. He tells Idaho that peace encourages aggression and that his enforced tranquillity redirects human behavior. Idaho is forced to publicly declare his loyalty to the Atreides to satisfy the chanting mob. Trainees wearing short green robes distribute tiny brown wafers that taste of bitter melange. Leto takes two wafers, eating one and passing the second to Idaho to consume.
+
+Leto opens a compartment in his cart and removes a crystal box glowing with blue-grey light. He displays the crysknife of Paul-Muad’Dib, a milky white blade engraved with a hawk. The women respond with a deep murmur identifying Leto as Shai-Hulud, the great sandworm. Leto describes his Fish Speakers as houris who tame males and supervise their maturation. The ritual ends as Idaho and Leto move through the crowd while women reach out to touch them.
+
+**Sentence Count Check:** 15
+
+---
+
+### 25: Chapter 25
+Hwi Noree follows a Fish Speaker down a spiral ramp to meet Leto in his private room. A Tunyon Vine with elephantine leaves and no scent hangs on golden wires in the central well. Leto reveals that her assistant Othwi Yake was actually a Tleilaxu Face Dancer. He explains that Fish Speakers have killed every person in the Ixian Embassy and replaced them. Hwi weeps upon learning that her original staff members were murdered by the shape-shifters.
+
+Leto admits he established his godhood by controlling the Fremen "death water" recovered from corpses. He used a miracle involving his sister's water to convince the tribes he was their Supreme Deity. Hwi asks if Leto is a true god, and he replies that he does not play with death. Leto describes his eventual death as a fragmentation of his awareness into billions of sandtrout. He explains that he will remain conscious but mute in an endless dream within every sandworm.
+
+Hwi agrees to share the burden of Leto's secrets and becomes overwhelmed by his perfect planning. Leto tells her that sun worship is a precursor to understanding that the sun is death. He states that he would not ask her to be his bride if he were still a normal man. Leto offers to allow her to choose a father for any children she might require in the future. He dismisses Hwi so he can meet with Duncan Idaho, and she agrees to return to the Citadel.
+
+**Sentence Count Check:** 15

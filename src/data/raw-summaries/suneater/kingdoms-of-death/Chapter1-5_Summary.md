@@ -1,0 +1,52 @@
+### 1: Twilight
+Hadrian and his Red Company perform a stealth infiltration of the Yamato Fuelworks on the airless planet Eikana. He is accompanied by the veteran soldier Pallino and the mercenary Crim aboard the interceptor ship Ascalon. The objective is to secure the refinery's hadron colliders and antimatter stores before the Cielcin can destroy them. Hadrian reflects on his centuries of service and his aging body compared to the rejuvenated Pallino. The soldiers, wearing ivory masks with the Red Company's pitchfork-and-pentacle mark, prepare to vent the cabin and begin their ground assault.
+
+The team moves along the planetary-scale hadron collider track, using energy-lances to silently eliminate Cielcin sentries. They reach the central refinery building where Hadrian encounters a tall, gnarled Cielcin warrior and watches Crim kill it. Pallino expresses concern about the eerie silence of the complex while the group moves toward the central control room. A technician fails to override the security on a massive steel door, forcing Hadrian to take direct action. Hadrian draws his highmatter blade, an exotic weapon that shears through molecular bonds, and carves a hole in the portal.
+
+Upon entering the facility, the soldiers are immediately attacked by silver, snake-like drones called nahute that can break human limbs. Hadrian rescues a soldier from a drone and is then confronted by a Cielcin berserker wielding a white ceramic sword. He uses his highmatter blade to slice both the doorway and the alien attacker in half. The team realizes their presence is known as they begin climbing the spiral stairs toward the control center. They find themselves trapped on the stairwell when a massive, silver-white Cielcin chimera appears and begins tearing the structure apart.
+
+**Sentence Count Check:** 15
+
+---
+
+### 2: Truth
+Hadrian and his men reach the refinery control room and find it lightly defended by a small group of Cielcin. He orders a junior engineer to shut down the planet-spanning hadron collider to prevent a catastrophic antimatter explosion. As the technician works, Hadrian experiences a manifestation of his vision granted by the Quiet, seeing infinite parallel versions of himself. He focuses his will to select a timeline where the containment system does not fail and they survive the shutdown. The tech successfully powers down the machinery, unaware that Hadrian’s intervention stabilized the reality of their success.
+
+While waiting for the Imperial fleet, Hadrian uses the refinery's public address system to contact the Cielcin leaders. He speaks with Hushansa the Many-Handed, a vayadan-general of the Iedyr who possesses a powerful machine body. Hushansa reveals that they are a servant of the Prophet, Syriani Dorayaica, and expresses a long-standing desire to capture Hadrian. Hadrian realizes that by revealing his identity, he has ensured the Cielcin will try to take him alive rather than destroy the facility. A junior soldier named Leon expresses his fear of the Cielcin while Hadrian reflects on the grim reality of the war.
+
+The Cielcin begin using a heavy plasma bore to melt through the eighteen-inch-thick steel doors of the airlock. Hadrian orders his men to mine the inner door with high-powered explosives as a desperate deterrent. As the inner door begins to liquify from the heat of the plasma drill, Hadrian prepares a radical escape route. He uses his highmatter blade to cut a large circle out of the control room floor, dropping forty feet to the refinery level below. The control room above then erupts in flames as the plasma bore detonates, incinerating the Cielcin boarding party while Hadrian’s group flees.
+
+**Sentence Count Check:** 15
+
+---
+
+### 3: The Red and the Black
+Hadrian and his forty-two surviving men find themselves surrounded on the refinery floor after their drop from the control room. They fight their way toward the maintenance tram system, which provides high-speed transport along the collider track. During the skirmish, a massive white chimera—revealed to be a body of the general Hushansa—attacks the group. This version of Hushansa is a tall, spindly machine of adamant, a material that resists even Hadrian's highmatter blade. Crim uses plasma grenades to temporarily disable the metal monster, allowing the men to reach the tram platform.
+
+The first tram car departs with Crim and half the men, leaving Hadrian and Pallino to defend the second car. Another identical body of Hushansa appears, revealing that the general is a ghost that can inhabit multiple mechanical shells simultaneously. Hadrian enters a state of Quiet focus, interposing different realities to make Hushansa’s sword pass harmlessly through his body. He strikes back, slicing the machine's leg joint with his highmatter blade to create a window for escape. The remaining men board the second tram and launch it, but the uninjured Hushansa body clings to the exterior of the moving pod.
+
+The tram car accelerates across the desert of Virdi Planum before Hushansa manages to disable the power rail, causing a violent crash. Hadrian and his men emerge from the wreckage and prepare for a final confrontation with the pursuing machine general. He uses his vision once more to narrow the infinite quantum possibilities and find a single path to victory. As Hushansa leaps at him, Hadrian lunges and shears through the machine's joints, reducing it to a pile of white metal scrap. The Imperial fleet arrives shortly after, and Hadrian tells a young soldier that some legends about the Cielcin wars are true.
+
+**Sentence Count Check:** 15
+
+---
+
+### 4: Nessus
+Hadrian suffers from recurring nightmares in his gilded cage on the planet Nessus, where he has lived for seventy years. These visions, granted by the Quiet, show him chained and forced to meet the Cielcin Prophet, Syriani Dorayaica, under a black dome. He wakes in his villa at Maddalo House, comforted by his lover Valka Onderra, who still bears the mental scars of her past. Hadrian reflects on the trial for heresy and treason that resulted in his exile to this remote provincial capital. He struggles to distinguish between true memories of the future and the infinite un-memories of timelines that may never occur.
+
+The Magnarch of Centaurus, Karol Venantian, meets with Hadrian to discuss the aftermath of the successful Eikana campaign. Venantian is a thin, scribe-like man who rules the sector with an iron will hidden beneath a stooped appearance. They travel via flier over the massive Sananne shipyards, where a hundred-mile-long dreadnought called the Huntsman is under construction. The Magnarch reveals that the Wong-Hopper Consortium has delivered fuel to replace the stores lost during the Cielcin attack. Hadrian warns that the Cielcin now know the locations of Imperial refueling infrastructure, though Venantian plans to bolster local security.
+
+Venantian shares a staggering piece of strategic intelligence regarding the Jaddian Principalities and their long-promised military support. He reveals that a Jaddian fleet of twenty thousand warships is en route, commanded by the masked Prince Kaim du Otranto. Most significantly, the fleet carries an army of two hundred million mamluk clones, a figure that rivals the entire Imperial military force. Hadrian is shocked by this violation of the Chantry's ban on cloning, though the Magnarch views the clones as a necessary weapon. The meeting concludes with the announcement that the Sollan Emperor, William XXIII, is arriving on Nessus to personally inspect the war effort.
+
+**Sentence Count Check:** 15
+
+---
+
+### 5: The Sun Descending
+Emperor William XXIII arrives on Nessus with immense pageantry, landing his gilded frigate, the Radiant Dawn, amidst thousands of Imperial soldiers. Hadrian and Valka join the Magnarch's court on the landing field, feeling out of place in their black attire among the bronze and violet colors. The Emperor is carried on a palanquin by two dozen androgyn homunculi and wears white ceramic armor with scarlet gloves of state. He is accompanied by a retinue of high-ranking officials, including the head of Legion Intelligence and his personal confessor, Archprior Leonora. Valka, a Tavrosi demarchist, watches the archaic displays of Imperial power with a mixture of confusion and disdain.
+
+The Emperor surprises the court by bypassing the Magnarch to personally greet and thank Hadrian for his service on Eikana. He offers his red-gloved hand for Hadrian to kiss and expresses regret that he could not assist during the trial on Thermon. This public show of favor deeply insults the Magnarch, who had previously used Valka as a hostage to ensure Hadrian's loyalty. Hadrian introduces Valka to the Emperor, and she reluctantly follows the courtly protocol of kissing the Imperial rings. William XXIII acknowledges Valka's Tavrosi heritage before ordering the Magnarch to lead the procession to the welcome feast in the city of Sananne.
+
+As the procession moves toward the palace, Hadrian reunites with Bassander Lin, a Mandari officer who now walks with a cane after the Battle of Berenike. Lin has been promoted to Tribune and assigned to the 409th Legion, though he remains a prickly and suspicious companion. He mentions that Prince Alexander, the Emperor's heir and Hadrian's former squire, is also part of the Imperial retinue for seasoning. The two men discuss the impending arrival of the Jaddian clone army and the political implications of the Emperor's visit. Lin reveals a startling rumor: the Emperor diverted his entire fleet five years off-course specifically to meet with Hadrian on Nessus.
+
+**Sentence Count Check:** 15

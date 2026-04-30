@@ -1,0 +1,123 @@
+---
+import { getCollection, render } from 'astro:content';
+import Layout from '../../../layouts/Layout.astro';
+
+export async function getStaticPaths() {
+  const allSummaries = await getCollection('summaries');
+  
+  // Group all chunks by their Series and Book
+  const grouped = allSummaries.reduce((acc, chunk) => {
+    const key = `${chunk.data.series}|${chunk.data.book}`;
+    if (!acc[key]) acc[key] = [];
+    acc[key].push(chunk);
+    return acc;
+  }, {} as Record<string, typeof allSummaries>);
+
+  const paths = [];
+
+  // Loop through each book
+  for (const [key, chunks] of Object.entries(grouped)) {
+    const seriesData = chunks[0].data.series;
+    const bookData = chunks[0].data.book;
+    
+    // Create URL-friendly slugs
+    const seriesSlug = seriesData.toLowerCase().replace(/\s+/g, '-');
+    const bookSlug = bookData.toLowerCase().replace(/\s+/g, '-');
+
+    // Sort chunks by their starting chapter
+    chunks.sort((a, b) => a.data.startChapter - b.data.startChapter);
+
+    const bookUrl = `/${seriesSlug}/${bookSlug}`;
+
+    for (let i = 0; i < chunks.length; i++) {
+      const currentChunk = chunks[i];
+      const prevChunk = i > 0 ? chunks[i - 1] : null;
+      const nextChunk = i < chunks.length - 1 ? chunks[i + 1] : null;
+
+      paths.push({
+        params: { series: seriesSlug, book: bookSlug, range: currentChunk.data.range },
+        props: { 
+          seriesName: seriesData, 
+          bookName: bookData, 
+          range: currentChunk.data.range, 
+          chunk: currentChunk,
+          bookUrl,
+          prevUrl: prevChunk ? `${bookUrl}/${prevChunk.data.range}` : null,
+          nextUrl: nextChunk ? `${bookUrl}/${nextChunk.data.range}` : null,
+          prevRange: prevChunk ? prevChunk.data.range : null,
+          nextRange: nextChunk ? nextChunk.data.range : null,
+        },
+      });
+    }
+  }
+
+  return paths;
+}
+
+const { seriesName, bookName, range, chunk, bookUrl, prevUrl, nextUrl, prevRange, nextRange } = Astro.props;
+
+// Render the entire markdown file content
+const { Content } = await render(chunk);
+
+const pageTitle = `${bookName} recap chapters ${range} | The Distiller`;
+const pageDescription = `Panic recap of ${bookName} chapters ${range}. A concrete narrative refresher of plot points and actions from the ${seriesName} series before you read the sequel.`;
+---
+
+<Layout title={pageTitle} description={pageDescription} ogType="article">
+  <div class="max-w-3xl mx-auto py-12 px-4 sm:px-6">
+    
+    <!-- Header -->
+    <div class="mb-16 border-b border-gray-300 dark:border-gray-800 pb-8 transition-colors duration-300">
+      <div class="mb-6">
+        <a href={bookUrl} class="text-sm font-bold text-gray-500 dark:text-gray-500 hover:text-gray-800 dark:hover:text-gray-300 transition-colors uppercase tracking-widest flex items-center">
+          <svg class="w-4 h-4 mr-2" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 19l-7-7m0 0l7-7m-7 7h18" />
+          </svg>
+          Back to {bookName}
+        </a>
+      </div>
+      <h1 class="text-2xl font-bold text-gray-500 dark:text-gray-500 mb-2 uppercase tracking-widest">{seriesName}</h1>
+      <h2 class="text-4xl sm:text-5xl font-extrabold text-gray-900 dark:text-white tracking-tight mb-6 transition-colors duration-300">{bookName}</h2>
+      <div class="inline-block bg-gray-200 text-gray-800 dark:bg-gray-800 dark:text-gray-300 px-4 py-1.5 rounded text-sm font-bold tracking-widest transition-colors duration-300">
+        CHAPTERS {range}
+      </div>
+    </div>
+
+    <!-- The Content -->
+    <div class="space-y-24">
+      <article class="prose prose-lg dark:prose-invert max-w-none prose-p:text-gray-700 dark:prose-p:text-gray-300 prose-p:leading-loose prose-p:indent-8 prose-p:mb-8 prose-headings:text-2xl prose-headings:font-bold prose-headings:text-gray-900 dark:prose-headings:text-gray-100 prose-headings:mb-6 transition-colors duration-300">
+        <div class="text-lg">
+          <Content />
+        </div>
+      </article>
+    </div>
+
+    <!-- Pagination -->
+    <div class="mt-20 pt-8 border-t border-gray-300 dark:border-gray-800 flex flex-col sm:flex-row items-center justify-between gap-4 transition-colors duration-300">
+      {prevUrl ? (
+        <a href={prevUrl} class="w-full sm:w-auto px-6 py-4 bg-white dark:bg-gray-800 border border-gray-200 dark:border-gray-700 rounded-lg text-center hover:border-gray-400 dark:hover:border-gray-500 hover:bg-gray-50 dark:hover:bg-gray-750 transition-colors shadow-sm dark:shadow-none group flex items-center justify-start sm:justify-center">
+          <svg class="w-5 h-5 mr-3 text-gray-400 dark:text-gray-500 group-hover:-translate-x-1 transition-transform" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 19l-7-7 7-7" />
+          </svg>
+          <div class="text-left">
+            <span class="block text-xs text-gray-500 dark:text-gray-400 uppercase tracking-widest mb-0.5">Previous</span>
+            <span class="block text-sm font-bold text-gray-900 dark:text-gray-100 group-hover:text-blue-600 dark:group-hover:text-white transition-colors duration-300">Chapters {prevRange}</span>
+          </div>
+        </a>
+      ) : <div class="hidden sm:block"></div>}
+
+      {nextUrl ? (
+        <a href={nextUrl} class="w-full sm:w-auto px-6 py-4 bg-white dark:bg-gray-800 border border-gray-200 dark:border-gray-700 rounded-lg text-center hover:border-gray-400 dark:hover:border-gray-500 hover:bg-gray-50 dark:hover:bg-gray-750 transition-colors shadow-sm dark:shadow-none group flex items-center justify-end sm:justify-center ml-auto">
+          <div class="text-right">
+            <span class="block text-xs text-gray-500 dark:text-gray-400 uppercase tracking-widest mb-0.5">Next</span>
+            <span class="block text-sm font-bold text-gray-900 dark:text-gray-100 group-hover:text-blue-600 dark:group-hover:text-white transition-colors duration-300">Chapters {nextRange}</span>
+          </div>
+          <svg class="w-5 h-5 ml-3 text-gray-400 dark:text-gray-500 group-hover:translate-x-1 transition-transform" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
+          </svg>
+        </a>
+      ) : <div class="hidden sm:block"></div>}
+    </div>
+    
+  </div>
+</Layout>

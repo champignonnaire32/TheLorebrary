@@ -1,0 +1,41 @@
+### 86: Darrow: Nivalnight
+Darrow waits in a small chamber beneath the House of Bounty’s speaking floor for Cassius and Lysander to arrive. Diomedes enters the room wearing a black cape and a ring with a black stone to signify he is now Hegemon. Lysander is late, so Diomedes decides to present Darrow to the Moon Lords first. Darrow follows Diomedes through a stone tunnel and removes his boots for slippers to honor Rim ritual. Diomedes carries the duroglass Spear of Akari as he leads Darrow onto the emblem of a golden flower.
+
+Darrow presents the severed head of Volsung Fá to the Moon Lords as a gift to the Rim. The lords bang their iron staffs on the floor in a long display of acclaim for the act. Darrow kneels and requests a formal pardon for his past destruction of the Dockyards of Ganymede. Diomedes announces to the council that he has offered to restore the military alliance between the Rim and the Rising. The Moon Lords erupt in anger until Gaia rises to shame them for their previous cowardice during the invasion.
+
+Diomedes argues that the Rim must choose a side or risk having their fate decided by Core Gold tyranny. He explains that he has offered Darrow and Lysander a chance to form a triumvirate against Atlas and Atalantia. The Moon Lords question why Lysander has not appeared to face his own shame and the accusations against Atlas. Diomedes assures them that Lysander will arrive soon to bring the head of Atlas and ask for his own pardon. A Green attendant interrupts the session to announce a tightbeam signal arriving from the bridge of the Lightbringer.
+
+**Sentence Count Check:** 15
+
+---
+
+### 87: Darrow: Casus Belli
+The holographic projection shows a wounded and bloody Lysander standing on the bridge of the Lightbringer surrounded by his Golds. Lysander addresses the Moon Lords and accuses the Raa family of treason for their past alliance with Darrow. He claims that he was attacked by assassins in the Garter and only survived because of the sacrifice of Rhone ti Flavinius. Lysander drops the brutalized and naked body of Cassius from a rope to hang in view of the camera. Darrow watches in shock as he realizes his friend has been murdered and his sword hand removed.
+
+Diomedes interrupts the broadcast to call Lysander a liar and references their private conversation about Atlas. Lysander dismisses the claims as a survival tactic and demands that the Moon Lords render Darrow unto him. Gaia screams insults at Lysander and claims she heard the truth of the invasion from the mouth of her son Atlas. Lysander questions the validity of Gaia's story and points out her long-standing hatred for the Core. He promises to destroy the Volk and the insurgents on Europa if the Moon Lords comply with his ultimatum.
+
+The Moon Lords stand in unison to reject Lysander's demand despite the threat of consequences. Diomedes informs Lysander that Darrow is a guest who has eaten their bread and will not be surrendered. Lysander terminates the signal and declares that the Slave King will now have to feed the Rim. A massive bombardment of particle beams from the Lightbringer and its allied ships begins to strike the Garter. Darrow holds up a collapsing stone pillar to allow the Moon Lords to evacuate the House of Bounty.
+
+**Sentence Count Check:** 15
+
+---
+
+### 88: Lysander: The Sack of Demeter
+Lysander watches from the surface of Io as his mechs uproot prized plum trees and load them onto transports. Industry workers and Praetorians under the supervision of archGrower Lucilla harvest the genetic and agricultural wealth of the Garter. Pallas au Votum arrives to inspect the haul and expresses her approval of the immense profits being secured. Lysander explains that he intends to use the DNA sequences to transform the Waste of Ladon on Mercury into a crop heartland. He notes that the Rim's horticultural technology outpaces that of the Core by over a century.
+
+Cicero stands near the burn line and expresses his misery at the destruction of the beautiful olive groves. Lysander justifies the act by stating that the Garter is military infrastructure that feeds disunity and sedition. He argues that by targeting the "stomach" of the rebellion, the Moon Lords will eventually be forced to submit for food. Lysander finds Pytha in the hangar standing over the corpse of Cassius, which is laid out on a gravSled. He places the helmet of Ares on the sled and provides Pytha with a Morning Knight badge for the burial.
+
+Pytha informs Lysander that Cassius successfully killed Atlas before he died, which Lysander acknowledges with a nod. Lysander frees Pytha from her manacles and allows her to fly the Archimedes away with Cassius’s body. He promotes Kyber to the rank of Dux to replace the deceased Rhone and tasks her with purging remaining Gorgons. Lysander reviews sensor reports of a second fleet approaching but decides to sail for the Core rather than give battle. He sits in his room and opens Atlas’s bag to find the fourteen golden cubes of the Eidmi weapon.
+
+**Sentence Count Check:** 15
+
+---
+
+### 89: Darrow: The Only Path
+Darrow emerges from the Raa bunker three weeks after the bombardment to find the Garter transformed into a frozen wasteland. Most atmospheric generators were destroyed, causing ash to snow down on the blackened remains of the orchards and fields. The Daughters of Athena and Volga’s Obsidians work together to rescue survivors from the collapsed bunkers. Diomedes and Gaia watch as the Daughters use hearthcraft painted with red owls to provide medical aid to refugees. Sevro arrives and hugs Darrow, revealing that he and the fleet arrived shortly after Lysander departed for the Core.
+
+Volga and Athena meet with Darrow and Diomedes at a charred table to sign a new military alliance. Volga draws the warsaw of Volsung Fá and breaks it over her knee to show she holds the power now. The signatories seal a document called the Covenant, which is laser-etched into a piece of iron rubble. The Covenant provides amnesty for the Daughters, sets a ten-year alliance, and declares war on the Society. Aurae speaks to the leaders, encouraging them to grow toward the light and find a path that has room for everyone.
+
+The ragtag fleet of Obsidian juggernauts and lean Athenian ships departs Io to begin the long journey back to Mars. Twelve hours after departure, the fleet receives a hail from the Archimedes, which had been flying with its scanners off. Darrow and Sevro board the ship and find Pytha waiting for them with Cassius’s body in a funeral torpedo. Darrow enters Cassius’s room and finds mementos of his childhood and footage of the Institute playing on a holoprojector. He sits with Sevro and watches old videos of their younger selves riding horses across a moonlit plain.
+
+**Sentence Count Check:** 15

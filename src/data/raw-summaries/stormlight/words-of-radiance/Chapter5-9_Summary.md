@@ -1,0 +1,52 @@
+### 5: Ideals
+Kaladin listens to Dalinar's proclamation regarding gemheart sharing. He orders Bridge Four to stock up on food using their new requisition rights. Sigzil asks Kaladin for permission to measure his Stormlight abilities in a private location. Kaladin observes the organized state of Dalinar's warcamp compared to Sadeas's camp. He marches his men to the Pinnacle, a massive palace complex carved into the side of a stone hill.
+
+Sadeas sits in his quarters and contemplates Oathbringer, the curved Shardblade he won from Dalinar. His wife Ialai informs him that Dalinar is recruiting and that she has placed spies among the staff. At the Pinnacle, Kaladin meets the King's Guard and insists on checking all entrances to the meeting room. Dalinar and Navani meet with King Elhokar to discuss the political fallout of the new proclamation. They decide to let Adolin duel other Shardbearers to win their weapons and armor.
+
+Dalinar reveals his goal to refound the Knights Radiant, an ancient order of warriors who once wielded supernatural powers. He explains that the order must return to prepare for an approaching storm. Kaladin reflects on the First Ideal of the Immortal Words while standing guard. Dalinar asks Kaladin to eventually take over the security of the entire Kholin family and the King. Kaladin agrees to train more bridgemen to serve as roadway patrols and bodyguards.
+
+**Sentence Count Check:** 15
+
+---
+
+### 6: Terrible Destruction
+Shallan sits on the deck of the Wind's Pleasure and records observations of the spren Pattern. Pattern manifests as a ball of swirling black lines that vibrates when he speaks. He expresses horror at the concept of humans eating food, describing the process as terrible destruction. Shallan explains the concept of memory to Pattern, who claims he only remembers being with her. She notes that Yalb and the sailors are becoming increasingly aware of Pattern's presence on the ship.
+
+Shallan visits Jasnah's cabin and finds the older woman exhausted and surrounded by exhaustionspren. Jasnah provides Shallan with a pouch of spheres and explains that Shallan's abilities involve the Surge of Illumination. They discuss the imminent return of the Desolation and the potential for a parshman revolution. Jasnah reveals that she has written to world leaders but remains dismissed as a paranoid scholar. She clarifies that her mother Navani is one of the few who might believe her research.
+
+Jasnah explains that they are traveling to the Shattered Plains to find the path to Urithiru. This ancient city served as the central hub for the Knights Radiant in past ages. Jasnah believes the city contains records untouched by the Vorin Church's historical tampering. She explains that the city was legendarily protected from the Voidbringers and could provide irrefutable evidence. Jasnah gives Shallan a copy of the book Words of Radiance to study before they reach their destination.
+
+**Sentence Count Check:** 15
+
+---
+
+### 7: Open Flame
+Shallan wakes to the smell of smoke and the sound of screams throughout the ship. She opens her cabin door and sees men with torches and axes standing in the passageway. The assassins enter Jasnah's cabin and include a tall, blunt-faced man who was recently hired as a sailor. One killer stabs Jasnah in the chest with a long knife while Shallan watches in horror. Pattern urges Shallan to use her abilities and fight back against the intruders.
+
+Shallan breathes in Stormlight from her spheres and feels it raging through her veins. She projects an illuminated blur of Light that lures the assassins out of the passageway. After they give chase to the illusion, Shallan creeps into Jasnah's cabin and finds the bed soaked in blood. She locates Jasnah's hidden drawer and takes several bright spheres to fuel her next move. Shallan decides to Soulcast the ship itself to create a distraction for the captured sailors.
+
+Shallan enters Shadesmar, a realm with a black sky and ground made of black obsidian beads. She finds the bead representing the Wind's Pleasure and pleads with the ship's consciousness to change. After she describes the ongoing executions of the crew, the ship agrees to transform into water. The Stormlight leaves Shallan, shattering the remaining gemstones as the vessel melts away. Shallan falls into the dark ocean and is pulled under by something wrapping around her.
+
+**Sentence Count Check:** 15
+
+---
+
+### 8: Knives in the Back • Soldiers on the Field
+Dalinar Kholin watches from a command plateau as Highprince Aladar's army fights the Parshendi. He observes that Aladar still uses bridge crews in the brutal, expendable manner favored by Sadeas. Adolin leads Dalinar's reinforcements across mechanical bridges that provide superior protection to the soldiers. Dalinar rides his Ryshadium stallion Gallant, a massive and intelligent horse breed, to meet Aladar in a command pavilion. He informs Aladar that he will no longer personally fight in plateau runs.
+
+Aladar complains that the new proclamation will reduce his earnings and benefit only the weakest highprinces. Dalinar threatens Aladar with the fate of Highprince Yenev, who was executed for refusing unification. Dalinar correctly predicts that the Parshendi are preparing a tactical retreat once the gemheart is harvested. Adolin uses his Shardplate and Blade to lead a strike team that secures the chrysalis. The Parshendi abandon the plateau after Dalinar's troops turn their withdrawal into a rout.
+
+Dalinar spots a Parshendi Shardbearer watching the battlefield from a distance through his spyglass. He notes that this Shardbearer did not participate in the actual combat, which indicates a shift in enemy tactics. Aladar admits that Dalinar's advice was helpful but refuses to trust the other highprinces. Dalinar returns to his bunker and reflects on the sixty-day deadline scratched into his wall. Navani arrives and reads a letter from an old friend who is traveling to the Shattered Plains.
+
+**Sentence Count Check:** 15
+
+---
+
+### 9: Walking the Grave
+Kaladin leads forty new recruits down a sturdy rope ladder into the chasms for training. He finds the chasm floor littered with stormleavings, debris, and the bones of fallen soldiers. Teft instructs the men, calling their group the "order of bone" to acknowledge their shared history. Rock assists by handing out practice spears to the men while Teft maintains control of the session. Kaladin observes gloryspren, which appear as tiny golden orbs of light, darting around his head as he watches Teft.
+
+Syl floats alongside Kaladin and explains that nature does not follow laws but rather agreements between things. Kaladin asks Syl if there are others like him, and she confirms that other spren are trying to reclaim what was lost. She reveals that she is an honorspren who defied the Stormfather to find and bond with him. Syl explains that without the bond, she would be as simple and thoughtless as a windspren. Kaladin walks through various branches of the chasm and marks a flat area for future training sessions.
+
+Kaladin discovers a pool that glows with a deep violet light and finds an amethyst broam inside. Rock approaches and takes the sphere, promising to use it to buy better food for the men. Rock and Teft notice that the new recruits are beginning to open up and bond during the initiation. Sigzil arrives at the bottom of the chasm to begin his scheduled experiments on Kaladin's powers. Kaladin promises Syl that he will try to become the Knight Radiant that Dalinar Kholin is seeking.
+
+**Sentence Count Check:** 15

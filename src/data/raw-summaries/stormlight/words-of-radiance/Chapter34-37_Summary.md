@@ -1,0 +1,52 @@
+### 34: Blossoms and Cake
+Tyn receives a spanreed message stating Highprince Valam might be dead and a succession war has begun in Jah Keved. Shallan worries about her family’s debt and the Ghostbloods—a secret organization of assassins and spies. Tyn’s associate reports that Vathah and his deserters have bounties on their heads from Highprince Sadeas. Tyn plans to turn the men in for the reward, laughing at Shallan’s promise of protection. Shallan realizes she cannot protect the men without opposing Tyn.
+
+The spanreed reveals that Jasnah Kholin was the assassination target of Tyn’s previous mission in Amydlatn. Tyn celebrates the report that Jasnah’s ship, the Wind’s Pleasure, was lost with all hands. The message also identifies Shallan as Jasnah’s ward, prompting Tyn to immediately attack her. Tyn pins Shallan to the floor and demands to know if Jasnah survived the ship's sinking. Shallan struggles as Tyn plans to blame the girl's murder on Vathah.
+
+Shallan summons a pulse of Stormlight to distract Tyn with a rippling image of herself. She then summons her Shardblade, a magical silver sword, and stabs Tyn through the chest. Tyn dies instantly with her eyes burned out, and her body collapses onto the rug. Vathah and his men arrive after killing Tyn’s soldiers and find Shallan holding the glowing Blade. Shallan orders them to search the tent for Ghostblood records and responds to a spanreed message to set up a meeting with them.
+
+**Sentence Count Check: 15**
+
+---
+
+### [Interludes]: Interludes
+Eshonai prepares for a highstorm in the city of Narak, the listener capital built from ancient ruins. She meets with Thude, who reports that the Alethi have agreed to a parley in seven days. Eshonai runs out into the storm carrying a gemstone containing a captive stormspren provided by her sister Venli. She braces herself against a ridge of rock with a shield to face the Stormfather. The wind rips her shield away and pummels her as she attunes the Rhythm of Resolve.
+
+In the eye of the storm, the Stormfather speaks directly to Eshonai and expresses regret for what is about to happen. The stormspren, a spren that allows listeners to take on forms of power, escapes the gem and strikes Eshonai in the chest. She transforms into Stormform, gaining red eyes and ridges of armor under her skin. Meanwhile, Zahel—an old swordmaster—wakes up in the Alethi warcamps to find Kaladin at his door. Kaladin asks to learn how to fight Shardbearers following an attempt on King Elhokar’s life.
+
+Dalinar and Elhokar interrogate Taln, a dark-eyed man who claims to be Talenel’Elin, the Herald of War. Taln incessantly repeats a speech about the returning Desolation while Dalinar examines the unbonded Shardblade the man brought. Eshonai returns to Narak and demonstrates her new Stormform abilities to a crowd of listeners. She tells Venli that she can sense an approaching tempest and intends to use the storms to destroy the humans. A voice deep within Eshonai screams in horror as the new form takes control of her mind.
+
+**Sentence Count Check: 15**
+
+---
+
+### 35: The Multiplied Strain of Simultaneous Infusion
+Adolin practices throwing his Shardblade on a plateau but fails repeatedly as the weapon dissolves into mist. He wears his Shardplate to protect his bruised body following the recent assassination attempt by the Assassin in White. Adolin eventually succeeds in commanding the Blade to remain solid after he hurls it into a rock formation. He watches a group of parshmen and ardents—monks of the Vorin Church—move a silken enclosure onto the plateau. Inside, five Soulcasters use gemstone fabrials to transform the air into a massive stone windbreak.
+
+Kadash, a former soldier turned ardent, explains that they are now training more people to use Soulcasting fabrials to meet camp demands. Adolin asks Kadash if the ancient Knights Radiant possessed abilities similar to those of the Assassin in White. Kadash confirms the legends and expresses fear that the Radiants may have returned to the world. Navani Kholin monitors a test in the engineering grounds involving conjoined fabrials. She watches as workers use pulleys to lift a circular wooden platform into the air without physical support.
+
+The platform remains suspended, proving that the conjoined gemstones can transmit motion and force across a distance. Adolin joins Navani on the observation tower and notices her wearing a glove on her safehand instead of a traditional sleeve. Navani explains that the conjoined fabrials could be used to hoist archers into the air during battles on the Shattered Plains. Adolin notes that the flying platform mimics the gravity-defying powers used by the assassin. Navani dismisses the scholars and prepares to accompany Adolin to a meeting with the king and highprinces.
+
+**Sentence Count Check: 15**
+
+---
+
+### 36: A New Woman
+Shallan wakes up and decides to fully embrace her role as a leader rather than a frightened girl. She asks Pattern to move through a trunk’s keyhole and unlock it from the inside. Pattern successfully manipulates the lock, allowing Shallan to claim Tyn’s spheres, makeup, and high-quality clothing. She puts on a fine dress and prepares herself to enter the Alethi warcamps as a lighteyed lady. Vathah reports that they burned the bodies of Tyn and her guards to hide the evidence of the conflict.
+
+Shallan hires a palanquin carried by parshmen to transport her the rest of the way to the Shattered Plains. Her nineteen soldiers and five slaves follow the vehicle as they descend toward the ten massive crater cities. She worries that Dalinar Kholin might dismiss her since Jasnah is reported dead. Pattern observes that humans are fascinated by the concept of nonexistence while Shallan draws a new sketch. She creates a portrait of herself standing confidently before Dalinar to fix the persona in her mind.
+
+The procession reaches the king’s palace, where Shallan is challenged by sixteen guards at the outer gates. Vathah announces her as the betrothed of Adolin Kholin, and the guards allow her to pass without further resistance. Inside, she encounters Kaladin, who recognizes her as the woman who stole his boots in the wilderness. Kaladin accuses her of being a swindler and threatens to take her to the dungeons. Shallan engages him in a heated insult match before handing him a paper for Navani and gaining entry to the king’s chamber.
+
+**Sentence Count Check: 15**
+
+---
+
+### 37: A Matter of Perspective
+Adolin leaves the meeting of highprinces during a break, feeling frustrated by their inability to agree on a defense against the assassin. He speaks with Relis Ruthar, the current dueling champion, and attempts to goad him into a Shard duel. Relis refuses the challenge, claiming Adolin is not ranked high enough to face the champion. Adolin offers to wager five Shard sets against a single set to entice any opponent to fight him. Elit, Relis's cousin and a Shardbearer with only Plate, accepts the lopsided wager.
+
+They agree to duel in seven days, though Adolin unsuccessfully tries to move the date to the following day. Highprince Torol Sadeas approaches Adolin and mocks Dalinar’s perceived loss of sanity. Sadeas claims his betrayal at the Tower was a kindness intended to give Dalinar a soldier's death. Adolin threatens to kill Sadeas manually, but Brightlord Meridas Amaram intervenes to stop the confrontation. Amaram, a high-ranking general and Shardbearer, leads Adolin away to prevent further public embarrassment.
+
+Amaram argues that he remains allied with Sadeas to bridge the gap between the warring highprinces. Adolin notices a beautiful Veden woman with deep red hair and pale skin walking through the room. She glides toward Dalinar and Navani, standing out among the curvaceous Alethi women. Adolin breaks away from Amaram to approach the newcomers and hear what the girl is saying. Shallan introduces herself and informs Dalinar that Jasnah Kholin went down with her ship.
+
+**Sentence Count Check: 15**

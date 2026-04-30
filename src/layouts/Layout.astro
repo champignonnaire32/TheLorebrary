@@ -1,0 +1,106 @@
+---
+import '../styles/global.css';
+import ReaderControls from '../components/ReaderControls.tsx';
+
+interface Props {
+  title: string;
+}
+
+const { title } = Astro.props;
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="description" content="A concrete narrative refresher for returning readers." />
+    <meta name="viewport" content="width=device-width" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <meta name="generator" content={Astro.generator} />
+    <title>{title}</title>
+    <script is:inline>
+      const theme = localStorage.getItem('theme') || 'dark';
+      if (theme === 'dark') {
+        document.documentElement.classList.add('dark');
+      } else {
+        document.documentElement.classList.remove('dark');
+      }
+      
+      const fontSize = localStorage.getItem('fontSize') || '18';
+      document.documentElement.style.fontSize = `${fontSize}px`;
+    </script>
+  </head>
+  <body class="bg-gray-50 text-gray-900 dark:bg-gray-900 dark:text-gray-100 min-h-screen font-sans transition-colors duration-300">
+    <div class="flex">
+      <!-- We will add the Sidebar here later -->
+      <main class="flex-1 p-8">
+        <slot />
+      </main>
+    </div>
+    
+    <!-- Floating Navigation Buttons -->
+    <div class="fixed bottom-6 left-6 z-50 flex flex-col gap-3">
+      <!-- Back to Top Button -->
+      <button
+        id="backToTopBtn"
+        class="flex items-center gap-2 px-4 py-3 bg-gray-800 dark:bg-gray-700 text-white rounded-full shadow-lg opacity-0 pointer-events-none transition-all duration-300 hover:bg-gray-700 dark:hover:bg-gray-600 hover:scale-105 active:scale-95 focus:outline-none focus:ring-2 focus:ring-gray-500 focus:ring-offset-2 focus:ring-offset-gray-50 dark:focus:ring-offset-gray-900"
+        aria-label="Back to top"
+      >
+        <svg class="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 10l7-7m0 0l7 7m-7-7v18" />
+        </svg>
+        <span class="text-sm font-bold tracking-wider uppercase">Top</span>
+      </button>
+
+      <!-- Go Back Button -->
+      <button
+        id="goBackBtn"
+        class="flex items-center gap-2 px-4 py-3 bg-gray-800 dark:bg-gray-700 text-white rounded-full shadow-lg transition-all duration-300 hover:bg-gray-700 dark:hover:bg-gray-600 hover:scale-105 active:scale-95 focus:outline-none focus:ring-2 focus:ring-gray-500 focus:ring-offset-2 focus:ring-offset-gray-50 dark:focus:ring-offset-gray-900"
+        aria-label="Go back"
+      >
+        <svg class="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 19l-7-7m0 0l7-7m-7 7h18" />
+        </svg>
+        <span class="text-sm font-bold tracking-wider uppercase">Back</span>
+      </button>
+    </div>
+
+    <ReaderControls client:load />
+
+    <!-- Navigation Logic -->
+    <script is:inline>
+      const backToTopBtn = document.getElementById('backToTopBtn');
+      const goBackBtn = document.getElementById('goBackBtn');
+
+      if (backToTopBtn) {
+        window.addEventListener('scroll', () => {
+          if (window.scrollY > 500) {
+            backToTopBtn.classList.remove('opacity-0', 'pointer-events-none');
+            backToTopBtn.classList.add('opacity-100', 'pointer-events-auto');
+          } else {
+            backToTopBtn.classList.add('opacity-0', 'pointer-events-none');
+            backToTopBtn.classList.remove('opacity-100', 'pointer-events-auto');
+          }
+        });
+
+        backToTopBtn.addEventListener('click', () => {
+          window.scrollTo({
+            top: 0,
+            behavior: 'smooth'
+          });
+        });
+      }
+
+      if (goBackBtn) {
+        goBackBtn.addEventListener('click', () => {
+          // If there is history within the site, go back. Otherwise go to home.
+          if (window.history.length > 1 && document.referrer.includes(window.location.host)) {
+            window.history.back();
+          } else {
+            window.location.href = '/';
+          }
+        });
+      }
+    </script>
+  </body>
+</html>

@@ -1,0 +1,54 @@
+# Chapter 1-5 Summaries: Demon in White
+
+### 1: Behold a Pale Horse
+Hadrian Marlowe attends an audience at the Solar Throne on Forum where two common soldiers kneel before Emperor William XXIII. Legionnaire Carax describes the brutal fall of the flagship Inviolate during the battle of Hermonassa. He details an encounter with a massive Cielcin leader who wielded a twisted highmatter sword and personal energy shields. This Pale King spoke human words and identified himself as Syriani Dorayaica, the Scourge of Earth. Hadrian recognizes the name from his own prophetic visions and interrupts the protocol to ask if the creature wore a crown.
+
+Carax confirms the silver crown, solidifying Hadrian's fear that the Cielcin are organizing under a single, terrifying monarch. The court reacts with shock to Hadrian’s outburst, but the Emperor grants him leniency as a Knight Victorian and Imperial cousin. After the Emperor departs, Hadrian and his lictor Pallino discuss the strategic implications of the Cielcin targeting military shipyards. Carax approaches Hadrian in the vestibule, revealing that he and many other soldiers worship the Halfmortal as a divine savior. The soldier presses a silver prayer medal into Hadrian’s hand as a token of gratitude for his previous victory at Aptucca.
+
+Hadrian discovers a crude trident carved into the back of the medal, a blasphemous symbol of his own Red Company. He realizes the depth of the personality cult surrounding him within the legions, which the Chantry would consider heresy. Carax asks for a blessing, and Hadrian feels a profound weight of responsibility for the man’s desperate hope. He returns the medal to the soldier, unintentionally turning the object into a holy relic in the man’s eyes. Hadrian leaves the hall feeling exhausted by the legend he cannot escape and the war that shows no sign of ending.
+
+**Sentence Count Check:** 15
+
+---
+
+### 2: The Firstborn Son of Earth
+Hadrian is marched through the opulent corridors of the Peronine Palace by a heavy escort of Knights Excubitor. He reflects on his knighting ceremony centuries prior, where he swore elaborate oaths of service to the Sollan Emperor. Emperor William XXIII receives Hadrian in a private water garden, appearing as a man weary of his long reign. William praises Hadrian’s bloodless victory at Aptucca but insists he maintain the official, sanitized version of the event. The Emperor then reveals that a supply caravan and several legions have vanished in the gulf toward the planet Gododdin.
+
+Hadrian is ordered to lead a search and rescue mission to Gododdin to find the lost 116th and 337th legions. The Emperor commands Hadrian to take Prince Alexander, the 107th Imperial child, on the voyage for seasoning. Hadrian recognizes the mission as a political trap designed to exile him to the frontier for decades. He realizes that failure will lead to his public abasement before the throne, while success offers little immediate reward. Despite the risk, Hadrian accepts the charge and seals his fate by promising to return the prince and the legions.
+
+Hadrian attempts to leverage his position by requesting access to the Imperial Library on the planet Colchis. He seeks ancient records of early Cielcin raids to find evidence of the Quiet forces that saved him from death. The Emperor questions the scholar's motivation, sensing a hidden purpose behind the request for restricted archives. William dismisses the immediate request, promising only to consider it upon Hadrian’s successful return from Gododdin. Hadrian leaves the garden knowing he is being mocked and threatened by a monarch who views him as a dangerous upstart.
+
+**Sentence Count Check:** 15
+
+---
+
+### 3: The Empire of the Clouds
+Hadrian meets with the Ministry of War and Legion Intelligence to receive the minimal data available for his mission. Sir Lorcan Breathnach and the corpulent Lord Augustin Bourbon treat Hadrian with open hostility and aristocratic disdain. They confirm that four legions have now vanished in the Sagittarius/Centaurus gulf between Gododdin and Dion Station. Hadrian identifies the fuel depot at Dion as the likely ambush point used by the Cielcin or Extrasolarian allies. He realizes the mission is a death sentence meant to strip him of his political momentum while he is frozen in cryo-sleep.
+
+Breathnach mocks Hadrian’s failure to rescue survivors during the previous mission to the planet Arae. Hadrian retorts that his discovery of Cielcin and Extrasolarian cooperation is more valuable than simple troop recovery. He terminates the briefing without permission, seizing the storage crystal and departing with his officers. On the shuttle back to orbit, Hadrian and Pallino discuss the inevitability of the trap set by the Imperial council. Hadrian watches the Eternal City through the porthole, feeling a conflicted love for the Empire despite its venal leaders.
+
+Captain Otavia Corvo estimates the journey across the Sagittarius Arm will take at least twelve years at full warp. Hadrian calculates that he will be irrelevant and forgotten by the court by the time he returns from the frontier. He suspects Bourbon is the primary architect of this exile, fearing Hadrian’s influence with the common soldiers. The group discusses the security of their shuttle, which has been cleared of bugs by the Tavrosi scholar Valka. Hadrian clenches his fist, determined to survive the mission despite the overwhelming odds and the political machinations against him.
+
+**Sentence Count Check:** 15
+
+---
+
+### 4: Children of the Sun
+Hadrian is summoned back to the Peronine Palace for a final meeting with Empress Maria Agrippina. The Empress is described as a genetically perfect elf queen whose beauty is as cold as a winter storm. She warns Hadrian that she will destroy him if any harm comes to Prince Alexander during the voyage. Maria Agrippina mocks Hadrian’s relationship with Valka and his preference for the company of degenerates and homunculi. Hadrian remains stoic, realizing the Empress is far more dangerous and observant than her Imperial husband.
+
+Prince Alexander enters the solarium, appearing as a red-haired young man of roughly thirty standard years. He is accompanied by his sister, Princess Selene, whose appearance triggers a traumatic psychic flashback for Hadrian. Hadrian recognizes Selene from a vision given to him by the Brethren, in which they rule the Empire together. Disturbed by the prophetic memory of their shared future, Hadrian avoids meeting the princess’s eyes during their introduction. Alexander surprises Hadrian by shaking his hand in the peasant fashion and expressing deep admiration for the Hero of Aptucca.
+
+Hadrian prepares to depart with the prince, promising the Empress that Alexander will be treated like any other squire. Alexander says goodbye to his mother and sister, displaying a gallant desire to prove his worth beyond his rank. As they descend the palace steps, Hadrian finds a glowing Galath blossom that has fallen from its sacred tree. He interprets the fallen flower as a dark omen of the Empire’s eventual collapse or his own impending failure. Hadrian leads the prince toward the waiting shuttle, ready to leave the intrigue of Forum for the cold reality of space.
+
+**Sentence Count Check:** 15
+
+---
+
+### 5: Tamerlane
+Hadrian and Alexander watch the massive globe of Forum recede as their shuttle approaches the battleship Tamerlane. The Tamerlane is a twelve-mile-long Eriel-class vessel, a black-hulled gift from the Emperor containing thousands of soldiers. Alexander struggles with the transition to zero-gravity and the heavy 1.5-gee environment maintained inside the ship. Upon docking, Hadrian introduces the prince to his command staff, including Captain Otavia Corvo and the Lieutenant Crim Garone. The crew is a motley assembly of mercenaries, patricians, and genetically modified misfits who serve as Hadrian’s inner circle.
+
+Hadrian publicly announces that Alexander will serve as his squire and bunk with the junior officers rather than in royal luxury. The prince reacts with outrage at this perceived insult to his rank, but Hadrian remains firm in his decision. He tells Alexander that being a knight requires seasoning and that luxury has no place in a soldier’s training. Alexander eventually relents and is led away by the Quartermaster Elara to find his meager new quarters. Hadrian reflects on the difficulty of transforming an Imperial pup into a capable warrior during the long journey.
+
+Lorian Aristedes, a crippled and brilliant junior officer, discusses the political rumors circulating at court. Aristedes points out that the nobility expects Hadrian to use the prince for his own ambitious political climbing. Hadrian dismisses the idea of a game, insisting his only goal is to end the Cielcin war at any cost. He recalls the vision of Princess Selene on the throne, which complicates his desire to remain a simple soldier. Hadrian prepares to seek out Valka, knowing that his path to Gododdin will irrevocably change both him and the prince.
+
+**Sentence Count Check:** 15

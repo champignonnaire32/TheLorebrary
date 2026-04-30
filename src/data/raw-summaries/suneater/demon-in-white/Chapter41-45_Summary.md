@@ -1,0 +1,52 @@
+### 41: The Good Soldier
+The Inquisition arrives at the Tamerlane via shuttle, led by a Grand Inquisitor with pale skin and a bone signet ring. Intelligence Director Lorcan Breathnach accompanies the party, openly gloating as Hadrian is ordered to remain confined to his quarters. Hadrian realizes the Inquisition intends to frame him for "infestation" by planting a captured Extrasolarian daimon in the ship's systems. Inquisitor Gereon, who is shaven-headed and hairless, and the unremarkable Sir Friedrich Oberlin visit Hadrian's chambers to conduct a test. Gereon administers an adrenaline cocktail and subjects Hadrian to "the Question," a high-speed series of image-response tests to detect machine influence.
+
+Hadrian passes the interrogation, and Gereon confirms that he is indeed human rather than a machine-simulacrum. Before departing, Oberlin surreptitiously leaves a handwritten note on the table for Hadrian to find. The note reveals that Breathnach arranged the previous assassination attempt and has bribed a lieutenant named Casdon to help plant a daimon. Oberlin identifies himself as a "believer" in Hadrian's legend by scrawling Hadrian’s personal pitchfork-and-pentacle glyph on the message. Hadrian reflects on the political danger, knowing the Chantry's involvement makes the frame-up attempt a lethal threat to his entire command.
+
+He understands that "infestation" is a charge that could lead to his immediate execution and the destruction of the Tamerlane. The presence of Breathnach confirms that the Intelligence Director is no longer hiding his personal vendetta against the palatine nobile. Hadrian's only hope lies with his officers, Lorian and Crim, who remain free to investigate while he is locked away. He hides the note inside a banned book on his shelves to prevent the Inquisition from discovering his informant. Alone in his chambers, Hadrian waits in the gloom as the servos of his deadbolted doors whine shut.
+
+**Sentence Count Check: 15**
+
+---
+
+### 42: Impossible Tasks
+Hadrian remains trapped in his chambers for days, unable to communicate with his officers or the outside world. A faint scraping sound leads him to discover Lorian Aristedes crawling through the return air duct in his upper-level library. Lorian reports that the Inquisition is stripping the ship's deckplates and conducting aggressive interviews with all personnel, including Captain Corvo. Hadrian shares the contents of Oberlin’s note, and they identify the traitorous "Castor" as Lieutenant Casdon. Lorian explains that the Inquisition has docked a brutalist black frigate to the Tamerlane's ventral locks to facilitate their massive forensic hardware.
+
+Desperate to expose the frame-up, Hadrian orders Lorian to take Crim and Ilex on a mission to infiltrate the Chantry vessel. The objective is to kidnap Lieutenant Casdon from the frigate's brig before she can be spirited away or killed by Breathnach's agents. Lorian expresses extreme skepticism about the suicide mission, citing the Chantry's legendary security protocols. Hadrian insists that Casdon is the only witness who can prove the conspiracy and clear the Red Company's name. To provide further insurance, Hadrian gives Lorian a secret recording of his humanity test to prevent the Chantry from submitting faked results.
+
+He tears the watermark off Oberlin's note to protect the knight-logothete from being identified as a collaborator. Lorian reluctantly agrees to the plan, noting that if they are caught, he will blame Hadrian for the entire operation. The two men share a moment of grim humor before Lorian prepares to climb back into the dusty ventilation shafts. Hadrian helps the small commander back into the grate, noting the man's physical fragility and extreme weight loss. Once Lorian vanishes into the wall, Hadrian replaces the grating and returns to his forced solitude.
+
+**Sentence Count Check: 15**
+
+---
+
+### 43: Purgatory
+Hadrian endures nearly a week of isolation, with his only human contact being a silent legionnaire who delivers meals. On the seventh day, the guards stop bringing food, and Hadrian is forced to survive on emergency ration bars from his sleeping quarters. The silence and uncertainty begin to unmoor his sense of time as he waits for news of his soldiers' survival. On the tenth day after his interrogation, the deadbolts whine open and a battered Lorian Aristedes enters the room. Lorian is covered in plasma burns and suffers from a severe concussion, leaning heavily on his silver-braced cane.
+
+He reveals that the mission was successful and that Lieutenant Casdon has "sung," confessing to the entire plot. Prince Hector and the Council have arrested Intelligence Director Lorcan Breathnach based on the evidence provided by the kidnapped officer. Captain Corvo is currently overseeing the removal of any evidence or daimons the Inquisition managed to plant during their stay. Hadrian is overwhelmed by the news that his primary enemy, the man who stabbed Valka, has finally been brought down. He assists the exhausted Lorian out of his chambers, walking him through the ship's corridors toward the medical bay.
+
+Passing technicians salute the pair, signaling that the Inquisition's occupation of the Tamerlane has officially ended. Hadrian delivers Lorian into the care of Doctor Luana Okoyo, declaring the small man a hero of the company. Despite the victory, Hadrian decides to keep Valka in her fugue state for her own protection until the ship leaves Forum orbit. He remains wary of Lord Bourbon, suspecting the Minister of War was the true architect behind Breathnach's actions. The Red Company begins the long process of rebuilding their databases and restoring order to the vessel.
+
+**Sentence Count Check: 15**
+
+---
+
+### 44: Along Comes a Spider
+Several months pass as the Tamerlane's crew recovers and Hadrian oversees the restoration of the ship's corrupted data systems. Hadrian is eventually summoned to the Eternal City to appear before Prince Hector and the eight ministers of the Imperial Council. The Council formally apologizes for the frame-up attempt and confirms that Lorcan Breathnach has been exposed as an assassin. Prince Hector reveals that the Emperor intends to appoint Hadrian to the Council, a prospect the ministers find highly controversial. The ancient Lord Cassian Powers, known as the Avenger of Cressgard, offers to retire and give his seat to Hadrian.
+
+Hadrian refuses to allow the Chantry to interrogate Lorian, Crim, and Ilex regarding their breach of the Inquisition frigate. He argues that he is of greater use at the front lines than in the capital, expressing frustration with the political backstabbing. Outside the council chamber, Lord Cassian Powers corners Hadrian on an overlook to offer advice and support. Powers admits he is tired of five hundred years of war and believes Hadrian is the only one truly conserving the Empire. Their conversation is interrupted by the arrival of a seething Lord Augustin Bourbon and his personal guard.
+
+Bourbon accuses Hadrian of using daimonic spells to frame Breathnach and ruining the career of a loyal public servant. Hadrian counters by pointing out that Lieutenant Casdon has already provided a full confession of the conspiracy. He shuts down Bourbon's wild accusations by asking if the Lord Minister believes the Emperor is incompetent or stupid. The confrontation leaves Bourbon quivering with rage, though he is unable to formulate a coherent legal response. Hadrian departs with a ten-man escort from the Red Company, feeling both victorious and deeply wary of his remaining enemies.
+
+**Sentence Count Check: 15**
+
+---
+
+### 45: Visitation
+Princess Selene arrives for a formal visit to the Tamerlane aboard a graceful white-and-gold ship of tile and filigree. She is accompanied by her handmaids and a century of the Martian Guard, who wear red-and-white armor with feathered crests. Hadrian greets the princess on the receiving platform, wearing his finest black-and-silver uniform and a white brocade cape. Selene offers Hadrian her bare right hand to kiss, a sign of personal intimacy that ignores the formal protocols of their betrothal. Prince Alexander, Hadrian's former squire, emerges from the ship and immediately displays petulant hostility toward his teacher.
+
+The young prince demands that Hadrian kneel to him, but Hadrian refuses, asserting that their master-squire relationship remains intact. To defuse the tension, Hadrian offers a public apology for his past harshness, successfully restoring the prince's dignity. Selene meets Hadrian’s officers, complimenting Lorian on his bravery in capturing the traitorous Breathnach. Captain Corvo informs the princess that the Red Company is currently purging all regular Legion recruits to prevent future infiltration. During a tour of the ship, Selene expresses pity for the lonely existence of the ninety thousand souls living in the metal hull.
+
+Corvo covers for Valka's absence by lying and stating that the Inquisition has not yet granted permission to wake her. Selene invites Hadrian to an upcoming party at the Grand Colosseum to celebrate the opening of the naval combat season. She mentions that Prince Aurelian is hosting the event and that Hadrian must bring his "Tavrosi woman" once she is awake. Hadrian accepts the invitation, realizing that political engagement with the imperial family is now unavoidable. Alexander and Crim depart together to retrieve the prince's belongings, leaving Hadrian and Selene to walk the ship's equator.
+
+**Sentence Count Check: 15**

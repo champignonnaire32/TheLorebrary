@@ -1,0 +1,54 @@
+### 45: Ephraim: Nightgaze
+Ephraim flies with the shaman Ozgard and the Obsidian warrior Freihild to the ruins of the Valkyrie Spires. They prepare a ritual fire using a dragon's skull and fat to perform a Godspeak ceremony. Freihild discusses her forbidden love for Valdir and her conflict with Queen Sefi's New Path rules. Ozgard reveals his backstory as a cursed child born with amniotic band syndrome who became a shaman through trickery. He confesses to Ephraim that he is a fraud who used religion as a lever for power before following Sefi.
+
+Ozgard claims to have seen a true vision on Mercury of a red griffin and a cunning gray fox. He tells Ephraim that it is Ephraim's destiny to stay and watch over Sefi as a gray fox. Ephraim discovers a field of silver nightgaze flowers growing among the rubble of the fallen city. While exploring a shattered throne, Ephraim finds a giant bootprint and senses they are being watched. They discover Freihild's body hanging from a hook inside a fallen tower, killed by massive arrows.
+
+A pale, giant Obsidian named Volsung Fá ambushes them and crushes Ephraim's pistol and finger. Fá gouges out Ozgard’s right eye with his thumb and declares that only the blind can see truth. The giant is an Ascomanni, a legendary pirate race from the deep space known as the Ink. Fá gives Ephraim Freihild's gnawed-upon heart to deliver to Sefi as a message of war. The monster declares Sefi is now prey and departs on a ship as the darkness groans his name.
+
+**Sentence Count Check:** 15
+
+---
+
+### 46: Ephraim: Whirlpool
+Sefi and the Obsidian host witness Freihild's body being stripped by carrion birds before Valdir collects the bones. Ephraim describes the arrival of Volsung Fá and the Ascomanni to the skeptical Obsidian council in Griffinhold. Valdir, grieving and drunk on azag liquor, accuses Sefi and Ozgard of lying about the mythical enemy. Sefi declares a holy war of ashvar against the Ascomanni but ignores Valdir's increasingly volatile accusations. Valdir slams an axe through the table and suggests Sefi killed Freihild out of jealousy over the mines or Valdir’s love.
+
+Sefi dismisses him as a fool, and Valdir storms out while the hall fills with tension and music. Ephraim discusses the situation with Pax, who notes that the Ascomanni shouldn't be able to reach Mars undetected. Sefi takes Pax and Electra to the griffins' aerie, where they find a scene of massive carnage. Valdir has slaughtered Sefi’s personal griffin, Godeater, along with several stablehands and Valkyrie guards in a mad rage. Pax discovers a flagon of azag spiked with fever cloud mushroom, which induced Valdir’s murderous psychotic break.
+
+Sefi punishes Ozgard for poisoning Valdir by stripping him of his voice and making him a shadow in the tribe. Sefi reveals to Ephraim that she is dying of yellow death, a designer DNA-corrupting poison from Atalantia. She confesses that Volga is actually the daughter of Ragnar Volarus, created from his seed in a Grimmus breeding stable. Sefi plans to use Volga as her heir to unite the Obsidians and lead them into a modern age after her death. Ephraim refuses to help, vowing that the corrupt world of Obsidian politics will not consume Volga.
+
+**Sentence Count Check:** 15
+
+---
+
+### 47: Lyria: They Are Sleeping
+Lyria reads a long letter from Volga, who is being held in a separate cell within a House Julii facility. Volga shares stories of her lonely childhood in a laboratory and her dreams of becoming a fair space pirate. The letter reveals Volga has a rare condition called situs inversus, where her internal organs are mirrored. Lyria reflects on her own family's safety on Mercury and her complicated feelings toward the massive Obsidian woman. Two Sol Guards, elite Gray soldiers with metal facial implants, enter Lyria’s cell and take her down.
+
+A Brown freelancer named Figment, also called Fig, arrives and mocks Lyria’s intelligence and the Reds' adaptability. Figment reveals she has been watching Lyria and Volga’s correspondence for entertainment during the voyage. The freelancer spits in Lyria's eye and demonstrates the cell's advanced holographic and mechanical puzzle features. Figment explains that Ephraim has arranged a prisoner exchange to return Lyria and Volga to the Alltribe. Lyria and Volga are moved through the JBS Pandora, a famous House Julii warship and predator of deep space.
+
+Volga is bound in specialized reinforced cuffs and a slave ring that delivers electric shocks to her neck. A Sol Guard named Paxton reveals that the Sovereign, Virginia au Augustus, is rumored to be dead. While showering, Lyria discovers a vibrating, invisible blade emerging from the wall to cut a hole in the hull. A section of the bulkhead is removed, and a viscous, red-veined membrane seals the breach against decompression. Dark, leather-clad shapes fall from the membrane like stillborn babies and begin to wake up in the shower block.
+
+**Sentence Count Check:** 15
+
+---
+
+### 48: Lyria: Monsters
+Figment and the Sol Guards surround the seven naked, leather-clad intruders who entered through the membrane. The intruders are Ascomanni, characterized by earth-red hide, large heads, black eyes, and pressure-sealed skin. A small intruder begins eating glass and laughing just before Figment shoots it in the chest with a specialized gun. The ship’s gravity fails, and the intruders lunge at the floating soldiers with jagged metal weapons and spears. Lyria floats in the darkness as the Ascomanni slaughter the Sol Guards, including Paxton, who is eaten alive.
+
+Volga tells Lyria to climb her body and use a knife hidden in Volga's thigh to cut her free from her cuffs. Lyria manages to free Volga's fingers and waist cable while blue light from Figment's tattoos illuminates the carnage. Figment detonates a bomb that caves the shower block wall outward, creating a window to the vacuum of space. The decompression pulls the intruders out of the ship as the Pandora races past the city moon of Phobos. Lyria grabs a jagged piece of metal and catches Volga's hair to keep them both from being sucked out.
+
+Volga climbs back into the ship and pulls Lyria in just before the hull’s scale armor seals the breach. Lyria sees hundreds of Ascomanni shadows outside the hull, sawing their way into the Pandora without spacesuits. The internal oxygen returns, but Volga falls unconscious after colliding with the hull in the darkness. Lyria recovers an oxygen mask from a dead Sol Guard and manages to keep herself and Volga alive. Realizing Liam will be an orphan if she fails, Lyria kicks off toward the corpse of the impaled Sol Guard captain.
+
+**Sentence Count Check:** 15
+
+---
+
+### 49: Lyria: Run
+Volga wakes up in the destroyed locker room and begins scavenging weapons and armor from the dead Sol Guards. Lyria is physically traumatized by the vacuum exposure, with missing fingernails and sunburnt skin. Volga secures a pulseRifle and tells Lyria they must find the hangar to escape the boarding party. The Pandora is under Code Black as Ascomanni move through the ship using maintenance tunnels to hunt the crew. Lyria and Volga follow a trail of blood to find Figment, hoping the freelancer knows a way to a ship.
+
+They encounter a massive Gold in a nightgown who tells them to run before shadows massacre him. A group of Sol Guards and two Golds form a defensive line near a gravLift station as dots swarm their motion sensors. Volsung Fá, the legendary Ascomanni king, appears in the lift shaft wearing spiked armor and a crown. Fá spears the Gold leader and uses the man's decapitated head as a trophy on his helmet spikes. Lyria and Volga flee through maintenance corridors as gravity returns to the ship at an agonizingly high level.
+
+They find Figment hiding in an EVA suit locker and Volga captures her, slamming her against the wall for past betrayals. Victra au Julii-Barca broadcasts a ship-wide evacuation order, announcing a purge protocol using achlys-9 nerve agent. Figment reveals she has a NEDS, or nanotech emergency defense system, in her skin that allows her to shock opponents. The freelancer claims the hangars are a slaughterhouse and suggests an emergency escape craft hidden beneath the bridge. Figment agrees to take Lyria and Volga to the craft to fulfill her contract with Sefi, despite the Ascomanni presence.
+
+**Sentence Count Check:** 15
+
+---

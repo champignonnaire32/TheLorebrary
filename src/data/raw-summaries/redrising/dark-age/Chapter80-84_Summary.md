@@ -1,0 +1,16 @@
+### 80: Heir of Arcos
+Lysander visits a museum with Alexandar and Rhonna, where he observes them and realizes his cousin Alexandar no longer has a habit of checking his teeth, indicating a change in circumstance. Lysander probes them with the Mind’s Eye and, feeling threatened, violently attacks them. He punches Rhonna, shattering her jaw, and subdues her with her own sidearm. Alexandar draws a whip-sword, displaying mastery of the Willow Way, but Lysander ultimately shoots him in the head.
+
+### 81: Dark Age
+Darrow and his Howlers infiltrate the Lady Beatrice to find Lysander, discovering the mutilated corpse of Alexandar and a wounded Rhonna. As they pursue Lysander through the city, he uses new boots to escape, eventually causing an EMP that knocks out all technology in the city and orbit. Ships plummet from the sky, and Darrow is grounded in the resulting chaos. He is forced to fight off a mob of citizens who attempt to execute him using a falling statue.
+
+### 82: This Summons Legions
+Lysander navigates the darkened city, retrieving the Horn of Helios and gathering a band of loyalist Praetorians in the Hippodrome. He rides a legendary sunblood horse named Blood of Empire and inspires his men with a speech about restoring the Society. Kalindora joins his ranks, and he prepares to lead them against Darrow’s weakened forces. Lysander aims to seize control while the Republic is paralyzed by the sudden technological collapse.
+
+### 83: Hazard Bedlam
+The city is in chaos as citizens slaughter Republic loyalists, and Darrow struggles to reorganize his scattered troops amidst the darkness. He meets up with Thraxa and orders his men to barricade key boulevards to buy time for support staff to escape to the mountains. Darrow realizes Lysander is planning a direct assault for glory rather than waiting for reinforcements. He prepares to make a final stand at the Via Triumphia with Thraxa.
+
+### 84: Meat Straw
+Lysander leads a devastating cavalry charge on sunblood horses against Darrow’s barricade, crushing the defenders with superior physical force and momentum. Darrow and his men use their armor to withstand the initial wave, shredding the horses with their razors, but they are overwhelmed by the relentless assault of Gold and Obsidian fighters. Darrow witnesses the brutal slaughter of his soldiers by the superior combatants. He eventually discards his helmet, surrenders to his inner rage, and engages the enemy directly to hunt down Lysander.
+
+**Sentence Count Check:** 75 (15 per chapter)

@@ -1,0 +1,52 @@
+### Chapter 6: Darrow: Mortal Concerns
+The Archimedes uses its stealth hull to hide in the wake of a Votum convoy approaching the Venusian dockyards. Darrow observes the massive scale of the dockyards and the tethered Carthii navy as they approach the planet. Darrow and Cassius execute a lateral pair-jump from the ship, using a traction gun to reel themselves toward the station. They infiltrate the dockyards by hopping onto a Republic destroyer destined for the incinerator and entering through a pedestrian walkway. Darrow and Cassius reach a delirium arcade and incapacitate a Green admin and a fulgur bellator to gain access to the station's systems.
+
+They use a captured Green architect to locate Sevro’s cell in a high-security block. Darrow and Cassius launch a spider drone to release gas into the security block and then storm the area, killing several Grays and Obsidians. Darrow reaches the cell and removes the prisoner’s wolf helmet, only to find a Gray imposter with Sevro's tattoos. The cell door slams shut, trapping Darrow and Cassius inside a high-gravity trap that pins them to the floor. Apollonius au Valii-Rath speaks over the intercom, mocking Darrow and welcoming him to the dockyards.
+
+The gravity increases to ten times Earth's normal weight, causing Darrow’s pulseArmor to buckle and his body to collapse. Darrow suffers a pinched nerve and struggles to breathe as the pressure mounts against his chest. He realizes he has been lured into a trap and questions if Apollonius ever actually held Sevro prisoner. Cassius is unable to reach the door with a breaching charge before being incapacitated by the weight. The chapter ends with Apollonius declaring Darrow's doom as the Reaper lies helpless on the floor.
+
+**Sentence Count Check:** 15
+
+---
+
+### Chapter 7: Lysander: The Ally Idiot
+Cicero au Votum wins a chariot race on Mercury but ignores Lysander’s request to stop participating in the dangerous sport. Lysander meets Cicero in the staging courtyard, where Cicero defends his participation as a matter of Votum honor and Mercurian spirit. Tharsus au Valii-Rath arrives with his entourage and interrupts their conversation, using an audio distorter to hide his words from lip-readers. Tharsus reveals that Apollonius has captured both Darrow and Cassius after luring them with a broadcast. Lysander is stunned to learn Cassius is alive but resolves to use him as a political tool to gain favor with Julia au Bellona.
+
+Lysander travels to an amphitheater in Heliopolis to meet with Helios au Lux and Diomedes au Raa of the Rim Dominion. Diomedes confesses that he lied about Cassius’s death on Io and has been censured by his order for the deception. Helios informs Lysander that they are en route to a summit in Rome where Atalantia will unveil the next stage of the war. Helios insults Lysander's political standing and warns him to stay out of matters regarding the Rim's military interests. Atlas au Raa suddenly appears wearing a blue wig and needles Helios and Diomedes about their presence on Mercury.
+
+Atlas tells Lysander he is on Mercury to recover from injuries and to review Lysander’s financial expenditures for Atalantia. He warns Lysander that certain plans are in motion that cannot be derailed, even by the Heir of Silenius. After Atlas departs, Lysander orders his Praetorian Kyber to follow the Fear Knight discreetly. Lysander visits Glirastes the Master Maker at his estate to check on the architect's emotional well-being after the Storm God disaster. He informs Glirastes that Apollonius has captured Darrow and Cassius, promising the news is beyond belief.
+
+**Sentence Count Check:** 15
+
+---
+
+### Chapter 8: Darrow: The Hanging Coliseum
+Grays in Rath purple force Darrow and Cassius through Flamma’s Gullet toward the fighting floor of the Hanging Coliseum on Venus. Darrow notes that he was fed well during his two days of captivity while Cassius was denied food and water. They emerge into a massive arena beneath a transparent dome, surrounded by tens of thousands of cheering Grays and dockworkers. Darrow realizes Apollonius has amassed a significant army of exiled Martian Grays and resurrected destroyed legions. Apollonius appears atop the pulvinar and leads his soldiers in a rousing song that celebrates his return and military ambitions.
+
+Apollonius joins Darrow on the sands, dressed in a Martian fighting tunic and carrying a bronze-hued razor three times the normal thickness. He returns Darrow’s razor, Bad Lass, but reveals that his forces have already intercepted Darrow's insurance atomic bomb. Apollonius snaps his own pinky finger and cuts his cheek to swear a blood oath that Darrow and Cassius may leave if Darrow wins. Darrow demands to know Sevro's location, but Apollonius claims only the rats know, leading Darrow to fear his friend is dead. The two begin a duel to the death on Martian dirt scattered across the arena floor.
+
+Apollonius demonstrates immense strength and speed, utilizing an onset of seven moves per second to overwhelm Darrow’s defenses. Darrow realizes his Willow Way form is insufficient against Apollonius, who has been trained specifically to counter the style. Apollonius drives his razor into Darrow’s breast, pinning him and mocking his diminished state. Darrow prepares to trap Apollonius’s blade in his own body to land a killing blow as he dies. A massive shockwave from a nuclear explosion on the dockyards' fourth spindle interrupts the fight and warps the coliseum's dome.
+
+**Sentence Count Check:** 15
+
+---
+
+### Chapter 9: Darrow: Shit Escalates
+A Blue reports a nuclear detonation on west spindle four, prompting Asmodeus au Carthii to declare his intention to invade the dockyards. Apollonius orders his legions to defend their stations and decides to keep Darrow and Cassius alive for future use. Darrow and Cassius are dragged as prisoners through the station as the Carthii fleet begins its assault. They are trapped in a narrow corridor with Apollonius’s personal legion when Carthii leechCraft drill through the bulkheads. Vorkian and a squad of Obsidians attempt to move Darrow and Cassius as the hallway fills with smoke and berserkers.
+
+Darrow uses an Obsidian’s boot knife to free his hands and cut through his dilation collar during the chaotic melee. He incapacitates Vorkian and retrieves his razor and Cassius’s razor from her belt. A starShell piloted by a grease-covered Sevro appears and clears the hallway with a railgun and pulseFist. Sevro leads Darrow and Cassius through maintenance tunnels, deactivating traps he set during his months as a guerilla fighter. They reach a viewing garden where Sevro uses a specialized weapon to blow out the glass and vent the room into space.
+
+Darrow, Cassius, and Sevro use a safety wire to dangle out of the station before floating toward a cargo bay. Aurae brings the Archimedes into the bay to rescue the three men as the dockyards burn behind them. Inside the ship, Sevro provides thermal blankets and medical care to the severely injured Darrow and Cassius. Sevro shows his emotional relief by pressing his forehead to Darrow's before heading to the cockpit. The Archimedes accelerates away from the battle, leaving the Carthii and Rath forces to fight for the dockyards.
+
+**Sentence Count Check:** 15
+
+---
+
+### Chapter 10: Lysander: Iron Fist
+Lysander makes a dramatic entrance at his party by landing a pegasus on the hull of the eight-kilometer-long warship, Lightbringer. He delivers a speech to his Gold guests, claiming the ship is Mercury’s response to Darrow’s past aggression. The Lightbringer successfully lifts off and enters the clouds above Heliopolis, proving it is a functional and massive weapon. Lysander greets Horatia au Votum and Glirastes, celebrating the technical achievement and the political shift it represents. Pallas au Grecca arrives as an envoy for Julia au Bellona, delivering a message that Lysander must prove his "guts" before receiving Bellona support.
+
+Lysander receives word from Rhone Flavinius that a nuclear explosion has occurred at the Venusian dockyards, triggering a Carthii invasion. He quickly negotiates with Valeria au Carthii, offering her the leadership of her house if she supports his hidden agenda. A squadron of Gorgons led by Atlas au Raa descends upon the party, carrying the Iron Fist as a sign of the Dictator’s authority. Tharsus au Valii-Rath attempts to flee but is caught by the Gorgons and beaten midair. Atlas uses the Iron Fist's stasis field to snare Tharsus, then brutally amputates his hands and feet.
+
+Atlas stuffs Tharsus’s mangled body into a manticore cage and presents Lysander with a formal summons to Earth. Lysander realizes he must obey the summons to avoid being branded a traitor and to maintain his public popularity. He coordinates with Horatia and Rhone to activate contingency plans while he is away in the Fear Knight's custody. Glirastes expresses his hope in Lysander before the Heir of Silenius boards Atlas's landing shuttle. Atlas orders his Gorgons to "make him shit blood," and the chapter ends with Lysander being struck in the kidneys.
+
+**Sentence Count Check:** 15

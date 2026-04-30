@@ -1,0 +1,52 @@
+### 16: Chenoeh: “Conversations With
+High Priest Hedley Tuek argues with his councillor Stiros about the girl Sheeana’s education and influence in the temple. Stiros expresses cynicism regarding Sheeana's questions about the Divided God's family and the origins of sandtrout. Tuek visits Sheeana on a roof garden where she is training with an acolyte priestess named Kipuna. Sheeana demands that Tuek bring her the new Bene Gesserit commander, Odrade. Kipuna spots a small seeker trailing shigawire, a razor-sharp monofilament line, as it glides over the garden parapet.
+
+Kipuna shouts for Tuek to run and dashes toward the seeker to intercept it. Tuek catches Sheeana and flees into a stair tower while the seeker kills Kipuna and two guards. An ornithopter lands on the roof as Tuek, Sheeana, and a woman named Cania descend the stairs. They exit into a hallway and are immediately intercepted by a group of Bene Gesserit led by Odrade. Odrade uses Voice to command Tuek to explain the situation on the roof while her sisters secure the area.
+
+The group enters Sheeana's quarters where they find the naked, dead body of Stiros with his neck snapped. Odrade explains that Stiros was part of a conspiracy involving Face Dancers and Ixians. Cania gloats over the corpse of her former associate while Odrade orders the body removed. Odrade commands everyone to leave so she can speak with Sheeana alone. She tells the girl that the Sisterhood has been waiting for her and will now provide her protection.
+
+**Sentence Count Check: 15**
+
+---
+
+### 17: Bene Gesserit Council Proceedings: Archives XOX232
+Miles Teg organizes new security procedures at the Gammu Keep to isolate the Duncan Idaho ghola from Mother Superior Schwangyu. He experiences a period of free-floating anxiety and enters a deep state of mental reflection. Teg recalls a private conversation with Taraza following the resolution of the Barandiko Incident on a decorated no-ship. Taraza offers him a melange-heavy energy drink that triggers memories of his mother’s heretical teachings. They discuss the long-term effects of spice on human observation and the limitations of Mentat sorting processes.
+
+Taraza reveals that Reverend Mothers achieve a state called s’tori during the Spice Agony, an experience involving every cell in the body. She explains that Muad’Dib and Leto II created chains of prescience that they spent their lives trying to escape. Teg listens as she warns that the mind of a believer stagnates within a granular, non-moving universe. He reflects on how his mother never explained the Sisterhood's affinity with Zensunni rituals. Taraza notes that Ixian scientists are blinded by their own submissive belief systems during their experiments.
+
+Teg emerges from the memory and finds himself still seated in his workroom at the Keep. He realizes that Taraza used their past conversation to amplify his Mentat abilities for a specific purpose. The memory creates a magical universe in his mind where atoms are replaced by waves and movements. He feels his awareness expand to a core of active imagination that bypasses standard sensory barriers. Teg accepts that Taraza is demanding a performance from him that could determine the fate of the Sisterhood.
+
+**Sentence Count Check: 15**
+
+---
+
+### 18: The Bene Gesserit Coda
+Odrade establishes a command center in Sheeana’s quarters on Rakis three hours after the seeker attack. She observes that the room is an irregular polyhedron designed to transmit whispers to a hidden listening post. Odrade uses silent finger signals to command an acolyte to identify and kill the spies behind the ventilator. Sheeana questions why the priests obey the Reverend Mothers and demands to be taught the power of Voice. Odrade explains that the priests have Fremen roots before sending messages to the Guild, Ix, and the Tleilaxu stating they will pay for the attack.
+
+Taraza sends a message from the Chapter House ordering Odrade to trap the Tleilaxu Master who is traveling to Rakis. The instructions include shutting down the Rakian spice supply to the Guild to force them into competition with the Scattering. Odrade informs Sheeana that the attackers were new Face Dancers who are difficult to detect except by pheromone scent. Sheeana petulantly commands Odrade to obey her and teach her the secrets of the Sisterhood. Odrade realizes the girl has mastered an intermediate level of Voice and already considers herself a woman because she menstruates.
+
+Sheeana explains that she calls the Great Worm Shaitan because of the specific way they first met in the desert. Odrade uses the full power of Voice to shock the girl into a rigid, silent state of submission. The correction takes effect as Sheeana absorbs the impact and eventually relaxes into a warm, open expression. Odrade decides to use honesty as a tool to shape the girl’s training and development. She notes that Sheeana will likely grow into a tall and commanding presence as she becomes the Sisterhood's new canvas.
+
+**Sentence Count Check: 15**
+
+---
+
+### 19: Leto II: Dar-es-Balat Records
+Duncan Idaho performs intense combat exercises in the courtyard under the observation of the Imprinter Lucilla. Lucilla reflects on her orders to perform a Sexual Imprint, a technique used to create an unbreakable biological bond with a target. She plans to complete the imprint on Duncan before attempting to conceive a child with Miles Teg. Lucilla observes that Duncan is developing speed and muscle-nerve equilibrium that matches Teg’s peak performance. Recognizing a new Face Dancer in the figure carrying a high-energy lasgun, Lucilla screams for Duncan to drop to the grass.
+
+Duncan dodges the first lethal bolt with a high, twisting leap while Lucilla drops from the parapet to the lawn. The real Miles Teg appears behind the impostor and fires a lasgun that disintegrates the Face Dancer’s arm and shoulder. The creature crumbles into a heap of bloody meat that emits a distinctive pheromone scent. Teg leads Lucilla and Duncan into the Keep to find a dead guard who Patrin dressed in Teg's uniform to confuse the attackers. Teg reveals that he and Patrin cleared the wing while Lucilla and Duncan were occupied in the courtyard.
+
+Mother Superior Schwangyu arrives and demands to inspect the perimeter, but Teg refuses her access to the south tunnel. Teg uses a series of timed explosions to convince Schwangyu that her own quarters have been destroyed by the Tleilaxu. He informs the group that a Tleilaxu no-ship was destroyed by his hidden defenses the moment it emerged from a space fold. Schwangyu realizes her complicity with the Tleilaxu has been exposed and reacts with petulant rage. Teg commands Lucilla and Duncan to follow him through a secret drop as they flee into the night while Patrin remains behind.
+
+**Sentence Count Check: 15**
+
+---
+
+### 20: Bene Gesserit Analysis, Archives #XOXTM99…..041
+Mother Superior Taraza meets the elfin Tleilaxu Master Tylwyth Waff in a copper-walled room aboard a Guild no-ship. Taraza confronts him with the message "You will pay" to signal that the Sisterhood can detect his new Face Dancers. She accuses the Tleilaxu of killing past gholas and selling the Bene Gesserit a damaged product with hidden psychological alterations. Waff attempts to deflect by claiming the attack on Rakis was an independent action by local priests. Taraza reveals she knows the Tleilaxu have been killing Honoured Matres from the Scattering to test their own Face Dancers.
+
+Taraza uses a bold lie about capturing an Ixian ship to expose Waff's internal turmoil and hidden religious pride. Taraza demands that Waff share everything he has learned about the Honoured Matres in exchange for the Sisterhood's silence. She probes his beliefs by quoting Zensunni and Sufi paradoxes about circles and the infinite. Waff responds with unexpected fervor, revealing that he is a secret believer in the Great Belief. He agrees to a bargain involving the exchange of Atreides genetic material for Tleilaxu cooperation.
+
+Taraza offers breeding mothers of the Atreides line while Waff demands first selection of their offspring. She attempts to bargain for an axolotl tank, the Tleilaxu biological vat used for cloning, but Waff flatly refuses the request. They agree to finalize their negotiation at the Bene Gesserit Keep on Rakis in the presence of the Prophet. Taraza realizes Waff views the Tyrant as a holy figure and exploits his assumption that they share the same faith. The meeting concludes with both leaders preparing for the pivotal confrontation on the desert planet.
+
+**Sentence Count Check: 15**

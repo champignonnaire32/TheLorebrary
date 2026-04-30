@@ -1,0 +1,44 @@
+### 41: Friends
+Hadrian trains three new, inexperienced myrmidons in the training yard using blunted short swords. He quickly disarms and defeats all three, then criticizes their poor formation and lack of teamwork. Pallino enters the yard, reprimanding Hadrian for his aggressive behavior and lack of discipline toward the trainees. Hadrian sheathes his practice sword and argues that the newcomers are not ready for a real fight.
+
+Pallino questions Hadrian about his erratic behavior since being stunned by the foederati. Elara and Siran enter the conversation, and Elara asks if Hadrian is having a romantic dispute with Switch. Hadrian denies this but eventually admits that he and Switch had been secretly planning to buy a starship to leave Emesh.
+
+He explains that he kept this secret because the prisoners would not be allowed to join them. Siran and the others do not react with anger, instead showing concern for his well-being. Hadrian realizes they care for him as a family despite his attempts to distance himself.
+
+**Sentence Count Check:** 13
+
+### 42: Speak Like a Child
+The myrmidons win a brutal fight in the coliseum against a multi-tentacled sea creature from Pacifica. Hadrian lands the killing blow, coating himself and the surrounding sand in the beast's cobalt blood. Count Balian Mataro appears in the royal box above, accompanied by his husband, Lord Luthor, and several advisors. The count praises the myrmidons' skill and throws a leather pouch of gold coins down into the arena.
+
+Hadrian kneels in the dust to accept the payment and recites the expected words of gratitude. He later learns of rumors that a Cielcin, a pale-skinned alien with six fingers, is being held in the prison block. After training, he sneaks away from the group and heads toward the solitary confinement ward. He disguises himself by adopting a hunched posture and a Durantine accent to bypass the guards.
+
+He enters the service corridors and reaches the prison area located below the sea level. He finds the solitary cells and locates the captive creature within the muck-filled block. He speaks to the Cielcin through the bars, but a guard strikes him with a shock-stick before he can learn more.
+
+**Sentence Count Check:** 14
+
+### 43: The Count and His Lord
+Hadrian awakens in a luxurious, wood-paneled room within the count’s palace. Count Balian Mataro enters, holding a drink and revealing he knows Hadrian’s true identity as a palatine from House Marlowe. Hadrian realizes his blood type was tested while he was unconscious. He recounts his history from his departure from Delos to his current life on Emesh.
+
+He describes his time living in the slums, his employment with the count, and his attempts to escape. The count expresses concern about the Chantry’s potential involvement if they discover a palatine is a fugitive. They decide to keep Hadrian as a ward of the court to hide him.
+
+He is assigned the alias Hadrian Gibson to conceal his true name from the authorities. The count explains his intention to use Hadrian as a language instructor for his children. Hadrian realizes he is now a well-kept prisoner within the palace walls.
+
+**Sentence Count Check:** 13
+
+### 44: Anaïs and Dorian
+Hadrian resides in well-appointed chambers, though he sleeps on the floor rather than the luxury bed. Two palace guards stand watch as Anaïs and Dorian Mataro arrive to visit him. Anaïs, a striking young woman, introduces herself and her brother, Dorian. They are curious about his past as a fighter and his travels.
+
+Hadrian plays the role of a courtier, offering polite bows and hiding his true personality. Dorian asks about the fight where Hadrian used sand to short out shields, confirming his reputation. Hadrian describes his training in languages, which impresses the siblings.
+
+Anaïs takes his sketchbook and praises his drawing of the city skyline. They invite him to accompany them to the coliseum to watch future fights from the count’s private box. Hadrian accepts the invitation, knowing he cannot refuse his new masters.
+
+**Sentence Count Check:** 12
+
+### 45: Lose the Stars
+Hadrian sits in the count’s private box with Anaïs, Dorian, and other nobles while watching a coliseum match below. He watches a gladiator named Jaffa kill Erdro, a fighter Hadrian knew, using an antique crossbow. The crowd cheers for the death, which Hadrian watches with detached coldness. He drinks wine and lies to the nobility about his past to maintain his cover.
+
+He tells them a fabricated story about losing his letter of introduction during a mugging. The nobles are excited by his tales of danger, which they find thrilling from their protected positions. Hadrian feels isolated as he realizes he has lost his chance to leave Emesh.
+
+He abandons his plan to board a starship and accepts his trapped status. Anaïs asks if he knew Erdro, and he coldly denies a deep friendship to distance himself. He watches the remaining performers and throws an empty wine cup into the arena.
+
+**Sentence Count Check:** 13

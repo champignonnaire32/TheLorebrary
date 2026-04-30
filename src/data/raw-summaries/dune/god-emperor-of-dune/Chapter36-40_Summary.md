@@ -1,0 +1,52 @@
+### Chapter 36: Chapter 36
+Leto summons Moneo to the crypt to discuss Duncan Idaho's terminal behavior. Moneo reports that the Fish Speakers are terrified because Duncan questions their parents and birth worlds. Leto explains that Duncans always seek to know the lives of the people they govern due to Atreides training. Leto describes religious institutions as arenas that attract prideful power-seekers with near-sighted prejudices. Leto notes that Duncan possesses too much compassion and recognizes the vehicle of injustice Leto has created.
+
+Moneo observes prominent tumescent rings on Leto’s tubular body as the God Emperor’s voice shifts to a rumbling baritone. Leto quotes an ancient admonition stating that humans are servants to God rather than servants to other servants. Moneo cries out in service to Leto while the God Emperor laments that a million wrongs cannot create a right. Leto reveals he once intended Hwi Noree, his Ixian bride-to-be, to mate with Moneo instead of Duncan. Moneo shakes his head in confusion because the idea of mating with Hwi lacks any known context for him.
+
+Leto’s body suddenly undergoes a violent convulsion that heaves him from his transport cart onto the crypt floor. The monstrous thrashing stops within centimeters of Moneo, who screams and flees toward the lift entrance. Leto stops Moneo’s flight by calling his name from the darkness of the central chamber. The God Emperor announces that he will take Siona into the desert for her testing the following morning. Moneo remains trembling at the entrance as Leto settles back into a state of temporary physical stability.
+
+**Sentence Count Check:** 15
+
+---
+
+### Chapter 37: Chapter 37
+Leto and Siona stand atop a high dune in the Sareer under a cloudless sky controlled by Ixian satellites. Siona wears a Fremen stillsuit, a specialized garment that recycles body moisture through a system of pumps and filters. Leto swims across the sand surface while Siona follows the compression tracks he creates with his heavy body. Moneo has provided Siona with a robe containing a pouch of protomor, a concentrated survival food. Leto explains that he uses the satellites to monitor vertical air currents rather than for hydraulic despotism.
+
+Siona climbs onto Leto’s back and kneels as he glides along the slip-face of a large dune. Leto describes the desert as a museum of traditions and the original home of Fremen equality. They travel sixty kilometers into the central erg where the high-pressure air is electrically charged. Siona eats a cube of the melange-infused protomor while questioning Leto about his personal religious beliefs. Leto tells her that nature makes no leaps and that she must discover her own ancient memories.
+
+Leto stops their progress and informs Siona that they will walk out of the desert together without assistance. Siona checks her stillsuit’s catchpocket tube for water but refuses to close the face flap over her mouth. Leto warns her that she cannot return to the Little Citadel because it contains no survival supplies. He demonstrates how to avoid being buried by sand slides by following the natural curves of the dunes. They settle into a deep dune shadow to wait for the heat of the day to pass before traveling.
+
+**Sentence Count Check:** 15
+
+---
+
+### Chapter 38: Chapter 38
+Duncan Idaho searches the Citadel for Moneo and finds him in an underground corridor fifty meters below the surface. The corridor features amber plastone walls and giant robed wings at the surface that draw in cool air. Duncan wears a black Atreides uniform with a red hawk crest and carries a jeweled-handled knife at his waist. Moneo informs Duncan that Leto has taken Siona into the desert to undergo a potentially fatal test. Duncan expresses disgust after witnessing two Fish Speaker guards engaged in a passionate kiss behind a corridor hanging.
+
+Moneo explains that military commanders use the displacement of sexual energy into pain to create manageable soldiers. Duncan accuses Moneo of being a monster and questions how the previous Duncan Idaho gholas died. Moneo counters that Duncan is behaving like an adolescent and needs to mature for the sensitive times ahead. Duncan attempts to defend Hwi Noree's honor and claims that perverts cannot perpetuate the human race. Moneo asserts that homosexuals and celibates have historically been among the most effective warriors and priests.
+
+Duncan draws his knife and lunges at Moneo in a blurred motion of violence. Moneo sidesteps the attack, trips Duncan, and propels him face-down onto the hard corridor floor. Duncan rolls to his feet but stops when he realizes he has attacked a member of the Atreides bloodline. Moneo stands over him with an expression of sadness and tells Duncan to use stealth for any future attempts. Moneo reveals that Leto has bred the current Atreides for superior speed and intelligence while Duncan is an older model.
+
+**Sentence Count Check:** 15
+
+---
+
+### Chapter 39: Chapter 39
+Leto and Siona lie in the dune shadows and move only to stay within the changing areas of shade. Leto sings "Liet's March," an ancient song from Old Terra, using the voice of a long-dead concert artist. Siona listens to the song but admits she prefers dancing music based on the whirling of dust devils. A vulture with splayed-gap wing tips circles high above them in the sunlight as they watch from a dune. Leto explains that he permits vultures and burrowing creatures to live in the Sareer because it is their birthplace.
+
+At sunset, Leto describes the Fremen custom of throwing sand into the air to signal peaceful intent. Siona strides away from Leto using the stars known as the Pointers to navigate the moonlit dunes. Leto follows her at a distance as his worm-body vents chemical exhalations and heat-generated oxygen. Siona stops to eat more dried food but continues to lose moisture because her stillsuit's face flap remains open. Leto tells her that his records show he ordered the specific matings that resulted in her birth.
+
+They transition from the sand dunes onto a wind-scoured flat composed of pebbles and large boulders. Siona struggles to walk on the uneven ground and leans against Leto’s side for physical support. They stop at a cluster of three boulders where Siona climbs the tallest one to survey the flat horizon. Leto creates a hammock-like depression in his front segment and invites Siona to rest there for warmth. Siona curls up in the depression and falls asleep while the rock beneath Leto conducts the morning chill.
+
+**Sentence Count Check:** 15
+
+---
+
+### Chapter 40: Chapter 40
+Duncan Idaho waits in his quarters until a messenger in a blue uniform summons him to Moneo’s workroom. Moneo’s workroom contains a brown wood table cluttered with crystal paper and tri-D printouts from an illegal computer. Hwi Noree sits on a grey cushion wearing a long brown gown and red slippers as Duncan enters. Moneo apologizes for making Duncan feel inadequate during their earlier physical encounter in the corridor. Idaho sits beside Hwi and notes a golden paperweight shaped like a jeweled tree on the table.
+
+Moneo informs the pair that Leto has ordered them to separate and never see each other again. Duncan sneers at the order while Hwi removes her hand from his and admits they know Leto's power. Moneo explains that Leto tested him by showing him a glimpse of the horror the God Emperor experiences. Hwi questions if Leto can cry, and Duncan explains that Fremen killed sandworms with water to produce spice essence. Moneo reveals that he was once a rebel but became a follower after seeing the risk Leto takes.
+
+Duncan accuses Leto of being a seeker of sensations who consumes the entire universe for his own pleasure. Moneo defends the God Emperor, stating that Leto is responsible for what he has done to his own body. Tears run down Moneo’s cheeks as he expresses gratitude that he did not have to make Leto’s difficult decisions. Duncan snarls at the group and dashes from the workroom back toward his private quarters. Nayla encounters Duncan in the corridor and informs him that she is no longer his friend before walking away.
+
+**Sentence Count Check:** 15

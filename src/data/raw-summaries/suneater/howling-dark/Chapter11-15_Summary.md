@@ -1,0 +1,54 @@
+# Howling Dark: Chapter 11-15 Summaries
+
+### 11: Your Radiance
+Hadrian delays visiting the Mistral for thirty-six hours after Siran is taken out of fugue. He and Switch take a shuttle through a static field to the Uhran-manufactured ship, which gleams like a silver shard. During the flight, Hadrian admits to Switch that he is losing Jinan because she will return to her people if they rejoin the Imperial fleet. Switch expresses a preference for working for the Empire over becoming a Cielcin drone. Hadrian considers turning renegade but avoids articulating a plan due to the presence of a pilot officer.
+
+Upon boarding the Mistral, Hadrian meets Commander Bastien Durand, who reports that the dryad Ilex and Doctor Onderra cannot decrypt The Painted Man’s terminal. Hadrian walks through the ship, observing the relaxed discipline of Otavia Corvo’s mercenaries compared to Imperial standards. He enters the starboard gallery and finds Siran sitting by a window plate. Hadrian embraces her and eventually recounts the details of the battle and Ghen’s death. Siran reacts with anger toward the enemies but finds some solace in Hadrian’s account of his revenge.
+
+Siran reveals that Crim sent a case of vodka to the ship while she was still in fugue. She confirms rumors that First Strategos Lin intends to return the company to the Imperial fleet at Coritani. Hadrian mentions his frustration that Jinan will not defy Bassander to pursue Vorgossos independently. Siran suggests that Hadrian should go over Lin’s head by speaking to Knight-Tribune Raine Smythe. Hadrian realizes this is a viable path forward and prepares to act on the suggestion.
+
+**Sentence Count Check: 15**
+
+---
+
+### 12: A Journey’s End
+Bassander Lin displays holographs from The Painted Man’s terminal, which show seventeen Extrasolarian outposts but no mention of Vorgossos. Ilex identifies March Station as a potential lead, though it is eighteen months away at cruising speed. Bassander declares the mission a failure because reaching the fleet will already take fifteen years. Hadrian demands the ship Balmung and the prisoners to continue the search alone. Bassander refuses to hand over the destroyer or any Imperial officers.
+
+Otavia Corvo offers to take her ship and mercenaries to support Hadrian’s continued mission. Bassander refuses to release the Cielcin prisoners, arguing they should be used as hostages against future attacks. Hadrian counters that the captain he killed at Emesh specifically linked the Cielcin to Vorgossos. Bassander dismisses Hadrian’s motivations as a mere desire to avoid his arranged marriage to Anaïs Mataro. Hadrian argues that peace with the Cielcin is possible through understanding and trade.
+
+The argument escalates as Bassander insists the Cielcin are monsters that must be destroyed. Hadrian appeals to Jinan to make a decision, reminding her of his promise to find the Cielcin. Jinan sides with Bassander, stating the company must return to the fleet at Coritani to report their findings. Hadrian reacts with disgust and accuses Bassander of destroying the company. When Otavia threatens to leave with the Mistral and her people, Bassander eventually relents and allows her to go.
+
+**Sentence Count Check: 15**
+
+---
+
+### 13: Obedience
+Hadrian reflects on his situation, fearing that returning to the fleet will lead to a meaningless life or his forced marriage. He questions whether his motivation to find the Cielcin stems from greed, pride, or genuine compassion. He recalls his escape from Emesh with Valka’s help as a precedent for his current pragmatism. Hadrian examines the physical scars on his arm left by the Chantry’s torture of a Cielcin prisoner. He considers the cost of his previous cleverness and what he might pay now.
+
+Hadrian reveals he has been exchanging secret telegraph messages with Raine Smythe from the Mistral. Smythe tells him she cannot formally countermand Bassander's orders from their superior, Titus Hauptmann. However, she orders Hadrian to find Vorgossos, implying that success will protect him from the consequences of disobedience. Hadrian recites the Eight Forms of Obedience he learned from Tor Gibson.
+
+He compares his own internal sense of order to Bassander’s rigid military loyalty. Hadrian concludes that Bassander is a soldier who depends on structure to manage his own internal chaos. He views Bassander’s loyalty as a function of his rank and his need for Legion order. Hadrian questions his own source of authority and whom he truly obeys. He realizes he cannot follow Bassander's path back to the war.
+
+**Sentence Count Check: 14**
+
+---
+
+### 14: Conspiracy
+The company begins a two-day process of separating Norman mercenaries from Imperial and Jaddian troops using shuttles. Hadrian discreetly gathers his essential belongings, including his armor, journals, and sword. He boards a shuttle carrying frozen mercenaries to the Mistral under the guise of an inspection. Once aboard, he encounters Crim and learns that Valka and Otavia are in the ready room. Hadrian discovers that Valka intends to stay with the Normans rather than return to the Empire.
+
+Hadrian enters the ready room and asks Otavia Corvo to take him to March Station. He proposes a plan to infiltrate the Balmung and steal the Cielcin prisoner Tanaran. Otavia initially refuses, citing the difficulty of moving heavy fugue pods without being noticed. Hadrian reveals his plan to wake Tanaran up to make the extraction faster and easier. Otavia expresses disgust at having an active Cielcin on her ship and questions how Hadrian will pay her.
+
+Valka joins the conspiracy, offering to use her Tavrosi computer to disable the Balmung’s security cameras. Hadrian promises to find a way to pay Otavia later and appeals to their friendship. Otavia eventually agrees to the heist on the condition that her people are safely secured on the Mistral first. They coordinate with Siran, Crim, and Ilex to prepare for the operation. Hadrian intends to launch with the final wave of shuttles to catch the Balmung in a state of chaos.
+
+**Sentence Count Check: 15**
+
+---
+
+### 15: The First Treason
+Switch meets Hadrian in the Balmung’s cargo bay with his personal effects and a mantle for the Cielcin Tanaran. Hadrian orders a pilot officer to load his crates onto a shuttle while he splits his team into groups. Valka goes to her cabin to gather her things and prepare to hack the ship’s security. Siran and Crim head toward the cubiculum to secure the Cielcin prisoner. Hadrian, Switch, and Doctor Okoyo move through the ship toward the same destination.
+
+Hadrian encounters Jinan and Bassander in the hallway, forcing him to hide his true intentions. Bassander questions why Doctor Okoyo is present, and Hadrian claims she is assisting with the final transfers. Jinan asks about Hadrian’s belongings being moved, sensing that something is wrong. Hadrian tells Bassander he is simply saying goodnight to Jinan before heading to the Pharaoh for fugue. Bassander expresses a moment of shame regarding the political consequences of his choices for Hadrian.
+
+Hadrian tells Bassander he is only doing what he thinks is right, which he considers a farewell. He shares a final kiss with Jinan, knowing it is a betrayal of her trust. They break apart after Jinan expresses her love for him. Hadrian walks away without looking back, fearing his expression will give him away. He eventually reaches the cubiculum to begin the theft of the Cielcin prisoner.
+
+**Sentence Count Check: 15**

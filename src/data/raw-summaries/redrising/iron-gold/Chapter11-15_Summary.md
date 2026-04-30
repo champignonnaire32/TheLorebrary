@@ -1,0 +1,52 @@
+### Chapter 11: Darrow
+In the Lunar Forum, Dancer reveals to the Senate that Darrow secretly captured the Ash Lord’s emissaries without reporting the encounter. Mustang expresses shock and fury at Darrow's deception as the chamber erupts in shouting. Dancer publicly denounces Darrow as a warlord and a threat to democracy while Sevro threatens the senators. Publius cu Caraval, a Copper senator, proposes a formal vote to remove Darrow from high command and place him under house arrest for treason. Darrow realizes his political influence has collapsed and follows Wulfgar out of the Forum to avoid further public shaming.
+
+Outside the Forum, Wulfgar warns Darrow that he is not permitted to leave Hyperion City. Sevro threatens Wulfgar with his razor but eventually steps back to follow Darrow. Darrow observes the transition of the Republic government as bureaucrats continue their work in the North Citadel. He concludes that the Senate will imprison him to prevent any further military action against the Core Golds. Darrow decides that the war cannot be ended through political negotiation or legislation.
+
+He believes the Ash Lord will take advantage of his house arrest to launch a new offensive. Sevro suggests calling on the Telemanuses or the Seventh Legion to resist the Senate's decree. Darrow rejects these options, knowing Mustang lacks the votes to protect his legal status. He tells Sevro that the conflict will only be resolved through further bloodshed. Darrow issues a direct command for Sevro to summon the Howlers for an unsanctioned mission.
+
+**Sentence Count Check:** 15
+
+---
+
+### Chapter 12: Lyria
+The Red Hand, a terrorist cell of Reds, launches a violent raid on the Gamma camp. Lyria watches as her brother Tiran is shot and killed during the initial chaos. She returns to her family's plastic hut to find her sister and father in a state of panic. Lyria's sister prepares the children for a flight toward the jungle while Lyria attempts to move her paralyzed father. Realizing they cannot carry the father through the mud, Lyria says a final goodbye and leaves him in the hut.
+
+Lyria sprints through the camp to the infirmary to retrieve her blind nephew, Liam. She finds the Yellow doctor Janis attempting to barricade the facility against the intruders. Lyria wraps Liam in a blue jumper and carries him out of the infirmary despite Janis's protests. She avoids the main paths and navigates through the shadows of the Gamma township. Upon reaching the north watchtower, she finds it abandoned and the Republic guards missing.
+
+Lyria hides Liam in a massive rubbish heap at the edge of the camp as Red Hand soldiers approach. She witnesses the massacre of her kinsmen who are intercepted by soldiers armed with slingBlades near the treeline. The Red Hand soldiers carry flashlights and speak with the accents of Martian Reds while covered in blood. Lyria gives Liam a piece of chocolate to keep him quiet as they huddle beneath a broken industrial washer. The Red Hand begins setting fires to the trash mounds to force any remaining hidden refugees into the open.
+
+**Sentence Count Check:** 15
+
+---
+
+### Chapter 13: Lyria
+Flames consume the dumpsite, forcing Lyria and Liam to flee through thick smoke toward the river. They join a group of forty survivors who are intercepted by a firing line of Red Hand soldiers. A scarred woman with rusty hair leads the killers and orders the execution of the refugees. Red Hand bullets strike an old man and several children before a projectile hits Lyria in the shoulder. Lyria falls into the mud and watches three Republic ships descend from the sky to engage the terrorists.
+
+Orange-armored knights plummet from the ships and utilize war howls to terrify the Red Hand soldiers. One knight in canine-shaped armor clears the firing line with heavy weaponry before flying back into the air. Liam survives the initial massacre and helps the wounded Lyria reach the cover of the river reeds. The battle continues as bone-white Republic ships destroy the Red Hand’s transport trucks and land vehicles. Lyria watches a massive knight fall from the sky and crash into the deep water of the river.
+
+When the other survivors refuse to help, Lyria wades into the river to find the drowning knight. She untethers a rope from a fishing boat and dives underwater to locate the heavy metal suit. Several Reds eventually assist Lyria in dragging the gargantuan orange-armored figure onto the shore. They open the faceplate to reveal a Gold giant with a red beard and a scarred cheekbone. The Gold vomits river water and begins breathing as supersonic Republic reinforcements arrive to secure the burning camp.
+
+**Sentence Count Check:** 15
+
+---
+
+### Chapter 14: Ephraim
+Ephraim ti Horn, a Gray thief, drinks in a shady bar within the Mass, a slum near Hyperion’s space docks. He confronts two thugs over a reserved booth before Holiday ti Nakamura, a Howler, enters the bar. Holiday, wearing a matted wolfcloak and Pegasus Legion uniform, frightens the thugs into relinquishing the table. Ephraim identifies an Obsidian partner, Volga, lurking in the shadows and orders her to leave the premises. He tells Volga that they are business associates rather than friends and pushes her out into the rain.
+
+Ephraim returns to the booth to drink whiskey with Holiday on the anniversary of her brother Trigg’s birth. Holiday describes the horrors of the Iron Rain on Mercury and criticizes Ephraim’s life as a criminal. Ephraim expresses his deep resentment toward the Republic for granting amnesty to Gold war criminals. He argues that the Sovereign, Virginia au Augustus, sacrificed justice to maintain military and financial support. Holiday invites Ephraim to join a new task force dedicated to dismantling the criminal Syndicate.
+
+Ephraim rejects the offer, claiming he is only interested in his own survival and independence from Gold masters. He insults Holiday’s service to the Republic, calling her a dog wearing a collar before she departs. After leaving the bar, Ephraim watches a holographic advertisement for Ambrosia beer featuring a thirsty Red child. He uses his datapad to watch security footage of the Gold Aja au Grimmus killing Trigg on a Martian mountain. Ephraim attempts to jump from a high railing into the city abyss but is intercepted and knocked unconscious by three men.
+
+**Sentence Count Check:** 15
+
+---
+
+### Chapter 15: Lysander
+The Archimedes is pursued by Ascomanni ships, which are military-grade vessels crewed by pale cannibals. Lysander and Cassius argue over Lysander’s decision to rescue a Gold woman from the Ascomanni shuttle. Cassius points out that Lysander ignored dying lowColors to save a single Gold life. Pytha pushes the ship’s engines toward asteroid S-1392 based on the rescued woman’s claim that help is there. The Ascomanni use a magnetic tow beam to lock onto the Archimedes as its engines overheat and fail.
+
+A Rim Dominion Destroyer called the Charybdis emerges from the shadows of the asteroid and jams all navigation. The Destroyer and its fighter squadrons quickly annihilate the Ascomanni ships with railgun fire and missiles. Cassius realizes the rescued woman has a Peerless Scar and accuses Lysander of lying to him about her status. The Charybdis issues a transmission ordering the Archimedes to stand by for boarding or face immediate destruction. Cassius orders Lysander to hide all House Bellona rings, razors, and family heirlooms in a secret vault.
+
+To hide his identity, Cassius prepares to use a "faciem" scrambler mask to physically alter his facial features. Because they lack painkillers, the mask’s three hundred needles fire into Cassius’s face while he is conscious. Lysander holds Cassius in a mantis lock to prevent him from thrashing as the mask grafts imitation bone onto his skull. The process leaves Cassius’s face looking like a swollen, thuggish "Bronzie" with a bulbous nose and lazy lips. The Archimedes is swallowed by the docking bay of the Rim Destroyer as Cassius recovers from the traumatic transformation.
+
+**Sentence Count Check:** 15

@@ -1,0 +1,41 @@
+### 16: MANY PARTINGS
+The companions begin their journey home as Queen Arwen gives Frodo a white gem on a silver chain to comfort him in times of fear. The group rides to Edoras to bury King Théoden in a stone barrow covered with white evermind flowers. Éomer is crowned the new King of the Mark, and he announces the betrothal of Faramir and Éowyn. Éowyn presents Merry with an ancient silver horn made by Dwarves that was once part of the dragon Scatha’s hoard. The travelers visit Isengard and find it transformed into a garden by Treebeard, who reveals that he released Saruman and Wormtongue.
+
+Aragorn receives the keys of Orthanc and takes leave of the company at the Gap of Rohan to return to his kingdom. On the road north, the remaining company overtakes Saruman and Wormtongue, who are now wandering as ragged beggars. Saruman mocks the group but accepts a pouch of pipe-weed from Merry before disappearing into the woods. Near the Redhorn Gate, Celeborn and Galadriel depart from the company to return to Lothlórien across the mountains. Frodo and his friends arrive at Rivendell and find Bilbo Baggins, who has grown very old and sleepy at age one hundred and twenty-nine.
+
+Bilbo gives Frodo his mithril coat and the sword Sting, forgetting that he had already gifted them years prior. The old hobbit also bestows three red books of lore upon Frodo, which contain his translations from the Elvish. Sam receives a small bag of gold from Bilbo as a wedding gift in case he decides to marry. After celebrating Bilbo’s birthday, the hobbits and Gandalf prepare for the final leg of their journey back to the Shire. Elrond bids Frodo a cryptic farewell, suggesting they may meet again when the leaves turn gold in the woods.
+
+**Sentence Count Check:** 15
+
+---
+
+### 17: HOMEWARD BOUND
+The four hobbits and Gandalf depart from Rivendell and ride through the wilderness toward the Ford of Bruinen. On the anniversary of his stabbing at Weathertop, Frodo experiences intense pain in his shoulder and becomes silent. The travelers pass through the shadow of Weathertop in a cold rain and reach the village of Bree in late October. They find the South-gate of Bree locked and guarded by a man with a cudgel due to recent troubles with ruffians. Bill Ferny’s house appears abandoned with boarded windows, and the group learns that many suspicious newcomers have entered the town.
+
+Barliman Butterbur welcomes them to The Prancing Pony and explains that five locals were killed in a recent fight with outlaws. Butterbur reports a severe shortage of pipe-weed and laments that the Rangers have all gone away to the south. Gandalf comforts the landlord by revealing that the Ranger "Strider" is now the King and will soon restore order. Sam is delighted to find his pony, Bill, alive and well in the stables after the animal returned to Bree on its own. The group stays in Bree for a day to share news of the war and answer the curious questions of the villagers.
+
+As they leave Bree, Butterbur warns them that strange things are also happening within the borders of the Shire. At the bridge over the Brandywine, Gandalf announces that he will not accompany the hobbits into their home country. The wizard turns Shadowfax toward the home of Tom Bombadil, leaving the hobbits to handle their own affairs. The hobbits reach the Brandywine Bridge at nightfall and find it barred by a large spiked gate. A voice from the dark informs them that no one is allowed to enter the Shire between sundown and sunrise.
+
+**Sentence Count Check:** 15
+
+---
+
+### 18: THE SCOURING OF THE SHIRE
+Merry and Pippin climb the gate at the Brandywine Bridge and confront Bill Ferny, who flees after the pony kicks him. The hobbits find the Shire filled with new rules and ugly brick houses built under the direction of a mysterious "Chief." Frodo and his friends are arrested at Frogmorton by a troop of Shirriffs, but they ignore the orders and ride to Bywater. They discover that many trees have been cut down and a polluting industrial chimney has been erected in Hobbiton. At The Green Dragon, a gang of sallow-faced ruffians blocks their path and mocks the hobbits as "little rat-folk."
+
+Merry blows the Horn of Rohan to rouse the Shire-folk, while Sam goes to enlist the help of Farmer Cotton. Pippin rides to the Great Smials to bring an army of Tooks, who have been resisting the ruffians in the hills. The hobbits set a trap for a band of nearly one hundred ruffians and defeat them in the Battle of Bywater. Nineteen hobbits die in the conflict, and nearly seventy ruffians are killed and buried in a nearby sand-pit. The company marches to Bag End and finds it filled with filth and ruined by the presence of Saruman, who is called Sharkey.
+
+Saruman attempts to stab Frodo with a hidden knife, but the blade breaks against Frodo’s concealed mithril mail-coat. Frodo prevents the angry hobbits from killing Saruman and commands the fallen wizard to leave the Shire forever. Saruman reveals that Wormtongue killed Lotho Pimple in his sleep and buried him on the hill. Enraged by years of abuse, Wormtongue slits Saruman’s throat with a knife and is immediately shot dead by hobbit archers. A pale grey mist rises from Saruman’s body before a cold wind from the West blows the spirit away into nothingness.
+
+**Sentence Count Check:** 15
+
+---
+
+### 19: THE GREY HAVENS
+The hobbits release the prisoners from the Lockholes, including a starved Fatty Bolger and a defiant Lobelia Sackville-Baggins. Frodo serves as Deputy Mayor until Will Whitfoot recovers, while Merry and Pippin round up the remaining ruffians. Sam uses the magical grey dust from Galadriel’s box to nourish new saplings across the devastated landscape. A mallorn tree with silver bark and golden flowers grows in the Party Field as a replacement for the felled Party Tree. The year 1420 becomes a legendary time of abundance and health for the Shire, with record-breaking harvests and fair children.
+
+Sam marries Rosie Cotton and moves into Bag End to live with Frodo, who continues to suffer from his old wounds. Frodo completes the Red Book of Westmarch, adding the history of the Great War to Bilbo’s earlier translations. Two years later, Frodo and Sam ride to the Woody End and meet Elrond, Galadriel, and a company of Elves. Gandalf joins them, openly wearing Narya, the Ring of Fire, which glows red upon his finger. The group travels to the Grey Havens, where the shipwright Círdan awaits them with a white ship.
+
+Bilbo Baggins is present at the harbor, appearing very old and frail as he prepares for his final journey. Frodo says a tearful goodbye to Sam, Merry, and Pippin, explaining that his wounds have not fully healed in Middle-earth. The Ring-bearers board the vessel and sail out of the harbor as the world of the Elves begins to fade. Sam, Merry, and Pippin watch from the shore until the ship disappears over the rim of the world into the West. Sam returns home to Bag End on a rainy evening, sits by the fire with Rosie, and says, "Well, I'm back."
+
+**Sentence Count Check:** 15

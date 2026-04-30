@@ -1,0 +1,52 @@
+### 76: The Hidden Blade
+Kaladin rests in his room while the Bridge Four members join the main army expedition. Lopen assists Kaladin as he hobbles outside to watch the thousands of soldiers depart. Highprinces Sebarial and Aladar unexpectedly join Dalinar's coalition with their own forces. Dalinar confronts Highlord Amaram in front of Kaladin and several witnesses regarding a stolen Shardblade. Amaram confesses to the theft and the murder of Kaladin's squad, justifying his actions as necessary for the coming war.
+
+Dalinar reveals he bonded the recovered Blade in secret to trap Amaram in a lie. Amaram is stripped of his position as a Radiant-in-training and loses his reputation. Kaladin feels a sense of relief but remains drained by the confrontation. Dalinar explains that Shardbearers are above common imprisonment, so Amaram remains free but shamed. Highprince Roion watches the events in shock as Amaram departs with his personal guard.
+
+Dalinar expresses a strange discomfort while holding his new Shardblade. Sadeas observes the army's movement from a distance through a spyglass. He decides not to launch a coup against the king yet. Sadeas hopes that Dalinar and the other highprinces will be killed by the Parshendi. He orders his wife Ialai to prepare reports on potential replacements for the doomed highprinces.
+
+**Sentence Count Check: 15**
+
+---
+
+### 77: Trust
+Shallan rides with the army, feeling anxious about the mission to find the center of the Plains. She receives a worn copy of the book Words of Radiance from Gaz. Adolin provides her with a carriage to avoid the soreness of riding a horse. Shallan studies the book and learns about the different orders and Ideals of the Knights Radiant. Pattern accompanies her in the carriage, providing insights into the historical accuracy of the text.
+
+The Weeping begins, bringing a steady and soft drizzle of rain to the Shattered Plains. Navani Kholin joins Shallan in the carriage to discuss Jasnah's research. Shallan shares her notes and maps of Stormseat, an ancient city destroyed centuries ago. Navani agrees to provide scholars and resources to help Shallan find the Oathgate portal. Shallan reveals to Navani that Jasnah was a Radiant who could Soulcast without a device.
+
+Moash visits Kaladin in the dark barracks back at the warcamp. He describes the plan to stage an alert in the palace to assassinate King Elhokar. Moash believes the assassination will allow Dalinar to take the throne as a hero. Kaladin warns Moash that his Radiant powers vanished because of the plot against the king. Moash ignores the warning and encourages Kaladin to rest and heal his leg.
+
+**Sentence Count Check: 15**
+
+---
+
+### 78: Contradictions
+Shallan sits in her pavilion during the rain and draws a portrait of Jasnah Kholin. She reflects on the nature of contradictions and how they define human personality. Pattern observes that humans are capable of seeing the world as it is not, which allows for powerful lies. Dalinar enters the pavilion to speak with Shallan about Jasnah's discoveries. Shallan demonstrates her Lightweaving ability by creating a glowing illusion of Jasnah in her palm.
+
+Dalinar is visibly moved to tears by the confirmation that the Knights Radiant are returning. He offers to give Shallan a golden cape and place her in charge of the new Radiants. Shallan declines the public role, preferring to keep her abilities secret for tactical reasons. A messenger arrives to report a Parshendi scouting party on a nearby plateau. Shallan and Dalinar investigate a Parshendi corpse that features a new type of armored carapace.
+
+They discover the dead Parshendi has glowing red eyes, signaling the return of the Voidbringers. Shardbearer Teleb reports that a live Parshendi has walked up to the Alethi lines. The solitary Parshendi is sitting on a rock without any weapons. Skar and the other bridgemen identify the prisoner as their former teammate, Shen. Rlain, the true name of Shen, surrenders to Dalinar and asks to speak with him.
+
+**Sentence Count Check: 15**
+
+---
+
+### 79: Toward the Center
+Dalinar waits in his command tent as the rain leaks into the space. Adolin and Navani join him to prepare for the interrogation of the Parshendi prisoner. Rlain is brought into the tent, appearing as a full Parshendi warrior with armored skin. He salutes Dalinar and identifies himself as a member of Bridge Four. Rlain explains that he spent three years spying on the Alethi while hiding in Dullform.
+
+Dullform is a type of Parshendi shape that mimics the appearance of the common parshman. He reveals that the Parshendi have adopted a new form that has changed them into monsters. Rlain believes his people are effectively gone, replaced by the souls of ancient gods. These gods hate humans and intend to bring about a terrible destruction. Rlain expresses deep grief over the loss of his friends and the change in his commander, Eshonai.
+
+Dalinar promises to protect Parshendi noncombatants if Rlain leads the army to their city. Rlain agrees to describe the route and help Shallan create an accurate map. Dalinar releases Rlain into the custody of the Bridge Four guards. Navani notes that the countdown on the walls will end in only three days. The army prepares to march deeper toward the center of the Shattered Plains.
+
+**Sentence Count Check: 15**
+
+---
+
+### 80: To Fight the Rain
+Shallan climbs a rock formation to scout the inner plateaus during a heavy wind. She spots the ruins of an ancient city covered in thick layers of crem. Gaz and Vathah accompany her and express concern about the cold and rain. Dalinar orders the army to set up a secure perimeter as they approach the Parshendi home. Shallan and the highprinces meet in a command tent to discuss their tactical options.
+
+The leaders decide to threaten the city of Narak to force the Parshendi to fight. Dalinar designates Shallan as his backup plan, tasking her with finding the Oathgate portal. Back at the warcamps, Kaladin uses a crutch to walk laps around the empty barracks. He struggles against the depression brought on by the Weeping and the loss of Syl. King Elhokar visits Kaladin's room and expresses his feelings of inadequacy as a ruler.
+
+Elhokar asks Kaladin to teach him how to be a hero like the stories say. Kaladin bluntly tells the king that he is a bad ruler and should consider stepping down. The king admits he was jealous of Kaladin's bravery during the duel with the Shardbearers. Elhokar reveals that he used to see shadows in mirrors, but they disappeared when Kaladin arrived. The king apologizes for his past actions and departs from the barracks.
+
+**Sentence Count Check: 15**

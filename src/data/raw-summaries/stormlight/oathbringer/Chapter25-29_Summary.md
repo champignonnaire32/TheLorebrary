@@ -1,0 +1,54 @@
+### 25: The Girl who Looked Up
+Shallan explores the deep corridors of Urithiru alone against Dalinar’s orders. She enters a large circular chamber and eventually finds an abandoned theater with stone benches. Pattern asks about plays, so Shallan explains them as a group lie. She begins to perform an illusion of the legend "The Girl Who Looked Up" for him. The illusion depicts a girl living in the shadow of a massive wall.
+
+The girl in the story asks various villagers why the wall exists to protect them. She decides to climb the wall to find the truth of the world. Shallan uses significant amounts of Stormlight to create a realistic landscape of vines and trees. The girl reaches the top and discovers that the wall hides a perfect society with steps. In the legend, she steals Stormlight and brings it back to her people.
+
+Shallan notices a shadowy figure standing in the back of the theater and gives chase. She summons her Shardblade and follows the figure into the ventilation shafts of the Breakaway market. Inside a stone slot, she sees a distorted spren with human features and a mashed head. A scream erupts from the market floor below as the creature flees. Shallan finds Rock the Horneater with a stabbed hand and meets a thief named Ishnah.
+
+**Sentence Count Check: 15**
+
+---
+
+### 26: Blackthorn Unleashed
+Twenty-nine years ago, Dalinar watches Evi burn glyphwards in a large brazier before a major battle. He prays for strength and wears Shardplate provided by Evi’s family. Gavilar orders Dalinar to kill Highprince Kalanor to force a surrender. A small herd of Ryshadium, highly intelligent and massive horses, appears on the battlefield. Dalinar descends into a bloodlust known as the Thrill as he enters the infantry lines.
+
+Dalinar kills hundreds of soldiers and accidentally strikes three of his own elite guardsmen. He chases Kalanor to a tall rock formation and climbs the stone spires after him. The two Shardbearers duel on the jagged peaks until Kalanor slips and hangs from a ledge. Dalinar refuses to show mercy and stabs Kalanor through the face with his Shardblade. Kalanor falls to his death and his Shards are recovered by his honor guard.
+
+Dalinar retrieves the Shardblade and Shardplate by killing the remaining soldiers near the corpse. The Thrill overwhelms him, and he begins to charge his brother Gavilar with the intent to murder him. Gavilar removes his helmet and smiles, causing Dalinar to realize his horrific intentions and drop his sword. Dalinar gifts the newly won Shards to Gavilar for his children. He sits in the dirt and swears to himself that he must never become a king.
+
+**Sentence Count Check: 15**
+
+---
+
+### 27: Playing Pretend
+Shallan sits at the back of a high-level meeting room sketching a distorted spren in her pad. Dalinar uses a glowing map to discuss the growing enemy forces in Marat and the silent spanreeds in Kholinar. A Thaylen woman named Malata identifies herself as a Dustbringer, a Radiant order capable of great destruction. She expresses skepticism about the ancient Desolation and the Alethi leadership. Pattern warns Shallan that the Dustbringer’s spren enjoy breaking things to see what is inside.
+
+Ialai Sadeas arrives and names Meridas Amaram as the new regent and heir to House Sadeas. Amaram accepts the title and calls for a postponement of his legal trials for the sake of the world. Adolin stalks out of the meeting in a rage and is followed by Shallan. She tells Adolin that she believes Amaram killed her brother Helaran to steal a Shardblade. Adolin explains that Amaram actually stole those Shards from Kaladin after murdering Kaladin’s squad.
+
+Shallan retreats to her rooms and finds horrifying, grotesque sketches in her sketchbook that she does not remember drawing. The images depict screaming horses with ripped flesh and a deep, spiraling void. Pattern hums in confusion and suggests they should run away from the tower. Shallan refuses and instead visits the barracks of Sebarial’s soldiers. She hires Vathah and his men to help her catch the murderous spren in the market.
+
+**Sentence Count Check: 15**
+
+---
+
+### 28: Another Option
+The Prime of Azir sends a message officially refusing to open the Oathgate into the center of his city. Queen Fen of Thaylenah also rejects Dalinar’s plea for a coalition because she fears Alethi conquest. Dalinar explores the stone ventilation holes in the walls and finds a mink carrying a dead rat. He receives word from Bridge Four and travels to the ground level of Urithiru. The bridgemen show him a Shardblade stuck deep into the stone of a planter box.
+
+Dalinar recognizes the sword as Oathbringer, the weapon he carried for decades before trading it for the bridgemen. He carries the screaming Blade back into the tower and returns it to Ialai Sadeas. Meridas Amaram takes the sword and calls Dalinar a hypocrite for his violent past. Dalinar leaves them and sits with King Taravangian by a ruby heating fabrial. They discuss a parable from The Way of Kings about four hogmen and one murder.
+
+Taravangian argues that a king must execute all suspects if the guilty party cannot be identified to protect society. Dalinar disagrees and states that a leader should never accept the death of an innocent man. He returns to his balcony and speaks with the Stormfather about his many failures. The Stormfather reveals that he can show the visions of the past to anyone he chooses during a highstorm. Dalinar realizes he can use this power to force other monarchs to meet with him in person.
+
+**Sentence Count Check: 15**
+
+---
+
+### 29: No Backing Down
+Veil patrols the Breakaway market with Vathah, Gaz, and Red to bait the murderous spren. A man is found hanged from a tall structure in an imitation of a recent execution. Veil chases a figure made of black, liquid-like stone into the unexplored lower levels of the tower. She discovers a secret room containing a massive, bottomless pit with stone steps spiraling downward. Pattern goes to find Adolin, who returns with Bridge Four and Shardplate to investigate the hole.
+
+The group descends the staircase into a bottomless shaft and finds a chamber filled with ruined, ancient libraries. They encounter a massive black mass of tar known as Re-Shephir, the Midnight Mother. This Unmade, an ancient and powerful spren of Odium, creates monsters called Midnight Essence that copy the soldiers. The creatures have spiny teeth and imperfect, blobby features that mimic the faces of the bridgemen. Adolin and Renarin lead a charge into the darkness to protect Shallan as she approaches the center.
+
+Shallan realizes that the Midnight Mother is attempting to learn about humanity through poor imitations. She summons her own glowing illusions of marketgoers and kings to drive the shadows back. Adolin and the bridgemen clear a path through the monsters toward a central pillar covered in black slime. Shallan dismisses her Shardblade and her illusory sleeve to expose her bare safehand. She steps forward and presses her hand directly into the pulsing, tarry mass of the Unmade.
+
+**Sentence Count Check: 15**
+
+---

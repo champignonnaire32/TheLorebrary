@@ -1,0 +1,52 @@
+### 6: Chapter 6
+Siona attends a rebel meeting in the service burrows beneath Onn where Topri conducts a ritual using a plastic crysknife. Topri introduces Iyo Kobat, the Ixian Ambassador who has been dismissed by the God Emperor following a Duncan Idaho assassination attempt. Siona reveals her face and identity to Kobat while questioning him about the Ixian project to build a mechanical navigation amplifier. Kobat explains that the machine aims to replace the spice-dependent Guild Navigators who guide interstellar travel. Siona dismisses the device as a lie that amuses the God Emperor rather than threatening him.
+
+Siona produces a package wrapped in pink paper containing copies of the ciphered journals she stole from the Citadel. She demands that Kobat carry these volumes to Ix for deciphering as the price of the rebellion's silence regarding Ixian cheating. Kobat realizes he is being forced into a dangerous game and questions why the God Emperor allows the rebellion to persist. Siona explains that the Oral History shows Leto treats the Atreides line like a fisherman letting out rope before hauling it in. She asserts that she is not merely a tool for the God Emperor's inner circle like the Duncan Idahos.
+
+Nayla and other aides block the exit while Siona demands the full message Kobat received from the God Emperor. Kobat reveals that Leto requested an extension for his mechanical cart and a large supply of ridulian crystal paper. Siona identifies these requests as indications that the God Emperor expects to grow larger and continue his forbidden writings. After Kobat departs, Siona turns on Topri and exposes him as a clumsy spy whose actions were easily detected. She banishes Topri from the rebellion and tells him to inform her father, Moneo, that she accepts Leto's challenge.
+
+**Sentence Count Check:** 15
+
+---
+
+### 7: Chapter 7
+The Ixian Inquisitors assemble in the Grand Palais to interrogate Hwi Noree, the candidate for Ambassador to Leto’s court. Hwi is described as the niece of Malky, a man who was once a close companion to the God Emperor. She challenges the Formal Analyses by questioning why Leto would accept the transformation into a hideous worm-body. Hwi proposes that Leto made this sacrifice because his prescience revealed a future threat that only his transformation could prevent. The Inquisitors argue that power and long life were the only motives for Leto's loss of humanity.
+
+Hwi defends the Atreides family character by citing both official records and the Oral History as proof of their selflessness. She shares insights from her Uncle Malky, who claimed that Leto possessed a great tolerance for selected companions. Malky's reports described the God Emperor as a supremely artful diplomat and a master conversationalist expert in every subject. Hwi notes that Leto only displays brutality when faced with clumsy threats or pretentious behavior from others. She explains that Leto destroyed the works of historians because he knew they were lying about the past.
+
+The Inquisitors express skepticism regarding Malky’s fondness for the "tyrant" and his claims that Leto is ultimately civilized. Hwi maintains her belief in Malky’s assessment that Leto lacks all innocence and is only dangerous when pretending to be naive. She suggests that Leto is a predator who seeks out newness and originality while remaining wary of their destructive potential. Hwi apologizes for wasting the Inquisitors' time, believing her defense of Leto’s character has failed to impress them. Despite her unconventional views, the Inquisitors officially confirm Hwi Noree as the new Ambassador to the God Emperor.
+
+**Sentence Count Check:** 15
+
+---
+
+### 8: Chapter 8
+Moneo returns to the Citadel during a rainstorm and changes into dry clothes before descending to the crypt. He finds Leto II, the God Emperor, resting on his mechanical cart in the center of a massive chamber. Leto observes Moneo’s fatigue and notes that the man is nearly one hundred and eighteen years old. Moneo refuses to take the melange spice, which would extend his life, because he longs for an eventual death. Leto intends to breed Moneo's daughter, Siona, with the new Duncan Idaho ghola to continue his genetic program.
+
+Moneo asks if the Tleilaxu have tampered with the cells or psyche of the new Duncan Idaho clone. Leto confirms the ghola is untainted and explains the genetic value of crossing older human forms with his current breeding line. He describes himself as a predator whose primary function is to improve the human stock by weeding out recessives. Leto dismisses the idea of rule-governed creativity, stating that rules change with every surprise in the evolutionary process. Moneo is shocked by the predator label but Leto explains that a predator does not hate its prey.
+
+Leto expresses his hunger for a humankind capable of making long-term decisions that span millennia. He warns Moneo that short-term decisions almost always fail when viewed against the vastness of infinity. Moneo inquires about the timing of Siona’s upcoming test, expressing deep fear for her survival as she has no mother. Leto insists that Siona must be awakened to her Atreides duties and refuses to delegate authority to a weak administrator. Moneo departs the crypt without a formal dismissal, preoccupied with the arrival of the new Duncan Idaho ghola.
+
+**Sentence Count Check:** 15
+
+---
+
+### 9: Chapter 9
+The Bene Gesserit archives record the execution of nine historians who were burned on pyres of their own works by the God Emperor. Sister Chenoeh reports a conversation with Leto during a peregrination where he accused the Sisterhood of trying to suborn his Fish Speakers. Leto described the landscape around the Festival City of Onn as a clutter of trees and houses that prevents spiritual freedom. He warned that the Bene Gesserit should know the dangers of breeding for specific genetic goals, citing his own father as a failure. Leto claimed he has finally achieved his goal in Siona, the daughter of his majordomo Moneo.
+
+The report notes that the Fish Speakers, Leto’s all-female legions, continue to maintain order and receive local admiration across the Empire. The Sisterhood observes that Leto has increased the size of garrisons on the home planets of his major rivals. Reverend Mother Syaksa proposes the theory of "hydraulic despotism," where Leto controls the Empire through absolute dependence on melange. Melange is a spice that extends life and grants prescient visions, and Leto maintains a total monopoly over its distribution. The Bene Gesserit fear that Leto may introduce a new disease that only melange can suppress to tighten his control.
+
+Most planets in the Empire have devolved into sedentary lifestyles using primitive transportation like ornithopters or Guild Heighliners. The Spacing Guild and Ix are working on a mechanical substitute for the spice-dependent Navigators who fold space for travel. Leto continues to use a new Duncan Idaho ghola from the Tleilaxu, despite having killed previous versions himself. The Bene Gesserit suspect Leto is using forbidden computers and hope to find proof to gain influence over him. The report concludes that Leto’s powerful prescience remains the mainstay of his political control over all factions.
+
+**Sentence Count Check:** 15
+
+---
+
+### 10: Chapter 10
+Nayla, a blocky Fish Speaker with ivory hair and a wide mouth, climbs the circular stairs to Leto’s audience chamber. Leto watches her progress through an Ixian device that projects a three-dimensional image of the tower’s interior. Nayla serves as Leto’s secret agent within Siona’s rebellion and worships him as a living God. She pauses at the three-quarter mark of the climb, displaying the passionate simplicity and precision Leto admires. Leto recalls giving Nayla a genuine crysknife made from the tooth of a sandworm to bind her to his service.
+
+Upon entering the sanctuary, Nayla listens as Leto shouts that the religion built around his person is a holy obscenity. Nayla remains impassive and reports that Siona has correctly identified Topri as a clumsy spy. She confirms that Siona has shared the stolen journals with the Ixians, the Guild, and the Bene Gesserit. Siona believes the stolen Citadel charts will lead her to Leto’s massive hidden hoard of melange spice. Leto confirms the existence of the spice hoard and notes that its destruction would shatter the entire Empire.
+
+Leto commands Nayla to return to the rebellion and protect Siona’s life with her own at all costs. He reminds Nayla that she must obey Siona in everything, even if ordered to attack the God Emperor himself. Nayla touches her concealed crysknife and accepts this as the ultimate test of her faith. Leto observes that the weapon has locked Nayla into a predictable pattern of behavior that suits his designs. He concludes that Siona has reached the explosive moment required for the next phase of his Golden Path.
+
+**Sentence Count Check:** 15

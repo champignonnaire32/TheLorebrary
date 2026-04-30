@@ -1,0 +1,52 @@
+### 11: Chapter XI: The Palantı´r
+Gandalf, Aragorn, Legolas, Gimli, and the hobbits depart from Isengard with King Théoden and his Riders. They pass the ruins of the White Hand pillar, where Ents have broken the stone forefinger into pieces. Gandalf explains to Merry that Saruman is troubled by the mystery of the hobbits' escape and presence at Isengard. The group makes camp in a green dale under the hill Dol Baran as night falls. Pippin remains restless and consumed by a desire to see the heavy, cloth-wrapped object Gandalf carried from Orthanc.
+
+Driven by curiosity, Pippin creeps to the sleeping wizard and replaces the bundle with a large stone. He uncovers a smooth globe of dark crystal and stares into its depths until it begins to glow with fire. A winged shape appears within the sphere, followed by the terrifying presence of Sauron who questions the hobbit. Pippin falls back with a piercing cry, alerting the camp and causing Gandalf to hastily cover the crystal ball. The hobbit describes seeing a tall tower with winged shapes and receiving a message intended for Saruman.
+
+Gandalf identifies the object as a palantír, an ancient seeing-stone crafted by the Noldor in the distant past. Aragorn accepts the Stone for safekeeping as his right, as it is a treasure of Elendil's house from Gondor. A Nazgûl, a winged servant of Sauron mounted on a vast black creature, flies over the camp at great speed. Realizing the Enemy believes a hobbit is captive in Isengard, Gandalf decides to ride immediately for Minas Tirith. He takes Pippin on Shadowfax, his swift and silver-grey horse, leaving the others to follow at a slower pace.
+
+**Sentence Count Check:** 15
+
+---
+
+### 12: Book Four - Chapter I: The Taming of Sme´agol
+Frodo and Sam wander the maze-like hills of the Emyn Muil for three days after leaving the Fellowship. They reach a sheer cliff overlooking the Dead Marshes and Mordor, where the Eye of Sauron watches from afar. Sam retrieves a coil of grey elven-rope, which is thin but strong and soft as milk to the touch. Using the rope, the hobbits descend a treacherous rock-face and escape the rocky highlands into the lowlands below. The rope miraculously detaches itself from a stump above when Sam gives it a gentle, final tug.
+
+As they rest among boulders, Frodo spots a black shape crawling headfirst down the cliff like a large spider. Gollum, a withered creature with long limbs and pale gleaming eyes, falls from the rock and attacks Sam. Sam struggles against Gollum's clammy fingers and sharp teeth until Frodo threatens the creature with Sting. Frodo shows pity for the groveling wretch, remembering Gandalf's words about the importance of mercy and justice. Gollum, once known as Sméagol, begs for his life and promises to serve the master of the Precious.
+
+Sam ties the elven-rope around Gollum's ankle, but the touch of the Elvish material causes the creature intense pain. Gollum swears a binding oath upon the Ring to be very very good and to help the hobbits reach Mordor. Frodo releases him from the rope, and Gollum becomes cringing and anxious to please his new masters. The creature claims to know a secret path through the marshes that the Orcs do not use for travel. Under the stars, the trio sets off northward along the base of the hills toward the vast fens.
+
+**Sentence Count Check:** 15
+
+---
+
+### 13: Chapter II: The Passage of the Marshes
+Gollum leads Frodo and Sam into a narrow gully and along a shallow stream fed by the hills. He sings a croaking song about cold pools and juicy fish while splashing through the water on all fours. The hobbits sleep through the day while Gollum hides from the Yellow Face, his name for the sun. Frodo offers Gollum lembas, but the creature spits it out, claiming the Elvish bread tastes like dust and ashes. Sam grows suspicious when he wakes to find Gollum has vanished to hunt for slimy things in the dark.
+
+They enter the Dead Marshes, a vast network of stagnant pools, rotting reeds, and thick, foul-smelling mists. Pale, flickering lights known as candles of corpses appear above the water, luring travelers to their doom. Sam falls into the mud and sees the faces of dead Men, Elves, and Orcs staring up from the depths. Gollum explains that the marshes have swallowed the graves of those who fell in a great battle long ago. A cold wind rises as a winged Nazgûl flies overhead, causing Gollum to cower in terror of the wraiths.
+
+Frodo finds the Ring growing heavier around his neck as they draw closer to the borders of Mordor. He feels the Eye of Sauron as a palpable force striving to pierce his mind and see his location. The trio reaches a circular pit of oily ooze at the edge of the desolation before the mountains. Sam feigns sleep and overhears Gollum debating with his Precious about whether to betray the nice hobbits. The Gollum personality suggests that She might help them take the Ring back from the Baggins thief.
+
+**Sentence Count Check:** 15
+
+---
+
+### 14: Chapter III: The Black Gate is Closed
+The travelers reach Cirith Gorgor, where the two black watch-towers known as the Teeth of Mordor stand guard. Sauron has built a massive stone rampart with a single iron gate, the Morannon, across the narrow pass. Despair takes hold of the hobbits as they witness legions of Orcs and Men marching into the Dark Land. Frodo declares his intent to walk straight to the gate despite the hopeless odds of entering unseen. Gollum pleads with him to stop, wringing his hands and warning that Sauron will eat the whole world.
+
+Gollum reveals there is another way into Mordor, a darker and more secret path further to the south. He describes a third road that climbs into the mountains near an old, horrible fortress called the Moontower. Sam remains deeply skeptical, suspecting that Gollum is leading them into a trap for his own gain. Frodo warns Gollum that the promise he swore by the Ring will hold him and potentially lead to his undoing. The hobbit agrees to trust the creature one more time, as the Black Gate is clearly impassable.
+
+While hiding in a hollow, they see a fourth winged Nazgûl circling high in the pale sky above. A company of fierce Men from the South, with gold rings and red paint, marches toward the gate. Sam recites a Shire rhyme about oliphaunts, which are huge, house-sized beasts with trunks and tusks. Gollum claims he has never heard of such creatures and urges the hobbits to hide until the sun goes down. Frodo decides to follow Gollum's lead toward the southern pass, hoping for a third turn of better luck.
+
+**Sentence Count Check:** 15
+
+---
+
+### 15: Chapter IV: Of Herbs and Stewed Rabbit
+The group travels south through a barren, stony country, keeping the road on their left to avoid detection. They enter Ithilien, a fair land of climbing woods, fragrant herbs, and swift-falling mountain streams. Frodo sleeps in a bed of fern while Sam longs for a something hot out of the pot to eat. Gollum returns with two small rabbits he has caught, which Sam decides to skin and cook for breakfast. Sam builds a small fire and stews the meat with bay-leaves, thyme, and sage he finds nearby.
+
+Gollum shrieks in terror at the nasty red tongues of the fire and refuses to eat the cooked meat. He disappears into the woods, leaving Sam and Frodo to enjoy their first hot meal in many days. Sam realizes his fire has been smoking and hastily stamps it out, fearing the blue-grey spiral has been seen. Four tall Men clad in green and brown surround the hobbits, pointing spears and great bows at them. Their leader identifies himself as Faramir, Captain of Gondor and brother of the fallen Boromir.
+
+Faramir questions the hobbits about their errand and their association with the Sword that was Broken. He leaves two Rangers, Mablung and Damrod, to guard Frodo and Sam while his men prepare an ambush. The Rangers explain they are here to intercept a regiment of Haradrim marching north to join Sauron. A massive Mûmak, the oliphaunt of Sam's rhymes, crashes through the trees during the chaotic battle. Sam finally sees the legendary beast before it thunders away, leaving the woods filled with the sounds of war.
+
+**Sentence Count Check:** 15

@@ -1,0 +1,52 @@
+### 11: Chapter 11
+Leto enters a darkened chamber in the crypt to conduct the first interview with the newest Duncan Idaho ghola. The God Emperor uses the voice of Paul Atreides to disorient the warrior before revealing his physical transformation. Duncan expresses aggression and confusion due to the Tleilaxu restoration process that restored his original memories. Leto explains that the Tleilaxu continue to send these gholas because they know the presence of Duncan pleases the Paul-persona. The ghola questions the nature of Leto’s body, prompted by rumors that the Emperor now resembles a sandworm.
+
+Leto commands the floodlights to reveal his faceted, silvery-grey body with its ribbed sections and cowled face. Duncan stares at the sinuous flexings of the pre-worm form and the remnants of human limbs. The Emperor invokes Duncan's ancient loyalty to the Atreides name to secure his immediate service. Leto offers Duncan the command of the Royal Guard, which consists entirely of female soldiers called Fish Speakers. Duncan reacts with disbelief and blushes when Leto suggests that women were chosen for their behavioral differences in combat.
+
+Leto uses the voices of Jessica and Paul to prove that their memories reside within his multi-conscious mind. Duncan accepts the appointment and pledges his loyalty to the first Leto and Paul whom he once loved. The warrior warns that he will turn against the Emperor if he proves to be worse than the Harkonnens. Leto describes himself as pregnant with an Empire that he will die giving birth to. Moneo enters the room and leads Duncan away to begin his training with the female elite guard.
+
+**Sentence Count Check:** 15
+
+---
+
+### 12: Chapter 12
+Duncan Idaho awakens in a north tower room after a nightmare featuring weaponless women in black armor. He inspects his new black uniform, which features golden piping and a red Atreides hawk on the breast. Moneo arrives to brief Duncan on the civilization and the death of the previous Idaho ghola. The majordomo explains that the former Duncan was killed by rebels because he was not fast enough. Fish Speakers enter the room to serve a breakfast of paradan melon, a soft Caladan fruit, and melange-coffee with silent efficiency.
+
+Moneo explains Leto's theory that all-male armies are dangerous to the civilians they are meant to protect. He claims that male armies tend toward adolescent behavior and homosexual activities when denied an external enemy. Leto believes that a female army is superior because women move from adolescence to maturity through the physical act of childbirth. Duncan expresses anger at the realization that the Fish Speakers do not take precautions against pregnancy. Moneo reveals that he is an Atreides descendant from the line of Leto's sister Ghanima.
+
+Duncan learns that he has fathered many children across his various ghola incarnations throughout the centuries. Moneo defines Leto's established religion as a "holy obscenity" that the Emperor himself acknowledges. The majordomo describes the God Emperor's true belief as a daring superstition centered on the concept of chance. Duncan struggles to reconcile his role as both an ancestor and a servant to the current Atreides regime. The conversation ends with Duncan feeling a mixture of dislike and admiration for the majordomo’s loyalty.
+
+**Sentence Count Check:** 15
+
+---
+
+### 13: Chapter 13
+Leto's Royal Cart travels along a high artificial ridge that encloses the desert sanctuary of the Sareer. The God Emperor orders the procession to stop so he can observe the sunrise over the Kynes Sea. Leto notes that the surrounding grain fields were once part of the Great Desert known as the Tanzerouft. He identifies the city of Onn as being built upon the site of Muad'Dib's Gap in the old Shield Wall. Moneo stands beside the cart in his white uniform, worrying about the potential danger posed by the rebel Siona.
+
+Duncan Idaho positions the Fish Speaker guards in a protective ring around the Emperor’s cart. He wears a black uniform with white piping and uses hand signals to communicate with the female soldiers. Leto observes that the new Duncan feels threatened and is actively scouting the road for potential attackers. The Emperor points out the distant location where the landmark of Splintered Rock once stood. Moneo reflects on Leto’s invulnerability to lasgun bursts due to the protective properties of the sandtrout skin.
+
+Duncan questions Moneo about why the Ixian-made Royal Cart uses wheels instead of anti-gravity floaters. Moneo explains that Leto activates and steers the cart through direct mental command. The procession continues its descent through terraced canyons toward the faery bridge crossing the Idaho River. Leto expresses a sense of sadness while discussing the lost landmarks of the ancient desert with the ghola. Duncan remains alert for the presence of Museum Fremen who often gather to present petitions to the Emperor.
+
+**Sentence Count Check:** 15
+
+---
+
+### 14: Chapter 14
+Reverend Mothers Anteac and Luyseyal arrive at the Festival City of Onn from a Guild Heigh-liner. They are assigned small, dirty rooms at the edge of the Embassy Quarter and denied all communication tools. A Fish Speaker officer informs the Bene Gesserit that their audience with Leto has been delayed to the final position. This delay threatens the Sisterhood's spice allotments, which are traditionally fixed during the early festival stages. Anteac, a Truthsayer, wears her black aba robe and occupies a storage chamber lit by a defective glowglobe.
+
+A postulant messenger arrives with a report after making contact with the Ixian embassy. The messenger met with Othwi Yake, an Ixian official who is actually a secret ally of the Bene Gesserit. Yake was accompanied by a Tleilaxu Face Dancer, a shape-shifting mimic, who delivered a verbal threat to assassinate the God Emperor today. The Tleilaxu intend to strike Leto before he reaches the city of Onn to end his multi-millennial rule. Yake used a specific hand signal to warn that the Ixian embassy has been invaded and compromised by Face Dancers.
+
+Luyseyal and Anteac discuss the probability of the Tleilaxu plan succeeding despite its lack of subtlety. They review reports concerning Siona, who reportedly possesses the ability to fade from the oracular sight of the Guild. The Reverend Mothers wonder if Siona is participating in the assassination plot alongside the Tleilaxu. Anteac notes that Fish Speaker guards are now preventing any members of the Bene Gesserit party from leaving their quarters. The Truthsayers suspect that the Tleilaxu might have attempted to create a Face Dancer duplicate of Duncan Idaho.
+
+**Sentence Count Check:** 15
+
+---
+
+### 15: Chapter 15
+Leto discusses the concept of "rhetorical despotism" with Moneo as they approach the Idaho River. The God Emperor explains that religious power bases often attract insane individuals who seek power for its own sake. He orders the execution of the remaining members of House Corrino as a test of Duncan Idaho's loyalty. Leto describes the historical figure Torquemada as an obscenity who burned people alive in the name of God. Moneo observes the physical signs of the "Worm" rising in Leto's body, indicating a state of predatory instinct.
+
+Leto reveals that he has decided to delay the announcement of spice allotments to draw out potential bribes. Moneo recalls being shown the God Emperor's secret hoard of melange located in a massive underground cavern. The spice in the vault glows radiant blue and emits a powerful scent of bitter cinnamon. Leto explains that he will eventually return to the sand and become the source of new sandtrout. This transformation will lead to the return of the desert and the emergence of a new, more cunning sandworm.
+
+The God Emperor states that he desires to be surprised by new occurrences within his predictable Empire. He grants Moneo a boon, allowing him to separate Siona from her companions and bring her to the Citadel. Leto warns that this separation will only cause him to subject Siona to his tests much sooner. The Royal Cart enters a steep descent through switchbacks cut into the high walls of the cliff barrier. Moneo worries that the Museum Fremen waiting with petitions will trigger a violent outburst from the God Emperor.
+
+**Sentence Count Check:** 15

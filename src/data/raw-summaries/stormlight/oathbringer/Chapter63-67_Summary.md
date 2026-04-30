@@ -1,0 +1,52 @@
+### 63: Within the Mirror
+Veil explores the city of Kholinar and notes that it feels like contained chaos. She uses Stormlight to transform her appearance while wandering through the markets. The city streets are filled with impoverished refugees and cultists wearing wet red paint to resemble rotspren. Veil reaches the palace district and notices that the guards move with an unnatural, predatory wrongness. She observes the Oathgate platform, which is guarded by the cult and emits the sound of screams.
+
+Kaladin meets Veil at a statue and hands her a letter from King Elhokar. Veil disguises herself as a scout named Lyn and climbs the palace steps to deliver the message. She enters the palace but is immediately run through with a sword by a soldier. Shallan feigns death and uses a small amount of Stormlight to heal her internal organs. A soldier carries her past a mirror, where she sees a shadow with white eyes looking at her.
+
+She is dumped in a wine cellar that contains a row of rotting corpses. Veil escapes the cellar and navigates through the Kholin mausoleum to find an exit. She uses an illusion and Pattern’s voice to distract the guards outside the palace. Shallan reunites with Kaladin in a hollow building while still covered in her own blood. They return to their hideout after Kaladin checks for guards and confirms she is stable.
+
+**Sentence Count Check:** 15
+
+---
+
+### 64: Binder of Gods
+Dalinar retrieves the Honorblade, a Heraldic weapon that grants Windrunner powers, from its hiding place. The Stormfather reveals that the mad Herald Ishar is the god-priest Tezim ruling in Tukar. Dalinar learns that his Bondsmith powers involve Connection and joining worlds or souls together. The Stormfather explains that only three spren can create Bondsmiths and refuses to discuss his siblings. Dalinar attempts to renew a dun sphere without a highstorm, but the effort fails.
+
+Bridge Four gathers to inspect the Honorblade, which provides the powers of a Windrunner. Rock takes the weapon to keep it safe, and his eyes change to a glassy blue. Navani provides Dalinar with a packet of essays and a lunchbox for his mission to Azir. Dalinar breaks up a brawl between Sadeas and Aladar soldiers by sticking them to the ground with Stormlight. He notes that the Sadeas army is becoming increasingly unruly under the command of Amaram.
+
+Jasnah waits at the Oathgate control building and discusses using the soldiers for labor. She mentions that there has been no word from the infiltration team in Kholinar. Jasnah summons her Shardblade to operate the platform and transport Dalinar. The Oathgate activates with a flash of light and transports Dalinar to the western kingdom. Dalinar steps out into the summer heat of Azir to begin negotiations with the imperial court.
+
+**Sentence Count Check:** 15
+
+---
+
+### 65: Verdict
+Dalinar enters the Grand Market of Azimir and encounters a line of hostile Azish guards. He uses Spiritual Adhesion, a Bondsmith power, to touch a guard and create a linguistic Connection. Vizier Noura and other scribes accept three persuasive essays written by Fen, Navani, and Jasnah. The essays argue for trade deals, share technical schematics for half-shards, and demonstrate logical mastery. Dalinar is led through the city and observes protestors who have filed formal complaints against farm work.
+
+Noura explains that the parshmen left the city during the storm after demanding economic redress. Dalinar is sequestered in a palace outbuilding where he meets the Reshi Radiant named Lift. Lift steals Dalinar's food and explains that she is trying to stop herself from growing. She identifies herself as an Edgedancer, a Radiant who can manipulate friction, and mentions the Nightwatcher. Noura returns and announces that the Azish Prime and his council will visit Urithiru.
+
+The viziers admit they were moved by Navani’s authentic plea rather than Jasnah’s technical logic. Dalinar warns the Azish that the Oathgate platform can transport the entire market dome. Jasnah arrives at the control building and uses the Oathgate to return Dalinar to the tower. Upon reaching Urithiru, Dalinar is suddenly overwhelmed by a massive influx of suppressed memories. He falls to the stone in agony as he remembers that he killed his wife, Evi, at the Rift.
+
+**Sentence Count Check:** 15
+
+---
+
+### 66: Strategist
+Eleven years in the past, Dalinar teaches Adolin about the defensive mechanisms of a highland keep. He explains that the retractable ledges are designed to cause Shardbearers to fall and crack their Plate. Dalinar feels successful because the Veden king has finally recognized Gavilar as the rightful ruler of Alethkar. Evi enters the room and complains about the freezing temperatures of the northern highlands. She notes that her accent is fading as she tries to conform to the culture of Vorin women.
+
+A scribe delivers a letter from King Gavilar via spanreed, a device for long-distance communication. Gavilar commends Dalinar for his strategic genius but commands him to return to Rathalas. The Highprince Tanalan is leading a rebellion at the Rift that threatens to start a civil war. Dalinar immediately begins planning a mobile assault across the lake to surprise the rebels. Evi begins to cry and laments the seven years she has spent living in war camps.
+
+She expresses a desire to visit the Nightwatcher to gain intelligence and fit in with Alethi society. Dalinar forbids her from seeking the Old Magic and dismisses her religious concerns. Evi accuses Dalinar of not caring for their second son, Renarin, because the boy is not a soldier. Dalinar promises to give Evi one year of peace in Kholinar if she allows him to finish the campaign. He leaves the room and ignores her weeping to continue discussing the war with his generals.
+
+**Sentence Count Check:** 15
+
+---
+
+### 67: Mishim
+One day after her infiltration attempt, Shallan feels recovered and joins her companions for a meal. King Elhokar draws a map of Kholinar and proposes a plan to rescue Queen Aesudan and Prince Gavinor. Adolin reminds the King that the Queen has been accused of gluttony and excessive taxation. Kaladin plans to investigate the Wall Guard and their leader, a mysterious figure named Azure. Shallan disguises herself as Veil to investigate the Cult of Moments and the source of the city's food.
+
+She finds that the city's grain is being distributed from a former Thaylen bank by House Velalant guards. Veil notices that the food is primarily going to lighteyed households while the poor are shoved out of line. She shares a Soulcast meat stick with an urchin who has a twisted, unusable hand. The distribution ends early, leaving many people in the market shouting in despair or waiting in silence. Veil hears a familiar voice and discovers Hoid, known as Wit, telling stories in the market.
+
+Wit is dressed in green and white Sadeas livery and tells the legend of Queen Tsa and the moon Mishim. He uses powders and smoke to create vivid, lifelike images of towers and celestial bodies. The story describes how the Natan people gained blue skin after Tsa traded places with the moon. Wit recognizes Shallan through her Lightweaving disguise and makes eye contact during the performance. After the audience disperses, Wit asks Shallan to buy him a meal and mentions that he misses his flute.
+
+**Sentence Count Check:** 15

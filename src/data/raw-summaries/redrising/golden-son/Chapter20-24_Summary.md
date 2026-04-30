@@ -1,0 +1,56 @@
+# Red Rising: Golden Son Chapter 20-24 Summary
+
+### 20: Helldiver
+Darrow realizes Tactus has betrayed him by handing Lysander over to the Sovereign. The transport ship, piloted by a thin Blue with azure tattoos, attempts to evade the Scepter Armada near Luna. Sevro and Darrow load themselves into starShells, which are robotic combat carapaces designed for orbital insertion. Victra kisses Darrow before he is loaded into a launch tube for a high-velocity strike. Darrow commands the pilot to fly toward the Vanguard, the deadliest ship in the enemy armada.
+
+The railgun shoots Darrow into the vacuum at fifteen times the speed of sound. He experiences intense g-forces and blackouts during the six-second transit through open space. Enemy gunners fire railguns and missiles, but Darrow’s lack of active thrusters prevents a lock-on. He watches Gold officers on the bridge scramble as he approaches their position. Darrow fires his pulseCannon to weaken the bridge glass before impacting the command deck at full velocity.
+
+The impact shatters the reinforced glass and sends Darrow tumbling through the bridge strategy desks. He continues through multiple bulkheads before stopping a hundred meters inside the ship. Sevro follows close behind, having successfully navigated the launch. The bridge is filled with the sound of escaping air as crew members are sucked into space. Emergency bulkheads eventually slam shut to seal the breach and normalize the pressure. Darrow prepares to engage the surviving crew as the ship's internal alarms wail.
+
+**Sentence Count Check: 15**
+
+---
+
+### 21: Stains
+Darrow and Sevro engage the bridge crew, killing Grays and Obsidians with their metal suits. Two Gold women attempt to attack with razors but are killed by pulseCannon fire. Darrow identifies the Blue captain and forces him to surrender his badge of rank. He opens a ship-wide communication to announce he has claimed the vessel, renaming it the Pax. Darrow threatens to vent the entire ship to space if the crew does not rebel against the remaining sixty-one Golds on board.
+
+Low-color crew members, including Oranges and Grays, begin seizing armories and attacking their Gold commanders. Sevro uses a hidden console to grant Darrow control over the ship's internal systems. An Obsidian named Ragnar Volarus, a Stained firstborn who is larger than any typical Obsidian, arrives outside the bridge. He uses ionBlades, which are glowing energy blades extending from his armor, to slaughter a Gold-led kill squad. Ragnar ignores his own wounds, including a razor stuck in his ribs, to offer his service to Darrow.
+
+Darrow accepts Ragnar’s service and wipes the giant's blood onto his own brow as a symbolic acceptance of "stains." He orders Ragnar to go to hangar bay three to rescue Mustang and the Howlers. The crew successfully captures or kills the majority of the Sovereign’s loyalists throughout the vessel. Darrow observes the progress of the internal revolution through the ship’s surveillance monitors. He prepares to lead the Pax against the surrounding enemy fleet. The Stained warrior departs to carry out his first mission for his new master.
+
+**Sentence Count Check: 15**
+
+---
+
+### 22: Fire Blossom
+Darrow seeks a new captain and encounters a Blue named Orion who possesses mathematical tattoos and a blunt Docker accent. Orion punches a rival Blue named Pelus to prove her dominance and readiness for command. Darrow grants her the captain’s winged star and orders her to navigate the ship back to the Martian fleet. He broadcasts a message to the Society accusing Octavia au Lune of breaking the Compact by attempting to murder Nero au Augustus. Orion activates the Pax's railguns and destroys multiple enemy leechCraft and men-of-war.
+
+The Pax escapes the blockade by pounding blackmatter engines and flying through the debris of destroyed enemy vessels. Darrow meets with Mustang and Augustus in the hangar after the battle concludes. He discovers that Quinn has died from her injuries sustained during the escape from Luna. Roque carries Quinn’s body through the hangar and eventually pushes her out into space for a traditional burial. Sevro is devastated by the loss and flees the hangar in a state of shock and grief.
+
+The Jackal asks Darrow for the footage recorded by the dataRecorder hidden in Darrow’s tooth. Darrow hands over the device, which contains evidence of the Sovereign’s betrayal at the gala. He joins the Howlers and other colors in assisting the wounded and cleaning the blood-stained hangar deck. Victra and Mustang help with the medical efforts as the fleet transitions to the Rubicon Beacons. Darrow feels isolated and exhausted as the weight of the day's deaths settles on him. Mustang finds Darrow alone and tells him that Sevro needs his support.
+
+**Sentence Count Check: 15**
+
+---
+
+### 23: Trust
+Darrow finds Sevro in a communal washroom where Sevro is mourning Quinn’s death. Sevro reveals he has known Darrow’s true identity since the Institute when he heard Darrow use Red slang. Darrow activates a jamField to ensure their conversation is not intercepted by spies. Sevro explains that he was recruited by Ares and Dancer during a layover on Triton. He presents a whisperGem, a small black crystal that plays a recorded message when breathed upon.
+
+The recording features Ares and Dancer, who confirm that Harmony has gone rogue and betrayed the Sons of Ares. Ares instructs Darrow to continue sowing chaos between the Augustus and Bellona families to fracture the Society. Dancer informs Darrow that his family in Lykos is alive and well. Darrow breaks down in tears and hugs Sevro, finally relieved to have a true ally who knows his secret. Sevro confirms his commitment to the revolution despite being a Gold by birth.
+
+Victra escorts Darrow to his new quarters, which are the massive staterooms formerly belonging to the Ash Lord. She expresses her loyalty to Darrow despite her family's betrayal of Augustus. Darrow rejects her romantic advances but attempts to build a more genuine friendship by sharing personal details. He spends a sleepless night pacing the six-room suite and examining the ship's infrastructure. Darrow wanders into the lower decks of the ship where low-colors live and work in cramped conditions. He eventually goes to the mess hall and finds Mustang sitting alone at a metal table.
+
+**Sentence Count Check: 15**
+
+---
+
+### 24: Bacon and Eggs
+A Brown cook serves Mustang and Darrow a massive tray of breakfast food in the mess hall. Mustang discusses the sociological manipulation of the various colors, such as the chemical sterilization of Pinks. She reveals that she sought a relationship with Cassius solely to protect her family from the Sovereign. Mustang admits she felt like a fraud during her time with Cassius and only wanted to prevent Darrow's death. Darrow comforts her but remains conflicted because he is maintaining his identity as a Gold.
+
+Mustang warns Darrow that he cannot trust her twin brother, the Jackal, whom she describes as a monster. She believes the Jackal views people only as "sacks of bone and meat" rather than human beings. Darrow insists he needs the Jackal's network to win the war despite the risks. He leaves Mustang and returns to his suite where Ragnar is waiting outside the door. Ragnar senses someone inside the room and warns Darrow that a Gold is present. Darrow enters with his razor drawn and finds the Jackal sitting on the couch drinking sherry.
+
+The Jackal discusses the political fallout of the gala and the need to remove Pliny from power. He provides Darrow with a synced holoCom to maintain a secure and secret line of communication. They agree to fan the flames of the civil war to create opportunities for their own advancement. Darrow keeps his alliance with the Sons of Ares a secret from the Jackal. He asks the Jackal for information regarding the shipyards of Ganymede to plan their next move. The two allies begin restructuring their strategy for the upcoming conflict against the Sovereign.
+
+**Sentence Count Check: 15**
+
+---

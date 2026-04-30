@@ -1,0 +1,52 @@
+### 35: Darrow: Endure
+Darrow is woken by Screwface, who takes him to a beach where a mix of Colors are performing a religious ceremony involving baptism in the sea. Screwface suggests Darrow needs the spiritual connection, but Darrow maintains that a leader cannot show such vulnerability. While walking along the shore, Darrow and Screwface discover nearly forty stealth obelisks from Luna that have landed in the water. The pods are filled with food, medical supplies, and radiation medicine, providing a critical lifeline for the Republic's radiation-sickened army. Darrow finds a recorded message from Virginia, who explains that the supplies were launched via railgun because the Senate has stalled the fleet's deployment.
+
+Virginia’s message updates Darrow on the chaos on Luna, including Sevro’s hunt for the Syndicate and Sefi’s disappearance with Pax and Electra. She believes Pax is safe in Sefi's custody and informs Darrow that she will lead the fleet to Mercury on May 1st, whether she is Sovereign or simply his wife. The message encourages Darrow to endure, stressing that his strength lies in the hope he provides his friends rather than the fear he sows. Darrow shares a memory of Daxo with Thraxa, noting that life’s sweetness must be remembered over its bitterness. He then meets with his high command to decide on Atalantia’s offer of surrender.
+
+Harnassus informs Darrow that the Vox Populi-controlled Senate has ordered Darrow's arrest and the army's surrender. In defiance of these orders, Harnassus and the officers reject the surrender and fire a full barrage of particle cannons at Atalantia's orbiting dreadnought. Harnassus declares that the Republic’s government has been hijacked and reaffirms his loyalty to Darrow’s leadership. The officers chant "Hail Reaper," and Darrow assumes his seat, committed to bringing his "family" of soldiers home. He concludes the meeting by summoning the Master Maker, Glirastes, to begin a new phase of the war.
+
+**Sentence Count Check:** 15
+
+---
+
+### 36: Lyria: Victim
+Lyria is being held in a sensory deprivation cell where she is subjected to extreme light spasms and horrific human screams. The gravity in the room inverts periodically, causing her to fall and lose her sense of time and orientation. She reflects on her life in the mines and the assimilation camps, feeling that the world no longer makes sense. Victra au Julii visits the cell to express her pleasure in Lyria's degradation as revenge for the loss of her daughter and nephew. Victra labels Lyria a "gibbering idiot" for carrying the alien hardware that led to the kidnapping.
+
+Lyria falls into a deep state of despair and decay, hallucinating demons made of light that represent her past traumas and the people she failed to save. She begins to view her life as a story of a perpetual victim who only watches while others act. This realization sparks a deep sense of disgust and a newfound desire to survive and fight back. She remembers the stories of Darrow’s "Second Birth" and realizes that waiting for others to save her has been her greatest mistake. Lyria starts forcing herself to eat the synthetic food provided and finds ways to sleep despite the shifting gravity.
+
+By tearing strips from her jumpsuit, Lyria fashions a blindfold and earplugs to combat the sensory torture. She begins to interact with the light patterns in the room, treating them as a game or a code to be cracked. While examining a vent duct, she discovers a hidden ball of cloth with a message written in blood. The message is from Volga, the Obsidian who was part of Ephraim's crew, asking if she is alone. Lyria feels a surge of rage but also a connection to someone else who was used by Ephraim. She bites her own thumb and uses the blood to write a reply to Volga on the same cloth.
+
+**Sentence Count Check:** 15
+
+---
+
+### 37: Ephraim: Heart of Venus
+Sefi cuts off all external communications on Eagle Rest and cancels skuggi training as she prepares for a move. Pax and Ephraim communicate using a pea-based code at dinner to discuss their lack of a ship and their status as flight risks. Electra enters the suite and opens the windows to reveal thousands of candles lit in Olympia while the Forbidden Song plays. Ozgard arrives and summons the group to a military shuttle for a three-day journey to an unknown destination. During the flight, Pax explains the history of the Dark Revolt and the legend of the Ascomanni, a radiation-resistant Obsidian tribe in the Kuiper Belt.
+
+Pax suggests that the Ascomanni might have united under a ruler named Volsung Fá, who could be coordinating with Martian Obsidian pirates. The shuttle docks with the *Heart of Venus*, a derelict luxury cruise ship that Sefi has used to smuggle her veteran legions from Mercury. Ephraim recognizes the ship from his past and notes that it is now a crowded, dusty barracks for thousands of bloodbraves. The group is led through an aquarium filled with predators and a mezzanine level haunted by the echoes of the war. Sefi hosts them in a dilapidated theater where she is watching a holographic opera performance.
+
+Sefi questions her Pink servant, Amel, about his loyalty and the nature of "rotten" spirits before having her skuggi hack him to pieces. She reveals that Virginia has been murdered by a mob on Luna and that a general coup has seized the Republic's government. Sevro has been captured, and Sefi believes the coup is a puppet movement controlled by Atalantia. Electra is devastated and blames Sefi for weakening the Sovereign by withdrawing her support. Sefi announces her plan to seize the helium mines of Cimmeria on Mars to secure Obsidian's destiny and orders Ephraim to use his skuggi to lower the defense grids.
+
+**Sentence Count Check:** 15
+
+---
+
+### 38: Lysander: The Horizon
+Lysander wakes up in the desert with an infected facial wound and a fever that warps his perception. He travels north in the cool dark with Kalindora and Cicero, with Kalindora reciting poetry to keep their spirits up. During a break, the group narrowly avoids a hydra burrow, a hole inhabited by a genetically engineered predator designed for hunting. Kalindora gives Lysander the last of the water, insisting he must survive even though she is also severely dehydrated. Lysander explains the Mind's Eye to Kalindora, describing it as a state of perfect harmony and controlled focus.
+
+A massive sandstorm appears on the horizon, forcing the group to sprint toward the wreckage of a downed bomber for shelter. Cicero and the uninjured Golds outpace Lysander and Kalindora, who are slowed by their injuries and the desert's harsh conditions. Lysander realizes they will not make it to the bomber and shoves Kalindora away so she can save herself. Left alone, he finds a hydra burrow and uses his razor to widen the entrance so he can crawl inside. He dives into the hole just as the wall of sand hits, seeking refuge in the monster's lair.
+
+Lysander spends hours in the pitch-black burrow, remaining perfectly still while the hydra digests a meal next to his leg. He keeps his razor pointed outward, trembling with the tension of sharing a confined space with a lethal creature. When the storm finally subsides, he crawls out of the burrow and experiences a brief moment of relief and hysterical laughter. He realizes that the desert has swallowed the Grays and that the playa has been cleansed of all other signs of life. Lysander is left alone in the waste, facing the reality that his survival now depends entirely on his own actions.
+
+**Sentence Count Check:** 15
+
+---
+
+### 39: Lysander: The Mind’s Eye
+Lysander searches the sand-buried bomber and finds only the remains of Blue pilots belonging to Atlas’s Gorgon units. He realizes a shuttle has already taken Kalindora and the others, leaving him abandoned in the desert. In a state of despair, he weeps over his failed ambitions and the death of Seraphina before being startled by a voice in the darkness. A cloaked figure, Apollonius au Valii-Rath, reveals himself and demands that Lysander demonstrate the Mind's Eye. Ajax’s bodyguard, Seneca, arrives with seven armored Peerless Scarred to finish the task of killing Lysander.
+
+Lysander lures the killers into the open and convinces them to unfurl their helmets by appealing to their arrogance and desire to look him in the eye. He detonates a firebrand munition, creating a flash of ultraviolet light that blinds the bare-faced Golds. Entering the Mind's Eye, Lysander uses his heightened senses and memory to navigate the battlefield despite his own blindness. He adopts the Willow Way's Winter Whirlwind stance and systematically kills the blinded Peerless Scarred using his razor and a looted pulseFist. He kills four men quickly, including one who takes to the air, by tracking the sounds of their armor and boots.
+
+Lysander engages Seneca in a final duel, using the Mind's Eye to parry strikes and manipulate his razor into a whip. He severs Seneca’s feet and eventually decapitates him after a brief exchange about poetry. Apollonius applauds the performance and expresses his desire to learn the secrets of the Mind's Eye from Lysander. Lysander refuses to be Apollonius's puppet or to join his faction against Atalantia, choosing instead to walk north alone. He cuts the tracking implant from his neck and leaves with scavenged supplies, determined to reclaim his own life and destiny.
+
+**Sentence Count Check:** 15

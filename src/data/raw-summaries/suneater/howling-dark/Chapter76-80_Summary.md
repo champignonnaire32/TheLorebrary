@@ -1,0 +1,54 @@
+# Chapter 76-80 Summary: The Distiller
+
+### 76: The Three Immortals
+Hadrian awakens aboard the Demiurge after nineteen days of unconsciousness to find his missing left arm completely restored. Kharn Sagara now occupies two bodies, the children Ren and Suzuha, as a result of the synaptic damage caused during the previous battle. The Undying Lord explains that while the flesh is organic, Hadrian’s new bones are a printed adamant lattice and his tendons are carbon fullerenes. Hadrian expresses remorse for the Imperial assault on Vorgossos, but Kharn dismisses this, noting the profit gained from twenty thousand Imperial subjects. The Lord of Vorgossos reveals that the Imperial fleet is waiting and that the infection from Hadrian's previous wounds has cleared.
+
+Kharn and his dual self question Hadrian about his survival, as the ship’s internal surveillance was offline during his regeneration. Hadrian mentions the Quiet, prompting Kharn to reveal that the Mericanii machines believed the Quiet were entities that abandoned material existence for pure force. The Undying Lord admits that even his fifteen millennia of knowledge cannot fully explain the Quiet's influence across time. He recounts legends of the God Emperor outmaneuvering machines with the help of "angels" in his dreams. Kharn confirms that the Brethren were expecting Hadrian, calling him "the man to end it all."
+
+The chapter concludes with Kharn expressing a new fear of mortality after his near-death experience. He asks Hadrian what happens after death, but Hadrian can only describe a howling darkness and his own image pointing the way back. Hadrian realizes that the Undying Lord is desperate for an answer he does not possess. Kharn is visibly shaken by the realization that his technological safeguards are not enough to guarantee true immortality. Hadrian prepares to leave, feeling the weight of the destiny the Brethren have placed upon him. The two Kharns remain behind, watching him with a mixture of fevered interest and casual disdain.
+
+**Sentence Count Check: 15**
+
+---
+
+### 77: Theseus Himself
+Hadrian dresses in his own clothes, which were left for him before the Imperial personnel were ejected from the Demiurge. He struggles with his shield-belt and sword due to the lingering sluggishness in his newly grown left arm. Looking in the aquarium's reflection, he contemplates his survival and the vertigo of remembering his own decapitation. He discovers a fragment of white eggshell in his sabretache, which he believes the Quiet used to interfere with causality and save his life. Hadrian also finds Prince Aranata’s rhodium ring, featuring an egg-shaped garnet, and places it on his thumb to replace his lost ring. 
+
+The fragment of shell is unnaturally white and appears impervious to any attempts to crush it. Hadrian recognizes his own reflection as a man who has survived imprisonment, betrayal, and the gods themselves. He feels that his encounter with his other self in the darkness has given him a new purpose to strive toward. Lieutenant Kurtz arrives to escort him to the shuttle, noting that the flight preparations are nearly complete. Hadrian accepts his new role and the long road of struggle that lies ahead of him. He is no longer the man he was, yet he remains fundamentally himself.
+
+As the shuttle departs, Hadrian watches the massive Sojourner ship Demiurge begin to move and slip away into the night. The vessel, covered in iron statues of gods and devils, vanishes using an unknown method of travel rather than standard rockets. Hadrian reflects on the strange paths chosen for him and the vanishing of the two ancient Sojourner ships he has encountered. He does not expect to see the Demiurge or the dual Kharn Sagara again for a long time. The chapter ends with his return to the Imperial fleet's flagship, the Sieglinde. This departure marks the final closure of the Vorgossos campaign.
+
+**Sentence Count Check: 14**
+
+---
+
+### 78: The First Strategos
+Hadrian is escorted aboard the Sieglinde to meet First Strategos Titus Andrew-Louis Hauptmann, the Duke of Andernach. Hauptmann is a tall, imposing palatine with a massive mustache who treats Hadrian with unexpected familiarity and respect. The Strategos reveals that Captain Lin’s reports credit Hadrian with slaying the Cielcin War Prince and saving Kharn Sagara. Hadrian feels a private rage toward Hauptmann for the machinations that cost the lives of Smythe and Crossflane. Despite this, he acknowledges the cold efficiency of the strategy that decapitated the Cielcin leadership with minimal Imperial losses.
+
+The Duke shows Hadrian his collection of hunting trophies and Cielcin heraldic spears, which are asymmetrical broken-circle headpieces decorated with chimes. Hadrian corrects the Duke, noting that Aranata’s standard was not in the wreckage but on the Demiurge. Hauptmann informs Hadrian that he has recommended him for a knighthood and the Imperial Order of Merit. He then plays a recorded message from Emperor William XXIII, the Firstborn Son of the Earth. The Emperor officially elevates Hadrian to the rank of Royal Victorian Knight, a prestigious role usually reserved for Imperial kin.
+
+Hadrian is ordered to attend the Emperor’s court at Forum immediately and is promised a ship for the journey. The Royal Victorian Knights are personal servants of House Avent, numbering fewer than a thousand in the entire Empire. Hadrian is stunned by the honor, which will likely cause his disinheriting father significant consternation. He requests that his Red Company mercenaries be allowed to accompany him, and Hauptmann grants the request. The Schiavona has been repaired and refueled for the trip to the heart of the Empire. Hadrian leaves the office, processing the fact that he is now a celebrated hero of the Sollan Empire.
+
+**Sentence Count Check: 15**
+
+---
+
+### 79: Departure
+Valka expresses her deep apprehension about traveling to Forum due to the Chantry’s strict laws against her neural lace. Hadrian reassures her by suggesting they keep her "witchcraft" to a minimum while in the heart of Imperial power. They share a private moment and a kiss before being interrupted by the arrival of Pallino and the rest of the Red Company. Pallino and Elara approve of the relationship, while Siran jokes about Hadrian’s new status as a knight. Crim and Ilex join them, reporting that Corvo is finalizing the financial arrangements for the ship with the Legion.
+
+The group prepares to board the Schiavona, a fast Legion interceptor that will replace the slower Mistral for their journey. Hadrian sees William "Switch" Crossflane at the end of the line and confronts him for his betrayal. Switch had summoned Bassander Lin and the fleet to Vorgossos, an act that Hadrian blames for the deaths of Smythe and Raine. Hadrian refuses to forgive him, stating that Switch sold him out to save his own skin. Despite Switch’s tears and pleas for forgiveness, Hadrian commands him to get out of his sight.
+
+The airlock seals between them, ending their friendship and leaving Switch behind as the fleet prepares to depart. Alone in the boarding umbilical, Hadrian collapses to his knees and weeps for his lost friends and his own shattered dreams of peace. He mourns the Cielcin royalty he was forced to execute and the futures that were destroyed by the war. The weight of his new title and the Emperor’s summons feels like a burden rather than a triumph. He realizes that his survival has come at a terrible cost to his soul. The chapter ends with Hadrian's total emotional exhaustion following the confrontation.
+
+**Sentence Count Check: 15**
+
+---
+
+### 80: Halfmortal
+Valka finds Hadrian alone in the umbilical and comforts him, though she does not ask about Switch's departure. Hadrian confesses his belief that the Quiet saved him, showing her the white shell fragment he recovered from the darkness. Valka suspects the shard is a form of highmatter, similar to the mysterious black stones found in the ruins at Calagah. Their intimacy is interrupted by Bassander Lin, who views Hadrian’s return from the dead as a literal miracle. Lin, once a rival, now treats Hadrian with a level of awe and religious devotion that borders on worship.
+
+Bassander kneels before Hadrian on a catwalk overlooking the cargo bay, an act that shocks the assembled soldiers and mercenaries. The crowd below, including the Red Company and Legion personnel, begins to chant "Halfmortal" upon hearing of Hadrian’s resurrection. This name, originally whispered by the Brethren, becomes a public declaration of Hadrian's burgeoning legend. Hadrian feels he has lost control of his own narrative as the soldiers hail him as a divine figure. He realizes that he has been set upon a path toward a final, apocalyptic conflict he does not yet understand.
+
+The chapter serves as a transition from Hadrian's old life to his new role as a celebrated and feared icon. He acknowledges that he has left his dreams of peace and his old scars behind in the waters of Vorgossos. Valka remains by his side, though she chooses to stay in the shadows while the crowd cheers for him. Hadrian raises his right hand to the sea of faces, accepting the mantle that has been thrust upon him. He reflects on the fact that every ending is a beginning and that his rebirth has changed him forever. The story moves forward toward the inevitable destruction at Gododdin.
+
+**Sentence Count Check: 15**

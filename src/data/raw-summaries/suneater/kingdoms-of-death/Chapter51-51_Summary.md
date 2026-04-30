@@ -1,0 +1,10 @@
+### 51: THE GLORY OF THE WORLD
+Hadrian and Valka live in a Sevrastene village for nine years, dwelling among the native fisherfolk of the moon Colchis. Hadrian returns from a supply run to find Valka pale and waiting for him on the strand. Valka leads Hadrian to the bedside of Tor Gibson, Hadrian's former tutor and scholiast, who lies unconscious after a fall. The room smells of stale medicine and provides a view of the gray bay of Thessa. Hadrian checks Gibson's cool forehead and steady breathing before suggesting they use a cryonic freeze to preserve him for transport to an Imperial hospital.
+
+Valka objects to the freeze, citing the physical trauma of the process on an elderly man. Hadrian admits that Gibson's presence was the only thing keeping them in hiding on the island. Valka identifies the symptoms as a stroke and requests a medical field scanner. Hadrian sends Valka and a local fisherman named Ginoh to the village of Racha to use a quantum communication uplink. This transmission reveals their presence to the Imperial governor-general in the capital city of Aea.
+
+Hadrian sits with Gibson and confesses his failure to find peace with the Cielcin, a carnivorous alien species. Gibson wakes briefly, weeping as he apologizes to "Livy," a previously unmentioned son he claims to have betrayed. Gibson mistakes Hadrian for his father, Alistair, and instructs him that obedience born of devotion is the highest moral form. Gibson dies before Valka returns with a doctor, and Hadrian constructs a stone cairn over the body on a cliff overlooking the sea. Hadrian discards his ruined highmatter sword hilt into the ocean and departs for the Imperial Library to seek further knowledge.
+
+**Sentence Count Check:** 15
+
+---

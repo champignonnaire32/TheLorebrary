@@ -1,0 +1,52 @@
+### 48: No More Weakness
+Three years ago, Shallan sketches her brothers Balat and Wikim in the gardens of the Davar estate. Wikim hands Shallan a pouch of blackbane, a paralyzing plant with dark leaves, explaining he no longer needs the poison. Debt collectors arrive at the manor and bind Jushu because he gambled away the family wealth. Lin Davar refuses to pay the debt and allows the men to take Jushu away as a deterrent to others. Shallan enters her father's study and discovers ledgers revealing massive debts and illegal bribes.
+
+Lin reacts with hatred when Shallan questions him and he physically assaults her by grabbing her arms. He declares that there will be no more weakness in the house and confines Shallan to her rooms. Shallan takes masterwork daggers from Balat and Wikim to trade for Jushu’s life. She catches the debt collectors on the road and offers the daggers along with her aluminum necklace. The lead collector values the daggers at twenty emerald broams and agrees to cut Jushu free.
+
+Jushu returns to the manor bloodied and bruised but alive thanks to Shallan's intervention. Shallan finds the serving maid Minara lying in the hallway with a broken arm and bleeding from her father's assault. Lin Davar enters Shallan's room and explains that he must let his anger out on others when she disobeys him. He tells her that the family cannot be seen as weak if they are to be important in Jah Keved. Shallan weeps in her room as her father maintains his cold control over the household.
+
+**Sentence Count Check:** 15
+
+---
+
+### 49: Watching the World Transform
+Shallan meets Adolin Kholin on a terrace in the Outer Market to discuss their potential marriage alliance. Adolin reads a fashion folio while they sit at an ironwork table facing the Origin of Storms. The couple drinks blue wine as they wait for an approaching highstorm to hit the warcamps. Adolin confesses to Shallan that he has defecated in his Shardplate, a suit of magical heavy armor, during combat. Shallan uses her sketchbook to show Adolin that the Alethi are over-harvesting chasmfiends, which are massive crustacean predators.
+
+She requests that Adolin take her onto the Shattered Plains to study chasmfiend pupation cycles and juveniles. Adolin reveals that Dalinar plans to meet a Parshendi Shardbearer the next day to discuss a peace treaty. He explains his strategy of using duels to win Shardblades and embarrass his political rival, Highprince Sadeas. Shallan shares Jasnah's theory that the Voidbringers, ancient mythical monsters, are returning via the parshman slaves. Adolin finds the idea of releasing parshmen impossible because it would collapse the Alethi economy.
+
+The stormwall, a massive sheet of water and debris, looms over the horizon as the highstorm arrives. Shallan watches the plants withdraw and the sky turn dark as the storm consumes the plateaus. She grips the railing and listens to the humming of Pattern as the wind gusts against the terrace. Adolin drags Shallan into a stone bunker just six seconds before the doors are locked against the gale. After the storm hits, Adolin promises to help Shallan gain access to the Shattered Plains through Highlord Amaram.
+
+**Sentence Count Check:** 15
+
+---
+
+### 50: Uncut Gems
+Adolin waits out the highstorm in a stone bunker and encounters his future dueling opponent, Elit. Highprince Sadeas joins Adolin and displays a new coat decorated with uncut emeralds, which are glowing gemstones. Sadeas informs Adolin that he has renounced his royal title as Highprince of Information to undermine King Elhokar. The Highprince admits he is preparing for a civil war and believes Dalinar is leading the kingdom to ruin. Adolin resists the urge to summon his Shardblade and execute Sadeas on the spot for his treasonous talk.
+
+After the storm passes, Adolin returns to his father's quarters and finds Bridge Four guards gathered in the hallway. New glyphs are scratched into the stone floor of the sitting room, reading "Thirty-two days" and "Seek the center." Dalinar Kholin holds his own blunted knife and confesses that he carved the markings while in a trance. Navani calculates that the countdown ends two days before the end of the current year. Adolin is disturbed by his father's lack of control during the visions despite the information being useful.
+
+Adolin points out that one of the bridgemen guarding the room is a parshman carrying a spear. Dalinar explains he gave the bridgemen permission to arm the parshman out of scientific curiosity. The highprince orders the guards to fill the floor scratches with crem and hide them under a rug. They agree to keep the incident secret to prevent a panic among the other highprinces. Dalinar remains focused on the upcoming meeting with the Parshendi as the day ends.
+
+**Sentence Count Check:** 15
+
+---
+
+### 51: Heirs
+Adolin prepares for the meeting with the Parshendi by donning Renarin's Shardplate and riding Dalinar's horse, Gallant. Gallant is a bulky black Ryshadium, a rare and highly intelligent breed of warhorse that usually only accepts one rider. Adolin insists on going in his father's place to protect him from the Assassin in White. The Alethi force travels to a southern plateau where a dead chasmfiend has been fossilized by centuries of crem. Adolin keeps his faceplate down to conceal his identity as he waits for the enemy Shardbearer to arrive.
+
+Eshonai, the Parshendi Shardbearer, approaches Adolin alone while her two hundred soldiers wait behind her. She speaks with a rhythmic, chanting tone and refuses to discuss a surrender or a treaty. Adolin attempts to follow Dalinar’s script for peace, but Eshonai declares that only death will end the conflict. She reveals that the Parshendi assassinated King Gavilar because he bragged about the return of their ancient gods. Eshonai warns that the rules of the war have changed before she jogs away in her armor.
+
+Adolin returns to the warcamps and reports the total failure of the peace negotiations to Dalinar and Navani. Dalinar decides to launch a full military assault on the center of the Shattered Plains to stop the Parshendi. He plans to bring the entire army and all willing highprinces to the center right before the Weeping begins. Navani notes that the campaign will take place during the Light Year, ensuring steady rains but no highstorms. Dalinar orders Adolin to win more Shardblades through high-profile duels to bolster their strength for the final battle.
+
+**Sentence Count Check:** 15
+
+---
+
+### 52: Into the Sky
+Kaladin goes into the chasms at night to practice Lashings, which are gravitational manipulations granted by Stormlight. Shallan infiltrates Highlord Amaram’s manor by using Lightweaving to disguise herself as a maid named Telesh. She uses Pattern, a Cryptic spren made of shifting geometric lines, to pick the lock on Amaram's secret study. Inside, she discovers maps and stormwarden script indicating Amaram is actively trying to bring back the Voidbringers. Shallan disguises herself as Amaram and uses Pattern’s voice-mimicry to trick the manor's cook into ignoring her presence.
+
+She meets the real Amaram outside while disguised as a messenger boy and asks to sketch his Shardblade. Amaram summons his weapon, and Shallan identifies it as the same sinuous Blade her brother Helaran once held. The Highlord admits he killed a red-haired Veden youth who tried to assassinate him years ago in the middle of a battle. Shallan leaves in tears, confirming that her brother is dead and his killer is the man she is investigating. Kaladin masters the Basic Lashing and successfully falls into the sky, flying high above the Shattered Plains.
+
+He attracts dozens of windspren as he soars through the air and observes that the Shattered Plains form a giant geometric pattern. Syl explains that the Assassin in White uses a special weapon designed to grant abilities to men without a spren bond. Kaladin returns to the warcamps and briefly contemplates murdering Amaram in his sleep before deciding against it. He discovers the parshman bridgeman Shen in his room, who reveals his true name is Rlain and that he must leave. Rlain warns Kaladin that he does not fear the winds before disappearing into the night as a free man.
+
+**Sentence Count Check:** 15

@@ -1,0 +1,52 @@
+### 41: Darwi Odrade, Argument in Council
+Taraza, Odrade, and Sheeana convene a meeting with Waff and the Rakian priesthood in the Dar-es-Balat penthouse. The false High Priest Tuek erupts in rage against his counsellors and the Tleilaxu Master Waff. Waff realizes his Face Dancer duplicate has exceeded its programming and now believes it is truly Tuek. Taraza and Odrade intervene to support the mimic Tuek, effectively securing a Bene Gesserit puppet in the priesthood. Sheeana asserts her authority by ordering the priests to continue serving God under the Sisterhood's direction.
+
+Waff demands an explanation in the language of the Islamiyat, leading Taraza to reveal her knowledge of Tleilaxu reproductive secrets. She declares that no Bene Gesserit will ever be turned into an axolotl tank for the Tleilaxu. Taraza offers Darwi Odrade to Waff for breeding as a tactical concession to maintain their alliance. In exchange, Waff reveals that the Honoured Matres utilize specialized sexual techniques to enslave men through continuous orgasmic waves. Two Face Dancers perform a demonstration of this technique for the assembled Reverend Mothers and Sheeana.
+
+Odrade remains in the penthouse alone after the others depart to reflect on the implications of the sexual demonstration. She recalls her previous interrogation of Sheeana regarding the Rakian desert dances and the tests of humanity. The Training Proctors are instructed to accelerate Sheeana's sexual education to counter the potential threat of the Honoured Matres. Odrade compares the physical discipline of the Sisterhood to the brutal survival rituals of the Rakian desert. Sheeana’s passage through the agony box is confirmed as she has already demonstrated her resilience to Odrade. The chapter ends with Odrade examining her own hand and remembering her own gom jabbar test.
+
+**Sentence Count Check: 15**
+
+---
+
+### 42: The Lady Jessica, From “Wisdom of Arrakis”
+Odrade speaks to the ghost of Leto II in the museum before Sheeana arrives to summon her to Taraza. Sheeana expresses concern over Odrade's solitary behavior, but Odrade explains she was simply remembering Sheeana's initiation. Meanwhile, Burzmali and Lucilla trek through the slush and snow of Ysai on Gammu toward a perimeter community. They navigate a network of guides and hide from passing groundcars to avoid detection by the Honoured Matres. Burzmali leads Lucilla through an orchard toward a snow-covered depression that serves as a secret path. They reach an ancient magchute that terminates at the wall of a decrepit Harkonnen factory.
+
+Burzmali and Lucilla enter the factory through a concealed cellar door operated by a grumbling mechanical system. Inside the massive, acid-smelling space, they are met by a young woman wearing a dragon robe similar to Lucilla's. This woman, named Murbella, immediately insults Burzmali and identifies him as "Gammu scum" despite his role as a guide. When Burzmali attempts to strike her, Murbella uses a high-speed pirouette to throw him across the floor. Murbella prepares to kill Burzmali, but Lucilla intervenes with a Bene Gesserit martial strike that disables the younger woman. Murbella recovers and identifies herself as a newly robed Honoured Matre who believes Lucilla is a Great Honoured Matre.
+
+Murbella begs for forgiveness and reports that a no-ship is expected to arrive at the factory soon. She informs Lucilla that she has captured the Duncan Idaho ghola, who arrived disguised as a Tleilaxu. Murbella reveals that she was about to initiate a sexual encounter with the ghola when Lucilla and Burzmali arrived. Lucilla asserts her authority over the ghola, claiming him as her special charge and forbidding Murbella from bedding him. Murbella laughs at the restriction and leads the pair to a location where they can observe the captive. The factory remains a dangerous environment where the enemies of the Sisterhood still hold significant territory.
+
+**Sentence Count Check: 15**
+
+---
+
+### 43: Ancient Drinking Toast
+Duncan Idaho awakens in a Harkonnen factory on Gammu with a severe headache and paralyzed muscles. He recalls Tormsa being killed by a blast of light when they first entered the dark building. Murbella approaches Duncan while he is naked on a sleeping pad and begins a sexual assault using Honoured Matre techniques. As she touches him and hums, the intense sensory input triggers a massive flood of serial ghola memories. Duncan experiences hundreds of his previous lives and deaths, including his original life on Caladan and his time with Paul Atreides. He also remembers the Tleilaxu axolotl tanks and the monstrous mounds of female flesh used for his rebirths.
+
+The Tleilaxu have planted a specific sexual response pattern in Duncan to counter the Bene Gesserit Imprinting. Duncan takes control of the encounter, humming in a rhythm that pulses through Murbella’s body and weakens her resistance. He caresses her with inhuman agility and precision, driving her into a state of uncontrollable ecstatic contractions. Murbella experiences waves of whiteness and sensory immersion that far exceed her Honoured Matre training. She loses all sense of time and surroundings as she becomes enslaved by the very pleasure she intended to use for dominance. Duncan emerges from the trance-like state and realizes his identity is now a composite of all his past selves.
+
+Murbella attempts to recover her senses and realizes that Duncan is the ghola armed with forbidden Tleilaxu knowledge. She staggers to her feet and tries to kill him with a blow to the larynx intended to crush his windpipe. Duncan easily dodges the slow attack, but Lucilla enters the room and intervenes before Murbella can strike again. Lucilla presses fierce nerve bundles beneath Murbella's ears, rendering the Honoured Matre unconscious. Burzmali watches from the window as Lucilla secures the room and declares that Duncan will not be killed. Lucilla states that the ghola must be transported to Rakis immediately to fulfill the Sisterhood's plans.
+
+**Sentence Count Check: 15**
+
+---
+
+### 44: From “Lessons of Arrakis”
+Miles Teg is transported in an armoured groundcar to a high-security bank building in Ysai protected by beam enfilading systems. Field Marshal Muzzafar warns Teg that he is about to meet a powerful Honoured Matre who demands total obedience. Teg identifies the building as a former Bene Gesserit safe house that has been compromised and re-purposed. He changes into a clean black Bashar uniform, which restores his sense of identity and military authority. The meeting room is filled with ticking black boxes and surveillance comeyes disguised as silver ceiling strips. Teg observes the extreme wealth of the Honoured Matres, noting the use of melange and soostones as currency.
+
+An ancient woman in a shimmering golden robe enters the room and orders Muzzafar to leave. She identifies herself as a banker who controls the power that runs people rather than factories. Teg notices orange flecks in her eyes and recognizes her extreme age and the lethal danger she poses. The Honoured Matre explains that her organization maintains rule through a "tight filter" that keeps the masses in a state of protective ignorance. She mocks Teg's intelligence and claims he will be a valuable tool for her organization's goals. Teg remains silent while assessing the energy barriers and scanning systems integrated into the ancient structure.
+
+Muzzafar returns to the room in a drugged, euphoric state, appearing completely enslaved to the Honoured Matre's power. The ancient woman laughs at Teg’s suspicion that they use drugs, claiming their power is based on an "old one." Teg experiences a sudden evolutionary leap in his physical awareness, characterized by a doubling of his vision and a massive surge in reaction speed. He realizes he can now move with such velocity that he could slaughter everyone in the building before they could react. Teg masks his new ability with a smile of compassion and pleasure, which insults the ancient woman's frigid worldview. The Honoured Matre orders Muzzafar to bring a younger woman to "mark" Teg, unaware that he is planning their immediate destruction.
+
+**Sentence Count Check: 15**
+
+---
+
+### 45: Sign over Arrakeen Landing Field
+Mother Superior Taraza stands in the Dar-es-Balat roof garden on Rakis and observes the opalescent morning sky. She discusses the lingering influence of Leto II with Odrade, noting that his "pearls of awareness" still dream in the sand. Taraza is convinced the Tyrant's design is still active and that Sheeana is the key to unlocking his hidden language. They prepare for a public demonstration where Sheeana will command a sandworm in front of Waff and the priesthood. A young priest named Tulushan joins them as a representative of the Rakian High Council. Taraza reflects on her decision to accelerate Sheeana's sexual education following the Tleilaxu demonstration of the whores' power.
+
+The group waits for the arrival of 'thopters carrying Very Important Observers from the city of Keen. Taraza recalls eavesdropping on a lesson between Odrade and Sheeana regarding the manipulative nature of sexual forces. Odrade had explained that the Honoured Matres use sex for control, whereas the Sisterhood seeks to understand the species' long-term evolution. The sound of approaching 'thopters interrupts Taraza's thoughts, and she notices the machines are coming from an unexpected direction. The lead 'thopter reveals an armoured cockpit and immediately opens fire with lethal energy beams. A beam slices through Taraza's legs below the knees, causing her to fall heavily against a potted tree.
+
+A second beam slashes across Taraza's hip as the 'thopter banks away using booster jets. Odrade rushes from the penthouse to Taraza’s side while shouts of violence erupt throughout the museum complex. Knowing she is fatally wounded, Taraza initiates the ages-old Bene Gesserit process of sharing her life and memories with Odrade. Sheeana watches the transfer from the penthouse as Taraza pours her entire consciousness—hopes, fears, and Other Memories—into Odrade. Waff and Tulushan flee the scene as the museum becomes a battleground for the unexpected attackers. Taraza dies believing she has won because she has successfully passed the Sisterhood's leadership and the Tyrant's secrets to her successor.
+
+**Sentence Count Check: 15**

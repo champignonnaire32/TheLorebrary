@@ -1,0 +1,54 @@
+### 20: Virginia: Politicos
+Virginia visits the Dictaeon Antron, a brain-shaped skyhook over Luna that serves as the Optimate Party's headquarters. She surveys an army of political adjuncts preparing for a critical Senate vote to save the Free Legions on Mercury. Daxo au Telemanus manages the facility and maintains a tank of gigavok, which are predatory deep-sea fish that cannibalize each other. Virginia meets with Senator Publius cu Caraval, an incorruptible Copper who refuses to expand Sovereign powers due to Quicksilver’s corporate greed. Daxo reveals he tricked Publius into the meeting by forging a message from Darrow.
+
+Virginia tells Publius she can secure the Silver vote without concessions and then annul previous corporate favors. Publius is intrigued by the plan and departs, leaving Virginia and Daxo to finalize their strategy. Daxo suggests dissolving the Senate entirely, but Virginia refuses to abandon the democratic process. They recite a shared mantra of self-mastery before addressing their political supporters in the main chamber. Virginia presents a hologram pyramid representing the seventy-one votes required for a majority.
+
+She demands that her staff "fill the pyramid" by any means necessary over the next seventy-two hours. The Optimate army chants their slogan, "Hic sunt leones," as the political battle begins. Virginia slams down a glass coral hourglass to signal the start of the three-day legislative blitz. Thousands of lobbyists and media surrogates are deployed across Hyperion to hunt and pressure individual senators. Virginia admits to herself that she finds the thrill of high-stakes political warfare exciting.
+
+**Sentence Count Check:** 15
+
+---
+
+### 21: Ephraim: Mauler, Brawler, Legacy Hauler
+Ephraim wakes up inside a crashed ship with a shattered leg and a bullet wound in his chest. Scavengers wearing radiation gear cut through the hull to find him and the young Pax Augustus. He undergoes a painful surgery where his right leg is replaced with skinless synthetic meat and green fibers. During the procedure, a voice commands that he be kept alive for the Queen’s purposes. Ephraim drifts into hallucinations of a boy on a raft while chanting a veteran’s cadence.
+
+He eventually regains consciousness and realizes he is pinned to a medical table. Pax Augustus is in the room and dangles Ephraim's engagement ring on a chain. Ephraim begs for a dose of zoladone, a highly addictive military stimulant, to ease his withdrawal symptoms. Pax refuses the request and recounts a historical atrocity involving the Legio XIII Dracones on Luna. He explains that the legionnaires used zoladone to strip their empathy before butchering seventy-five innocent people.
+
+Pax tells Ephraim he is a zombie who prioritizes drugs over his friend Volga. Ephraim lashes out in a rage but is unable to break his restraints. Pax leaves the room, keeping the ring as leverage to force Ephraim into accountability. Left alone, Ephraim suffers through memories of his deceased partner, Trigg, and his current guilt over Volga. He falls asleep while whispering the "Mauler, Brawler" chant to himself in the dark.
+
+**Sentence Count Check:** 15
+
+---
+
+### 22: Ephraim: Unshorn
+Ephraim wakes in a luxury suite within Eagle Rest, the former Bellona capital on the slopes of Olympus Mons. His new prosthetic leg is now covered in pale skin and feels remarkably powerful. He meets Ozgard, a fat Obsidian shaman covered in blue runes who is roasting human bones in a fire. Ozgard explains that the skuggi, elite spirit warriors, killed the Syndicate scavengers who intended to collect a price on Ephraim's head. The shaman warns that Valdir the Unshorn is approaching and that fate cannot be escaped.
+
+Ephraim attempts to flee by jumping off the terrace and climbing down a sheer cliff face. He discovers that his new leg is high-tech military hardware with three times the strength of a normal limb. He loses his slippers as he swings across a kilometer-wide drop to reach a support column. Despite a successful parabolic jump, he finds himself trapped on a ledge with no way down to the city. He hears a mechanical wail and looks up to see six giant monsters approaching through the air.
+
+Six griffins, which are genetically modified lions with wings and pulseArmor, descend upon his position. Valdir the Unshorn lands Godeater, a massive albino griffin, and confronts Ephraim on the stone ledge. Valdir is a towering Obsidian warlord wearing a helmet made from an African sand hydra skull and white pulseArmor. He ignores Ephraim's jokes and shoots him point-blank with a tacNet, an electrified capturing mesh. Ephraim is dragged through the air behind the griffin as they return to the citadel.
+
+**Sentence Count Check:** 15
+
+---
+
+### 23: Ephraim: Queen
+Valdir’s warriors dump Ephraim onto the training grounds where Obsidian youths are practicing combat. Ephraim watches Electra and Pax participate in the "Three Seasons" of war under the supervision of Freihild. Pax insults the Obsidian leadership by calling them cowards for hiding in the mountains while Darrow dies on Mercury. Sefi the Quiet, the Obsidian Queen, sits on a knoll wearing a crown of ice and a white cloak. She admits that the Obsidians are building a new kingdom called Volkland and are breaking away from the Republic.
+
+Sefi offers Ephraim a contract to train her skuggi in "practical" urban warfare and espionage. She reveals that Victra au Julii kidnapped Volga and Lyria and is currently holding them on Phobos. Sefi promises to buy their freedom and pay Ephraim millions in credits if he agrees to the job. Ephraim views a hologram of Volga rocking in a cell and realizes he must accept the deal to save her. He negotiates for double the monthly salary in diamonds and a ship with the deed.
+
+Sefi accepts his terms but demands that he bring Pax closer to her as a form of insurance. Ephraim signs a digital contract that includes a deathmark if he fails to fulfill his duties. He meets Xenophon, a White logos advisor with milk-white eyes who manages Sefi’s data and security. Sefi explains that the skuggi must learn to be more than assassins to survive the upcoming war. Ephraim dips his feet in a bowl of nightgaze flowers, which are medicinal black plants, to heal his raw skin.
+
+**Sentence Count Check:** 15
+
+---
+
+### 24: Ephraim: Skuggi
+Ephraim addresses two hundred skuggi assassins inside a massive hangar at Eagle Rest. He identifies himself as the best freelancer alive and boasts about stealing the Sovereign’s children. The skuggi are young, elite warriors who have been gathered from the remnants of various shattered tribes. Freihild leads the group and expresses skepticism toward Ephraim’s lack of traditional martial skills. Ephraim tells them that their focus on killing is a weakness and that they must become mission-oriented operators.
+
+He argues that traditional direct action is insufficient for the changing political landscape of the Republic. He asks Freihild how to handle a Gold killsquad and mocks her for suggesting they wait for the enemies to urinate. Ephraim explains that modern pulseArmor is immune to standard EMPs and requires specialized knowledge of mechanical specs. He promises to teach them unconventional warfare, including surveillance, countersurveillance, and security subversion. He also lists skills such as fostering insurrection, grooming assets, and hot-wiring vehicles.
+
+Ephraim insists that they must learn to own the underworld without anyone noticing their presence. He surprisingly adds that he will force them to appreciate Spanish Surrealist art because it is unappreciated by modern society. The assassins stare back at him in silence as he concludes his opening lecture. Ozgard quietly informs Ephraim that only half of the skuggi in the room actually speak Common. Ephraim closes his eyes and tells the shaman that he hates him.
+
+**Sentence Count Check:** 15
+
+---

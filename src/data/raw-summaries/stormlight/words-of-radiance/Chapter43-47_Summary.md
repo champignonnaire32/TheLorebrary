@@ -1,0 +1,52 @@
+### 43. The Ghostbloods
+Shallan uses Lightweaving to disguise herself with dark hair and brown eyes. She walks through a crowded market in the warcamp and buys candied fruit from a street vendor. Pattern follows her while invisible as she heads to a tenement on Nar Street. A large guard lets her into the building, which contains a secret basement below the floorboards. She climbs down a ladder into a palatial room filled with trophies and books.
+
+Mraize, a scarred man with violet eyes, aims a blowgun weapon—a reed used to fire darts by breath—at Shallan and fires. Shallan claims she is an intermediary for Tyn and that Jasnah Kholin is dead. Mraize recognizes she is not a coward and offers her a job investigating Highprince Amaram. Shallan observes the room's trophies, including enormous gemhearts and a fabrial that gathers smoke like a spool of thread. She notices Mraize wears a golden signet ring bearing the Ghostblood symbol.
+
+Shallan adopts the name Veil and agrees to return with information in a week. After leaving the building, Pattern warns her that a masked woman from the room is following her. Shallan ducks into an alleyway and attempts to Lightweave a disguise without a drawing. She quickly sketches a stone wall on a map and uses it to hide in a doorway nook. The masked woman passes by, and Shallan returns to Sebarial’s mansion after the illusion evaporates.
+
+**Sentence Count Check: 15**
+
+---
+
+### 44. One Form of Justice
+Kaladin brings Moash, Teft, and Yake to the training grounds to learn sword stances from Zahel. Zahel, a grumpy ardent, tests their obedience before producing a Shardblade for them to handle. Teft, Moash, and Yake take turns holding the massive weapon to normalize its weight and appearance. Kaladin refuses to touch the Blade due to his past trauma but practices dodging it while Zahel swings. Syl watches the training in the form of a young woman while the men use practice swords.
+
+Adolin and Renarin arrive at the grounds, and Adolin acknowledges Kaladin with a nod. Shallan enters the training area and informs Sister Nall that she wishes to sketch the Plate and Blades. Adolin attempts to get Shallan's attention, but she focuses on her work and ignores his posturing. Kaladin watches Shallan, wondering if she is an assassin or merely an opportunist. Adolin spars with Zahel to demonstrate the ten sword stances for Renarin and Shallan.
+
+Moash pulls Kaladin aside to reveal that King Elhokar imprisoned his grandparents, leading to their deaths. He explains that a business rival of his grandparents used his friendship with Elhokar to have them arrested. Moash admits he was involved in the balcony accident and asks Kaladin to meet his conspirators. Kaladin agrees to the meeting on the condition that Moash stops all actions against the king for now. Syl warns Kaladin that his path is dangerous, but he insists on investigating the plot himself.
+
+**Sentence Count Check: 15**
+
+---
+
+### 45. Middlefest
+Fourteen-year-old Shallan visits the Middlefest Fair on her father's estate and sees a chicken, which is a feathered, two-legged creature with a clawed beak that speaks. Her father, Lin Davar, scolds her for acting like a child and reminds her she must find a husband soon. Brightlord Revilar meets with Lin in the dueling box and forces him into an unfavorable trade deal. Shallan sneaks away to help her brothers, first delivering a perfume-scented note from Eylita Tavinar to Balat. Balat leaves the axehound fighting pavilion to meet Eylita by the fairgrounds stream.
+
+Shallan finds Wikim sitting alone in a carriage and offers him complex mathematical problems to solve. She also gives him equations for highstorm timing that she translated into glyphs. A mysterious messenger wearing black appears and tells Shallan that Helaran is watching from nearby. The messenger tells a story about two blind men discussing whether beauty can be taken from a person. He asks Shallan to describe the most beautiful thing she can imagine.
+
+Shallan describes an ideal life where her mother is alive and her family is happy and unified. The messenger holds spheres, and Shallan unknowingly uses Stormlight to manifest a brief illusion of her description. The messenger warns her that she must see the truth before she can master lies. He reveals that Helaran is currently in Alethkar before walking away with graceful, dance-like steps. Shallan notices that Wikim is smiling as he works on the math problems she provided.
+
+**Sentence Count Check: 15**
+
+---
+
+### 46. Patriots
+Kaladin inspects his bridge crews and finds Bridge Seventeen well-disciplined but Bridge Eighteen struggling with apathy. He meets with Shen the parshman and gives him a spear, declaring that Bridge Four does not keep slaves. Moash and other bridgemen convince Kaladin to join them at the Ornery Chull tavern for the evening. The men eat chouta, which is a street food made of fried dough balls stuffed with meat and gravy. Rock tells the legend of how the Horneaters gained their mountain peaks and crater lakes from the gods.
+
+Rock describes seeing a white-haired god named Lunu’anaki who emerged from the mountain lakes. Moash leads Kaladin to a private back room to meet a group of conspirators. Graves, a lighteyed patriot, introduces himself and explains that King Elhokar is incompetent and must be removed. Danlan, a clerk for Dalinar, supports the plan, arguing that Dalinar must take the throne to save the kingdom. Graves reveals he is a Shardbearer and intends to kill the king himself if given an opening.
+
+The conspirators ask Kaladin to use his position as Captain of the Guard to create a vulnerability. Kaladin listens to their arguments but remains conflicted about betraying his duty to the Kholin family. He leaves the meeting and tells Moash that he considers the group to be traitors. Moash defends Graves, noting that the man treats darkeyes with respect and married a darkeyed woman. Kaladin returns to the tavern floor, troubled by the idea of being the surgeon the kingdom needs.
+
+**Sentence Count Check: 15**
+
+---
+
+### 47. Feminine Wiles
+Shallan and Pattern study ancient maps to find Urithiru, which is depicted in different locations on every map. Pattern begins translating the Dawnchant, an ancient script, by identifying its relationship to modern writing patterns. Shallan realizes that Urithiru was connected to other kingdoms via Oathgates, which are ancient mechanisms used for instantaneous travel. She bathes using a fabrial-heated water system in Sebarial’s mansion before her meeting with Adolin. She prepares her sketchbook and takes a pouch of spheres to practice her Lightweaving during the carriage ride.
+
+Vathah and Gaz act as Shallan’s guards while a slave named En serves as her footman for the trip. Shallan discovers that she can Lightweave a static image of Sebarial by using a detailed sketch as a focus. She observes that her illusions lack life, appearing as statues of light without breath or movement. Pattern notes that the illusions are truthful lies and watches as Shallan waves her hand through the light. Shallan learns she can reclaim Stormlight by breathing in the glowing smoke of a dissolving illusion.
+
+Shallan reaches the Outer Market and prepares to meet Adolin for their scheduled walk. She considers using an illusion to enhance her pale skin and red hair to better suit Alethi beauty standards. She worries that if she uses magic to attract Adolin, he will not be falling in love with her true self. Shallan decides against using Lightweaving for her appearance and resolves to use her own personality instead. She gathers her satchel and steps out of the carriage, hoping her feminine wiles will be sufficient to impress him.
+
+**Sentence Count Check: 15**

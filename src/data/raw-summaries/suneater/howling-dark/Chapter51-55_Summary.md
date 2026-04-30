@@ -1,0 +1,52 @@
+### 51: Lost Time
+Hadrian is escorted from the interceptor *Schiavona* into the *Demiurge*’s massive hangar, a space large enough to hold his ancestral home. He observes the ship’s black-metal hull and Gothic friezes depicting battles between men and monsters. His guards lead him through the ship’s interior corridors where he senses the oppressive awareness of Kharn Sagara. They traverse a glass-enclosed bridge to reach the *Mistral*, which is docked at a port on the larger vessel. Hadrian enters the ship and is immediately met by Pallino, Crim, and Ilex.
+
+Pallino informs Hadrian that Valka returned to the ship safely a half hour prior and is currently resting. Hadrian learns that Captain Corvo never intended to leave Vorgossos without him and Valka. Despite the reunion, the atmosphere remains heavy as the crew asks questions about the upcoming rendezvous with the Cielcin. Hadrian avoids a deeper discussion by claiming a need for immediate rest and retreats to his personal quarters. He finds his belongings packed into footlockers, including several old books and clothing.
+
+He discovers a silver holographic projector among his laundry and accidentally activates it. The device displays memories of his time with Jinan on Nagramma, showing them at a temple and Jinan laughing with flowers in her hair. Unable to endure the emotional weight of the images, he covers the projector with a tunic to block the light. He collapses onto the end of his bed without undressing. Sleep finally overtakes him as he lies alone in his cabin.
+
+**Sentence Count Check:** 15
+
+---
+
+### 52: Bora
+Captain Otavia Corvo enters Hadrian's cabin and wakes him from his sleep. She has traded her Red Company uniform for simple black and green clothing and appears visibly aged by the stress of their situation. Hadrian explains that he and Valka were imprisoned for four months after Kharn Sagara refused to negotiate. Corvo reveals that the *Mistral* was held in a state of total lockout by Vorgossos, forcing her to ration resources and maintain a skeleton crew. They discuss the news that Bassander Lin has forced Sagara to arrange a rendezvous with the Cielcin.
+
+Hadrian expresses a desire to rebuild the Red Company with Corvo if they survive the coming days. Corvo dismisses this hope, stating that they are likely doomed and only Hadrian’s noble blood provides any protection. She reveals that Switch is back on the ship after being rescued from the starport by Lin’s soldiers. Hadrian learns that Switch specifically asked to return to the *Mistral* despite his betrayal. Corvo notes that Switch is currently confined to his own cabin.
+
+Hadrian informs Corvo that he believes Kharn Sagara is monitoring their every movement through the ship’s security network. He admits that he cannot forgive Switch for selling their lives to the Empire to save his own skin. Corvo advises Hadrian not to do anything he will later regret regarding the traitor. Hadrian acknowledges that he feels no rage, only a profound and empty sorrow. They sit in silence for a long period before Corvo leaves him to his thoughts.
+
+**Sentence Count Check:** 14
+
+---
+
+### 53: The Third Treason
+Hadrian goes to the *Mistral*’s gymnasium to spar with Siran and Pallino. He uses the physical exertion of boxing to clear his mind of the recent traumas and political pressures. During the session, he lands a heavy uppercut on Siran and later trades punishing blows with the veteran Pallino. Ilex and Elara arrive to watch the match as Hadrian and Pallino complete five full rounds. The intense combat provides Hadrian a brief period of mental escape from his responsibilities.
+
+Switch enters the gym in exercise gear, causing the room to fall into a sudden and tense silence. Hadrian confronts him, and Switch immediately claims he called the Empire to save Hadrian and Valka from prison. Hadrian dismisses this excuse, pointing out that Switch specifically pleaded for his own mercy in the message to the fleet. Pallino joins the accusation, noting that a soldier’s first loyalty should be to his people rather than a distant Empire. Switch insists he was only trying to help everyone escape their certain death.
+
+Hadrian steps into Switch's personal space to exert the unspoken threat of violence. He declares that Switch has destroyed any remaining trust and effectively killed their friendship. He orders Switch to leave the ship immediately and never show his face again. Switch begs for forgiveness with tears in his eyes, but Hadrian remains unmoved by the display. Hadrian turns his back on Switch and watches him depart through the eyes of his remaining friends.
+
+**Sentence Count Check:** 13
+
+---
+
+### 54: Bringing Storm
+Hadrian stands under guard in the hangar as an Imperial shuttle lands and deploys its ramp. Knight-Tribune Raine Smythe disembarks, accompanied by Sir William Crossflane and four decades of battle-dressed legionnaires. Smythe appears physically unimpressive and leans on a cane, yet she projects significant authority through her presence. She briefly acknowledges Hadrian and instructs him to make himself useful as a translator for the upcoming talks. The Imperial party then prepares to transfer cargo to Kharn Sagara as part of their agreement.
+
+The party is led through the *Demiurge*’s interior, where the gravity fields shift and force them to walk at disorienting angles. They reach a hall lit by blue flames where Kharn Sagara sits behind a table with his children and the golem Yume. Kharn demands the promised Imperial cargo, and Smythe confirms that five freighters are prepared for transfer. Sagara specifies that the Cielcin party will be quartered in a separate bay to keep the two armies apart. Smythe agrees to the terms but suggests a future discussion regarding the ultimate disposition of Vorgossos.
+
+Kharn warns Smythe not to threaten him, using a voice amplified by the very air of the chamber. Smythe ignores the warning and signals her cornicen to sound a trumpet blast as they depart. Hadrian notes that Kharn appears entirely unfazed by the presence of five hundred Imperial soldiers on his vessel. He realizes that Sagara has likely seen much larger and more powerful hosts throughout his long life. The Imperial party follows a holographic thread back toward their own ship to finalize the cargo transfer.
+
+**Sentence Count Check:** 13
+
+---
+
+### 55: The Verge of History
+Inside the *Schiavona*, Bassander Lin argues that Hadrian should be in chains for the murders of Imperial soldiers. Raine Smythe overrides him, stating that Hadrian’s rapport with the Cielcin prisoner Tanaran is too valuable to lose. She introduces a new translator, a Chalcenterite scholiast named Tor Varro, who will lead the linguistic efforts. Smythe reveals she is aware that Valka has learned to communicate with the Pale through her implants. Hadrian warns the officers that Kharn Sagara likely leaked the ship's coordinates on purpose.
+
+Hadrian explains that the *Demiurge*’s daimon, the Brethren, is a biological horror composed of subordinated human bodies. He suggests that Corvo’s crew should remain on the *Mistral* at Vorgossos to serve as a potential tactical advantage. Smythe and Crossflane discuss their desire for a lasting peace treaty to end the long-running war. They dismiss Hadrian’s warnings about Sagara’s power, trusting in the might of the Imperial Legions. Smythe commands Hadrian and Lin to cease their bickering and cooperate for the duration of the negotiations.
+
+Smythe returns Hadrian’s highmatter sword to him, which Lin had recovered from Sagara. Hadrian feels a sense of relief as he grips the familiar leather hilt of his weapon once more. Smythe instructs Hadrian to tell Captain Corvo to prepare the Red Company for potential action. She admits that she does not trust the "demoniac" Sagara and expects complications. Hadrian departs the room with his sword, realizing he is standing on the edge of a major historical shift.
+
+**Sentence Count Check:** 14

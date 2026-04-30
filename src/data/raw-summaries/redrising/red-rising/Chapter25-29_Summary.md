@@ -1,0 +1,52 @@
+### 25: Tribal War
+Darrow and Cassius observe the state of Castle Mars, which has become a squalid hovel under Titus’s brutal leadership. Titus forces the enslaved students to perform menial labor and scavenge for food in the thistlebushes. Vixus, recovered from his previous wounds, patrols the castle grounds and physically abuses the slaves with a stick. Screams of horror originate from the high tower of Mars where Titus mistreats the female students. Fitchner, a Proctor wearing golden gravBoots (flight-enabling footwear), descends to tell Darrow and Cassius that the Proctors will not intervene in the abuse.
+
+Darrow formulates a plan to neutralize Titus and sends Quinn to deliver a formal apology to Antonia at Deimos Tower. Titus’s men ambush Quinn during her mission, beat her severely, and cut off one of her ears. Titus sends Quinn’s severed ear to the northfort to provoke Darrow into a reckless attack. Cassius reacts to the provocation by sneaking into the castle alone to challenge Titus to a duel. Titus’s tribe ignores Aureate codes of honor, beats Cassius with a shovel, and urinates on him in a circle.
+
+Cassius returns to the fort with a swollen eye, split lips, purple ribs, and several dislocated fingers. Pollux, a member of Titus's tribe, assists Cassius’s escape and agrees to open the castle gates when Darrow arrives. Darrow resets his fingers and shoulder, noting that the humiliation has fundamentally changed Cassius's personality. Despite his injuries, Cassius insists on being the one to kill Titus when the final confrontation occurs. The group prepares to move forward with Darrow's original plan to retake the castle and rescue Quinn.
+
+**Sentence Count Check: 15**
+
+---
+
+### 26: Mustang
+Darrow and Cassius travel twenty kilometers east into the highlands to lure out enemies from other Houses. They encounter a girl riding a dappled mustang (a small, hardy horse) near a humid glen and a dark loch. The girl, whose sigils are covered with cloth and whose face is painted with blue berry juice, mocks the boys for their lack of resources. She correctly deduces that House Mars has been fighting House Ceres for basic agricultural tools and supplies. Darrow tricks the girl into looking at her horse’s hooves before lunging at her to pull her from the saddle.
+
+Mustang, the girl from House Minerva (the House associated with wisdom and strategy), reveals her identity as her cavalry arrives. Seventeen horsemen equipped with stunpikes (electrified polearms that incapacitate targets) surround Darrow and Cassius. Darrow and Cassius dive into the loch and use inflated durobags (air-tight storage sacks) to stay afloat in the center. Roque sets a signal fire at the castle to draw the Minervan raiders away from the lake. Mustang leads most of her raiders toward the smoking castle, leaving only two guards behind to watch the water.
+
+Sevro, wearing a wolfcloak made from the pelt of a wolf he killed, ambushes the remaining Minervan guards. Sevro reveals he stole the Mars standard from the keep and buried it in the woods to prevent Minerva from capturing it. The trio steals the Minervan horses and rides to the sandstone fortress of House Minerva. Darrow uses a stolen password to enter the fortress, captures a cook named June, and sets fire to the kitchen and stables. Sevro escapes with the owl standard of House Minerva, and the group rides back to the Mars highlands with their prize and the captured cook.
+
+**Sentence Count Check: 15**
+
+---
+
+### 27: The House of Rage
+Darrow returns to the highlands and organizes his forces, which now include eight stolen horses. He carries the golden owl standard of Minerva openly to lure the enemy into a final confrontation. Mustang and her raiders meet Darrow's group in the lowlands near the river Metas. She accuses Darrow of being responsible for the rape and mutilation occurring inside the castle under Titus’s rule. Sevro and Antonia’s garrison launch a surprise attack from the mist, howling to disorient the Minervan soldiers.
+
+Darrow charges the enemy lines on his mare while wielding a curved slingBlade (a sickle-shaped mining tool). Pax au Telemanus, a massive student the size of an Obsidian (the warrior caste), tackles Darrow’s horse and kills it. Darrow engages in the Reaping Dance, a rhythmic combat style learned in the mines, to disable several riders. Pax catches Darrow in a crushing bear hug, cracking Darrow's ribs and causing him to lose consciousness. Before fainting, Darrow repeatedly strikes Pax in the groin with his knee until the giant collapses.
+
+Roque and the rest of the tribe arrive to secure the field and capture eleven Minervan prisoners. Darrow negotiates with Mustang at the castle gates, refusing to return the Ceres slaves or give up Titus. Mustang warns Darrow that his brutality will make him look like a monster to the Proctors and potential patrons. Darrow argues that justice and security are only created by the strong in a world where rights must be taken. Mustang reveals the existence of the Jackal, a student from another House who is reportedly smarter and crueler than Darrow.
+
+**Sentence Count Check: 15**
+
+---
+
+### 28: My Brother
+Darrow's tribe enters Castle Mars and enjoys a feast prepared by June using captured livestock and herbs. The victory fails to unite House Mars, as the different factions remain divided by resentment and the memory of Titus's crimes. Roque advises Darrow that he must be the one to decide Titus’s fate to establish his authority as the leader. He explains that the House will never respect Cassius again because he was humiliated and urinated upon by his captors. Antonia and Pollux remain close to Darrow to align themselves with his newfound power within the House.
+
+Darrow visits Titus in the cellar, where the former leader is tied up and beaten bloody. Titus admits he tried to kill the Ceres students before the medBots could arrive to rescue them. He mocks Darrow for thinking the Institute is about civilization rather than the inherent violence the Proctors desire. Titus reveals that his hatred for Golds stems from watching them rape a woman close to him. During the conversation, Titus uses the term "bloodydamn," a curse used exclusively by the Red caste.
+
+Darrow realizes that Titus is not a Gold but a Red who has been carved and planted in the Institute by Ares. This revelation shocks Darrow, as he realizes he is not the only infiltrator working toward a rebellion. He recognizes that Titus’s instability and cruelty threaten the entire mission of the Sons of Ares. Darrow concludes that he must eliminate Titus to protect the secret of the Red infiltrators and Eo’s dream. He leaves the cellar in a haze, burdened by the necessity of killing a member of his own people.
+
+**Sentence Count Check: 15**
+
+---
+
+### 29: Unity
+Darrow sentences Titus to death in the castle courtyard for crimes of rape, mutilation, and attempted murder. Titus challenges Darrow to a duel and specifies that they must use straight blades rather than curved ones. Cassius intercedes and requests the right to fight the duel himself to reclaim his honor and avenge his brother Julian. Darrow grants the request and stands aside as Roque draws an ash circle around the two combatants. Titus selects a long broadsword while Cassius uses a sharpened fencer’s blade for the confrontation.
+
+Cassius methodically stabs Titus multiple times, repeating Julian’s name with every thrust of his weapon. The duel ends with Titus’s death, leaving the courtyard filled with silence and the sound of Cassius’s weeping. Roque tells Darrow that the execution was not justice but a licensed act of vengeance and vendetta. Darrow buries Titus in a grove near the river and prays that he finds peace in the vale. Fitchner visits Darrow on the ramparts at night and offers him a piece of roast duck.
+
+The Proctor explains that the Institute is a school designed to teach Golds how to rule and manage human behavior. Fitchner reveals that he is an outsider among the Golds because he refuses to use a Carver to change his appearance. Darrow grabs Fitchner’s arm and receives a painful shock from the pulseArmor (invisible energy-based protection) the Proctor wears. Fitchner identifies the Jackal as the son of the ArchGovernor and warns Darrow that he is far more dangerous than Titus. The next morning, Darrow claims a pale stallion he names Quietus, unaware that the name is a mockery of his role in Titus’s death.
+
+**Sentence Count Check: 15**

@@ -1,0 +1,52 @@
+### 46: Darrow: The Sun Is Down
+The Archimedes arrives at the moon of Kalyke only to find the remains of the destroyed Rim Armada floating in orbit. Darrow observes the wreckage of the Dustmaker and notes that the massacre appears to have occurred ten days prior. A massive crescent-shaped monument made of thousands of tethered Gold, Blue, and Gray corpses drifts near the debris field. Aurae intercepts a distress signal consisting of a heartbeat and a family transmission code used by the Raa. Darrow and Sevro space walk to a damaged escape pod and retrieve a lone survivor encased in gray armor.
+
+Inside the ship, the crew removes the armor to reveal a young, muscular Gold with black-gold hair. Aurae identifies the prisoner as Diomedes au Raa, the son of Romulus, who has been paralyzed by unknown thorns. Sevro threatens to torture Diomedes for information regarding the Ascomanni attack, but Cassius forbids it on his ship. Darrow observes that the Galilean moons are days away and hidden by Jupiter's massive radiation. Sevro works on his pulseArmor while expressing skepticism that any Obsidian could outmaneuver the Rim Praetors so thoroughly. Darrow suspects that Volsung Fá used dishonorable tactics to catch the Rim fleet in a perfect, lopsided ambush.
+
+The ship continues its cautious journey deeper into the Ionian system while avoiding detection by Fá's at-large fleet. Darrow searches for active signals from Kalyke's cities but finds the moon has been bombed into silence. Athena’s recorded transmission plays on a loop, instructing all sleepers to evacuate because the sun is down. Aurae explains that the "omega torch" needed to contact Athena’s network is located in the Raa citadel of Sungrave. Diomedes remains in a semi-conscious state, suffering from toxin-induced cramps while secured in manacles. Darrow orders Cassius to set a slow course for Io while they analyze the mystery of the lopsided naval slaughter.
+
+**Sentence Count Check:** 15
+
+---
+
+### 47: Lysander: The Bringer of Darkness
+Rhone ti Flavinius enters Lysander's room on the torchShip Lethe after ten days of the Prince's confinement. Rhone reveals his origins as a lowColor "fleabite" from Lost City and defends his choice to side with Atlas. He admits to poisoning Lysander on Phobos to prevent him from joining Diomedes in the coming ambush. Lysander learns that Fá’s army has breached the battlewall of Demeter’s Garter on Io using a secret route provided by Atlas. The Gorgons celebrate the ongoing massacre while Atlas monitors the invasion from a medical bay on the Lethe.
+
+Atlas appears mutilated with his arms amputated and his eyes recently re-installed after a surgical procedure. He uses a Green to extract the defense codes for Sungrave's grid from a captive and dying Helios au Lux. Atlas explains that he has been planning this operation for twelve years since his banishment by Octavia. He sent his best White, Xenophon, to manipulate Sefi and lead the Valkyrie into Volsung Fá’s trap. Atlas reveals that Fá is actually Vagnar Hefga, an Obsidian bred by the Grimmus family and the biological father of Ragnar. He claims the destruction of the Rim is a necessary "autophagy" to remove the cancer of division from the Society.
+
+Atlas offers Lysander the chance to become the "savior" who will unite the Society after the monster has finished its work. He threatens to replace Lysander with a doppelgänger named Lepidus if the Prince refuses to cooperate. Lysander realizes that Atalantia plans to let the Rim suffer for three years before intervening as a liberator. Atlas confirms that he leaked the footage of Darrow destroying the Ganymede docks to push the Rim into the war. To prevent the three-year occupation and the deaths of hundreds of millions, Lysander agrees to Atlas's proposal. He enters the Mind's Eye and accepts the title of "Bringer of Light" to secure his place on the Morning Chair.
+
+**Sentence Count Check:** 15
+
+---
+
+### 48: Darrow: The Tickler
+A pounding on his door wakes Darrow to find Lyria reporting that Sevro is torturing Diomedes in the medBay. Darrow and Cassius rush to the medBay and find Sevro using pliers and electricity on the prisoner's nerves. Lyria hacks the ship's fire protocols to demagnetize the lock and allow entry into the room. Aurae rushes to Diomedes's side while Cassius and Sevro engage in a heated verbal confrontation. Sevro throws his pliers at Darrow and mocks Cassius for his failures with Julian, Quinn, and Lysander. Darrow orders a meeting in his quarters, but Cassius follows Sevro to the cargo bay to demand an end to the abuse.
+
+In the cargo bay, Sevro draws a crooked knife and taunts Cassius for being a "hollow" traitor and a drunk. Cassius takes a fighting stance and the two men begin a brutal fistfight while Darrow and Lyria watch. Sevro uses a headbutt and low blows to daze Cassius, while Cassius responds with powerful elbow strikes to Sevro's head. Lyria attempts to intervene but is accidentally knocked unconscious by Cassius's elbow during the struggle. Darrow finally stops the fight by kicking Sevro into a pile of cargo boxes and ordering Cassius to take Lyria to the medBay. Sevro sits among the boxes and reveals that his infant son, Ulysses, was killed by Harmony on Mars.
+
+Darrow consoles Sevro and learns that the stowaway Lyria was the one who revealed the news of the baby's death. Sevro expresses deep self-hatred and claims that the "Goblin" is the only persona he has left to serve the cause. Darrow rejects this and reminds Sevro that his friends and family love the man, not just the killer. He tells Sevro that Cassius and Lyria are also fighting through their own immense grief and betrayals. Darrow offers to help Sevro steal a ship on Io if he truly wants to return to Mars immediately. He leaves Sevro alone to decide whether he will continue to scout with the pack or leave the mission.
+
+**Sentence Count Check:** 15
+
+---
+
+### 49: Lysander: Vae Victis
+Lysander dons Obsidian prosthetics, gold-plated teeth, and a false beard to travel across the molten riverlands of Io. He and Atlas ride gravBikes toward the city of Plutus, which has been occupied by Fá’s divisions. The city is the administrative capital of Demeter’s Garter and is currently being harvested for Red slaves. Lysander observes frozen heaps of Raa soldiers and Obsidian corpses near the breached battlewall. Ascomanni overseers use whips on captives while gorging themselves on fruit in the city's massive plum orchards. Atlas explains that the Garter's shields fell due to the sabotage of Lysander's own Praetorian Guard.
+
+At the Arbor of Akari, Atlas reunites with his Kinshield, a group of Obsidian veterans trained in Gold philosophy and strategy. These Gorgons describe the Ascomanni as empathy-free "reptiles" who destroy anything they cannot dominate. They explain that the Volk are motivated by a mixture of rage, loot, and a lingering love for Ragnar Volarus. Volsung Fá returns to Plutus upon a floating altar loaded with chained Gold captives and a butchered dragon. He excises the dragon's heart and casts it into a bonfire to provide a spectacle for his gathered braves. Volga, the granddaughter of Lorn and daughter of Ragnar, stands beside Fá's throne during the ceremony.
+
+Fá meets with Atlas and Lysander in his stateroom, revealing his natural voice is soft and sensitive once his throat modulator is removed. He reports that Sungrave is broken and its populace is being loaded onto Ascomanni slave transports. Atlas leads the group to the ship's brig to inspect the high-ranking Raa prisoners captured during the fall of Io. Atlas's sister Vela lies in a cell with a broken back, while his mother Gaia appears broken by grief. Fá also holds Thalia, the young sister of Diomedes, as a captive leash-pet. Lysander intervenes to prevent Thalia's execution by suggesting she be kept as a future political bride. Gaia repeatedly whispers the phrase "Vae victis" as her captors discuss the final stages of the invasion.
+
+**Sentence Count Check:** 15
+
+---
+
+### 50: Lysander: Heavy Is the Head
+Volsung Fá laughs with relief when Atlas informs him that his reign will be cut short to only three weeks. The warlord expresses his desire to retire to a life of opera, pegasus racing, and seaside retreats on Venus. He reveals that he has bonded with Volga and believes she will eventually embrace their new life of luxury. Atlas insists that Volga must be "blooded" in battle to ensure she remains loyal once the truth of Fá's identity is revealed. Lysander demands to know the final battle plan for the arrival of his fleet from the Core. Atlas orders Lysander to rendezvous with his ships at Pasiphae and then launch an Iron Rain to "reclaim" the Garter.
+
+Fá agrees to rase the moons of Europa and Callisto while leaving the Garter garrisoned by disposable Ascomanni. Lysander successfully negotiates to spare the most populous moon, Ganymede, from total annihilation. Atlas reveals that he will be traveling to a hidden moonlet called Orpheus located within Jupiter’s heavy radiation. He explains that Orpheus houses a vault containing a biological weapon called Eidmi, stolen by Akari seven centuries ago. Eidmi is a modular virus capable of targeting and eliminating any of the fourteen Colors individually. Atlas intends to use his sister Vela’s nervous system to bypass the vault’s biometric "shadow knight" defenses. This weapon will ensure absolute obedience to the Morning Chair by allowing the Sovereign to "edit" out rebellious Colors.
+
+The meeting concludes with the final coordination of the genocide that will humble the Rim and secure the Society's future. Lysander feels a cold silence in his heart as he contemplates the ramifications of a weapon that can delete entire races. Fá notes that his braves love feasts and spectacles, which he will use to drive them toward the final deathtrap invasions. Atlas plans to rejoin Lysander on the Lightbringer once the viral weapon has been secured. Fá mocks the idea of killing his own mother, explaining why Gaia remains alive in the brig. The three men toast to their mutual success as the city of Plutus continues to weep outside the ship. Lysander prepares to leave for Pasiphae to summon the fleet that will play the role of the liberator.
+
+**Sentence Count Check:** 15

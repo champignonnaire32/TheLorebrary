@@ -1,0 +1,52 @@
+### 24: Tyn
+Gaz and Red modify Shallan's wagon by adding a window for her to better see the passing landscape. Shallan promises the former deserters that she will pay off their debts once they reach the Shattered Plains. Vathah mocks his men for returning to service under a lighteyes, but Shallan defends their desire for a second chance. Shallan studies Jasnah's notes on highprinces like Sadeas and Aladar to prepare for Alethi political maneuvers. Pattern, a spren appearing as shifting geometric ridges on surfaces, discusses the nature of truth and reveals the name Odium to Shallan.
+
+Tyn invites Shallan to a meal of spicy curry inside her large travel tent during the evening camp. Tyn uses a spanreed, a communication device using linked pens, to discover that Shallan is the daughter of a minor Veden house with large debts. Tyn accuses Shallan of being a con artist and offers to help her navigate the warcamps. Shallan admits she is in over her head and agrees to become Tyn's apprentice in the art of the con. Tyn claims she knows the influential people at the Shattered Plains whose approval is necessary for big scores.
+
+Shallan tells Tyn she possesses a secret about Dalinar Kholin that she intends to use for blackmail. The caravan continues moving toward the corridor where bandit strikes are less likely to occur. Shallan realizes her slaves are uncomfortable with the idea of being freed through the wages she pays them. Pattern describes himself and other spren as shattered power given thought by the perceptions of men. Shallan records the name Odium in her notebook and considers its connection to mythical hatredspren.
+
+**Sentence Count Check:** 15
+
+---
+
+### 25: Monsters
+Dalinar Kholin orders Kaladin to learn horse riding so he can effectively guard the king's family on the battlefield. Jenet, a lighteyed female stablemaster with a sharp demeanor, provides a long lecture on equine posture and handling. Adolin Kholin arrives on his white Ryshadium, a massive and intelligent horse breed, and mocks the bridgemen during their training. Kaladin attempts to ride a docile horse named Spray but struggles to make the animal move forward. Syl, an Honorspren appearing as a ribbon of light or a small girl, discusses the assassination attempt on King Elhokar with Kaladin.
+
+Kaladin realizes the balcony railing must have been sabotaged after the highstorm because the winds would have collapsed it earlier. He decides to challenge himself by attempting to ride Dreamstorm, a significantly more aggressive and difficult horse. Kaladin uses Stormlight to stick himself to the saddle while the beast attempts to buck him off. The intense struggle leaves Kaladin dazed on the ground after his Stormlight is exhausted and the horse throws him. Dalinar approves Kaladin's proposal for patrols outside the warcamps and instructs him to bring horses for practice.
+
+Kaladin sees Brightlord Amaram meeting with Dalinar and experiences a surge of intense rage. He turns his horse away to avoid a direct confrontation with the man who betrayed him into slavery. Natam informs Kaladin that Moash stayed late on his shift to watch the balcony on the night of the sabotage. Kaladin briefly wonders if Moash was involved but dismisses the idea because his friend lacks a Shardblade. The bridgemen continue their training as Jenet calls for them to begin the second phase of riding lessons.
+
+**Sentence Count Check:** 15
+
+---
+
+### 26: The Feather
+Adolin fights Parshendi on a three-tiered plateau to secure a gemheart from a stone-like chrysalis. He joins forces with Jakamav, a Shardbearer in green plate who fights with a large warhammer. Adolin and Jakamav climb a cliff to reach the top tier where the chrysalis is matted to the rocks. Adolin uses his Shardblade, a supernatural sword that cuts through any non-living matter, as leverage to leap onto the ledge. They find the chrysalis already harvested by a Parshendi Shardbearer wearing silvery Shardplate, which is supernatural armor that enhances strength.
+
+The Parshendi Shardbearer speaks Alethi and identifies herself as a woman who once met Dalinar Kholin. She asks to speak with Dalinar and promises to send a messenger to arrange a formal meeting. Adolin watches the Parshendi soldiers leap across the chasm to the adjacent plateau to escape the human forces. After the battle, Renarin Kholin sits in a daze after freezing during the fight despite wearing his Shardplate. Jakamav warns Adolin that his constant dueling for Shards is alienating the other highprinces and Shardbearers.
+
+Adolin attempts to comfort Renarin, who reveals he did not have a fit but was simply afraid. Renarin mentions that he is not wearing his spectacles and expresses a desperate need to be ready for an upcoming event. He tells Adolin that a new storm is coming in forty-nine days based on numbers found on the walls. Adolin reflects on his lack of true friends as the army prepares to return to the warcamps. The soldiers carry their portable bridge back across the chasms as winter weather begins to settle over the plains.
+
+**Sentence Count Check:** 15
+
+---
+
+### 27: Fabrications to Distract
+Five years ago, Shallan sketches a cremling, a small crustacean-like scavenger, in the gardens of her family's Jah Keved manor. Her brother Jushu arrives drunk and informs her that their brother Balat has been starting fires again. Jushu mentions that their eldest brother Helaran has left the estate after a violent disagreement with their father. Shallan's father, Lin Davar, prepares for a feast and provides a new dress for Shallan to wear. Shallan stops in the hallway and stares at a wall until Jushu shakes her out of her trance.
+
+Shallan helps her stumbling brother toward his room while he complains about their father's favoritism toward Helaran. They pass their father's chambers and see the door standing open a crack while a maid tidies the interior. Shallan notices a powerful white light shining through a painting of a storm at sea. The light originates from a strongbox hidden behind the canvas and glows with a fire-like intensity. Jushu claims he cannot see the light and accuses Shallan of losing her mind like their mother.
+
+Shallan continues to stare at the glowing box, which she associates with her mother's soul. She believes a monster is hidden within the light and feels a deep sense of dread. The manor house is described as a solitary Veden structure made of square blocks and small windows. Shallan's father has been holding regular feasts despite the growing tension and violence within the family. Shallan prepares to attend the dinner where she is expected to sit quietly and not interrupt the men.
+
+**Sentence Count Check:** 15
+
+---
+
+### 28: Boots
+Tyn teaches Shallan about the art of the con and emphasizes the importance of learning regional accents. She gives Shallan a vial of dark eyedrops that can temporarily change a lighteyed person's eye color. Tyn reveals she is worried about a previous job for mysterious employers that may have ended in failure. The caravan encounters four mounted Alethi soldiers led by Kaladin on a patrol for bandits. Tyn decides to test Shallan by introducing her as a Horneater princess named Unulukuak’kina’autu’atai.
+
+Shallan adopts a fake Horneater accent and pretends to be offended by the soldiers' questions and presence. She gestures toward her Vorin dress and claims it is suitable royalty while acting in a passionate manner. Tyn encourages the ruse by telling the soldiers that the princess does not tolerate being insulted. Shallan demands Kaladin's boots as an apology for offending her house and clan during their meeting. Kaladin reluctantly removes his boots, revealing a hole in his sock, and tosses them to Shallan.
+
+The soldiers ride away, and Shallan collapses into laughter once they are out of earshot. Blue joyspren, which appear as swirling leaves, rise around Shallan to mark her genuine amusement. Tyn praises the accent but notes that Shallan's performance was overdone and needs more practice. Shallan keeps the boots because her own slippers are inadequate for walking on the rocky terrain. Tyn begins a formal lesson on the Horneater accent as the caravan continues its journey toward the Shattered Plains.
+
+**Sentence Count Check:** 15
