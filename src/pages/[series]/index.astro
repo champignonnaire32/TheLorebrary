@@ -2,6 +2,7 @@
 import { getCollection } from 'astro:content';
 import Layout from '../../layouts/Layout.astro';
 import Breadcrumb from '../../components/Breadcrumb.astro';
+import { seriesMetadata } from '../../data/series-metadata';
 
 export async function getStaticPaths() {
   const allSummaries = await getCollection('summaries');
@@ -25,17 +26,20 @@ export async function getStaticPaths() {
 
   return Object.keys(grouped).map(seriesName => {
     const seriesSlug = seriesName.toLowerCase().replace(/\s+/g, '-');
+    const meta = seriesMetadata[seriesName];
     return {
       params: { series: seriesSlug },
       props: {
         seriesName,
+        author: meta?.author ?? '',
+        blurb: meta?.blurb ?? '',
         books: Array.from(grouped[seriesName].values()).sort((a, b) => a.bookOrder - b.bookOrder)
       },
     };
   });
 }
 
-const { seriesName, books } = Astro.props;
+const { seriesName, author, blurb, books } = Astro.props;
 const pageDescription = `Access the narrative refreshers for the ${seriesName} series. Choose a book to view its chapter recaps.`;
 ---
 
@@ -46,10 +50,16 @@ const pageDescription = `Access the narrative refreshers for the ${seriesName} s
         { label: 'Archive', href: '/archive' },
         { label: seriesName }
       ]} />
+      {author && (
+        <p class="text-sm font-bold text-cream-500 dark:text-gold-400/70 mb-1 uppercase tracking-[0.15em] transition-colors duration-300">{author}</p>
+      )}
       <h1 class="text-4xl md:text-5xl font-display font-semibold mb-6 tracking-wide text-cream-900 dark:text-cream-100 transition-colors duration-300">
         {seriesName}
       </h1>
-      <p class="text-lg text-cream-600 dark:text-cream-300 leading-relaxed max-w-2xl transition-colors duration-300">
+      {blurb && (
+        <p class="text-base text-cream-600 dark:text-cream-300 leading-relaxed max-w-2xl mb-6 transition-colors duration-300">{blurb}</p>
+      )}
+      <p class="text-sm text-cream-500 dark:text-cream-500 transition-colors duration-300">
         Select a book below to view chapter records.
       </p>
     </div>

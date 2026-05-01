@@ -89,6 +89,14 @@ const pageDescription = `Panic recap index for ${bookName}. Select a chapter ran
       </svg>
     </a>
 
+    <!-- Progress indicator (populated by client script) -->
+    <div id="progress-indicator" class="hidden mb-4 flex items-center gap-2 text-sm text-cream-500 dark:text-cream-500 transition-colors duration-300">
+      <div id="progress-bar-track" class="flex-1 h-1 bg-cream-200 dark:bg-ink-700 rounded-full overflow-hidden">
+        <div id="progress-bar-fill" class="h-full bg-gold-400 rounded-full transition-all duration-500" style="width:0%"></div>
+      </div>
+      <span id="progress-text" class="text-xs font-bold tracking-[0.08em] tabular-nums flex-shrink-0"></span>
+    </div>
+
     <!-- Navigation Grid -->
     <div class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-4">
       {chunks.map(chunk => (
@@ -108,9 +116,14 @@ const pageDescription = `Panic recap index for ${bookName}. Select a chapter ran
 
 <script define:vars={{ seriesSlug, bookSlug }}>
   try {
-    document.querySelectorAll('[data-range]').forEach(el => {
+    const allChunks = document.querySelectorAll('[data-range]');
+    const total = allChunks.length;
+    let readCount = 0;
+
+    allChunks.forEach(el => {
       const r = el.dataset.range;
       if (localStorage.getItem(`distiller_read_${seriesSlug}_${bookSlug}_${r}`)) {
+        readCount++;
         el.classList.add('chunk-is-read');
         const badge = document.createElement('div');
         badge.style.cssText = [
@@ -124,5 +137,17 @@ const pageDescription = `Panic recap index for ${bookName}. Select a chapter ran
         el.appendChild(badge);
       }
     });
+
+    if (readCount > 0) {
+      const indicator = document.getElementById('progress-indicator');
+      const fill = document.getElementById('progress-bar-fill');
+      const text = document.getElementById('progress-text');
+      if (indicator && fill && text) {
+        indicator.classList.remove('hidden');
+        indicator.classList.add('flex');
+        fill.style.width = ((readCount / total) * 100) + '%';
+        text.textContent = `${readCount} of ${total} read`;
+      }
+    }
   } catch (e) {}
 </script>
