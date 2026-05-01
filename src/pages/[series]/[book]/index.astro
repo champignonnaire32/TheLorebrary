@@ -81,27 +81,27 @@ const bnUrl       = `https://www.barnesandnoble.com/s/${q}`;
         <!-- Card panel — drops down from the trigger -->
         <div
           id="book-panel"
-          class="absolute top-full left-0 mt-2 z-50 rounded border border-cream-200 dark:border-ink-600/80 bg-cream-50 dark:bg-ink-800 overflow-hidden w-[28rem] transition-colors duration-300"
-          style="display:none; box-shadow: 0 8px 40px rgba(9,15,30,0.7), 0 0 0 1px rgba(201,168,76,0.08);"
+          class="absolute top-full left-0 mt-2 z-50 rounded border border-gold-500/60 bg-gold-400 overflow-hidden w-[28rem]"
+          style="display:none; box-shadow: 0 8px 40px rgba(9,15,30,0.6), 0 0 0 1px rgba(176,146,32,0.5);"
         >
-          <div class="h-1" style="background: linear-gradient(to right, transparent, rgba(201,168,76,0.6), transparent)"></div>
-          <div class="px-6 pt-4 pb-3 border-b border-cream-200/70 dark:border-ink-700 transition-colors duration-300">
-            <p class="text-xs font-bold font-display uppercase tracking-[0.2em] text-cream-500 dark:text-cream-500 text-center">Get the Book</p>
+          <div class="h-1" style="background: linear-gradient(to right, transparent, rgba(9,15,30,0.2), transparent)"></div>
+          <div class="px-6 pt-4 pb-3 border-b border-ink-900/15">
+            <p class="text-xs font-bold font-display uppercase tracking-[0.2em] text-ink-800 text-center">Get the Book</p>
           </div>
           <div class="px-6 py-5">
             <div class="flex gap-3 items-stretch mb-3">
               <a href={bookshopUrl} target="_blank" rel="noopener noreferrer"
-                class="flex-1 flex flex-col items-center justify-center gap-0.5 px-5 py-2.5 bg-gold-500 hover:bg-gold-400 dark:bg-gold-400 dark:hover:bg-gold-300 rounded transition-all duration-200 shadow-sm">
-                <span class="text-sm font-bold font-display text-ink-950">Bookshop.org</span>
-                <span class="text-[10px] uppercase tracking-[0.1em] text-ink-950/60">supports indie bookshops</span>
+                class="flex-1 flex flex-col items-center justify-center gap-0.5 px-5 py-2.5 bg-ink-800 hover:bg-ink-700 rounded transition-all duration-200 shadow-sm">
+                <span class="text-sm font-bold font-display text-cream-100">Bookshop.org</span>
+                <span class="text-[10px] uppercase tracking-[0.1em] text-cream-300/70">supports indie bookshops</span>
               </a>
               <a href={bnUrl} target="_blank" rel="noopener noreferrer"
-                class="flex-1 flex items-center justify-center px-5 py-2.5 bg-gold-500 hover:bg-gold-400 dark:bg-gold-400 dark:hover:bg-gold-300 rounded transition-all duration-200 shadow-sm">
-                <span class="text-sm font-bold font-display text-ink-950">Barnes &amp; Noble</span>
+                class="flex-1 flex items-center justify-center px-5 py-2.5 bg-ink-800 hover:bg-ink-700 rounded transition-all duration-200 shadow-sm">
+                <span class="text-sm font-bold font-display text-cream-100">Barnes &amp; Noble</span>
               </a>
             </div>
-            <p class="text-[13px] italic text-cream-500 dark:text-cream-500 text-center">
-              Haven't grabbed a copy yet? Also available at your local library or on <a href="https://libbyapp.com" target="_blank" rel="noopener noreferrer" class="underline underline-offset-2 hover:text-gold-600 dark:hover:text-gold-400 transition-colors duration-200">Libby</a>.
+            <p class="text-[13px] italic text-ink-800/70 text-center">
+              Haven't grabbed a copy yet? Also available at your local library or on <a href="https://libbyapp.com" target="_blank" rel="noopener noreferrer" class="underline underline-offset-2 hover:text-ink-600 transition-colors duration-200">Libby</a>.
             </p>
           </div>
         </div>
@@ -130,6 +130,13 @@ const bnUrl       = `https://www.barnesandnoble.com/s/${q}`;
         <div id="progress-bar-fill" class="h-full bg-gold-400 rounded-full transition-all duration-500" style="width:0%"></div>
       </div>
       <span id="progress-text" class="text-xs font-bold tracking-[0.08em] tabular-nums flex-shrink-0"></span>
+    </div>
+
+    <!-- Section divider -->
+    <div class="flex items-center gap-3 mb-6">
+      <div class="flex-1 h-px" style="background: linear-gradient(to right, transparent, rgba(201,168,76,0.35))"></div>
+      <span class="text-[9px] font-bold font-display uppercase tracking-[0.3em] text-cream-500 dark:text-cream-500">Chapters</span>
+      <div class="flex-1 h-px" style="background: linear-gradient(to left, transparent, rgba(201,168,76,0.35))"></div>
     </div>
 
     <!-- Navigation Grid -->
