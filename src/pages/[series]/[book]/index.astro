@@ -26,6 +26,11 @@ export async function getStaticPaths() {
 
     chunks.sort((a, b) => a.data.startChapter - b.data.startChapter);
 
+    const totalChaptersCount = chunks.reduce((count, chunk) => {
+      const chapterMatches = chunk.body.match(/^###\s+/gm);
+      return count + (chapterMatches ? chapterMatches.length : 0);
+    }, 0);
+
     const formattedChunks = chunks.map(chunk => ({
       range: chunk.data.range,
       url: `/${seriesSlug}/${bookSlug}/${chunk.data.range}`,
@@ -36,7 +41,8 @@ export async function getStaticPaths() {
       props: {
         seriesName: seriesData,
         bookName: bookData,
-        chunks: formattedChunks
+        chunks: formattedChunks,
+        totalChapters: totalChaptersCount
       },
     });
   }
@@ -44,7 +50,7 @@ export async function getStaticPaths() {
   return paths;
 }
 
-const { seriesName, bookName, chunks } = Astro.props;
+const { seriesName, bookName, chunks, totalChapters } = Astro.props;
 const seriesSlug = Astro.params.series;
 const bookSlug = Astro.params.book;
 const pageDescription = `Lorebrary recap index for ${bookName}. Select a chapter range to begin your concrete narrative refresher for the ${seriesName} series.`;
@@ -52,9 +58,6 @@ const pageDescription = `Lorebrary recap index for ${bookName}. Select a chapter
 const q = encodeURIComponent(bookName);
 const bookshopUrl = `https://bookshop.org/search?keywords=${q}`;
 const bnUrl       = `https://www.barnesandnoble.com/s/${q}`;
-
-const lastRange = chunks[chunks.length - 1]?.range ?? '';
-const totalChapters = parseInt(lastRange.split('-')[1]) || chunks.length;
 ---
 
 <Layout title={`${bookName} | The Lorebrary`} description={pageDescription} showBackBtn={false}>

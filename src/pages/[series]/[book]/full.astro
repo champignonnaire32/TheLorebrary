@@ -35,6 +35,11 @@ export async function getStaticPaths() {
 
     chunks.sort((a, b) => a.data.startChapter - b.data.startChapter);
 
+    const totalChaptersCount = chunks.reduce((count, chunk) => {
+      const chapterMatches = chunk.body.match(/^###\s+/gm);
+      return count + (chapterMatches ? chapterMatches.length : 0);
+    }, 0);
+
     const seriesBooks    = seriesBooksMap[seriesSlug] ?? [];
     const currentBookIdx = seriesBooks.findIndex(b => b.bookSlug === bookSlug);
     const nextBookData   = currentBookIdx >= 0 && currentBookIdx < seriesBooks.length - 1
@@ -47,6 +52,7 @@ export async function getStaticPaths() {
         seriesName: seriesData,
         bookName: bookData,
         chunks,
+        totalChapters: totalChaptersCount,
         nextBookName: nextBookData?.bookName ?? null,
         nextBookUrl:  nextBookData ? `/${seriesSlug}/${nextBookData.bookSlug}` : null,
       },
@@ -56,7 +62,7 @@ export async function getStaticPaths() {
   return paths;
 }
 
-const { seriesName, bookName, chunks, nextBookName, nextBookUrl } = Astro.props;
+const { seriesName, bookName, chunks, totalChapters, nextBookName, nextBookUrl } = Astro.props;
 const seriesSlug = Astro.params.series;
 const bookSlug   = Astro.params.book;
 const bookUrl    = `/${seriesSlug}/${bookSlug}`;
@@ -72,7 +78,7 @@ const renderedChunks = await Promise.all(
 const ranges = renderedChunks.map(c => c.range);
 
 const pageTitle       = `${bookName} — Full Recap | The Lorebrary`;
-const pageDescription = `Complete narrative refresher for ${bookName}. All ${chunks.length} chapter recaps in a single continuous read — ${seriesName} series.`;
+const pageDescription = `Complete narrative refresher for ${bookName}. All ${totalChapters} chapter recaps in a single continuous read — ${seriesName} series.`;
 ---
 
 <Layout title={pageTitle} description={pageDescription} ogType="article">
@@ -99,21 +105,21 @@ const pageDescription = `Complete narrative refresher for ${bookName}. All ${chu
     <p class="text-[10px] font-bold uppercase tracking-[0.18em] text-cream-500 dark:text-cream-500 mb-2 px-2">Jump To</p>
     <nav class="flex flex-col gap-0.5">
       {ranges.map(range => (
-        <a
-          href={`#range-${range}`}
-          data-nav-range={range}
-          class="text-[11px] font-bold text-cream-500 dark:text-cream-500 px-2 py-1.5 rounded-sm border-l-2 border-transparent hover:text-gold-600 dark:hover:text-gold-400 hover:border-gold-400 transition-colors duration-150 whitespace-nowrap"
+        <button
+          class="chapter-jump-btn group flex items-center gap-3 px-3 py-1.5 rounded-md hover:bg-ink-800 transition-all duration-200 text-left border border-transparent hover:border-gold-400/20"
+          data-target-range={range}
         >
-          {range}
-        </a>
+          <span class="text-[11px] font-bold tracking-widest text-cream-600 dark:text-cream-500 group-hover:text-gold-400">
+            {range}
+          </span>
+        </button>
       ))}
     </nav>
   </aside>
 
-  <div class="max-w-3xl mx-auto py-12 px-4 sm:px-6">
+  <div class="max-w-4xl mx-auto py-12 px-4 sm:px-6">
 
-    <!-- Header -->
-    <div id="page-header" class="mb-16 border-b border-cream-200 dark:border-ink-700 pb-10 transition-colors duration-300">
+    <div class="mb-16">
       <Breadcrumb items={[
         { label: 'Archive',    href: '/archive' },
         { label: seriesName,   href: `/${seriesSlug}` },
@@ -127,7 +133,7 @@ const pageDescription = `Complete narrative refresher for ${bookName}. All ${chu
           <svg class="w-3.5 h-3.5 opacity-80" fill="currentColor" viewBox="0 0 20 20">
             <path d="M9 4.804A7.968 7.968 0 005.5 4c-1.255 0-2.443.29-3.5.804v10A7.969 7.969 0 015.5 14c1.669 0 3.218.51 4.5 1.385A7.962 7.962 0 0114.5 14c1.255 0 2.443.29 3.5.804v-10A7.968 7.968 0 0014.5 4c-1.255 0-2.443.29-3.5.804V12a1 1 0 11-2 0V4.804z"/>
           </svg>
-          Full Recap — {chunks.length} sections
+          Full Recap — {totalChapters} Chapters
         </div>
       </div>
     </div>
@@ -138,115 +144,110 @@ const pageDescription = `Complete narrative refresher for ${bookName}. All ${chu
         <section id={`range-${range}`} data-range-section={range} class="scroll-mt-6">
 
           <!-- Chapter range divider header -->
-          <div class="flex items-center gap-4 mb-10">
-            <div class="h-px flex-1 bg-cream-200 dark:bg-ink-700" />
-            <h2 class="text-xs font-display font-bold text-gold-600 dark:text-gold-400 uppercase tracking-[0.22em] flex-shrink-0 px-1">
-              Chapters {range}
-            </h2>
-            <div class="h-px flex-1 bg-cream-200 dark:bg-ink-700" />
+          <div class="flex items-center gap-4 mb-8 opacity-40 group-hover:opacity-100 transition-opacity duration-300">
+            <div class="h-px flex-1 bg-gradient-to-r from-transparent to-gold-400/50"></div>
+            <span class="text-[10px] font-bold tracking-[0.3em] uppercase text-gold-500/80">Range {range}</span>
+            <div class="h-px flex-1 bg-gradient-to-l from-transparent to-gold-400/50"></div>
           </div>
 
-          <article class="prose prose-lg dark:prose-invert max-w-none prose-p:leading-[1.95] prose-p:indent-8 prose-p:mb-6 transition-colors duration-300">
+          <div class="prose prose-lg prose-cream dark:prose-invert max-w-none
+            prose-headings:font-display prose-headings:font-semibold prose-headings:tracking-tight
+            prose-h3:text-2xl prose-h3:mt-0 prose-h3:mb-6 prose-h3:text-gold-600 dark:prose-h3:text-gold-400
+            prose-p:text-cream-700 dark:prose-p:text-cream-200 prose-p:leading-relaxed prose-p:mb-8
+            prose-strong:text-gold-700 dark:prose-strong:text-gold-300 prose-strong:font-semibold">
             <Content />
-          </article>
+          </div>
         </section>
       ))}
     </div>
 
-    <!-- Next Book card — only on books that have a sequel -->
-    {nextBookName && nextBookUrl && (
-      <div class="mt-20 pt-10 border-t border-cream-200 dark:border-ink-700">
-        <p class="text-xs font-bold text-cream-500 dark:text-cream-500 uppercase tracking-[0.18em] mb-4 text-center">You've finished this book</p>
+    <!-- Next Book Navigation -->
+    {nextBookUrl && (
+      <div class="mt-24 pt-12 border-t border-cream-200 dark:border-ink-700 transition-colors duration-300">
+        <p class="text-xs font-bold text-cream-500 dark:text-cream-500 uppercase tracking-[0.2em] mb-4 text-center">Continue the Journey</p>
         <a
           href={nextBookUrl}
-          class="flex items-center justify-between max-w-sm mx-auto px-6 py-5 bg-cream-50 dark:bg-ink-800 border border-gold-400/40 dark:border-gold-400/30 rounded-xl hover:border-gold-400 dark:hover:border-gold-400 hover:shadow-[0_4px_28px_rgba(201,168,76,0.14)] transition-all duration-200 group"
+          class="group block max-w-xl mx-auto p-8 bg-cream-50 dark:bg-ink-800 border border-gold-400/30 rounded-xl hover:border-gold-400 transition-all duration-300 text-center hover:shadow-[0_8px_32px_rgba(201,168,76,0.12)]"
         >
-          <div>
-            <div class="text-[10px] font-bold uppercase tracking-[0.18em] text-cream-500 dark:text-cream-500 mb-1">Up Next in {seriesName}</div>
-            <div class="text-xl font-display font-semibold text-cream-900 dark:text-cream-100 group-hover:text-gold-600 dark:group-hover:text-gold-400 transition-colors duration-200">
-              {nextBookName}
-            </div>
+          <span class="block text-sm text-gold-600 dark:text-gold-400 font-medium mb-1 uppercase tracking-widest">Next Book</span>
+          <span class="block text-2xl md:text-3xl font-display font-bold text-cream-900 dark:text-cream-100 group-hover:text-gold-600 dark:group-hover:text-gold-400 transition-colors duration-200 uppercase tracking-tight">{nextBookName}</span>
+          <div class="mt-6 flex items-center justify-center gap-2 text-sm font-bold text-cream-500 group-hover:text-gold-500 transition-colors duration-200">
+            <span>Read Recaps</span>
+            <svg class="w-4 h-4 transform group-hover:translate-x-1 transition-transform" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3" />
+            </svg>
           </div>
-          <svg class="w-6 h-6 text-cream-500 dark:text-cream-500 group-hover:text-gold-400 group-hover:translate-x-1 transition-all duration-200 flex-shrink-0 ml-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3" />
-          </svg>
         </a>
       </div>
     )}
 
-    <!-- Footer -->
-    <div class="mt-12 pt-10 border-t border-cream-200 dark:border-ink-700 flex flex-col sm:flex-row items-center justify-between gap-4">
-      <a
-        href={bookUrl}
-        class="inline-flex items-center gap-2 px-6 py-3 bg-cream-50 dark:bg-ink-800 border border-cream-300 dark:border-ink-700 rounded-lg hover:border-gold-400 dark:hover:border-gold-400 transition-all duration-200 text-sm font-bold font-display text-cream-900 dark:text-cream-100 hover:text-gold-600 dark:hover:text-gold-400 group"
-      >
-        <svg class="w-4 h-4 group-hover:-translate-x-0.5 transition-transform" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 19l-7-7m0 0l7-7m-7 7h18" />
-        </svg>
-        Back to Chapter Index
-      </a>
+    <!-- Back to Top -->
+    <div class="mt-20 flex justify-center">
       <button
-        onclick="window.scrollTo({ top: 0, behavior: 'smooth' })"
-        class="inline-flex items-center gap-2 px-6 py-3 bg-cream-50 dark:bg-ink-800 border border-cream-300 dark:border-ink-700 rounded-lg hover:border-gold-400 dark:hover:border-gold-400 transition-all duration-200 text-sm font-bold font-display text-cream-900 dark:text-cream-100 hover:text-gold-600 dark:hover:text-gold-400 group"
+        id="scroll-to-top"
+        class="flex flex-col items-center gap-2 text-cream-400 hover:text-gold-500 transition-colors duration-300 group"
       >
-        Back to Top
-        <svg class="w-4 h-4 group-hover:-translate-y-0.5 transition-transform" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 10l7-7m0 0l7 7m-7-7v18" />
-        </svg>
+        <div class="w-10 h-10 rounded-full border border-cream-200 dark:border-ink-700 flex items-center justify-center group-hover:border-gold-400 transition-colors duration-300">
+          <svg class="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 10l7-7m0 0l7 7m-7-7v18" />
+          </svg>
+        </div>
+        <span class="text-[10px] font-bold uppercase tracking-[0.2em]">Back to Top</span>
       </button>
     </div>
 
   </div>
 </Layout>
 
-<script is:inline>
-  // Reading progress bar
-  const bar = document.getElementById('reading-progress');
-  if (bar) {
-    function updateBar() {
-      const total = document.documentElement.scrollHeight - window.innerHeight;
-      bar.style.width = (total > 0 ? (window.scrollY / total) * 100 : 0) + '%';
+<script>
+  // Handle Reading Progress
+  window.addEventListener('scroll', () => {
+    const winScroll = document.body.scrollTop || document.documentElement.scrollTop;
+    const height = document.documentElement.scrollHeight - document.documentElement.clientHeight;
+    const scrolled = (winScroll / height) * 100;
+    const bar = document.getElementById('reading-progress');
+    if (bar) bar.style.width = scrolled + '%';
+
+    // Handle Floating Chapter Banner
+    const banner = document.getElementById('chapter-banner');
+    const bannerText = document.getElementById('chapter-banner-text');
+    const sections = document.querySelectorAll('[data-range-section]');
+
+    let currentRange = '';
+    sections.forEach(section => {
+      const rect = section.getBoundingClientRect();
+      if (rect.top <= 100) {
+        currentRange = section.getAttribute('data-range-section');
+      }
+    });
+
+    if (banner && bannerText) {
+      if (winScroll > 300 && currentRange) {
+        banner.style.opacity = '1';
+        bannerText.textContent = `Range ${currentRange}`;
+      } else {
+        banner.style.opacity = '0';
+      }
     }
-    window.addEventListener('scroll', updateBar, { passive: true });
-    updateBar();
-  }
+  });
 
-  // Floating chapter banner
-  const banner = document.getElementById('chapter-banner');
-  const bannerText = document.getElementById('chapter-banner-text');
-  const pageHeader = document.getElementById('page-header');
+  // Handle Chapter Jump Navigation
+  const jumpButtons = document.querySelectorAll('.chapter-jump-btn');
+  jumpButtons.forEach(btn => {
+    btn.addEventListener('click', () => {
+      const range = btn.getAttribute('data-target-range');
+      const target = document.getElementById(`range-${range}`);
+      if (target) {
+        target.scrollIntoView({ behavior: 'smooth' });
+      }
+    });
+  });
 
-  if (banner && pageHeader) {
-    const headerObserver = new IntersectionObserver(
-      ([entry]) => { banner.style.opacity = entry.isIntersecting ? '0' : '1'; },
-      { threshold: 0 }
-    );
-    headerObserver.observe(pageHeader);
-  }
-
-  // Floating nav + banner: highlight the chapter range currently in view
-  const navLinks = document.querySelectorAll('[data-nav-range]');
-  const sections = document.querySelectorAll('[data-range-section]');
-
-  if (sections.length) {
-    const setActive = (range) => {
-      navLinks.forEach(link => {
-        const active = link.dataset.navRange === range;
-        link.style.color = active ? '#c9a84c' : '';
-        link.style.borderLeftColor = active ? '#c9a84c' : 'transparent';
-        link.style.fontWeight = active ? '700' : '';
-      });
-      if (bannerText) bannerText.textContent = `Chapters ${range}`;
-    };
-
-    const observer = new IntersectionObserver((entries) => {
-      entries.forEach(entry => {
-        if (entry.isIntersecting) setActive(entry.target.dataset.rangeSection);
-      });
-    }, { rootMargin: '-5% 0px -88% 0px', threshold: 0 });
-
-    sections.forEach(s => observer.observe(s));
-    // Pre-populate banner with first section
-    if (bannerText && sections[0]) bannerText.textContent = `Chapters ${sections[0].dataset.rangeSection}`;
+  // Handle Scroll to Top
+  const topBtn = document.getElementById('scroll-to-top');
+  if (topBtn) {
+    topBtn.addEventListener('click', () => {
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+    });
   }
 </script>
