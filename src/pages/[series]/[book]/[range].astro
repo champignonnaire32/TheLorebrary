@@ -87,10 +87,20 @@ const pageDescription = `Lorebrary recap of ${bookName} chapters ${range}. A con
   <!-- Reading Progress Bar -->
   <div id="reading-progress" class="fixed top-0 left-0 h-[3px] bg-gold-400 z-[60] pointer-events-none" style="width:0%"></div>
 
+  <!-- Floating Chapter Banner -->
+  <div id="chapter-banner" class="fixed top-0 left-0 right-0 z-[55] pt-[3px] pointer-events-none opacity-0 transition-opacity duration-300">
+    <div class="flex items-center justify-center gap-2 py-1.5 bg-ink-950/85 backdrop-blur-sm border-b border-gold-400/15">
+      <svg class="w-2.5 h-2.5 text-gold-400/70 flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
+        <path d="M9 4.804A7.968 7.968 0 005.5 4c-1.255 0-2.443.29-3.5.804v10A7.969 7.969 0 015.5 14c1.669 0 3.218.51 4.5 1.385A7.962 7.962 0 0114.5 14c1.255 0 2.443.29 3.5.804v-10A7.968 7.968 0 0014.5 4c-1.255 0-2.443.29-3.5.804V12a1 1 0 11-2 0V4.804z"/>
+      </svg>
+      <span id="chapter-banner-text" class="text-[10px] font-bold font-display tracking-[0.18em] uppercase text-gold-400 truncate max-w-[80vw]"></span>
+    </div>
+  </div>
+
   <div class="max-w-3xl mx-auto py-12 px-4 sm:px-6">
 
     <!-- Header -->
-    <div class="mb-16 border-b border-cream-200 dark:border-ink-700 pb-10 transition-colors duration-300">
+    <div id="page-header" class="mb-16 border-b border-cream-200 dark:border-ink-700 pb-10 transition-colors duration-300">
       <Breadcrumb items={[
         { label: 'Archive', href: '/archive' },
         { label: seriesName, href: `/${seriesSlug}` },
@@ -230,6 +240,42 @@ const pageDescription = `Lorebrary recap of ${bookName} chapters ${range}. A con
     if (e.key === 'ArrowLeft' && prevUrl) window.location.href = prevUrl;
     if (e.key === 'ArrowRight' && nextUrl) window.location.href = nextUrl;
   });
+</script>
+
+<script>
+  // Floating chapter banner
+  const banner = document.getElementById('chapter-banner');
+  const bannerText = document.getElementById('chapter-banner-text');
+  const pageHeader = document.getElementById('page-header');
+
+  if (banner && bannerText && pageHeader) {
+    // Show/hide banner based on whether the page header is visible
+    const headerObserver = new IntersectionObserver(
+      ([entry]) => {
+        banner.style.opacity = entry.isIntersecting ? '0' : '1';
+      },
+      { threshold: 0 }
+    );
+    headerObserver.observe(pageHeader);
+
+    // Track which h3 heading is currently at the top of the viewport
+    const headings = document.querySelectorAll('article h3');
+    if (headings.length) {
+      const headingObserver = new IntersectionObserver(
+        (entries) => {
+          entries.forEach(entry => {
+            if (entry.isIntersecting) {
+              bannerText.textContent = entry.target.textContent || '';
+            }
+          });
+        },
+        { rootMargin: '-5% 0px -85% 0px', threshold: 0 }
+      );
+      headings.forEach(h => headingObserver.observe(h));
+      // Pre-populate with first heading
+      bannerText.textContent = headings[0].textContent || '';
+    }
+  }
 </script>
 
 </Layout>
