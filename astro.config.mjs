@@ -8,7 +8,7 @@ import sitemap from '@astrojs/sitemap';
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://project-panic-catchup.vercel.app',
+  site: 'https://thelorebrary.vercel.app',
   integrations: [react(), sitemap()],
 
   vite: {

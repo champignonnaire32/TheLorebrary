@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://project-panic-catchup.vercel.app/sitemap-index.xml
+Sitemap: https://thelorebrary.vercel.app/sitemap-index.xml
