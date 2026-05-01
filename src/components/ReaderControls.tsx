@@ -19,6 +19,16 @@ export default function ReaderControls() {
     return 18;
   });
 
+  const [copied, setCopied] = useState(false);
+
+  const copyLink = async () => {
+    try {
+      await navigator.clipboard.writeText(window.location.href);
+      setCopied(true);
+      setTimeout(() => setCopied(false), 2000);
+    } catch (e) {}
+  };
+
   const [theme, setTheme] = useState<Theme>(() => {
     if (typeof window !== 'undefined') {
       const saved = localStorage.getItem('theme');
@@ -101,6 +111,32 @@ export default function ReaderControls() {
               ))}
             </div>
           </div>
+
+          <hr style={{ borderColor: '#1f2e47' }} />
+
+          {/* Copy Link */}
+          <button
+            onClick={copyLink}
+            className="w-full flex items-center justify-between rounded-[10px] px-[14px] py-[12px] transition-all duration-150"
+            style={{
+              background: copied ? 'rgba(201,168,76,0.10)' : '#090f1e',
+              border: `1px solid ${copied ? 'rgba(201,168,76,0.35)' : '#1f2e47'}`,
+              color: copied ? '#c9a84c' : '#9a8c77',
+            }}
+          >
+            <span className="text-[13px] font-bold uppercase tracking-[0.15em]">
+              {copied ? 'Copied!' : 'Copy Link'}
+            </span>
+            {copied ? (
+              <svg className="w-[15px] h-[15px]" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
+              </svg>
+            ) : (
+              <svg className="w-[15px] h-[15px]" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M8 16H6a2 2 0 01-2-2V6a2 2 0 012-2h8a2 2 0 012 2v2m-6 12h8a2 2 0 002-2v-8a2 2 0 00-2-2h-8a2 2 0 00-2 2v8a2 2 0 002 2z" />
+              </svg>
+            )}
+          </button>
         </div>
       )}
 
