@@ -1,0 +1,52 @@
+### 6: THE THROWING NETS
+Lyra flees Mrs. Coulter's flat and wanders through the dark streets of London. She encounters a man at a coffee stall who tries to drug her with brandy, but she lies about her father being a murderer to escape. While searching for a place to sleep by a canal basin, two men ambush her with throwing nets, which are weighted mesh traps used to entangle prey. Pantalaimon fights the men's dæmons, but Lyra is eventually trussed in tarred strings and captured. Just as she is about to be carried off, the men are killed by arrows shot from the darkness.
+
+Tony Costa, a gyptian, emerges from the shadows and identifies Lyra. The gyptians have been searching for their own stolen children and recognize Lyra from her time in Oxford. They lead her to their narrowboat, a long vessel powered by a gas engine, where Ma Costa welcomes her. Ma Costa provides Lyra with hot milk and a bed in the cabin while the boat moves away from London. Lyra wakes up the next morning and learns that the boat is traveling north along the Grand Junction Canal.
+
+Tony explains that the "Gobblers" take children to the far North for experiments. He mentions panserbjørne, which are large white bears that wear suits of meteoric iron armor and serve as mercenaries. Lyra realizes that Lord Asriel is being held in a fortress guarded by these armored bears. Tony reveals that the gyptians are gathering at a "roping," a massive muster of families in the fens. Lyra decides she must join the gyptians to rescue her friend Roger and her uncle.
+
+**Sentence Count Check:** 15
+
+---
+
+### 7: JOHN FAA
+Lyra adapts to life on the narrowboat by performing chores like peeling potatoes and greasing the propeller shaft. The Costas hide her in a secret cedarwood-lined compartment to protect her from police searches and to keep her dæmon asleep. They arrive at the byanplats, a high-ground island in the fens where thousands of gyptian boats have gathered. Lyra attends the roping at the Zaal, a large wooden meeting hall, where she is introduced to the gyptian leadership. Lord John Faa, the powerful leader of the western gyptians, announces that they will not surrender Lyra for the government reward.
+
+John Faa proposes a rescue mission to the North to free the stolen children from the Gobblers' stronghold. The assembly of gyptian families roars their approval and agrees to fund the expedition with their gold. After the meeting, Lyra is taken to a private parley with John Faa and Farder Coram, a wise elder with a large cat dæmon. John Faa reveals the true story of Lyra's birth, explaining that Lord Asriel is her father and Mrs. Coulter is her mother. He describes how Lord Asriel killed Mrs. Coulter's husband, Edward Coulter, in a fight over the infant Lyra.
+
+Lyra learns that she was placed at Jordan College because the law confiscated Lord Asriel's property after the killing. Farder Coram identifies Lyra's device as an alethiometer, a rare "truth-measure" that uses 36 symbols to answer questions. He explains that reading the device requires holding complex levels of meaning in the mind while watching the needle move. John Faa decides that Lyra should keep the alethiometer, though he is unsure of the Master's original intent for it. Ma Costa, who was originally Lyra's nurse, takes the girl back to the boat to rest.
+
+**Sentence Count Check:** 15
+
+---
+
+### 8: FRUSTRATION
+Lyra struggles with the revelation that Mrs. Coulter is her mother but continues to explore the fen town with other children. She entertains the gyptian kids with exaggerated stories about Lord Asriel's exploits and his encounters with Turkish assassins. Meanwhile, the police and airships continue to search the fens and Oxford for any sign of her. Lyra begins practicing with the alethiometer, discovering she can enter a calm state that allows her to focus the needle. She perceives glimpses of meaning that feel like sunlight breaking through clouds, though she cannot yet fully interpret the answers.
+
+At the second roping, the six gyptian family heads present their gold and a muster of one hundred and seventy men for the expedition. John Faa appoints leaders for specific tasks, including munitions, stores, and spying. Raymond van Gerrit objects to protecting Lyra, fearing the loss of gyptian privileges, but John Faa shames him by recounting Lord Asriel's past favors. A woman named Margaret asks for revenge against the Gobblers, but John Faa insists that rescue must take priority over punishment. John Faa rings a bell to close the meeting, and the leaders retire to the parley room to finalize their plans.
+
+Lyra interrupts the private meeting to demand that she be allowed to join the expedition to the North. She claims she can help with navigation, anbaromagnetic readings, and reading the alethiometer. John Faa denies her request and orders her to stay behind with Ma Costa for her own safety. His crow dæmon flies at Lyra to emphasize the finality of the decision, and she is escorted from the room. Despite the rejection, Lyra and Pantalaimon vow to find a way to go north regardless of the leaders' orders.
+
+**Sentence Count Check:** 15
+
+---
+
+### 9: THE SPIES
+Lyra considers various plans to stow away on the expedition ship as the gyptians assemble stores and munitions. She begins assisting Farder Coram, who teaches her more about the meanings of the alethiometer's symbols. Farder Coram's dæmon, Sophonax, is a large and elegant golden-eyed cat that fascinates Lyra. Lyra uses the device to ask about the spy Benjamin de Ruyter and receives an answer pointing toward "death." A wounded gyptian named Jacob Huismans arrives and reports that Benjamin was killed while breaking into the Ministry of Theology.
+
+Jacob's dæmon explains that they were ambushed at the Ministry, which serves as the headquarters for the Gobblers. Jacob eventually dies from an arrow wound, confirming the alethiometer's prediction of death. John Faa changes his mind and decides to take Lyra north so she can use her symbol-reading skills to aid the mission. During the voyage, Lyra is restricted to the cabin but continues to practice reading the device under Farder Coram's guidance. She describes the process as focusing her eyes on different levels of meaning within the symbols.
+
+While sitting on the deck, Lyra and Pantalaimon are attacked by two "spy-flies," which are clockwork insects containing malicious spirits. The tillerman's cormorant dæmon catches one of the flies, but the other escapes to report back to Mrs. Coulter. Farder Coram traps the captured spy-fly inside a smokeleaf tin and seals it with a card. He explains that the creature is powered by a pinned spirit and will never stop struggling to fulfill its mission. The ship finally reaches the port of Colby, and Lyra boards the larger vessel that will carry them to Lapland.
+
+**Sentence Count Check:** 15
+
+---
+
+### 10: THE CONSUL AND THE BEAR
+The gyptian ship travels toward Trollesund, the main port of Lapland, where the witches maintain a consulate. Farder Coram tells a story about saving a witch named Serafina Pekkala forty years ago by shooting down a red bird pursuing her. He explains that witches can separate from their dæmons by great distances, which is impossible for ordinary humans. Lyra befriends a seaman named Jerry, who teaches her how to sew and explains that dæmons eventually settle into a permanent shape. They arrive at Trollesund, a town of wooden houses and steep roofs that smells of fish and pine resin.
+
+Lyra and Farder Coram visit Dr. Martin Lanselius, the witch consul, who has a small green serpent dæmon. The consul reveals that the Gobblers operate through the Northern Progress Exploration Company and take children inland for intercision. Lyra demonstrates her ability to read the alethiometer by correctly predicting Tartar military movements and identifying Serafina Pekkala's cloud-pine spray. Cloud-pine is a specific type of wood that witches use as a vehicle for flight. Dr. Lanselius suggests that the gyptians should recruit an armored bear named Iorek Byrnison who is currently working in the town.
+
+Farder Coram buys Lyra cold-weather clothing, including a reindeer skin parka and seal intestine waterproofs. They find Iorek Byrnison gnawing on a haunch of meat in a yard behind Einarsson's Bar. The bear is a massive creature with dirty yellowish fur and small, intelligent black eyes. Iorek explains that the townspeople stole his armor after tricking him with spirits, leaving him unable to go to war. He agrees to serve the gyptians if they can recover his armor, which is the essential physical equipment of a panserbjørn.
+
+**Sentence Count Check:** 15

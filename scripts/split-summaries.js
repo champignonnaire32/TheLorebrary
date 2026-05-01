@@ -6,6 +6,18 @@ function toTitleCase(str) {
   return str.split('-').map(word => word.charAt(0).toUpperCase() + word.slice(1)).join(' ');
 }
 
+// Convert an ALL CAPS heading title to Proper Title Case
+// Keeps minor words lowercase unless they are the first word
+const MINOR_WORDS = new Set(['a', 'an', 'the', 'and', 'but', 'or', 'for', 'nor', 'on', 'at', 'to', 'by', 'in', 'of', 'up', 'as', 'vs', 'via']);
+function headingTitleCase(str) {
+  return str.toLowerCase().split(' ').map((word, i) => {
+    if (i === 0 || !MINOR_WORDS.has(word)) {
+      return word.charAt(0).toUpperCase() + word.slice(1);
+    }
+    return word;
+  }).join(' ');
+}
+
 // Ensure the series name matches the expected format
 const seriesMap = {
   'suneater': 'The Suneater Series',
@@ -15,6 +27,7 @@ const seriesMap = {
   'lotr': 'The Lord of the Rings',
   'hp': 'Harry Potter',
   'empyrean': 'The Empyrean Series',
+  'hisdarkmaterials': 'His Dark Materials',
 };
 
 // Define explicit book orders
@@ -52,6 +65,9 @@ const bookOrderMap = {
   'Fourth Wing': 1,
   'Iron Flame': 2,
   'Onyx Storm': 3,
+  'The Golden Compass': 1,
+  'The Subtle Knife': 2,
+  'The Amber Spyglass': 3,
 };
 
 const rawBaseDir = path.join(process.cwd(), 'src', 'data', 'raw-summaries');
@@ -70,7 +86,7 @@ const seriesFolders = fs.readdirSync(rawBaseDir, { withFileTypes: true })
 for (const seriesFolder of seriesFolders) {
   const seriesName = seriesMap[seriesFolder] || toTitleCase(seriesFolder);
   const seriesRawPath = path.join(rawBaseDir, seriesFolder);
-  
+
   const bookFolders = fs.readdirSync(seriesRawPath, { withFileTypes: true })
     .filter(dirent => dirent.isDirectory())
     .map(dirent => dirent.name);
@@ -79,7 +95,7 @@ for (const seriesFolder of seriesFolders) {
     const rawBookName = toTitleCase(bookFolder);
     const bookOrder = bookOrderMap[rawBookName] || 99;
     const finalBookName = rawBookName === 'Dune 1' ? 'Dune' : rawBookName;
-    
+
     const bookRawPath = path.join(seriesRawPath, bookFolder);
     const bookOutPath = path.join(outBaseDir, seriesFolder, bookFolder);
 
@@ -93,9 +109,9 @@ for (const seriesFolder of seriesFolders) {
       // Extract the range from the filename (e.g. Chapter1-5_Summary.md -> 1-5)
       const fileMatch = file.match(/Chapter(.*?)_Summary\.md/);
       if (!fileMatch) continue;
-      
+
       const range = fileMatch[1];
-      
+
       // Calculate a start chapter for sorting
       let startChapter = 0;
       if (!range.toLowerCase().includes('prologue')) {
@@ -106,12 +122,26 @@ for (const seriesFolder of seriesFolders) {
       }
 
       const rawContent = fs.readFileSync(path.join(bookRawPath, file), 'utf-8');
-      
-      // Clean up AI metadata
-      let body = rawContent.replace(/\*?\*?Sentence Count Check:?\*?\*?\s*\d+/gi, '').trim();
+
+      // Strip AI sentence-count annotations — handles both:
+      //   **Sentence Count Check:** 15   (** closes before number)
+      //   **Sentence Count Check: 15**   (** closes after number)
+      let body = rawContent.replace(/\*{0,2}Sentence Count Check:\*{0,2}\s*\d+\s*\*{0,2}/gi, '').trim();
+
+      // Remove stray horizontal rules left by the AI
       body = body.replace(/^---\s*$/gm, '').trim();
 
-      // Clean up duplicate chapter titles (e.g. "### Chapter 1: Chapter 1" or "### [Chapter 1]: Chapter 1")
+      // Fix ALL CAPS heading titles → Proper Title Case
+      // Matches: ### 16: THE SILVER GUILLOTINE  or  ### Chapter 3: TITLE HERE
+      body = body.replace(/^(###\s+[^:\n]+:\s+)([A-Z][A-Z\s'",.-]{2,})$/gm, (match, prefix, title) => {
+        // Only convert if the title is genuinely all-caps (no lowercase letters)
+        if (title === title.toUpperCase()) {
+          return prefix + headingTitleCase(title.trim());
+        }
+        return match;
+      });
+
+      // Clean up duplicate chapter titles (e.g. "### Chapter 1: Chapter 1")
       body = body.replace(/###\s+(Chapter\s+\d+)[:\s-]+\1/gi, '### $1');
       body = body.replace(/###\s+\[(Chapter\s+\d+)\][:\s-]+\1/gi, '### $1');
 

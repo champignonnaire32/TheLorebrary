@@ -1,0 +1,54 @@
+### 6: Lighted Fliers
+Lee Scoresby visits a hotel in Nova Zembla to gather information about the missing explorer Stanislaus Grumman. A fur trader and a seal hunter describe Grumman as a man who was initiated into a Tartar tribe and became a shaman after having his skull drilled. Lee travels to an observatory where astronomers describe Grumman as an Englishman who studied ancient civilizations and the effects of Dust. A Skraeling agent of the Magisterium attacks Lee with an arrow, but Lee shoots him in the leg and then watches him die after the man refuses medical help. Lee retrieves the dead man's ring and decides to seek out Grumman’s tribe at the Yenisei River.
+
+Witch queens Serafina Pekkala and Ruta Skadi fly through a new world where they witness spectral forms called Specters attacking a group of travelers. The Specters are translucent entities that consume the souls of adults while ignoring children, leaving their victims in a catatonic, indifferent state. Serafina rescues a drowning child from a river and later meets a survivor named Joachim Lorenz who explains the history of his world. He describes the city of Cittàgazze and the Guild of the Torre degli Angeli, whose members created a way to travel between worlds. This process accidentally released the Specters, which have haunted and drained the vitality of the world for three hundred years.
+
+Joachim Lorenz informs the witches that troops of angels are currently traveling toward the North Pole. Ruta Skadi separates from Serafina to follow a cluster of lighted beings in the sky. She catches up with five tall, winged angels who explain they are following a call from Lord Asriel. The angels guide Ruta Skadi through an invisible gateway into another world where Lord Asriel is constructing a massive basalt fortress on a mountain range. The fortress is surrounded by fires and furnaces where workers create various flying machines and weapons for an upcoming war against heaven.
+
+**Sentence Count Check:** 15
+
+---
+
+### 7: The Rolls-Royce
+Lyra talks to children in Cittàgazze who explain that Specters were released hundreds of years ago by the Guild of the Torre degli Angeli. One boy claims a philosopher cut a piece of lead so small that it released the Specters, while others say they came from the stars. Lyra believes she saw a young man inside the stone tower and suspects he is Tullio, the older brother of Angelica and Paolo. She leaves a note for Will and travels through the window to Oxford to visit Dr. Mary Malone. Lyra discovers that police officers are already questioning Dr. Malone about her previous visit.
+
+Inside the laboratory, Lyra meets Inspector Walters and Sergeant Clifford, who question her about her origin and her knowledge of dark matter. Lyra lies and claims she is from Winchester and that her father is a physicist who studies the same subject. She accidentally mentions Will's name during the interrogation and immediately realizes she has compromised his safety. Lyra flees the physics building, narrowly escaping the inspector and a porter with the help of Pantalaimon. She hides behind a hedge until a dark blue Rolls-Royce pulls up and a man she recognizes from the museum offers her a lift.
+
+The man introduces himself as Sir Charles Latrom and offers to drive Lyra to Summertown while discussing the museum's skull collection. Lyra climbs past him to exit the car at a public library but realizes later that her rucksack feels lighter. She returns to Will in Cittàgazze and confesses that Sir Charles stole her alethiometer during the car ride. Will becomes angry that she compromised him to the police and warns her that a rich man like Sir Charles will have advanced security. They find a business card in the rucksack and decide to visit Sir Charles at his home in Headington to retrieve the device.
+
+**Sentence Count Check:** 15
+
+---
+
+### 8: The Tower of the Angels
+Sir Charles Latrom picks up Will and Lyra in his Rolls-Royce and admits he knows about the doorway between worlds. He reveals that he is aware of Will's real identity as William Parry and mentions the police are looking for him. Sir Charles shows them the alethiometer but locks it in a cabinet, refusing to return it unless they perform a task for him. He demands that they travel to the Torre degli Angeli in Cittàgazze and retrieve a specific knife from a man hiding there. Sir Charles explains that the knife is the only object the Specters fear and that it was created by the Guild.
+
+Will and Lyra enter the Torre degli Angeli and find it filled with old weapons and scientific instruments. They climb the stairs and encounter a young man named Tullio who is waving a knife at invisible targets in a mad dance. On the roof, they find an old man named Giacomo Paradisi who has been beaten and tied up by Tullio. Will engages in a violent struggle with Tullio, eventually kicking him toward a glass structure that shatters as Tullio falls down the stairs. During the fight, Will's left pinky and ring finger are severed by the knife's blade.
+
+Giacomo Paradisi treats Will's wound with ointment and plum brandy before declaring Will the new bearer of the subtle knife. He explains that the knife has two edges: one that cuts any material and another that cuts through the fabric of the universe to open windows between worlds. Will successfully practices opening a window into Oxford and then learns the technique for closing the gaps with his fingers. Giacomo explains that his predecessors created the knife to study the smallest particles of matter but accidentally released the Specters in the process. Tullio is attacked and drained by Specters outside the tower while his younger siblings watch in horror.
+
+**Sentence Count Check:** 15
+
+---
+
+### 9: Theft
+Will and Lyra return to the café where Will washes his wounds and dresses in new clothes stolen from local shops. Lyra ties a tight bandage around the stumps of his fingers to stop the persistent bleeding. Will entrusts Lyra with his father's airmail letters in case they are separated during their upcoming attempt to recover the alethiometer. They travel back toward Headington by moving through Cittàgazze and frequently cutting small windows to check their position. Will cuts through the iron bars of Sir Charles's garden fence to gain entry to the shrubbery.
+
+Will enters the study of Limefield House through a window in the air and hides behind a leather sofa. He discovers that the alethiometer has been removed from the display cabinet and is no longer in the room. Sir Charles enters the study with a guest who Lyra recognizes as her mother, Mrs. Coulter. The two adults discuss Lord Asriel's plan to wage war against heaven and the nature of the Specters in Cittàgazze. Mrs. Coulter explains that she uses intercised soldiers without dæmons to perform tasks because they are indifferent to fear and might be immune to Specters.
+
+Lyra throws stones at the study window from the garden to create a distraction for Will. Sir Charles and Mrs. Coulter move toward the broken window while Mrs. Coulter’s golden monkey dæmon searches the room. Will snatches the alethiometer from an octagonal table and retreats through his window just as the monkey attempts to follow him. The golden monkey pursues Lyra in the garden but is intercepted by the tabby cat they rescued earlier. The cat rakes the monkey's face with its claws, allowing Lyra to leap through the window to safety before Will seals the gap.
+
+**Sentence Count Check:** 15
+
+---
+
+### 10: The Shaman
+Lee Scoresby travels up the Yenisei River in a hired boat powered by a gas engine to locate Stanislaus Grumman's tribe. The river is swollen with floodwaters and filled with debris like tree trunks and drowned animals. Lee reaches the village and presents a bundle of smokeweed to the headman as a gesture of friendship. The headman informs Lee that the tribe has been expecting him to take Grumman to another world. Lee follows the headman to a ritualistic hut decorated with boar tusks and elk antlers in a forest clearing.
+
+Lee meets the shaman Jopari, who is revealed to be the gaunt and gray-streaked Stanislaus Grumman. Grumman explains that he was once an officer in the British army named John Parry before he accidentally crossed into Lyra's world. He became a shaman and a member of the Berlin Academy while searching for a way to return to his own wife and son. Grumman describes the nature of Dust and his belief that a great war is approaching that will decide the fate of all worlds. He tells Lee that they must find a powerful object called the subtle knife to protect the child who will change everything.
+
+Lee Scoresby agrees to help Grumman find the bearer of the knife and fly him to Lord Asriel’s camp. Grumman uses his shamanic powers to summon a wind that will carry Lee’s balloon toward the destination despite the dead calm air. They prepare the balloon for flight as the shaman performs a ritual involving the burning of herbs and the chanting of ancient songs. The osprey dæmon Sayan Kötör watches from Grumman's shoulder as the craft lifts off into the foggy sky. Lee realizes that the shaman is actually the father of the boy he met in the other world.
+
+**Sentence Count Check:** 15
+
+---

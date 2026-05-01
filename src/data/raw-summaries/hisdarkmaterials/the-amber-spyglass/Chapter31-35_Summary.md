@@ -1,0 +1,54 @@
+### 31: AUTHORITY’S END
+Mrs. Coulter and Metatron, the Regent of the Authority who appears as a towering winged angel once human, watch Lord Asriel from a high ledge. Metatron desires to destroy Lyra and possess Mrs. Coulter, leading him to follow her toward the abyss. Mrs. Coulter enters Lord Asriel’s camp alone and confesses her love for Lyra while they prepare a trap for the angel. Asriel confirms that Lyra is safe and her dæmon is protected by the ghost of John Parry. The two parents embrace one final time before Mrs. Coulter calls Metatron into their hiding place.
+
+Metatron appears and Lord Asriel immediately lunges at him, attempting to throw the angel to the ground. Mrs. Coulter joins the struggle by leaping onto the angel’s back and grabbing his hair. The angel batters Asriel with his fists and uses a rock to strike the man’s skull repeatedly. Asriel’s snow-leopard dæmon, Stelmaria, bites the angel’s leg while the golden monkey dæmon tears at the angel’s wings. Metatron manages to free one wing and crushes Mrs. Coulter against a nearby rock.
+
+Mrs. Coulter recovers and thrusts her fingers into the angel's eyes to blind him. Lord Asriel drags the blinded Metatron toward the edge of the abyss despite his own fading consciousness. The angel spreads his wings and lifts all three of them into the air above the void. Mrs. Coulter leaps from the cliff edge and throws her weight against the struggling group to ensure they fall. Asriel, Mrs. Coulter, and Metatron plummet together into the bottomless gulf as their dæmons vanish.
+
+**Sentence Count Check: 15**
+
+---
+
+### 32: MORNING
+Will and Lyra wake up on a wide golden prairie in the world of the mulefa. Lyra finds Will still asleep and notices the small grave they dug for the Gallivespians, Tialys and Salmakia. She walks down a slope to a nearby pond to wash the mud and blood from her body. Will eventually wakes up and uses the subtle knife to carve the names of the tiny spies into a headstone. They both realize their dæmons are missing but feel a sense of safety rather than the pain of separation.
+
+The children notice a group of creatures approaching them across the grassland on large wheels. These are the mulefa, four-legged beings with trunks and diamond-shaped skeletons who use seed pods as wheels. Lyra uses the alethiometer to confirm the creatures are friendly and are looking for Mary Malone. The leader of the group tells the children to ride on their backs and take them to Mary. They travel at high speeds along ancient roads made of smooth, hardened lava.
+
+The group arrives at a village of thatched houses where Mary Malone is waiting to greet them. Mary provides the children with cushions, rugs, and a meal of milk, nuts, and flatbread. While the children sleep, Mary explains to the mulefa that she saw their arrival in a dream. Later that evening, the mulefa take Mary to a nearby ridge to investigate a new opening in the hillside. Thousands of ghosts emerge from the opening, touch the air of the living world, and dissolve into the atoms of the universe.
+
+**Sentence Count Check: 15**
+
+---
+
+### 33: MARZIPAN
+Lyra wakes up in a thatched hut and puts on clean clothes provided by Mary Malone. She goes to the river to swim and searches for Pantalaimon, though he remains hidden. Will joins her after washing, and they spend the day helping Mary and the mulefa mend fishing nets. Lyra tells Mary the full story of her journey starting from the Retiring Room at Jordan College. Will then recounts his own experiences, including the death of his father on the mountaintop.
+
+Mary explains the biology of the mulefa and how their wheels depend on the lava roads and seed pods. She describes her own past as a nun and her transition into becoming a physicist. While eating with the children under the stars, Mary tells a story about a birthday party she attended at age twelve. She describes falling in love with a boy who put a piece of marzipan in her mouth. This memory caused her to realize she no longer believed in the doctrines of the Church.
+
+Mary recounts throwing her crucifix into the sea in Lisbon and leaving her religious order. She explains her current belief that good and evil are names for human actions rather than external powers. Lyra listens intensely and feels a new sensation of emotional awakening within herself as Mary speaks. Will asks if Mary misses God, and she admits that she misses the feeling of being connected to the universe. The group settles down for the night as a bird calls from the distant marshes.
+
+**Sentence Count Check: 15**
+
+---
+
+### 34: THERE IS NOW
+Mary couldn’t sleep and walks toward a grove containing a massive climbing tree. She hears the sound of wood snapping and watches as the great tree topples to the ground. Mary uses her amber spyglass to observe the sky and sees Dust leaking rapidly out of the universe. She realizes that openings made by the subtle knife have caused a three-hundred-year drain of consciousness. This flood of particles threatens to end all conscious life by leaving only brutish automatism behind.
+
+Mary returns to the village and notices a single creature approaching through the mudflats with the tide. She uses her spyglass to see a man dismounting from the back of a tualapi, a large white water bird. The man carries a rifle and begins searching the village houses with silent, athletic movements. Mary watches as the stranger enters her own hut and then pauses on the threshold. She stays hidden on the hillside and remains silent to avoid revealing Will and Lyra’s location.
+
+The man eventually leaves the village and glides away on the back of the white bird. Mary feels a profound sense of purpose and realizes she must help the children stop the leakage of Dust. She views the struggle of the wind, moon, and grass as a collective effort to hold back the flood. Matter itself appears to be fighting to retain the shadow particles that give the world meaning. Mary vows to tell the children what she has seen as soon as they wake.
+
+**Sentence Count Check: 15**
+
+---
+
+### 35: OVER THE HILLS AND FAR AWAY
+Lyra and Will tell Mary they are going to search the prairie for their missing dæmons. Mary warns them about the man with the rifle and packs them a cloth bag of food. The children walk across the savanna and discuss their futures and the possibility of returning home. Will expresses his need to return to his mother, while Lyra considers living with the gyptians. They spot their dæmons hiding in the branches of the fallen climbing tree and begin to play a game to lure them out.
+
+The children follow a stream into a shaded grove with a clearing of soft grass and mossy rocks. They sit by the water to eat and Lyra offers Will a piece of the red fruit. As they eat, they confess their love for one another and kiss for the first time. Meanwhile, Father Gomez follows their trail through the grass using his green-backed beetle dæmon to track their scent. He prepares to shoot Lyra, believing his mission is to prevent her from falling into original sin.
+
+The angel Balthamos appears and intercepts Father Gomez by seizing the man's beetle dæmon. Balthamos leads the priest away from the grove and drowns him in a stream during a struggle. The angel then dissipates into the air, his final task of protecting the children complete. Mary uses her spyglass and sees that the flood of Dust in the sky has finally stopped. Will and Lyra return to the village holding hands, appearing to Mary as beings saturated with living gold.
+
+**Sentence Count Check: 15**
+
+---

@@ -5,6 +5,11 @@ export interface SeriesMetadata {
 }
 
 export const seriesMetadata: Record<string, SeriesMetadata> = {
+  'His Dark Materials': {
+    author: 'Philip Pullman',
+    genre: 'Fantasy',
+    blurb: 'His Dark Materials is Philip Pullman\'s landmark fantasy trilogy set across multiple parallel worlds, following the fierce and headstrong Lyra Belacqua as she unravels a conspiracy involving stolen children, mysterious Dust, and the authoritarian power of the Magisterium. Beginning in an Oxford where humans are accompanied by animal-shaped soul-companions called dæmons, the series rapidly expands in scope to encompass armored polar bears, witches, knife-wielding travelers between worlds, and the very nature of consciousness and free will. Pullman draws openly from Milton\'s Paradise Lost, inverting the Christian myth of the Fall to argue that knowledge, experience, and moral autonomy are not sin but salvation. The trilogy is as philosophically dense as it is propulsively plotted, making it one of the few works of fantasy that genuinely rewards rereading for its ideas as much as its story. These recaps are essential before returning to its dense cast of characters and its intricate multi-world cosmology.',
+  },
   'Dune': {
     author: 'Frank Herbert',
     genre: 'Science Fiction',

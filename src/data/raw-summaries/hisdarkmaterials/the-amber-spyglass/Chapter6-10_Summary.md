@@ -1,0 +1,44 @@
+### 6: Preemptive Absolution
+Fra Pavel testifies before the Consistorial Court of Discipline about a prophecy regarding Lyra Belacqua. He explains that the child is the second Eve and her potential fall into temptation will determine the fate of all worlds. The Court learns that Will Parry possesses a knife capable of cutting between worlds and killing angels. Father MacPhail decides to send an assassin to kill Lyra before she can be tempted. Father Gomez is selected for this mission and begins his preemptive penance and absolution.
+
+The Chevalier Tialys and Lady Salmakia, Gallivespian spies, observe the Court's proceedings from the shadows. Gallivespians are humanoid beings roughly a hand span tall with poisonous spurs on their heels. Tialys uses a lodestone resonator to report the assassination plot to Lord Roke. Father MacPhail visits Dr. Cooper in the cellars to learn about the energy released during the severance of dæmons. The President intends to use this knowledge to destroy Dust entirely, even if it means destroying the Church.
+
+Father Gomez receives final instructions to follow the "tempter" to reach the child. The President provides him with documents about Mary Malone and the world she originates from. Gomez is granted preemptive absolution, ensuring his soul remains in a state of grace despite the impending murder. The Gallivespian spies prepare to follow the movements of the Church's forces. Lyra remains asleep in a cave while dreaming of her dead friend Roger. The Magisterium prepares a military force to accompany their mission to find the girl.
+
+**Sentence Count Check:** 15
+
+### 7: Mary, Alone
+Dr. Mary Malone travels through the world of Cittàgazze and observes the devastation caused by Specters. She uses the I Ching and yarrow stalks to seek guidance on her mission to find Will and Lyra. The divination leads her to a window in the air located near a limestone cliff. Mary steps through the opening and enters a new world characterized by a vast prairie and enormous trees. She observes herds of grazing creatures with diamond-shaped skeletons and four legs.
+
+Mary discovers large, circular seedpods that exude a fragrant oil and are immensely hard. She encounters the mulefa, a race of intelligent beings with trunks and diamond-shaped bodies that use seedpods as wheels. The mulefa communicate using a combination of vocal sounds and trunk movements. They possess a society with language, fire, and settlements made of wattle and daub. Mary introduces herself and learns the name of their race through vocal mimicry.
+
+The mulefa welcome Mary and offer her a ride on one of their backs to their settlement. She observes how they steer their wheels by leaning and use their lateral legs to propel themselves. At the village, Mary sees the mulefa engaged in tasks like fishing and repairing huts. She realizes that these beings are sapient and begins to compile a dictionary of their language. The mulefa are fascinated by Mary’s hands and her ability to perform tasks independently.
+
+**Sentence Count Check:** 15
+
+### 8: Vodka
+The angel Balthamos feels the death of his partner Baruch and expresses intense grief. Will Parry wakes up on the tundra and commands Balthamos to stay quiet and guide him to Lyra. They travel south and reach the village of Kholodnoye, where the buildings lean due to geological shifts. Will meets a priest named Semyon Borisovitch, who provides information about the local river and current events. The priest forces Will to drink vodka and speaks disparagingly of witches and bears.
+
+Will reaches a port town where he finds a conflict between the townspeople and armored bears. The townspeople are using a large gun to prevent the bears' ship from refueling. Will intervenes and challenges the bear leader to a contest to stop the fighting. He demonstrates the power of the subtle knife by easily slicing through the bear's iron helmet. The bear leader identifies himself as Iorek Byrnison and concedes the match to avoid the weapon.
+
+Will convinces the townspeople to honor their agreement and provide fuel to the bears. He uses his ability to become inconspicuous to avoid further attention from the crowd. Iorek Byrnison agrees to take Will upriver toward the mountains where Lyra is held. Will boards the river steamer and prepares for the journey into Central Asia. Balthamos assumes the form of a dæmon to remain close to Will.
+
+**Sentence Count Check:** 15
+
+### 9: Upriver
+Iorek Byrnison examines the subtle knife and recognizes its extraordinary craftsmanship and power. Will explains his mission to rescue Lyra and join Lord Asriel’s war against the Authority. The bears are migrating to the high mountains because the Arctic ice is melting and their food sources are vanishing. Iorek tells Will that he intends to serve the bears first and then assist Lyra and the witch Serafina Pekkala. The river steamer moves south, passing through flooded landscapes and approaching the Central Asian plateau.
+
+The Magisterium and Lord Asriel both learn Lyra’s exact location and begin mobilizing their forces. The Consistorial Court of Discipline dispatches a flight of zeppelins carrying a battalion of Swiss Guard. Their mission is to kill Lyra to prevent her from falling into temptation and spreading sin. Lord Asriel’s forces, led by King Ogunwe, also race toward the cave to protect the child. Tialys and Salmakia smuggle themselves onto the President’s zeppelin to spy on the Church's progress.
+
+The river steamer reaches a shallow point where it can go no further, and the bears disembark. Will and Iorek set out on foot toward the cave in the valley with the rainbows. Will demonstrates the knife's ability to open windows into other worlds for Iorek. They travel through forests and villages, with Will purchasing supplies like yak leather boots and a sheepskin waistcoat. Iorek hunts local prey and shares the meat with Will as they climb higher into the mountains.
+
+**Sentence Count Check:** 15
+
+### 10: Wheels
+Father Gomez arrives in the deserted city of Cittàgazze and questions two children named Angelica and Paolo. They describe Mary Malone as a woman who was unafraid of Specters and carried a large rucksack. The children inform Gomez that Mary went south toward the mountains several days ago. Gomez continues his pursuit, believing his sacred task protects him from the Specters. Meanwhile, Mary Malone becomes deeply integrated into mulefa society and learns their complex history.
+
+Mary discovers that the mulefa depend on the seedpod trees for their wheels and their cognitive development. The oil from the pods is absorbed through their claws and is essential for their wisdom and memory. The mulefa explain that the wheel-pod trees have been dying for many years due to a loss of virtue in the world. A fleet of tualapi, large white birds with sails for wings, attacks the mulefa settlement. The birds consume the food stores and destroy the village with their beaks and feet.
+
+The tualapi push most of the settlement's stored seedpods into the river, causing them to float away. Mary assists the mulefa by swimming into the river to recover five of the lost wheels. The mulefa are grateful because they cannot enter the water and would have lost the precious pods. Mary realizes that her presence and her unique abilities can help the mulefa survive their crisis. She continues to study the connection between the trees, the oil, and the concept of Dust.
+
+**Sentence Count Check:** 15

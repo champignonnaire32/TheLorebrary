@@ -1,0 +1,54 @@
+# HDM: Chapter 21 to Chapter 25_Summary
+
+### 21: THE HARPIES
+Lyra and Will wake up in the shanty town and prepare to head to the lakeshore with the Gallivespians. They encounter a giant, injured toad on the path but decide not to kill it. At the shore, Lyra's death bows to her and vanishes into the mist before they reach a decaying jetty. An ancient, battered rowboat emerges from the fog, piloted by an old man wrapped in sacking. The boatman tells Lyra that she must leave her dæmon, Pantalaimon, behind to cross into the land of the dead.
+
+Lyra is devastated and attempts to keep Pantalaimon with her, but the boatman explains it is a law of nature that cannot be broken. Will realizes that he must also leave a part of himself behind, though it is not visible like a dæmon. After a painful goodbye where Lyra forces Pantalaimon to stay on the muddy shore, she steps into the boat. The boatman rows them across the oily water as Lyra and Will experience a physical and mental agony from the separation. They eventually reach an island covered in dense cypress and yew trees that serves as the gate to the land of the dead.
+
+Upon landing, the travelers encounter harpies, which are vulture-sized birds with the faces and breasts of women. These creatures have aged, repulsive features and emit a putrescent stink while mocking the children's living status. Tialys and Salmakia attack a harpy named No-Name, but their spurs have no effect on the creature's physical form. Lyra attempts to distract No-Name by telling a complex lie about her parentage and a family shipwreck. The harpy recognizes the lie, attacks Lyra by tearing out a clump of her hair, and screams "Liar" repeatedly. Will cuts the lock on a wooden postern door with the subtle knife, and the group tumbles through into the realm of the ghosts.
+
+**Sentence Count Check:** 15
+
+---
+
+### 22: THE WHISPERERS
+Inside the wall, Will treats Lyra's scalp wound with bloodmoss ointment while she despairs over the failure of her lies. They find themselves on a vast, gray plain populated by millions of listless ghosts who emit a dull self-luminescence. The ghosts are fascinated by the living children and throng forward to feel the warmth of their blood and heartbeats. Lyra realizes the ghosts cannot be touched physically as her hands pass through their fog-like forms. The ghost children mistakenly believe the Gallivespians' dragonflies are dæmons and express a deep longing for their own lost companions.
+
+The ghosts explain that the harpies torment the newcomers by whispering their worst memories and shames to them. Lyra asks for help finding Roger, while Will seeks information about his father, John Parry. The harpies suddenly dive from the air, shouting filth and insults at the children to provoke fear. Will stands his ground and realizes the harpies cannot or will not physically touch him or Lyra if they remain unafraid. He orders Tialys and Salmakia to hold back, demonstrating that the creatures' primary power is psychological.
+
+A ghost girl offers to lead the travelers across the plain to find the people they seek. As they walk, the ghosts talk about their dæmons and how they vanished like candle flames at the moment of death. Tialys and Salmakia fly ahead and locate a ghost boy with an unhappy face who confirms he is Roger. They return to Lyra with the news that Roger is only an hour's walk away and knows she is coming. Lyra is energized by the prospect of the meeting, while Will forces himself to continue despite his physical exhaustion.
+
+**Sentence Count Check:** 15
+
+---
+
+### 23: NO WAY OUT
+Lyra finally comes face to face with Roger among the press of ghosts, but they cannot physically embrace. Roger admits he felt guilty for his death at the hands of Lord Asriel and feared Lyra would be angry with him. Lyra comforts him, explaining that she felt responsible for bringing him to the North in the first place. Roger describes how the harpies haunt the dead by whispering their bad thoughts and shames during dozing hours. Lyra tells Roger about the witch prophecy and her secret destiny to rescue all the ghosts from this realm.
+
+Tialys and Salmakia realize that Lyra’s plan to free the dead is the ultimate blow against the Authority’s power. Will attempts to use the subtle knife to open a way out but finds only solid rock in every world he probes. The harpies gather in the trees and threaten to make the land of the dead a hell if the travelers attempt an escape. Lyra sits on a dead tree root and begins telling the ghosts and harpies true stories about her life in Oxford. She describes the smells of the river, the texture of the clay pits, and the sounds of childhood wars in the mud.
+
+The harpies are nourished by the truth of Lyra's stories and agree to a bargain proposed by the Gallivespians. From now on, the harpies will guide the ghosts to an exit in exchange for the true stories of their lives. Lyra uses the alethiometer to confirm that the ghosts will dissolve into the atoms of the universe once they leave. A martyr ghost encourages the others to follow Lyra into oblivion to become part of the living world again. A monk ghost protests, claiming the realm is a paradise, but the majority of the dead choose to follow Will and Lyra.
+
+**Sentence Count Check:** 15
+
+---
+
+### 24: MRS. COULTER IN GENEVA
+Mrs. Coulter arrives in Geneva at night using the intention craft, a silent machine that responds to her thoughts. She hides the aircraft on a gully of the roof at the College of St. Jerome and enters through an attic. After making a formal appearance at the gatehouse, she demands to see Father MacPhail, the President of the Consistorial Court. MacPhail places her under arrest but listens as she provides information about Lord Asriel's forces and Lyra's location. Mrs. Coulter insults the priests for their obsession with sexuality and their poor hospitality while sipping weak chocolatl.
+
+Mrs. Coulter is locked in a guest room where she discovers Lord Roke, a Gallivespian spy, already hiding. Roke informs her that he is working for Lord Asriel and that the Church is preparing an anbaric device in the cellars. Brother Louis, a young priest, enters the room while Mrs. Coulter is asleep to steal a locket from her neck. The locket contains a curl of Lyra's hair, which the Church needs for their experimental weapon. Roke follows Louis to the President's office and observes MacPhail, Fra Pavel, and Dr. Cooper examining the hair.
+
+Dr. Cooper explains that the hair will be used in a resonating chamber to direct a bomb's force toward Lyra in another world. Lord Roke attacks Dr. Cooper on the stairs, knocking him unconscious and retrieving the envelope of hair. He returns the hair to Mrs. Coulter, but she realizes MacPhail has likely kept back a portion of the lock. Father MacPhail discovers the theft and orders the guards to take Mrs. Coulter to the cellars in chains. Lord Roke hides on top of a wardrobe and prepares to follow as the Church moves their operations to the mountains.
+
+**Sentence Count Check:** 15
+
+---
+
+### 25: SAINT-JEAN-LES-EAUX
+The Church transports their equipment to the generating station at Saint-Jean-les-Eaux during a violent sleet storm. Father MacPhail supervises the unloading of a massive bomb designed to use intercision to release a destructive energy. Mrs. Coulter is held captive on a zeppelin, but she manages to unlock her manacles with a key stolen by Lord Roke. Roke uses his poisonous spurs to incapacitate several guards and a sergeant before hiding in Mrs. Coulter's coat. Mrs. Coulter escapes into the rain-lashed darkness of the gorge, intending to stop the detonation.
+
+Father MacPhail decides to sacrifice himself by entering the intercision cage to provide the power for the bomb. A witch allied with the Church flies down and attempts to locate the hidden Mrs. Coulter and the Gallivespian spy. The golden monkey manages to reach the bomb's resonating chamber and begins unscrewing the clasp holding Lyra's hair. A seagull dæmon captures Lord Roke, but the spy stings the witch in the neck, causing them both to fall to their deaths. The witch's body lands near the bomb, and she whispers a warning about something else coming from the north.
+
+Mrs. Coulter grapples with the President to prevent him from closing the circuit, but he strikes her and enters the cage. The monkey successfully opens the glass door of the resonating chamber just as the silver blade of the guillotine descends. A single hair remains stuck to the clasp, and the bomb detonates, though its full effect is not immediately seen. Lord Asriel arrives in the intention craft, rescues Mrs. Coulter and her dæmon, and destroys the Church's zeppelin with a flame lance. The burning wreckage falls onto the bomb and the soldiers, and the entire mass is swept away by the cataract.
+
+**Sentence Count Check:** 15

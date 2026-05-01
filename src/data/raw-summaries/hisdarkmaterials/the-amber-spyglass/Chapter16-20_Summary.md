@@ -1,0 +1,52 @@
+### 16: The Intention Craft
+Mrs. Coulter is held captive in Lord Asriel’s adamant tower while he discusses the escaped children with his commanders. Lord Roke reports that Will and Lyra are in another world accompanied by Gallivespian spies. Mrs. Coulter claims the Church intends to kill Lyra to prevent her from falling into the same temptation as Eve. She manipulates King Ogunwe by weeping over her forced drugging of Lyra in the cave. Lord Asriel eventually allows her to stay after his council members advocate for her presence as a tactical expert.
+
+The group descends deep into the mountain to inspect the armory where massive automated hammers forge iron. King Ogunwe explains that the Gallivespians are a proud race who have long been persecuted by human servants of the Authority. The angel Xaphania reveals that the Authority is not the creator but a being who took charge of the worlds. Lord Asriel leads the party to a proving ground to witness a test of the Intention Craft. This six-legged machine has a glass canopy and operates based on the pilot's direct mental commands.
+
+Lord Asriel demonstrates the craft's combat capabilities by destroying a raiding party of decoy gyropters and aircraft. He allows Mrs. Coulter into the cockpit to explain how the pilot wears a helmet to transmit intent. Mrs. Coulter pushes Lord Asriel out of the craft and immediately takes off into the sky. Lord Roke leaps from his hawk into the cabin unnoticed by Mrs. Coulter as she flies away. Lord Asriel allows her to escape, predicting she will spy on the Consistorial Court for him.
+
+**Sentence Count Check: 15**
+
+---
+
+### 17: Oil and Lacquer
+Mary Malone constructs a mirror from sap lacquer to investigate the conscious particles known to the mulefa as sraf. She observes the mulefa exchange copper strips for their horns as wedding ornaments during her stay. Atal explains that sraf entered the mulefa blood thirty-three thousand years ago through the use of seedpod wheels. Mary coats a wood base with over forty layers of clear amber sap to create a hard surface. She uses a mineral acid to remove the wood backing and leaves a transparent sheet of varnish.
+
+She splits the lacquer sheet into two pieces and notices they produce a doubled image when held together. Mary applies the sweet oil from the mulefa wheel holes to the surface of the lacquer plates. Holding the oily plates a hand span apart allows her to see golden sparkles of sraf drifting through the air. The sraf appears as a swirling mist of intention that is particularly dense around conscious beings. Sattamax, an elderly mulefa with white hair, calls a meeting of fifty individuals to address Mary.
+
+Sattamax explains that the seedpod trees began to sicken three hundred years ago and produce fewer pods. The mulefa believe Mary’s swift, birdlike thinking can find a cure for the dying grove and the tualapi. Mary agrees to help the community after witnessing the beauty of the sraf through her new spyglass. She realizes that her ability to see the connections between the sraf and the trees is their only hope. Meanwhile, Father Gomez follows Mary’s trail through the mountains toward a remote farmhouse near a spring.
+
+**Sentence Count Check: 15**
+
+---
+
+### 18: The Suburbs of the Dead
+Lyra consults the alethiometer on a sand dune and learns that her life depends on the Gallivespian spies. She and Will decide to travel to the world of the dead to find Roger and Will’s father. Will demands a guarantee of trust and takes possession of the spies' lodestone resonator apparatus. The children find a farmyard in a new world where a man lies dead in the raspberry canes. Will uses the knife to cut an opening into a resistant, cloth-like space that leads to the same kitchen.
+
+Dirk Jansen, the ghost of the murdered farmer, appears in the kitchen and realizes he has died. He stumbles out of the house and joins a line of ghosts walking away from a burning village. Will and Lyra follow the group as the bright colors of the landscape begin to fade into gray. The kestrel-shaped Pantalaimon flies overhead and reports seeing thousands of dead people drifting across the plain. The Chevalier Tialys explains that the landscape is darkening because the ghosts are forgetting their former homes.
+
+The ghosts believe they are being drawn toward a place where the righteous will be separated from sinners. They trudge in silence under a dull iron-gray sky while the ground becomes a massive rubbish dump. The air grows heavy with the smell of sewage, acrid chemicals, and decaying vegetable matter. Tialys scouts ahead and finds a town that resembles a centuries-old refugee camp built from scrap materials. A thick cliff of mist rises above a body of water where birds cry in the distance.
+
+**Sentence Count Check: 15**
+
+---
+
+### 19: Lyra and Her Death
+An official in a tattered business suit stops Will and Lyra at the entrance to a mazy cluster of shanties. He gives them scraps of paper and tells them to wait in the holding area until they die. The children find a shanty town filled with living people who arrived there by accident or chance. Peter and Martha invite the travelers into their crowded shack for a meal of potato and meat stew. The family explains that every person is born with a personified death that accompanies them throughout their life.
+
+The deaths appear as pale, unremarkable figures in shabby clothes who stand politely along the walls. Lyra tells a series of elaborate lies about her and Will being rescued by wolves and sailing to Cathay. An ancient death lying in a heap of blankets advises Lyra to invite her own death to come close. Lyra takes Tialys outside to argue when he demands they turn back to Lord Asriel’s fortress. She offers her hand and dares the Chevalier to sting her with his poisonous spurs.
+
+Lyra’s own death appears as a kindly, smiling figure that has been hiding in the shadows. The death explains that dæmons vanish into the air while humans vanish under the ground at the moment of death. Lyra persuades her death to guide them to the jetty where the dead cross the lake. Tialys agrees to continue the journey despite his fear and anger at Lyra’s irresponsible behavior. Pantalaimon remains terrified and spends the night shivering and moaning at Lyra’s throat while her death watches over them.
+
+**Sentence Count Check: 15**
+
+---
+
+### 20: Climbing
+Mary Malone tests the strength of braided mulefa cords to prepare for a solo climb into the high tree canopy. She constructs a bow and arrows with leaf feathers to launch a thin line over a distant branch. Her first two attempts fail when the arrows snag or fail to reach the ground on the opposite side. Mary eventually secures a thick rope and creates a climbing harness out of three smaller braided lines. She uses short cord slings to create hand- and footholds as she ascends the massive trunk.
+
+She reaches the canopy in fifteen minutes and begins planning a route through the thickest part of the branches. Mary observes small off-white flowers that will eventually grow into iron-hard seedpods. She rests in a fork of the branches while looking out over the blue sea and the golden-brown prairie. The bamboo spyglass she constructed with the mulefa allows her to see the golden sparkles of the sraf wind. She notices that the sraf is no longer falling straight down as the ancient flowers were evolved to expect.
+
+A deeper, universal movement carries the sraf out toward the sea instead of into the upward-facing blossoms. Mary realizes that the trees are sickening because they can no longer filter the necessary sraf from the air. She climbs down to the speaking ground and informs Sattamax and the other mulefa of her discovery. The community agrees to help her build a stable treetop platform for overnight observations of the sraf currents. Meanwhile, Father Gomez finds a window into the mulefa world after searching for Mary near a remote spring.
+
+**Sentence Count Check: 15**
