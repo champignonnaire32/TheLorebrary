@@ -1,0 +1,7 @@
+# Project Panic Catchup - Disclaimer
+
+Welcome to Project: Panic Catchup. This project was born from my own need as an avid fantasy and sci ready of very looooong series. Sometimes we have to wait for a new installment. Other times we have read 2000 pages of a story and just need a break. And other times, life gets in the way. In any case, it is easy to forget so many of the characters, details and plot lines in these beloved stories. So I thought to create something to help us all out.
+
+My goal is to encourage reading, not skip it. This project is intended to support authors and is in no way meant to undermine their works. These novels are popular for a reason. Writers pour so much of themselves into their stories. So, these summaries are meant to be only brief and relatively soulless because they are NOT meant to replace actual reading. They are meant to reactivate the journeys that we readers have already gone on. Authors are the ones who write the soul into these works. Go support them by buying their works. And even better, support them while supporting your local book stores and libraries.
+
+*Every book page on this site includes direct purchase links to Bookshop.org and Barnes & Noble, as well as a reference to library access via Libby. These links are provided in good faith as part of this project's commitment to supporting authors and the broader book ecosystem.*
