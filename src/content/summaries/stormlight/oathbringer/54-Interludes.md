@@ -15,7 +15,7 @@ A flying Fused lifts Moash high into the air where the atmosphere is thin and co
 
 Moash admits he seeks vengeance against those he believes have failed the world. Leshwi offers him the chance to leave and join the human refugees fleeing to Kholinar. Moash walks through the conquered town and observes the orderly behavior of the occupation forces. He chooses to stay and returns to the lumberyard where his parshman crew is ostracized. Moash distributes wooden poles to the parshmen and begins training them to fight as spearmen.
 
-**Sentence Count Check: 15**
+**
 
 
 
@@ -26,7 +26,7 @@ The bridgemen discuss recent Voidbringer raids on caravans and ask Rlain for tac
 
 Drehy defends his own choices and Lopen argues that pursuing scholarly interests is not feminine. Kaladin reminds the men that their own transition to becoming lighteyed Radiants is upending all social norms. Rock notes that many members feel like they no longer fit in with the group. Sigzil, Skar, and Hobber admit to feeling like outsiders as the world changes around them. Kaladin sits with Rlain and asks him to describe the specific pain of his isolation.
 
-**Sentence Count Check: 15**
+**
 
 
 
@@ -37,7 +37,7 @@ The Stormfather brings the young Azish emperor, Yanagawn, into the vision at Dal
 
 The Almighty’s voice speaks through a soldier to deliver a recording about the Night of Sorrows. Soldiers from the keep flood onto the field and begin slaughtering each other to claim the abandoned Shards. Yanagawn vanishes from the vision as the highstorm ends in his physical location. Dalinar remains in the vision and discovers an old man in white and gold standing nearby. The figure reveals he is not the Almighty but is instead the god known as Odium.
 
-**Sentence Count Check: 15**
+**
 
 
 
@@ -48,7 +48,7 @@ Odium rejects the challenge and insists that Dalinar will eventually choose to f
 
 Odium hands Dalinar a waterskin and observes the violet-black fire burning deep within his own eyes. The god suddenly frowns and vanishes from the vision after sensing an unexpected presence. Lift emerges from behind the rocks and describes Odium as a creepy old man who smells wrong. She informs Dalinar that she will speak to Gawx about opening the Oathgate to Urithiru. Lift requests that Dalinar provide good food rather than military rations during their visit.
 
-**Sentence Count Check: 15**
+**
 
 
 
@@ -59,4 +59,4 @@ King Taravangian wakes up with a level of intelligence that allows him to solve 
 
 Venli leads nine listeners into the Everstorm to receive forms of power from the paternal voice of Odium. The storm’s red lightning facilitates the possession of the listeners by the souls of ancient singers known as the Fused. Demid is replaced by a Fused named Hariel, who flexes with dark violet Voidlight and speaks an ancient language. Ulim explains that the original personalities of the hosts are extinguished and that the listeners are now a subordinate class. Venli hides a small spren resembling a ball of light from the Fused to prevent them from destroying it.
 
-**Sentence Count Check: 15**
+**

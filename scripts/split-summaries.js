@@ -108,7 +108,7 @@ for (const seriesFolder of seriesFolders) {
       const rawContent = fs.readFileSync(path.join(bookRawPath, file), 'utf-8');
       
       // Clean up AI metadata
-      let body = rawContent.replace(/\*\*Sentence Count Check:\*\*\s*\d+/g, '').trim();
+      let body = rawContent.replace(/\*?\*?Sentence Count Check:?\*?\*?\s*\d+/gi, '').trim();
       body = body.replace(/^---\s*$/gm, '').trim();
 
       // Clean up duplicate chapter titles (e.g. "### Chapter 1: Chapter 1" or "### [Chapter 1]: Chapter 1")
