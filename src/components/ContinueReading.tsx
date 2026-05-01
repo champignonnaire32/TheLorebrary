@@ -63,6 +63,7 @@ export default function ContinueReading() {
           );
         })}
       </div>
+      <div className="w-full h-0.5 mt-4 bg-cream-200 dark:bg-ink-700" />
     </div>
   );
 }
