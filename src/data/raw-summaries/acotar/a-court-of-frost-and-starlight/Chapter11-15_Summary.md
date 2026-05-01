@@ -1,0 +1,57 @@
+### Chapter 11: Rhysand
+
+Rhysand arrives at the Spring Court manor and observes that the estate has fallen into total disrepair. Tamlin answers the door looking haggard and leads Rhysand into a dark, dusty library. The High Lord of Spring reveals that his sentries have abandoned him and he must hunt for his own food. Rhysand mocks Tamlin's failure to protect his borders and offers to send Illyrian patrols. Tamlin refuses the help and calls the Night Court warriors brutes.
+
+Rhysand reminds Tamlin that he betrayed Rhysand's mother and sister to his father and brothers centuries ago. He tells Tamlin that his current isolation and misery are a fitting punishment for his past actions. Tamlin refuses to engage in a physical fight and repeatedly orders Rhysand to leave the house. Rhysand winnows back to Velaris and confesses the details of the cruel encounter to Feyre. Feyre listens without judgment and encourages Rhysand to focus on his own happiness instead of his rage.
+
+Rhysand visits a jewelry shop near the Palace of Thread and Jewels to purchase Solstice gifts. He meets Neve, a member of the Tartera race who are master jewel smiths wrapped in permanent shadows and dwell in deep mountain mines. Neve shows him several large gemstones with delicate settings intended for Amren's collection. Rhysand decides to purchase all three pieces to show his appreciation for Amren's sacrifices. He continues to fret over finding a suitable gift for Feyre as the holiday approaches.
+
+Sentence Count Check: 15
+
+---
+
+### Chapter 12: Feyre
+
+Cassian dumps a large pile of pine boughs in the town house foyer to serve as traditional Night Court decorations. Feyre and Cassian drink several bottles of Rhysand’s expensive wine while attempting to hang garlands and wreaths. Azriel arrives and begins cleaning up the mess they made while Mor and Amren join the group. Amren wears a white fur coat that makes her look like a snowball and mentions Varian’s upcoming visit. The group discusses Nesta’s refusal to participate in family events or visit their father’s memorial stone.
+
+Elain works in the kitchen with the half-wraith twins Nuala and Cerridwen to prepare a large rosemary potato and chicken dinner. She expresses her frustration to Feyre about Nesta’s growing distance and refusal to acknowledge their new lives. During the meal, Amren complains about the physical inconveniences of her new High Fae body, such as needing to use a toilet. Azriel shows unusual protectiveness toward Elain by taking a heavy serving dish from her hands. The conversation turns somber when Amren tells Elain that there is no returning to a human life.
+
+Feyre decides to seek out Nesta after dinner and asks Rhysand to help locate her sister using his powers. Rhysand winnows Feyre to a seedy part of the city near a tavern called the Wolf's Den. Feyre enters the establishment alone to avoid making Nesta feel cornered by the High Lord's presence. She finds Nesta sitting at a back table gambling with a group of wealthy High Fae males. The sisters stare at each other in silence while a band plays music in the background.
+
+Sentence Count Check: 15
+
+---
+
+### Chapter 13: Feyre
+
+Feyre observes that Nesta has grown thinner and sharper since the war ended but remains immaculately clean. She approaches the table where Nesta is playing cards and dismisses the three male companions. The golden-haired male and his friends retreat to the bar while the sisters face each other. Feyre asks why Nesta refused Elain’s dinner invitation and why she chooses to patronize such miserable taverns. Nesta remains cold and claims she preferred to listen to the tavern's musicians instead of seeing her family.
+
+The sisters engage in a tense standoff of silence while Rhysand monitors Feyre through their mental bond. Feyre attempts to reason with Nesta by mentioning their father, which triggers a flash of undiluted rage in her sister. Nesta bared her teeth and ordered Feyre to leave the tavern immediately. Feyre rises to go but is stopped when Nesta mentions that her rent is due the following week. The High Lady realizes that Nesta is effectively asking for a bribe to attend the Solstice party.
+
+Feyre agrees to pay the rent on the condition that Nesta shows up for the holiday celebration. She feels the weight of her sister's hostile gaze as she walks through the crowded room toward the exit. The encounter leaves Feyre feeling shaken and disappointed by the lack of progress in their relationship. She leaves the Wolf's Den and returns to Rhysand, who is waiting for her in the cold street. They fly back to the town house while the city continues its festive preparations.
+
+Sentence Count Check: 15
+
+---
+
+### Chapter 14: Rhysand
+
+Rhysand and Mor walk through the ruins of Velaris’s southeastern estates that were destroyed during Hybern’s attack. They discuss the fact that many wealthy families have no plans to return to their ancestral homes. Mor reveals that she still feels the trauma of her father Keir’s past betrayals and his current political maneuvering. Rhysand explains that he must allow Keir to visit the city in the spring to honor their wartime bargain. He promises Mor that Cassian and Azriel will provide strict security during the visit of the Darkbringers.
+
+The Darkbringers are the elite warriors from the Court of Nightmares who fought alongside the Night Court during the war. Rhysand asks Mor to serve as his emissary and travel to other lands to restart stalled treaty negotiations. He explains that Azriel can infiltrate courts, but Mor is better suited to winning over potential allies. Mor worries that leaving the city will make it look like she is hiding from her father. Rhysand insists that the choice is hers and that he will support whatever decision she makes.
+
+They watch ice floes drift down the Sidra river as the sun sets over the damaged city. Mor looks toward the eastern continent and wonders what new challenges and territories await her there. Rhysand acknowledges that the peace they fought for is fragile and requires constant diplomatic maintenance. He realizes that Mor has been confined within the Night Court borders for too long and needs a change of scenery. They finish their walk in silence, each contemplating the political burdens of their leadership roles.
+
+Sentence Count Check: 15
+
+---
+
+### Chapter 15: Feyre
+
+Feyre and Elain go shopping in Velaris to find Solstice gifts and clear their heads after the encounter with Nesta. They visit a weaver’s gallery where Feyre discovers a unique tapestry depicting the Night Court insignia. The weaver explains that the black background is a fabric called Void, which absorbs all light. She uses iridescent thread called Hope to weave the stars, symbolizing the light that remains after loss. Feyre is deeply moved by the woman’s story of losing her husband in the battle for Adriata.
+
+Feyre purchases the tapestry for herself and then spends several hours painting in an abandoned art studio. An artist named Ressina, a green-skinned faerie, discovers Feyre and explains that the studio belonged to a deceased friend. Feyre realizes that painting helps her process her own trauma and considers opening a school for other survivors. She shares this idea with Rhysand, who encourages her to follow her creative instincts to help the city heal. Feyre then visits Amren’s apartment and finds her working on a massive 5,000-piece jigsaw puzzle.
+
+Amren reveals that Varian of the Summer Court is out buying her more jewelry for the holiday. Feyre asks Amren for advice on how to handle Nesta’s self-destructive behavior and isolation. Amren refuses to betray Nesta’s confidence but admits that the elder sister visits her loft every few days. She advises Feyre to give Nesta more time and space to sort through her issues as an immortal. Feyre leaves the apartment feeling unsatisfied but accepts that she cannot force her sister to change.
+
+Sentence Count Check: 15

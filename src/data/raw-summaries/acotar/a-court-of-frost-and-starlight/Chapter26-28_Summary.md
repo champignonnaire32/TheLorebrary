@@ -1,0 +1,45 @@
+### Chapter 26
+
+Rhysand observes six Illyrian girls training with daggers in the ring at Windhaven. Devlon gives the girls simple orders while keeping the powerful Illyrian bows out of their reach. Rhysand stays at the end of the sparring rings with Cassian and Azriel to watch the session. The youngest girl in the group is twelve years old and the eldest is sixteen. Several other girls are absent because they left with their families for the Solstice holiday.
+
+Azriel and Cassian discuss a list of potential troublemakers within the Illyrian camps. They identify Kallon, the son of a camp lord, as a primary instigator of dissent against Rhysand and Cassian. Azriel suggests that accidents often occur in the sky, implying a potential way to deal with Kallon. Cassian rejects the idea of tampering with the Rite to remove his rivals. The Illyrian males keep a distance from the training females during the afternoon session.
+
+Azriel’s shadows twine around him as the camp women hide inside their homes at his appearance. Rhysand notes that Azriel still wears Illyrian leathers and maintains his tattoos despite his complicated history. Cassian remains distant and silent while reflecting on the progress of the female training program. Rhysand encourages Cassian by stating that the current progress represents a good sign for their future. The three brothers leave the training ring as the fresh snow from the recent storm glitters.
+
+Sentence Count Check: 15
+
+---
+
+### Chapter 27
+
+Feyre and Ressina stand inside their new art studio wearing paint-splattered sweaters and shearling-lined boots. They chose to paint the main studio walls white to better display the artwork of their students. The back room of the building features walls painted in bright shades of green, pink, red, and blue. Feyre hangs a black tapestry representing the Void on one wall of the gallery space. Ten easels and stools are arranged in a circle in the middle of the floor.
+
+Ressina and Feyre wait nervously for the first group of students to arrive at eleven in the morning. Ten children of both High Fae and faerie descent eventually enter the studio accompanied by their guardians. Feyre previously asked Ressina to help her plan the design of the new river-house estate. The studio serves as a place for children who endured horrors during the war to express themselves. Potential instructors from the Rainbow district have already offered to teach various classes at the facility.
+
+The art classes are provided for free to all families regardless of their ability to pay for supplies. Feyre intends to teach one class per day while managing her responsibilities as High Lady. Ressina and the weaver Aranea are also scheduled to lead separate instructional sessions for the children. Many parents inquire about the cost and start date of the program during the opening hour. Feyre smiles at the gathered families as the sunny room fills with new students and their parents.
+
+Sentence Count Check: 15
+
+---
+
+### Chapter 28
+
+Rhysand waits at the studio door an hour and a half later to walk Feyre home for lunch. He smiles at the families and children as they exit the gallery following the first class. Blue paint streaks Feyre’s hair and fingers while Ressina cleans red paint off her face in the back room. Feyre shows Rhysand a painting by a young faerie whose parents were killed in a recent attack. The artwork depicts red paint and vicious figures with teeth and claws reaching from the sky.
+
+Feyre decides to keep the grim painting for her future office to ensure the tragedy of the war is not forgotten. Another painting shows a boy’s memory of a future where his parents live in a doghouse while he owns a puppy. Rhysand helps Feyre with her coat and kisses her before they step out into the cold afternoon. They walk together through the Rainbow district as artists and shoppers wave at the High Lord and High Lady. Feyre tells Rhysand down their mental bond that she is grateful for her life and his presence.
+
+Rhysand weeps openly in public after hearing Feyre’s confession of happiness and love. He promises Feyre that they will face all future threats, including the human queens and Illyrians, together. They pass the town house and head toward the new riverfront estate where they now reside. Rhysand kisses Feyre again and repeats the traditional toast to the stars who listen and dreams that are answered. The couple turns down the street to continue their walk home toward their shared future.
+
+Sentence Count Check: 15
+
+---
+
+### Bonus Scene: Nesta and Cassian
+
+Nesta Archeron experiences a flashback of the moment she was shoved into the Cauldron by the King of Hybern. She remembers pointing a finger at the king as a death-promise just before the black water devoured her. In the present, Cassian arrives at Nesta’s dilapidated apartment in Velaris at seven in the morning. He finds her living in squalor with peeling paint, four locks on the door, and a random male in her bedroom. Cassian informs Nesta that Feyre requires her presence at the new river-house for a meeting at eleven.
+
+Nesta bathes in a leaky tub and eventually follows Cassian through the city to the opulent new estate. She wears two-day-old clothes and wine-stained shoes as she enters the marble hall of the riverfront palace. Feyre, Rhysand, and Amren wait for her inside a wood-paneled study filled with oak bookshelves and velvet furniture. Amren insults Nesta’s appearance and criticizes her for spending gold marks on excessive wine and casual encounters. Rhysand uses his power to command Nesta to sit down and listen to the group’s discussion.
+
+Feyre admits she failed to help Nesta after the war and declares that significant changes must occur immediately. She informs Nesta that she is being kicked out of Velaris because of her destructive behavior. Nesta realizes there are no portraits of her in the new house and feels the sting of the rejection. Feyre reveals that the group wants Nesta to leave the city to improve her mental state. Cassian announces that Nesta will be traveling with him to the Illyrian Mountains to live and train.
+
+Sentence Count Check: 15
