@@ -1,0 +1,52 @@
+### 1: Part One - Chapter 1
+Violet Sorrengail wakes up in the hidden city of Aretia three days after being stabbed by a venin at Resson. Her brother Brennan, who was presumed dead for six years, is revealed to be alive and serving as a Lieutenant Colonel in the revolution. Aretia is a fortress city built into a mountainside that has been covertly rebuilding despite being officially recorded as destroyed. Violet discovers that the venin are real and that the revolution has been operating under General Melgren's nose for years. Xaden Riorson is a key leader in this movement and is present at an Assembly meeting where Violet overhears plans for the cadets to return to Basgiath.
+
+The Assembly consists of riders who manage the revolution's logistics and strategy while remaining undetected by the Navarrian government. Violet learns that the revolution is desperately short on weapons and needs a luminary to forge alloy capable of killing venin. Xaden reveals that he has taken responsibility for Violet, effectively tying his life to hers through the custom of the revolution. Members of the Assembly, including a woman named Suri, express deep distrust of Violet because she is General Sorrengail's daughter. Brennan defends Violet by pointing out that her death would also kill Tairn and Xaden due to their bonded status.
+
+Violet confronts the Assembly, asserting her loyalty and pointing out that she has already kept numerous secrets and fought at Resson. Felix, a more rational member of the Assembly, warns Violet that she now has powerful enemies at Basgiath, specifically Colonel Aetos. Xaden dismisses the meeting and urges Violet to talk to Brennan while they prepare to leave for the dragon valley. The valley above Riorson House is a thermal hatching ground for the Dubhmadinn Line, home to both Tairn and Codagh. Violet remains behind to speak with the brother she has mourned for six years as the other cadets depart.
+
+**Sentence Count Check:** 15
+
+---
+
+### 2: Chapter 2
+Brennan admits to Violet that faking his death was the only way to join the revolution and escape Navarre's restrictive leadership. He reveals that his dragon Marbh survived alongside him, saved by Naolin, Tairn’s previous rider, who died or was lost in the process. Violet learns that the venin have expanded significantly from the Barrens, moving northwest toward Navarre’s borders. Brennan explains that wyvern are artificially created constructs powered by the venin themselves rather than natural creatures. The revolution predicts that Navarre has less than six months before the venin are strong enough to launch a full-scale invasion.
+
+The Navarrian leadership has systematically erased history to hide the existence of venin and the true nature of the wards. Brennan explains that Aretia possesses a dormant wardstone, but the knowledge of how to activate or create new wards has been lost for centuries. Violet suggests that the Archives at Basgiath might still hold the secrets to activating the wardstone, though Brennan views the Archives as enemy territory. The revolution's current strategy focuses on finding a ancient weapon that killed the venin six centuries ago during the Great War. Brennan refuses to give Violet specific details about the revolution's numbers until she masters shielding her mind from memory readers.
+
+Violet finds Andarna in the valley and is shocked to see that the dragon has grown into an adolescent and turned black. Tairn explains that the energy usage in Resson forced Andarna's accelerated growth, and she must now enter a Dreamless Sleep to finish. Adolescent dragons are notoriously temperamental and lack fire-breathing capabilities until they mature further. The eight cadets decide to return to Basgiath to prevent the execution of other marked ones and maintain access to the forge. They plan to arrive in forty-eight hours to coincide with the Riders Quadrant graduation ceremony. Xaden promises to train Violet in mental shielding so she can protect the revolution's secrets from Dain Aetos.
+
+**Sentence Count Check:** 15
+
+---
+
+### 3: Chapter 3
+The riot returns to Basgiath under the cover of darkness to avoid detection and ensure Andarna reaches the Vale safely. Tairn explains that the Empyrean only agreed to bond with humans to protect their hatching grounds from the venin threat. Violet and Xaden walk back toward the quadrant while discussing the necessity of telling selective truths to survive. Xaden expresses his desire to kill Dain Aetos but agrees to let Violet handle her former friend first. They find the quadrant relatively normal, as the news of the battle at Resson has been suppressed by leadership.
+
+Violet and Xaden slip into Liam Mairi's room to retrieve his letters before his belongings are burned in the traditional offering to Malek. They encounter Rhiannon and Ridoc, who are relieved to see them alive but mourning the reported deaths of the others. Violet entrusts Liam's letters to Rhiannon, asking her to hide them from the cadre. Xaden takes Violet to the rotunda and warns her that she must compartmentalize the truth to protect her friends. He admits he has known Brennan was alive since the incident at Aretia six years ago.
+
+Xaden explains that he will answer any question about himself but warns that he will always have secrets as a revolutionary leader. Violet issues an ultimatum, demanding full disclosure and total honesty from Xaden or she will end their romantic involvement. Xaden remains confident, noting that he spent months trying to stop his feelings for her without success. The bells signal formation, and the group prepares to face the leadership and the rest of the quadrant. They walk out into the courtyard together, interrupting the reading of the death roll where their names were about to be listed.
+
+**Sentence Count Check:** 15
+
+---
+
+### 4: Chapter 4
+Xaden leads the group of eight survivors across the courtyard to confront the leadership on the dais. Captain Fitzgibbons drops the death roll in shock as the cadets they believed were dead reappear in the quadrant. General Sorrengail displays a brief moment of pride and relief, confirming she was not involved in Colonel Aetos's plot. Xaden publicly accuses Colonel Aetos of sending them into a deadly combat situation under the guise of War Games. The Colonel attempts to label them as deserters, but the presence of the general forces a more formal inquiry.
+
+Xaden delivers a fabricated account, claiming they were attacked by gryphons at a lake near Athebyne. Violet supports the lie, describing the deaths of Liam and Soleil and her own near-fatal poisoning. She claims they found Athebyne deserted and were forced to seek help elsewhere before returning to Basgiath. General Sorrengail discovers that Colonel Aetos emptied a strategic outpost for his games and orders him to her office. She accepts the cadets' story and directs them to resume their places in the formation for graduation.
+
+Colonel Aetos threatens Violet and Xaden privately, but Xaden reminds him that General Melgren cannot verify the truth due to the rebellion relics. Xaden publicly humiliates Dain Aetos, warning him never to touch Violet again and mentioning the word Athebyne as a threat. The graduation ceremony concludes with the third-years, including Xaden and Garrick, being commissioned as lieutenants in the Navarrian army. Violet realizes with dread that Xaden will be departing for his new duty station by the following morning. The first-years are officially promoted to second-years, but the joy is tempered by the arrival of a new vice commandant, Major Varrish.
+
+**Sentence Count Check:** 15
+
+---
+
+### 5: Chapter 5
+The Riders Quadrant celebrates the end of the year with a raucous party in the gathering hall. Violet and her squadmates discuss the new privileges of being second-years, including the possibility of leave to the village of Chantara. Rhiannon and Ridoc note the statistical reality that many of them will not survive the coming year's training. Imogen publicly drinks to Liam's memory, breaking the unwritten rule against naming the dead after graduation. Violet feels a deep sense of guilt and isolation as she realizes she can no longer be entirely honest with her friends.
+
+Xaden finds Violet in the hall and asks her to walk with him as he prepares to leave for his new post. He maintains his boundary regarding secrets, telling Violet she must have the courage to ask the specific questions she wants answered. They encounter Colonel Aetos and the new vice commandant, Major Varrish, in the rotunda. Varrish is introduced as a leader assigned to "tighten the ship" and restore strict discipline to the quadrant. The Colonel reveals that he has been reassigned to a coastal outpost by General Sorrengail as punishment for his failures.
+
+Violet and Xaden receive their official orders, which contain highly restrictive conditions for their future meetings. Xaden is being sent to the front lines at a southern wing, far from the safety of the inner provinces. Their orders stipulate that they may only see each other once every fortnight for two days of flight leave. This arrangement is designed to inflict maximum emotional and physical pain on their mated dragons, Tairn and Sgaeyl. Colonel Aetos leaves them with a final warning that secrets die with those who keep them.
+
+**Sentence Count Check:** 15

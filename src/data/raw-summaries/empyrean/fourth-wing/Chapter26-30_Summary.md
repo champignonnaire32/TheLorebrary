@@ -1,0 +1,52 @@
+### Chapter 26: Chapter 26
+Violet and her squad arrive at the Montserrat forward outpost for a weeklong tour of the eastern border. Rhiannon realizes her home village is less than an hour away and asks Violet to help her sneak out. Major Quade gives the cadets a tour of the fortress, which is designed to withstand a long siege. Violet unexpectedly reunites with her older sister, Mira, who is stationed at the outpost as a rider. Mira notices Violet's physical changes and the new scars she has gained during her time at Basgiath.
+
+Violet, Rhiannon, and Mira sneak out of the fortress at night to visit Rhiannon's family in their village. Mira catches them but decides to accompany them to ensure their safety instead of reporting the violation. At the village, Rhiannon meets her newborn nephew and reunites with her sister, Raegan, and her parents. Mira reveals she was recently injured by a gryphon, a large winged creature with a lion's body and an eagle's head. Violet admits she suspects the borders are more dangerous than the official Battle Briefs suggest to the cadets.
+
+Mira warns Violet that her power is her own and she should not let her mother's expectations influence her signet. Mira also mentions that she has the "Book of Brennan" and will give it to Violet at the outpost. Violet expresses her concern about her inability to maintain her seat on Tairn without using magical bands of power. As the sisters leave the village, Xaden Riorson steps out of the shadows to confront them. Xaden explains that he followed Violet because Sgaeyl cannot be separated from Tairn for more than three days.
+
+**Sentence Count Check:** 15
+
+---
+
+### Chapter 27: Chapter 27
+Mira leads a battle strategy session where the cadets simulate retaking a keep from enemy gryphon riders. Xaden uses his mental link with Violet to speak directly into her mind for the very first time. Dain objects to the exercise, arguing that cadets are not supposed to see active service until after graduation. Xaden demonstrates his signet by filling the room with total darkness using shadows summoned from beneath the furniture. The session concludes with a discussion about how to use various signets in unison to achieve a military objective.
+
+Mira pulls Violet, Xaden, and Dain aside to reprimand them for the tension within their squad. She warns Violet that Xaden might be using her to get revenge on their mother, General Sorrengail. Violet admits to Mira that she still cannot stay in her dragon's saddle during complex combat maneuvers. Mira is horrified by this revelation and tells Violet she must learn to ride or she will die. Suddenly, the outpost's alarm sounds as a group of gryphon riders approaches and the protective wards fail.
+
+Mira orders Violet to flee the outpost on Tairn because she is too vulnerable without a stable seat. Violet attempts to stay and fight, but Xaden hauls her toward the turret to mount her dragon immediately. Dain agrees with Xaden, insisting that the first-year cadets must be evacuated to safety to avoid slaughter. Xaden kisses Violet recklessly before forcing her onto Tairn's back as the enemy gryphons arrive at the walls. Violet watches from the air as a dozen gryphons descend upon the Montserrat fortress while she retreats.
+
+**Sentence Count Check:** 15
+
+---
+
+### Chapter 28: Chapter 28
+Violet waits outside Professor Markham's office in Basgiath for news about the survivors of the Montserrat attack. Markham eventually confirms that the outpost sustained heavy damage but no riders were killed during the raid. Xaden admits to Violet that he has been unable to sleep since his father's execution six years ago. He also reveals that he has been studying Violet's every move since her first day on the parapet. Violet begins practicing mental communication with Xaden and successfully projects her own thoughts to him for the first time.
+
+The War Games begin, and Fourth Wing is tasked with capturing a crystal egg from First Wing's defense. Xaden presents Violet with a custom-designed saddle featuring straps and stirrups to secure her to Tairn's back. During the flight, Violet realizes the saddle allows her to perform high-speed dives without any fear of falling. She spots the hidden outpost where First Wing is guarding the egg and alerts Xaden to the location. Jack Barlowe suddenly attacks Liam Mairi's dragon, Deigh, and stabs Liam through the side with a sword.
+
+Liam falls from his dragon, and Violet uses Andarna’s time-stopping ability to freeze the world and catch him. After handing the wounded Liam to Rhiannon, Violet confronts Jack on top of a stone tower. Violet's signet finally manifests as she channels a massive bolt of lightning from the clear sky. The lightning strike destroys the tower and sends Jack Barlowe falling to his death on the rocks. Tairn confirms that Violet is a lightning wielder, which is one of the most powerful signets in existence.
+
+**Sentence Count Check:** 15
+
+---
+
+### Chapter 29: Chapter 29
+Violet lands in the flight field and is immediately overcome by the guilt of killing Jack Barlowe. Tairn and Andarna provide emotional support as Violet experiences a physical reaction to the stress of the battle. Fourth Wing celebrates their victory in the War Games after successfully capturing the egg and the flag. Violet confirms to Dain that she is the one who struck the tower with the lightning bolt. She expresses horror at the realization that she has become a killer just like her mother.
+
+Xaden pulls Violet away from Dain and insists that she should be proud of her actions today. He explains that Jack was a lethal bully and that Violet saved countless lives by ending his life. Violet laments that her signet is a destructive weapon rather than a healing power like mending or shielding. Xaden reminds her that power like hers is necessary to defend the kingdom and its innocent civilians. He tasks Rhiannon with taking Violet back to the citadel while he stays to manage the aftermath.
+
+Tairn encourages Violet to feel her guilt but ultimately let it go so she can continue her training. Rhiannon questions Violet about how she moved fast enough to catch Liam, but Violet keeps Andarna's secret. Back in her room, Violet practices throwing daggers at a target to vent her frustration and anger. She wonders if her soul has been permanently broken by the act of taking another human life. Xaden enters her room, noticing she is not wearing her protective armor for the first time tonight.
+
+**Sentence Count Check:** 15
+
+---
+
+### Chapter 30: Chapter 30
+Xaden tells Violet that he came to her room because he could not stay away from her. Violet admits she is angry that killing Jack has changed her internal nature into something more destructive. Xaden argues that Violet still has agency and can choose how to use her new destructive power. He offers to let her hit him or scream at him to release her built-up emotions. Violet chooses to kiss him instead, and they move against the door as the sexual tension breaks.
+
+Xaden captures Violet's wrists and warns her that he is the last thing she needs right now. They engage in a heated kiss, and Xaden hauls Violet onto her desk, knocking items to the floor. Xaden expresses his intense attraction to Violet and admits he can barely think when she is near. He attempts to remain honorable, but Violet insists that she wants to feel something other than her guilt. They continue their encounter on the desk as Xaden uses his hands to bring Violet to her first climax.
+
+Violet's lightning power flares during the act, reflecting her loss of control over her new signet. They move to the armoire, which eventually breaks under their weight and Xaden's summoned shadows. A stray bolt of lightning charrs the window curtains as they continue their intense intimacy in the room. Xaden takes Violet to the floor, where they finally complete their sexual encounter as the storm rages. The chapter ends with Violet feeling a sense of connection and release after the day's traumatic events.
+
+**Sentence Count Check:** 15

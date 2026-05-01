@@ -1,0 +1,52 @@
+### 41: Chapter Forty-One
+Violet arrives at the Cordyn palace and discovers Xaden is familiar with the luxuriously appointed estate. She meets Viscount Tecarus, a noble who expresses a disturbing fascination with her ability to manifest lightning. Catriona (Cat) is a flier with flawless features and the ability to heighten the emotions of those around her. Xaden admits he was terrified of losing Violet to Tecarus’s collection and apologizes for trying to cage her. During a tense formal dinner, Cat heightens Violet’s insecurities until Xaden intervenes with a public display of affection.
+
+Xaden explains that Cat is an exceptionally powerful flier who can influence the feelings of those around her. Violet struggles to maintain her emotional shields while navigating the intricate social traps set by the Cordyn nobility. Tecarus refuses to discuss the luminary until Violet demonstrates her signet in a specially constructed outdoor arena. The group moves to the marble stadium as a storm approaches, and Violet prepares to strike an iron target. Xaden reveals that the target is a priceless chest belonging to his late father.
+
+When the chest doors burst open, a prisoner emerges and begins to drain the life from the nearby guards. Violet recognizes the creature’s distended red veins and realizes she is facing a venin. The guards are thrown aside as the dark wielder laughs and prepares to attack the sisters. Tairn roars in Violet's mind, pulling her back from the traumatic memories of the battle at Resson. Xaden shouts a warning from the stands as the venin focuses its hunger on the dragon riders.
+
+**Sentence Count Check:** 15
+
+---
+
+### 42: Chapter Forty-Two
+The venin drains a guard to death while Violet struggles to focus her lightning strikes in the driving rain. Mira attempts to create a protective shield, but her power is weakened because they are outside the Navarrian wards. Brennan joins his sisters on the field and helps them identify the venin's movements through the storm. Violet realizes that only daggers with alloy hilts can actually kill the dark wielder. The venin hurls the heavy iron Rybestad chest, a runed container that suspends items in midair, at the siblings.
+
+Mira manages to manifest a small shield that protects the group from the venin’s attempt to drain the ground’s magic. The effort nearly causes Mira to burn out, and she collapses as the surrounding grass shrivels to dust. Violet uses her remaining alloy-hilted daggers to pin the venin’s feet to the muddy arena floor. She then releases a massive torrent of lightning into the water-slicked arena, electrocuting the dark wielder through the conductive surface. Tairn arrives to retrieve the survivors as the dragons take defensive positions to intimidate the Cordyn crowd.
+
+Xaden nearly asphyxiates Tecarus with shadows for endangering Violet, but she convinces him to spare the Viscount’s life. Tecarus provides a book containing the gathered intelligence on venin and their creation of wyvern. The parties agree to a deal where Aretia receives the luminary in exchange for weapons and training. Xaden agrees to host one hundred flier cadets, including Cat, at the secret Aretian college. Brennan and Violet prepare to depart with the luminary and the new flier allies.
+
+**Sentence Count Check:** 15
+
+---
+
+### 43: Chapter Forty-Three
+The combined forces of Aretian riders and flier cadets assemble at the base of the Medaro Pass. The Medaro Pass is a steep, narrow trail carved into the granite Cliffs of Dralor to deter invaders. Violet is paired with Maren, a flier who reveals that Cat was once expected to marry Xaden. The narrow path is riddled with ancient traps designed to kill gryphons attempting to fly the cliffs. Tairn hovers nearby and pulverizes a massive boulder that is triggered by a trap above Violet’s squad.
+
+Maren describes the flier conscription process, which involves leaping from cliffs into water to land on a gryphon. The group learns that a new dragon has hatched in the Aretian valley, signaling a major shift in local magic. As they ascend higher, the fliers begin to suffer from severe altitude sickness and hypoxia. A pressure-plate trap blocks the trail, requiring each cadet to jump across a dangerous gap over the clouds. Ridoc uses a shortsword to create a temporary handhold in the rock face to assist the smaller jumpers.
+
+Violet successfully uses the sword hilt to swing across the gap and land safely on the far side. Luella, a small flier suffering from exhaustion, attempts the same maneuver but slips during her landing. Her momentum carries her toward Violet and Visia, and the three of them tangle near the cliff's edge. Ridoc manages to grab Violet, but he is struck by two arrows triggered by the trap. Luella loses her footing and slides toward the abyss as the group shouts in horror.
+
+**Sentence Count Check:** 15
+
+---
+
+### 44: Chapter Forty-Four
+Luella falls to her death in the mist, and her bonded gryphon begins a keening wail as the bond breaks. Wyvern are two-legged, gray-skinned magical constructs with dripping teeth and immense wingspans. Multiple wyvern attack the column, using the thick cloud cover to hide from the patrolling dragons. Violet demands that Dain pop her dislocated shoulder back into place so she can defend the group. Brennan attempts to stabilize the mortally wounded Ridoc while the rest of the cadets flee up the trail.
+
+Violet mounts Tairn despite her injury and flies into the clouds to locate the hidden predators. She realizes that the wyvern are magical constructs that emit a detectable energy signature. Tairn coordinates with the other dragons to push the clouds away from the cliff so the riders can see. Violet opens herself to Tairn’s power and creates a massive web of lightning within the remaining mist. The lightning is drawn directly to the magical cores of the wyvern, incinerating four of them instantly.
+
+The survivors reach the top of the cliffs and load the exhausted gryphons into transport wagons. Violet discovers that Ridoc has survived the initial mending and is being carried to safety. Brennan reveals that venin share a collective consciousness with the wyvern they create. This connection means the dark wielders are now aware of the alliance and the new hatchling in Aretia. The group realizes that the venin will likely intensify their attacks on the secret valley soon.
+
+**Sentence Count Check:** 15
+
+---
+
+### 45: Chapter Forty-Five
+Major Devera reads the daily death roll at Aretia, listing the riders and fliers killed in recent border skirmishes. Violet feels a deep sense of uselessness as she watches her friends and family fight on the front lines. The venin have intensified their raids to divert attention away from the secret hatching grounds. Brennan struggles to manage the logistics of feeding and housing the sudden influx of fliers and dragons. Xaden remains away from the college, serving at the outposts to hold back the encroaching darkness.
+
+The Aretian cadets continue their studies while the war rages just beyond the mountains. Violet attends classes on history and physics while a real war takes place at the border. She worries constantly for Mira, who is stationed at a dangerous point on the Stonewater River. The Assembly debates how to best utilize the new weapons being produced at the Aretia forge. Every morning brings new names of fallen lieutenants and captains to the courtyard formation.
+
+Violet uses her time in the Archives to study the book Tecarus provided about the origins of the venin. The text explains that humans turn into venin by stealing magic directly from the earth instead of bonding. This process corrupts the soul and creates a permanent hunger for more power. Riders and fliers stand together in formation to hear the names of their dead comrades. Violet realizes that the relative safety of the valley is temporary and prepares for the inevitable invasion.
+
+**Sentence Count Check:** 15

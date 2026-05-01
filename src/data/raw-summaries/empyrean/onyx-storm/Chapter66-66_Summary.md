@@ -1,0 +1,8 @@
+### 66: CHAPTER SIXTY-SIX
+Violet wakes up in the Riorson House courtyard at three in the morning and is confronted by Brennan. Andarna vows to protect Violet and mentions that Brennan might burn her. Brennan reports that four riders and three elders have been murdered in the valley within the last few hours. An officer named Weilsen states that five riders are missing and six dragon eggs have been stolen from the hatching grounds. Brennan dismisses the officer and asks Violet where Xaden is located.
+
+Violet discovers that her left arm is splinted and she is wearing a gold ring with a large emerald. Brennan identifies a piece of parchment from Violet's pocket as a legal document carrying the seal of Dunne. This document confirms that Violet and Xaden are legally and bindingly married by the head priestess of Dunne’s temple. Violet realizes she has been missing for twelve hours and has no memory of the wedding ceremony. Tairn is asleep and recovering from the recent battle, leaving Violet unable to communicate with her dragon.
+
+Violet finds a short note from Xaden on the back of the marriage certificate telling her not to look for him. The note states that something belongs to her now, and Brennan confirms that Xaden is gone. Violet asks Imogen what she did during the twelve-hour gap in her memory. Imogen reveals that she performed a memory wipe on Violet because Violet had specifically requested it. The chapter ends with Violet grappling with the shock of her secret marriage and Xaden's sudden disappearance.
+
+**Sentence Count Check: 15**

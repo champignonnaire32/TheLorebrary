@@ -1,0 +1,52 @@
+### 16: Chapter 16
+Xaden Riorson trains Violet Sorrengail on the sparring mat by engulfing the area in magical shadows. He commands Violet to strike him and use their mental bond to track his movements in the darkness. Violet illuminates the area with a lightning orb but struggles to maintain the continuous power flow. Xaden kisses her in the dark to distract her and pressures her to attack him with lethal force. Violet eventually releases a massive lightning strike into the sky before Xaden ends the session and retreats.
+
+The next day, Violet meets her squad and three Poromish fliers at the Six Talons pub in Chantara. They discuss Xaden’s overwhelming power and his history of killing assassins sent to Violet’s room during her first year. Rhiannon mentions that several first-year cadets have manifested magical signets, while others like Aaric have not yet shown power. Maren thanks Rhiannon’s family for taking in her younger brothers in Aretia to keep them safe. The group notes the heavy local worship of Malek, the god of death, due to the proximity of war.
+
+Dain Aetos approaches Violet privately in a dim hallway of the pub to discuss a mission. He reveals he has scouted the security of his father's quarters and offers to retrieve research alone. Violet hesitates to trust him but eventually provides the location of a secret compartment under her father’s desk. Dain promises to deliver the research by Monday morning while his father is away from the quadrant. Violet reflects on a letter from her late father warning her to trust no one before she heads back to campus.
+
+Sentence Count Check: 15
+
+---
+
+### 17: Chapter 17
+Captain Fitzgibbons reads the daily death roll in the courtyard, including the name of Ruford Sharna from Third Wing. Aaric explains that Ruford fell from his dragon during maneuvers because the snow blocked his dragon’s vision. After formation, Sloane leads Violet to the quadrant library to deliver a heavy black canvas bag from Jesinia. Sloane apologizes for using her siphon signet to drain Lilith Sorrengail's life to power the wards, but Violet forgives her. Violet discovers the bag contains her father’s research and a leather-bound book secured by a six-letter code lock.
+
+Violet brings the locked book to her room and finds a warning that incorrect attempts will trigger ink vials to destroy the pages. She studies a note from her father stating that first love is irreplaceable, which she realizes is a clue for the password. Later, Violet sits in the pit with her squad and discusses potential passwords like "Lilith" or "Brennan." Cat mocks their progress, and the group continues to brainstorm names of people Violet or her siblings loved. Violet refuses to share details about her own past romantic interests despite Ridoc's teasing and Aaric’s observation that a name fits.
+
+Xaden and Garrick enter the arena to lead a combat session in front of an audience of infantry cadets. Violet and her squad take the mat and use coordinated signets to attack Garrick, who wields powerful wind magic. Violet uses a conduit to channel a precise lightning strike that melts Garrick’s dagger while he is distracted by mental illusions. Prince Halden, the crown prince of Navarre, arrives at the arena and publicly interrupts the training session. He hands Violet a missive from Viscount Tecarus regarding a library exchange and a potential meeting with King Courtlyn.
+
+Sentence Count Check: 15
+
+---
+
+### 18: Chapter 18
+Xaden uses shadows to slam Prince Halden into a rock wall after the prince attempts to touch Violet’s hair. Violet rushes to help Halden breathe while Xaden mocks the prince's previous romantic history with Violet. Xaden and Violet return to their quarters where Violet prepares to attempt the password on her father's book. She identifies "Aimsir," the name of her mother’s first dragon, as the correct six-letter code. The mechanism unlocks, revealing a manuscript titled "A History of the Second Krovlan Uprising" by Asher Sorrengail.
+
+Violet reads a hidden letter from her father inside the book that instructs her to protect the knowledge with her life. The letter directs her to seek a weapon in Cordyn and then travel to Deverelli to find a merchant named Narelle Anselm. Her father warns her that the King of Navarre bears grudges and that she should only trust her sister, Mira. Violet discusses the letter with her dragons, Tairn and Andarna, who agree that the isles are their best chance. Tairn explains that no magic exists beyond the Continent, which is why dragons remain within their borders.
+
+Xaden visits Violet’s room and expresses intense jealousy over her past relationship with Halden. Violet admits she was infatuated with the prince years ago but affirms her current love for Xaden. They kiss passionately, and Xaden uses shadows to pin Violet's wrists to the bed as they embrace. Violet informs Xaden about her father's letter and the need to travel to Deverelli for the search. Xaden agrees to the mission despite the requirement to enter occupied territory to retrieve an artifact for the King of Deverelli.
+
+Sentence Count Check: 15
+
+---
+
+### 19: Chapter 19
+Violet, Xaden, Mira, and a small squad of riders cross the border at Samara to begin their covert mission. They fly toward the village of Anca to retrieve the Amelian Citrine, a magical amplifier needed for their negotiation. The squad lands in the desiccated, drained remains of the village where the land has been stripped of magic. Tairn and other dragons remain in the sky to act as sentries while the riders search for the artifact. Violet notes that wielding magic in this territory is dangerous and could attract the attention of venin.
+
+Inside the museum-like house of Amelia, the riders locate the citrine while Violet and Aura Beinhaven stand guard outside. Aura becomes paralyzed by fear and ignores Violet's orders to remain calm and keep her hands covered. A gust of wind rolls a glass bottle, causing Aura to panic and accidentally release a burst of fire. The flame strikes Captain Grady, setting his protective leathers on fire and causing him to scream as he collapses. The fire rapidly spreads through the drained, wooden buildings of the village, turning the street into a tinderbox.
+
+Xaden uses shadows to smother the flames on Grady, but the captain is already dead from the intense heat. The squad sprints through the burning maze of streets to reach the village square for an aerial evacuation. A wyvern attacks the square and skewers Aura Beinhaven through the spine, dragging her lifeless body into the sky. Xaden and Violet narrowly escape by having Tairn scoop them both up in his claws simultaneously. Back at Samara, Mira reveals she recovered the citrine and a threatening note from Theophanie, a high-ranking venin.
+
+Sentence Count Check: 15
+
+---
+
+### 20: Chapter 20
+Violet spends several days researching Deverelli and training her lightning signet on the mountain peaks above Basgiath. She interrogates Jack Barlowe about venin progression, but he refuses to provide substantial information about his Sage. Violet eventually identifies a pattern in her father’s research concerning feathertails, the juvenile form of dragons. She enters a high-stakes meeting with the Senarium where Halden attempts to appoint Captain Henson as the new mission commander. Violet rejects the orders, rips the parchment in half, and publicly insults General Markham for hiding historical truths.
+
+Violet exerts her authority as a rider linked to two powerful dragons to demand control over her own squad. She selects Xaden, Mira, Ridoc, Cat, Drake Cordella, Aaric, and Halden for the mission to Deverelli. Aetos objects to Xaden’s inclusion, but Xaden asserts his right to go as the Duke of Tyrrendor. Xaden reveals that his father took part in a rebellion, while he views his own actions as a revolution. Halden eventually concedes to Violet’s demands and sets their departure for the day after tomorrow.
+
+The meeting ends with Mira physically assaulting Drake Cordella to warn him against endangering Violet’s life again. Ridoc demonstrates his improved signet by freezing the water inside an orange, proving he can kill by freezing living tissue. Violet reflects on the squad composition and the high stakes of finding Andarna’s kind and a cure for Xaden. Xaden teases Violet about her confrontation with Halden, while Mira prepares to read their mother's private journals. The group anticipates the journey to Deverelli as their last chance to secure the alliances and weapons they need.
+
+Sentence Count Check: 15

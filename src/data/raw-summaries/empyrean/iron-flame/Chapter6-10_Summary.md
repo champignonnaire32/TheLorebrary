@@ -1,0 +1,52 @@
+### 6: Chapter Six
+Violet and Xaden stand in the courtyard after Colonel Aetos threatens both Violet and her sister Mira. Violet loses control of her signet, causing lightning to strike the stone floor nearby. Xaden reveals he will be stationed at Samara, the easternmost outpost of the Southern Wing located where the Krovla and Braevick provinces intersect. Tairn is in a foul mood because the distance will prevent him from speaking with Sgaeyl. Andarna begins the Dreamless Sleep, a critical two-month deep slumber necessary for a teenage dragon's growth and development.
+
+Xaden tells Violet they will only have limited hours together to pass information during his weekly visits. He warns her not to involve herself in the rebellion's activities while he is away at his new post. Xaden also cautions her about the other marked ones who might want to hurt her due to her mother being General Sorrengail. Violet admits she still loves Xaden despite her anger over his refusal to tell her the whole truth. They share a close moment in the courtyard before he departs for the flight field.
+
+Rhiannon approaches Violet with news about their squad's leadership changes within the Fourth Wing. Colonel Aetos is announced as the new wingleader, a position that grants him significant authority over the cadets. Rhiannon has been promoted to squad leader, and her executive officer is Sawyer. She tells her squad their first official order is to stay alive. Violet reflects on the difficulty of that simple command as she watches Xaden fly away.
+
+**Sentence Count Check:** 15
+
+---
+
+### 7: Chapter Seven
+Five days later, the second-year cadets gather in an amphitheater for their Orientation session. Professor Grady, a rider with light golden skin and a trim beard, introduces the Rider Survival Course, or RSC. He reveals that the class is the smallest since the First Six due to fewer dragons being willing to bond. Tairn explains that the Empyrean is divided on the war because they know about the venin, dark magic users who drain the land. The RSC curriculum focuses on survival behind enemy lines and withstanding interrogation and torture.
+
+Violet heads to the Archives to meet with Jesinia Neilwart, a scribe friend who wears a cream tunic and has a long brown braid. She plans to investigate the history of Basgiath and its wards to help the rebellion's cause. Violet lies to Jesinia, claiming she is researching a history debate about the war college's location. Jesinia provides two ancient tomes, including one about the founding of the wards more than a hundred years ago. Violet believes the secret to protecting the hidden city of Aretia is hidden within these archival texts.
+
+The quadrant prepares for Conscription Day and the arrival of the new candidates at Basgiath. Violet remains exhausted and haunted by nightmares of the battle at the trading post of Resson. She acknowledges that Colonel Aetos is targeting her sister Mira to ensure she keeps the rebellion's secrets. The weight of the information she carries and the threat of RSC interrogation press heavily on her mind. Violet realizes she can only fully trust those who survived the battle at Resson with her.
+
+**Sentence Count Check:** 15
+
+---
+
+### 8: Chapter Eight
+Conscription Day begins with candidates crossing the parapet, a narrow stone bridge high above a deep ravine. Dain Aetos, now the wingleader of Fourth Wing, oversees the process alongside Violet and Rhiannon. Violet discovers that Xaden left her three books on Tyrrish knots and a note reaffirming his commitment to her. Cam, King Tauri’s third son, arrives as a candidate using the alias Aaric Graycastle to hide his royal identity. Violet directs Aaric, who has sandy-brown hair and green eyes, to her squad despite the political danger.
+
+Sloane Mairi, Liam’s younger sister who bears a rebellion relic winding around her arm, arrives to cross the parapet. Sloane tells Violet she hates her and blames her for Liam’s death during the battle at Resson. Violet gives Sloane a leather band to tie her blond hair and advice on crossing the stones safely. Sloane successfully reaches the other side, and Dain has her moved into Violet’s squad as a peace offering. Seventy-one candidates fall to their deaths during the crossing, which is four more than the previous year.
+
+During the formation ceremony, Major Varrish’s dragon, Solas, a one-eyed Orange Daggertail, incinerates several cadets. Solas kills runners and members of Third Squad, including Imogen’s friend Ciaran, after they break formation. Tairn lands on the wall and roars at Solas, threatening to devour Major Varrish if the orange dragon strikes near Violet again. Solas retreats, and the ceremony continues with Commandant Panchek's address to the remaining first-years. Violet is left with a singed back and the realization that Major Varrish is a dangerous enemy.
+
+**Sentence Count Check:** 15
+
+---
+
+### 9: Chapter Nine
+Violet wakes from nightmares of the venin and begins running every morning to improve her speed for combat. Imogen joins her, explaining that she also cannot sleep and wants to ensure Violet can outrun the land-draining power of venin. They encounter Rhiannon and Bodhi, who has been moved to Flame Section as the new section leader. Bodhi prevents Rhiannon from questioning the unusual pairing of Violet and Imogen during their morning run. Violet continues to reinforce her mental shields as Tairn demands constant vigilance against mental intrusion.
+
+During Battle Brief, Colonel Markham and Professor Devera discuss recent gryphon attacks on the Poromiel border. They report that the outpost at Athebyne was attacked by a drift of gryphons seeking supplies from the armory. Markham claims the nearby trading post of Resson was leveled by "Poromish unrest," which Violet knows is a lie to cover the venin attack. Violet asks pointed questions about the location of the riders found in the armory to confirm her suspicions. She realizes the flyers are raiding outposts for the alloy daggers needed to kill venin.
+
+Violet tries to convince Bodhi to let her help with supply runs to the rebellion, but he refuses her request. Imogen reminds Violet that she is now part of the marked ones' inner circle despite lacking a rebellion relic. Rhiannon notices that the mender Nolon is exhausted and guarded by Major Varrish in the infirmary. Ridoc suggests that Varrish is using Nolon to heal prisoners who are being tortured for information. Violet returns to her room and continues her research into the First Six and the creation of the wards.
+
+**Sentence Count Check:** 15
+
+---
+
+### 10: Chapter Ten
+During a combat assessment, a first-year assassin snaps Nadine's neck after she incorrectly identifies herself as Violet. Violet engages the assassin, a large man sent by Colonel Aetos to silence her before she can reveal the truth. She uses her speed to slice his knee tendons before he can overpower her with his superior size. The assassin pins Violet and begins to strangle her, whispering that secrets die with the people who keep them. Violet stabs him repeatedly in the kidney with her dagger until the assassin finally dies.
+
+Violet refuses to leave the assessment despite having a concussion and severe bruising on her throat. She watches as Aaric easily defeats Sloane Mairi, who shows a complete lack of combat training for the quadrant. Imogen and Ridoc support Violet as she remains on the mat to finish the assessment session. Violet realizes that Sloane’s foster family did not prepare her for the life of a rider. She hides her grief over Nadine’s death and focuses on the immediate threat of being targeted by leadership.
+
+Xaden visits Violet in her room after eight days away, having warded her door for complete privacy and sound. He cleans her wounds and expresses regret for not being there to kill the assassin himself. Xaden reveals that Samara is a cruel posting and that he must prove himself to the older riders. He gives Violet a letter, promising to find a way to let her into his life despite the distance. Violet discovers the letter is a personal correspondence, marking a shift in their relationship as she prepares to visit him.
+
+**Sentence Count Check:** 15

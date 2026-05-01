@@ -1,0 +1,52 @@
+### Chapter 11: Chapter 11
+Violet practices for the Gauntlet but fails to scale the chimney and vertical ramp obstacles. On Presentation Day, the cadets learn that the formation has decreased to 171 riders following recent deaths. Violet decides to stay in the Riders Quadrant instead of fleeing to the Scribe Quadrant as Dain urges. During her final attempt at the Gauntlet, she uses a rope to scale the chimney. She then uses a dagger she carried across the Parapet to vault over the vertical ramp.
+
+Amber Mavis accuses Violet of cheating for using foreign materials during the obstacle course. Xaden Riorson records the times and listens as Violet quotes the Codex to justify her actions. Violet explains that items carried across the Parapet are considered part of the rider's person. Xaden accepts her technicality and records her time with a thirty-second penalty for the rope. Violet's hands are shredded and bleeding from the climb, requiring immediate bandaging.
+
+Rhiannon and Ridoc celebrate Violet's success at the top of the cliff. Violet uses shredded shirt sleeves to bind her bleeding palms before the next event. The squad completes the Gauntlet and prepares for the Presentation parade before the dragons. Violet realizes that her intelligence-gathering regarding other cadets' patches might be useful later. Despite the penalty, Violet's squad places eleventh out of thirty-six for the day.
+
+Sentence Count Check: 15
+
+---
+
+### Chapter 12: Chapter 12
+The 169 remaining cadets march into a box canyon to be inspected by one hundred and one dragons. Garrick orders the squad to maintain a seven-foot distance to avoid group incineration. Violet notices a small golden dragon called a feathertail standing at the end of the line. Tynan and Luca mock the golden dragon for its small size and unusual color. During the walk, a red dragon incinerates a cadet named Pryor for his indecisiveness.
+
+Violet continues down the path and encounters two green dragons who block her way. She bows her head in supplication and discovers they are smelling her dragon-scale armor. The greens recognize the scent of Teine, the dragon belonging to Violet’s sister, Mira. Violet explains that the scales were sewn into her vest to keep her safe. The green dragons eventually retreat, allowing Violet to pass without being burned.
+
+The squad's size is reduced to six first-years after another cadet is killed by dragon fire. Ridoc admits he was terrified during the encounter with the greens. Luca continues to insult Violet and the dead cadets as they finish the walk. Violet keeps the secret of her dragon-scale armor hidden from most of the squad. The cadets leave the valley to prepare for the upcoming Threshing ceremony.
+
+Sentence Count Check: 15
+
+---
+
+### Chapter 13: Chapter 13
+Threshing begins on October first with 147 cadets entering a forested valley to find dragons. Professor Kaori instructs the students to listen for a mental call from a potential bond. Violet wanders the valley for hours and encounters several dragons but feels no connection. She climbs a tree to survey the area and spots the golden feathertail in a clearing. She overhears Jack Barlowe, Oren, and Tynan plotting to kill the golden dragon.
+
+Violet realizes the trio believes the feathertail is too weak to be allowed to bond. She outruns the group to reach the clearing first and warns the golden dragon to flee. The dragon remains stationary and does not breathe fire when the attackers arrive. Violet steps between the three armed cadets and the defenseless dragon to protect it. She draws two daggers but struggles to stand on a recently injured, swollen ankle.
+
+Jack Barlowe mocks Violet for being a weak link and prepares to kill her. Violet prepares to fight the three men alone despite her physical disadvantages. Xaden Riorson appears at the edge of the clearing with his blue daggertail, Sgaeyl. He reminds the group that he is only allowed to observe and not interfere. Violet prepares for a lethal confrontation as the three cadets spread out to attack.
+
+Sentence Count Check: 15
+
+---
+
+### Chapter 14: Chapter 14
+Violet initiates the fight by throwing a dagger into Jack Barlowe's sword-arm shoulder. Jack drops his weapon and flees into the woods while clutching his mangled joint. Violet uses more daggers to wound Tynan in the thigh and Oren in the hip. Her dragon-scale armor deflects a killing blow from Oren's sword at her stomach. Tynan manages to slice Violet's upper right arm before she knocks Oren unconscious.
+
+The golden dragon snaps its jaws at Oren, allowing Violet to strike him with a dagger hilt. Xaden narrating the fight distracts Tynan as Violet prepares for a final stand. A massive black dragon lands in the clearing and shields the golden dragon with its wing. The black dragon incinerates Tynan with a blast of fire as he attempts to flee. The dragon then speaks telepathically into Violet's mind, calling her "Silver One."
+
+The black dragon, named Tairn, orders Violet to stop her bleeding and climb onto his back. He explains that he chose her because she protected the golden dragon, Andarna. Tairn bows his front leg to act as a ramp so the injured Violet can mount him. Violet crawls up his scales and settles into the seat behind his neck. Tairn launches into the sky, and Violet immediately loses her grip and falls.
+
+Sentence Count Check: 15
+
+---
+
+### Chapter 15: Chapter 15
+Tairn catches Violet in his claws mid-fall and tosses her back onto his seat. He uses invisible energy to lock her legs and hands in place during flight. Violet learns that Tairn is a legendary black dragon who has not bonded in five years. They perform a series of high-speed aerial maneuvers before flying toward the training fields. Tairn reveals that he can hear Violet's thoughts and maintains a constant mental bond.
+
+Upon landing at the flight field, Tairn and Violet are greeted by hundreds of cheering dragons. Violet dismounts by sliding down Tairn's leg and approaches the roll-keeper at the dais. She sees her mother, General Lilith Sorrengail, watching the newly bonded pairs from above. The golden dragon, Andarna, also lands in the field and stands between Tairn's front legs. Violet limps to the roll-keeper to officially record the name of her dragon.
+
+Violet tells the roll-keeper the name Tairneanach, which shocks the surrounding officers and cadets. The golden dragon then telepathically tells Violet her full name, Andarnaurram. Violet realizes the golden dragon has also chosen her and reports the second name. The roll-keeper is stunned to learn that Violet has bonded with two dragons simultaneously. The announcement causes a chaotic reaction among the high-ranking leadership and the crowd.
+
+Sentence Count Check: 15

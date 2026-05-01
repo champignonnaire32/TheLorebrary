@@ -1,0 +1,52 @@
+### 51: Chapter Fifty-One
+Violet finds Xaden sitting on the roof of Aretia's defensive turret and brings him chocolate cake. Xaden admits that Sgaeyl blocked Tairn's bond during a recent battle because they were fighting. He describes a massive engagement at Draithus where civilian casualties were ten times worse than at Resson. Xaden expresses despair over being outmatched by the venin and believes the revolution is fifty years too late. Violet realizes her sister Mira called a retreat only to protect Xaden because his death would kill Violet.
+
+Violet and Dain spend weeks in the library translating Warrick’s journal to find a way to raise the wards. Felix teaches Violet that her thin strand of lightning can be used to imbue stones. Dain suggests reorganizing combat squads by strengths, an idea he attributes to Xaden's brilliance. Violet discovers a translation error where the word for "blood" should actually be "breath." She concludes that the "six" required for the wards refers to dragons rather than riders.
+
+Violet decides not to share this revelation with Dain because she does not trust his ethics. She goes to Rhiannon's room to find her best friend and disclose the discovery. Rhiannon has moved into a spartan room shared with another rider to accommodate the fliers' arrival. Violet explains that she knows how to raise the wards but is conflicted about whether they should do it. The chapter ends with the translated passage detailing the "breath of life" required to set the stone ablaze.
+
+**Sentence Count Check:** 15
+
+---
+
+### 52: Chapter Fifty-Two
+Violet attends a gathering at Rhiannon's sister's house where the squad attempts to integrate with the fliers. Sawyer signs to Jesinia by the fire while Cat remains civil but distant from Violet. Aaric denies knowing Old Lucerish to hide his royal identity from the other cadets. Violet and Rhiannon decide to inform the fliers about the plan to raise the wards. They explain that the wards will strip the fliers' ability to channel power from their gryphons.
+
+Cat reacts with anger and fear, arguing that her uncle would not have made the deal if he knew they would be made powerless. Bragen maintains order while asking about the timeline for the activation of the wards. Violet admits she will tell Xaden the truth as soon as he returns from Draithus. She offers to request a delay in activation to give the fliers time to decide if they will stay. To compensate for their lost power, Violet introduces Maorsite conduits that riders can imbue with explosive energy.
+
+Violet experiences a recurring nightmare where a Sage in purple robes threatens her above a battlefield. The Sage touches her neck with a long fingernail and claims she will turn for love rather than power. He warns that she will eventually tear down the wards herself to save someone she loves. Violet wakes up in Xaden's arms but does not tell him the details of the dream. Six days later, the death roll increases by six names as winter weather makes flight training dangerous.
+
+**Sentence Count Check:** 15
+
+---
+
+### 53: Chapter Fifty-Three
+Violet leads a group including Cat, Sloane, and Visia to a cave in the western range to retrieve a runed box. Tairn flies ahead to scout for energy signatures while Andarna walks beside Cat's gryphon, Kiralair. Cat accuses Violet of apologizing only out of guilt for Liam’s death. Sloane tells Violet that she carries too much burden protecting both Xaden and herself. The group enters a narrow cave entrance that Tairn identifies as a former wintering den for dragons.
+
+The cave is pitch black, so Violet uses her signet to light a Maorsite conduit. Sloane holds the conduit while Violet stretches her power to allow Cat to light a torch from the energy. Cat admits she shares runes with other fliers and trades for items like Maren's fire runes. The group moves deeper into the cave and discovers a vast tunnel network. Visia asks if Violet will manifest a second signet because she is bonded to two dragons.
+
+Sloane finds the plain metal chest containing the summoning rune and Cat successfully counters the lock. Andarna senses the scent of another dragon approaching just as Visia prepares to leave with the chest. Visia intends to use her weekend pass to fly to the border and convince her family to leave Navarre. A large orange dragon with one eye, Solas, rounds the corner and blocks their exit. Solas swats Visia against the cave wall with a claw, killing her instantly.
+
+**Sentence Count Check:** 15
+
+---
+
+### 54: Chapter Fifty-Four
+Solas breathes fire into the cave, but Andarna protects the group by wrapping them in her fireproof wings. Violet fills her lungs with sulfur-scented air and waits for the heat blast to end. Cat uses her gloves to extinguish burning feathers on her gryphon’s wing. Tairn informs Violet that he is three minutes away but cannot fit through the cave entrance. Violet throws open the floodgates to Tairn's power but realizes she cannot wield lightning without hitting her allies.
+
+Andarna attacks Solas’s throat but is batted away and slides into the wall near Visia’s remains. Sloane accidentally drains Violet's power during the panic, revealing her signet as a siphon. Violet shatters her conduit and uses the jagged alloy shard as a weapon. Cat stays behind to fire arrows into Solas’s remaining eye and shoulder to create a distraction. Violet runs underneath the dragon and stabs the conduit shard into the soft joint of his shoulder.
+
+Violet wields a direct stream of energy into Solas's joint before his tail slams into her stomach and sends her flying. She hits her head and falls into a daze as Cat and Sloane drag her toward the cave exit. Andarna latches onto Solas and eventually kills him using the poisoned barb on her tail. Tairn arrives and calls Andarna a "Slayer" for taking down a much larger dragon. Xaden returns to Aretia and finds Violet in their room being treated by a healer.
+
+**Sentence Count Check:** 15
+
+---
+
+### 55: Chapter Fifty-Five
+Xaden learns that Violet saved Cat's life and reacts with intense anger and horror. He argues that Cat's death would have been a fair consequence for her family's actions. Violet counters that Cat's death would have triggered Xaden's execution by Tecarus. The argument shifts to the deal Xaden made with Violet's mother for her life. Violet expresses fury that Xaden kept the deal a secret and forced her to "ask the right questions."
+
+Xaden insists he kept the secret to prevent Violet from feeling guilty for the scars on his back. He challenges her to demand the truth and stop being afraid of the answers. Violet explains that she feared his love for her was only a byproduct of the deal he made. She admits she loves him so much that she ignored every warning signal during their first year. Xaden uses his shadows to hold a dagger to Violet's chin to illustrate that he would never let a "battle-ax" hurt her.
+
+Violet shocks Xaden by asking about his second signet, revealing she knows he must have one. She cites the fact that Sgaeyl was previously bonded to his grandfather as proof of his direct descent. Xaden loses the color in his face and fails to answer before Brennan pounds on the door. Brennan reports that a horde of wyvern is flying toward the cliffs from Pavis. Xaden asks Violet if she is finally ready to raise the wards to protect Aretia.
+
+**Sentence Count Check:** 15

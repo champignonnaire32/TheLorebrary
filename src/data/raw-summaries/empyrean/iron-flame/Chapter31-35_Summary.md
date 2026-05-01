@@ -1,0 +1,52 @@
+### 31: Chapter 31
+Jack Barlowe pulls Violet up from the tower wall after she is nearly dropped by an assassin. Violet discovers that the assassin Eya is dead after being thrown from the turret during the fight. Jack claims they are even because Violet previously killed him and he has now saved her life. Tairn flies by too late to intervene, but Violet feels his relief through their bond. Ridoc arrives and checks Violet for injuries while she explains that Aetos sent the assassins to kill her.
+
+Ridoc informs Violet that Jesinia knows the location of the royal vault containing the journals. The vault is protected by wards that require someone from King Tauri's bloodline to bypass. Violet realizes they need the help of Prince Aaric, who is currently a cadet under an assumed name. She decides that protecting what Eya fought for is more important than her own fear of the assassins. The group plans to approach the prince despite the risk of execution for treason.
+
+Violet cleans her daggers on the uniform of the first assassin she killed during the struggle. She sits against the stone wall to wait for the adrenaline and trembling to pass. The realization sets in that Aetos will continue to pick off the Resson survivors one by one. Violet reflects on the vulnerability of her friends, including Xaden, Garrick, and Imogen. She prepares to convince Aaric to betray his father and help them steal the hidden journals.
+
+**Sentence Count Check:** 15
+
+---
+
+### 32: Chapter 32
+Xaden confronts Violet in her room about her decision to tell her squad about the revolution. Violet reveals that Rhiannon, Sawyer, Ridoc, and Quinn now know parts of the secret. Xaden warns her that her plan to break into the Archives is dangerous and potentially fatal. They discuss the need for the journals of the First Six to understand the wardstone's construction. Xaden agrees to participate in the heist because he refuses to let Violet go alone.
+
+The group gathers in Violet's room, including Bodhi, Rhiannon, Imogen, and Quinn. Aaric enters the room and expresses his deep hatred for Xaden and his father. Xaden reveals that he killed Aaric's brother, Alic, during Threshing because Alic was a murderer. Aaric agrees to help with the heist primarily because he wants to steal from his father, the king. They spend three hours refining the plan to ensure every participant knows their specific role.
+
+The eight participants disguise themselves in scribe robes and head toward the Archives tunnels. Jesinia meets them at the door and insists that only four people enter to avoid suspicion. Xaden, Violet, Aaric, and Imogen proceed into the library while the others keep watch. Xaden uses his shadows to incapacitate a first-year scribe who wanders into their path. Jesinia leads them to a secret lever behind a bookcase that opens a spiral staircase.
+
+**Sentence Count Check:** 15
+
+---
+
+### 33: Chapter 33
+Xaden uses shadows to block the mage lights as the group descends the hidden staircase. He knocks out two guards at the bottom of the hallway to clear a path to the library. Aaric pulls Violet through the warded archway, causing her to experience intense magic-induced nausea. The library contains six circular bookshelves and a central pedestal decorated with the king's signet. Violet and Aaric begin searching the collection for the journals of Warrick and Lyra.
+
+Imogen keeps watch while Xaden remains outside the wards, unable to enter the inner chamber. Aaric mentions that his brother Alic was a bully who deserved to die at Xaden's hands. Violet finds the journals hidden beneath a circle of glass set into the top of the pedestal. Aaric reaches through the pedestal wards to grab the books, resulting in severe blisters on his hands. Violet places the two leather tomes into the cream satchels provided by Jesinia.
+
+The group sprints back through the Archives as the bells signal the closing hour. Xaden uses his shadows to physically push against the heavy steel door to keep it open. Sawyer clears the path while Imogen and Aaric race toward the narrowing exit. Violet skids into a bookshelf and hurts her shoulder but continues running toward the door. The group barely escapes as the locking mechanism seals the Archives shut for the night.
+
+**Sentence Count Check:** 15
+
+---
+
+### 34: Chapter 34
+Xaden pulls Aaric through the closing Archives door just before it slams into its casing. The group quickly removes their scribe robes and stuffs them into a laundry bag for Jesinia. Violet sends Ridoc and Rhiannon to treat Aaric's blistered hands with a discreet mender. Quinn explains that she used her signet to project images of Violet and Rhiannon elsewhere as an alibi. Xaden and Violet share a brief kiss in a shadowy alcove after the successful heist.
+
+Violet gives Warrick's journal to Xaden so he can deliver it to Brennan in Aretia. She translates a passage about the wardstone being placed where dragons feel deep currents of magic. Xaden departs on Sgaeyl to return to Samara before his absence is officially noted by leadership. Violet remains in the courtyard and encounters Nolon, who offers her a mug of lemonade. The drink is drugged, and Violet's connection to Tairn becomes fuzzy as her power fails.
+
+Nolon apologizes to Violet, stating he cannot protect her from the consequences of her actions. Jack Barlowe watches from across the courtyard as Violet loses consciousness and drops her mug. Varrish appears and mocks Violet for getting caught after her failed attempt to hide. Violet realizes that her trust in Nolon was a mistake that led directly to her capture. Varrish takes custody of the incapacitated Violet and prepares her for a formal interrogation.
+
+**Sentence Count Check:** 15
+
+---
+
+### 35: Chapter 35
+Violet wakes up strapped to a chair in a wedge-shaped cell within the Basgiath brig. Varrish, Nolon, and Nora confront her about the theft of Lyra’s journal from the royal library. Nolon reveals that Markham sounded the alarm after the royal wards were breached during the heist. Violet maintains a selective truth strategy to protect her friends while Nora uses her lie-detecting signet. Varrish begins torturing Violet by dislocating and breaking her fingers when she refuses to name accomplices.
+
+Violet survives five days of torture, suffering through broken ribs, a snapped arm, and a fractured ankle. She experiences hallucinations of Liam Mairi, who stays by her side and encourages her to stay strong. Varrish uses a serum to keep Violet disconnected from Tairn and prevents her from using any power. He reveals that the interrogation is a trap designed to lure Xaden away from his post. Dain Aetos arrives at the cell after Varrish summons him to extract Violet's memories.
+
+Violet forces Dain to see memories of venin, wyvern, and the brutal reality of the war at the border. Varrish reveals his classified signet allows him to see a person's physical and emotional weaknesses. Dain realizes leadership has been lying but remains angry at Violet for her perceived betrayal of Navarre. Varrish orders Dain to kill Violet, but Dain turns the blade and stabs Varrish in the side. Dain cuts Violet’s bonds and helps her stand just as Xaden arrives and kills Nora.
+
+**Sentence Count Check:** 15

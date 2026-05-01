@@ -1,0 +1,54 @@
+# Chapter 21-25 Summary
+
+### 21: Chapter 21
+Liam Mairi shadows Violet to the Archives, where he whittles a wooden bear while she works with Jesinia. He explains that the 107 children of the rebellion leaders carry a rebellion relic, a black mark that identifies them as traitors' offspring. These children were fostered at various estates before being forced into the Riders Quadrant as a condition for their lives. Violet discovers a scroll reporting that the village of Sumerton was recently ransacked and its supply convoy looted. This attack occurred along the southern border where the protective wards are known to weaken.
+
+Tairn wakes from his sleep and projects an overwhelming hunger for livestock into Violet's mind. During Battle Brief, Professor Devera announces that the winners of the year's Squad Battle will receive a trip to the front lines. Professor Markham chooses to lecture on the historical Battle of Gianfar instead of the recent raid at Sumerton. Violet realizes that the military is suppressing information about the rising number of attacks on mountain villages. Xaden Riorson watches Violet from the top row of the briefing room while she intentionally avoids his gaze.
+
+The number of first-year cadets has decreased significantly, leaving many empty chairs in the tiered briefing room. A student from Third Wing died recently after getting too close to a Red Scorpiontail dragon on the flight field. Violet discovers that Xaden warded her dormitory door so that only she and he can enter it. Tairn grumbles in Violet's head that the other cadets are showing the appropriate level of deference to his rider. Violet writes down the name of Sumerton in her notebook while the rest of the class focuses on ancient history.
+
+**Sentence Count Check:** 15
+
+---
+
+### 22: Chapter 22
+Violet continues to struggle with channeling power from Tairn as the winter snow begins to fall in December. During a squad hand-to-hand session, she watches Xaden and Garrick spar shirtless, revealing their massive dragon relics and rebellion scars. Tairn's anger floods Violet's system, causing her to lose focus and get knocked down by Rhiannon on the mat. Jack Barlowe taunts Violet's lack of power and threatens to snap her neck during the upcoming challenges. Xaden intervenes and orders Violet to stop using a wooden staff in favor of her daggers for better defense.
+
+Later that night, a violent deluge of raw energy pours into Violet as Tairn finally begins channeling his power to her. The physical transition is agonizing and makes her feel as though her bones are shattering and her being is splitting. Tairn's intense lust for Sgaeyl overwhelms Violet's senses, forcing her to flee her room to avoid acting on the impulse with Liam. She encounters Xaden outside the citadel where he is smoking churam, a rolled herb that provides emotional distance from dragon bonds. Xaden teaches Violet how to ground herself mentally, a process of anchoring one's consciousness to a familiar place like the Archives.
+
+Violet successfully shields her mind by imagining a massive door and experiences a surge of euphoria at her newfound control. Xaden and Violet share a passionate kiss in the falling snow while trapped against the stone wall of the fortress. Xaden abruptly ends the kiss because he refuses to act on a desire that might be influenced by their dragons' mating bond. He insists that Violet return to her dormitory immediately to prevent them from making a cataclysmic mistake. Violet climbs the spiral stairs in a daze, questioning her trust in Xaden while still craving his physical presence.
+
+**Sentence Count Check:** 15
+
+---
+
+### 23: Chapter 23
+Violet discusses her kiss with Xaden and her new ability to channel power with Rhiannon in the dormitory. Rhiannon reveals that she has manifested a signet, a unique magical power, that allows her to summon objects into her hands. Liam gives Violet a hand-carved wooden figurine of Tairn to celebrate her successful connection to her dragon's magic. Violet and Dain have a tense conversation where she demands he stop treating her like a fragile object in a glass cage. They reach a tentative truce after Violet explains that her dragons chose her because she is a rider at her core.
+
+Professor Carr monitors the cadets as they practice lesser magics like moving pens and locking doors with their minds. He mentions that Violet's siblings had extraordinary signets and expects her to manifest an earth-shattering power due to Tairn's size. Violet keeps Andarna's time-stopping gift a secret while she spends weeks practicing mental grounding and shielding. In late January, the challenge board reveals that Jack Barlowe has been granted a match against Violet on the sparring mat. Violet prepares for the fight by hiding a vial of orange juice in a pocket because Jack is deathly allergic to citrus.
+
+During the challenge, Jack uses his secret signet to force painful, vibrating energy into Violet's body to torture her. He ignores the professor's orders to stop the lethal use of power as he attempts to kill Violet in front of the quadrant. Violet smashes the vial of orange juice against Jack's teeth, forcing him to ingest the liquid and trigger anaphylactic shock. Jack collapses and begins to suffocate as his airway closes, allowing Violet to win the match before passing out. She wakes up in the infirmary to find Xaden watching her and questioning her use of a citrus weapon.
+
+**Sentence Count Check:** 15
+
+---
+
+### 24: Chapter 24
+Xaden informs Violet that she required thirty stitches for the dagger wound Jack inflicted on her arm during their fight. He declares that he is taking over her training personally because he cannot trust anyone else to keep her alive. Xaden presents Violet with a custom-made set of black-hilted daggers engraved with Tyrrish runes, which are ancient markings of swirls and knots. These weapons are lighter and more secure than her previous gear, allowing her to fight without straining her joints. He forces her onto the sparring mat immediately to teach her how to fight through the pain of her injuries.
+
+Throughout February and March, Xaden pushes Violet to her physical limits during daily sparring sessions in the gym. He refuses to baby her and insists she learn to use lesser magics and her environment to gain an advantage. Violet watches a cadet named Mushin Vedie die during class when his fire-wielding signet manifests and consumes his body. She feels the power building in her own relic and fears she might spontaneously combust if her signet does not manifest soon. Tairn and Andarna provide little help, as the manifestation of a signet depends entirely on the rider's own nature.
+
+Xaden pulls Violet out of Professor Carr's wielding class to meet with General Sorrengail and Colonel Aetos on the flight field. General Sorrengail rebukes Violet for her lack of a signet and suggests that Tairn's power is being squandered on her. Colonel Aetos asks to study Andarna for academic purposes, but Violet refuses to allow them to poke and prod her dragon. Xaden stands taut as a bowstring during the encounter, having already paid the price for his loyalty to the crown. Violet realizes her mother spent a year ignoring her after her father's death and only values warrior-like perfection.
+
+**Sentence Count Check:** 15
+
+---
+
+### 25: Chapter 25
+Liam wins his challenge match during the Squad Battle, propelling Violet's squad to third place on the overall leaderboard. Commandant Panchek announces that the final task of the competition will begin immediately without the guidance of squad leaders. The cadets are ordered to acquire the one item within Basgiath that would be most advantageous to an enemy army. Imogen takes command of the leaderless squad and brings them to the weight room to brainstorm a plan for the mission. Violet proposes that they break into her mother's office to steal high-level military intelligence regarding the war effort.
+
+The squad uses their various signets to bypass the guards and security measures protecting the commanding general's office. Quinn uses astral projection, a power that separates her consciousness from her physical body, to scout the area. Nadine unweaves the magical wards on the heavy office door, while Sawyer uses his metal-manipulating signet to jam other entrances. Inside the office, Violet discovers letters from the front lines describing dire reinforcement needs and rising unrest in Tyrrendor. She decides that the most valuable item to steal is the current battle map showing every Navarrian outpost and troop strength.
+
+The squad cuts the massive map from its frame and rolls it up just as a guard discovers their intrusion. Emery uses his wind-controlling power to blast the guard down the hallway, allowing the squad to make a frantic escape. Violet uses a sleeping tonic to keep the guard unconscious while the squad sprints back to the Battle Brief room. They arrive just as the clock runs out and present the stolen map to the stunned professors and leadership. Xaden tips an imaginary hat to Violet from the sidelines, signaling his approval of her successful and daring raid.
+
+**Sentence Count Check:** 15

@@ -1,0 +1,54 @@
+### 11: Chapter 11
+Violet finishes a post-run cooldown with Imogen and memorizes a personal letter from Xaden. Imogen notices Violet’s constant smiling and questions her complicated relationship status with the shadow-wielder. Jesinia, a scribe cadet friend, hides in an alcove to give Violet an ancient tome titled *The Gift of the First Six*. Violet uses her knowledge of Old Lucerish, a dead logosyllabic language, to translate a copy of a hand-written text for Jesinia. A rider is suddenly arrested by Professor Markham after requesting a specific book from the Archives.
+
+Later, Rhiannon delivers mail, including a letter for Violet from her sister, Mira. Violet is frustrated to find that most of the letter has been redacted with thick black lines. At the flight field, Violet encounters Major Varrish, a cold officer who lacks signet patches and shows no physical signs of heat exhaustion. Varrish demands that Andarna, Violet’s golden feathertail dragon, join maneuvers the following week despite her currently being in a deep "Dreamless Sleep." The third-year riders, led by Dain Aetos, demonstrate a "running landing" by jumping from their dragons at high speeds.
+
+Bodhi walks Violet to the flight field at midnight for her trip to the Samara outpost. He accidentally mentions a woman named Catriona, sparking Violet's jealousy and curiosity about Xaden's past. Bodhi reveals that he and other rebellion-marked students have faced multiple assassination attempts within the quadrant recently. Major Varrish intercepts Violet and orders a search of her rucksack, though he finds only textbooks and clothing. Tairn launches into the night, carrying hidden supplies for the revolution while transporting Violet to see Xaden.
+
+**Sentence Count Check:** 15
+
+---
+
+### 12: Chapter 12
+Violet arrives at the Samara outpost located high in the Esben Mountains near the eastern border. She feels the intense hum of the protective wards, which have become more noticeable since her lightning signet manifested. Inside the fortress, Violet follows the tug of her bond to a sublevel chamber where riders are gathered. She finds a shirtless Xaden engaged in a brutal fistfight against a bulky rider named Jarrett. Xaden wins the match to secure a twenty-four-hour leave pass so he can spend time with Violet.
+
+Xaden takes Violet to his private room, which is sparsely decorated but contains a rack of familiar weapons. They share an intense kiss that Violet describes as tasting like home, but Xaden eventually stops the physical intimacy. He explains that he will not use sex as a tool to win her back and insists she must love and trust him again. Xaden tells her he wants the "three little words" back and is willing to wait until she offers him everything. Violet remains conflicted because she still feels Xaden is keeping secrets that prevent true trust.
+
+Violet questions Xaden about the alloy daggers used to kill the monstrous venin at Resson. Xaden describes the specific blend of materials in the hilt that is capable of holding and imbuing power. He explains that riders must pour their own power into the alloy to boost the wards that protect the borders. The alloy is central to the revolution's survival, as they need a dragon-fired crucible and a luminary, which is a device needed to intensify dragonfire hot enough to smelt more of it. Before she leaves, Xaden tests Violet’s mental shields by attempting to enter her mind while she constructs an internal archive.
+
+**Sentence Count Check:** 15
+
+---
+
+### 13: Chapter 13
+Violet returns to Basgiath and is immediately confronted by Major Varrish and Professor Carr. As punishment for Andarna's absence from maneuvers, they force Violet to produce consecutive lightning strikes on a mountain peak. Professor Carr warns that pushing her to forty strikes risks physical burnout and permanent damage. Varrish ignores the warning and demands one last strike to prove Violet can follow direct orders. The final bolt cleaves a section of the ridgeline and nearly kills Violet as the power becomes stuck in her body.
+
+Tairn carries the overheated Violet to a river and dunks her in the freezing water to cool her internal temperature. Her squadmates, including Bodhi and Imogen, find her in the grass and help her back to the dormitories. Violet spends the following days recovering from the severe sunburn and exhaustion caused by the near burnout. Imogen informs her that the rider arrested earlier for a book request was found beaten to death in his room. They suspect Professor Markham ordered the killing because the rider requested information that was deemed dangerous or classified.
+
+During a sparring session, Violet’s heightened reflexes cause her to nearly slit Ridoc’s throat when he startles her. She identifies the opponent Liam’s sister, Sloane, will face in an upcoming challenge and realizes Sloane is severely outmatched. Violet worries about Sloane's safety but is unable to communicate with her due to Sloane's lingering resentment. As the squad walks to a physics quiz, they are suddenly ambushed in a stairwell. Assailants throw a bag over Violet’s head and use a drug to render her unconscious.
+
+**Sentence Count Check:** 15
+
+---
+
+### 14: Chapter 14
+Violet wakes up in a forest and discovers she has been drugged with a mixture that blocks her dragon bonds. Professor Grady explains that the group is participating in a joint land navigation exercise with infantry cadets. The riders are stripped of their signet powers and the ability to communicate with their dragons for the duration of the course. Violet’s unit is paired with an infantry squad led by a hostile cadet named Calvin. The combined group includes riders from Second and Fourth Wing, infantry, a scribe named Aoife, and two healers.
+
+The group struggles to navigate because the maps provided to the riders and infantry do not match. They argue over their current location, with the infantry claiming they are in the Parchille Forest while others suspect Hadden Woods. Violet carries a heavy pack filled with textbooks and finds the physical hike through high grass and rolling hills taxing. She learns that the infantry cadets carry more survival gear and have different protocols than the riders. The tension between the two quadrants grows as they fail to make significant progress toward the extraction point.
+
+On the first hill, the group encounters Baide, an orange Scorpiontail dragon formerly bonded to Jack Barlowe. Baide, who has no rider, acts unpredictably and shows clear aggression toward the grounded cadets. An infantry cadet named Gwen panics and breaks formation, running into the high grass. Baide breathes fire at the group, and a rider named Tomas is killed while attempting to save the fleeing cadet. The dragon eventually flies away after snapping her jaws in Violet’s face, leaving the survivors shaken and grieving.
+
+**Sentence Count Check:** 15
+
+---
+
+### 15: Chapter 15
+By the second evening, the group has failed to reach the extraction point and is lost in the woods. They have spent two days backtracking and avoiding other dangerous dragons, including an ornery Red Daggertail. An infantry cadet named Dyre brings Violet a plate of roasted rabbit to express his gratitude for her saving him. Dyre declares he owes Violet a "life debt," though she tries to dismiss the formal obligation. The group realizes their stubbornness and failure to cooperate led to the map error and the death of Tomas.
+
+Rhiannon confronts Violet during the night watch about the secrets she has been keeping since the War Games. She notes that Violet has been pulling away from her friends and spending all her time reading or training with Imogen. Rhi asks Violet to be honest about her relationship with Xaden and what she saw during the battle at Resson. Violet remains silent, unable to share the truth about the venin and the revolution without endangering her friends. Rhiannon expresses her hurt but promises to remain a loyal friend until Violet is ready to talk.
+
+A convoy of horses and wagons arrives the next morning with the professors to end the exercise. The cadets are given an antidote that restores their dragon bonds and their signet powers. Tairn lands and reveals he was watching the group from a distance but was unable to intervene during the bond blockage. He tells Violet that he saw Sgaeyl for a few hours while the orange dragon, Baide, was away. Violet mounts Tairn for the flight back to Basgiath, feeling a deep sense of dread about the upcoming week and her distance from Xaden.
+
+**Sentence Count Check:** 15
+
+---

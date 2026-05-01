@@ -13,7 +13,8 @@ const seriesMap = {
   'redrising': 'Red Rising',
   'dune': 'Dune',
   'lotr': 'The Lord of the Rings',
-  'hp': 'Harry Potter'
+  'hp': 'Harry Potter',
+  'empyrean': 'The Empyrean Series',
 };
 
 // Define explicit book orders
@@ -48,6 +49,9 @@ const bookOrderMap = {
   'The Half-Blood Prince': 6,
   'The Half Blood Prince': 6, // Just in case of hyphen splitting
   'The Deathly Hallows': 7,
+  'Fourth Wing': 1,
+  'Iron Flame': 2,
+  'Onyx Storm': 3,
 };
 
 const rawBaseDir = path.join(process.cwd(), 'src', 'data', 'raw-summaries');

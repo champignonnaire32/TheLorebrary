@@ -1,0 +1,52 @@
+### 6: Chapter 6
+Violet releases a wave of lightning to stop a physical confrontation between Navarrian riders and the flier Aura. She uses her conduit to amplify her voice and argues that the alliance is necessary for survival. Professors Devera, Emetterio, and Kaori arrive to break up the crowd and announce a return to classes. Devera states that Battle Brief will occur the following morning regardless of the treaty negotiations. The cadets disperse as the fliers take to the sky and the riders return to their dormitories.
+
+Cat tells Violet she performed well during the speech while the squad meets with Brennan and Mira. Brennan explains that the Senarium refused to include safety for the fliers in the current treaty. Prince Aaric refuses to rejoin his family's guard even though his brother Halden has arrived at Basgiath. Duke Lewellen confirms that the fliers are ordered to return to Aretia the next day. Xaden returns to the group and reveals that King Tauri has restored his title as the Duke of Tyrrendor.
+
+Xaden expresses concern that his new status and power will eventually corrupt his soul. He makes Violet promise to sound the alarm if he ever goes too far in the future. Garrick arrives with a messenger sash and takes Xaden away on immediate military orders. Violet realizes she must find a historical cure to prevent Xaden from losing himself to magic. She resolves to commit treason that night by altering the wardstone to protect the fliers.
+
+**Sentence Count Check:** 15
+
+---
+
+### 7: Chapter 7
+Violet, Rhiannon, Ridoc, and Imogen meet Bodhi and Maren at the Healer Quadrant at midnight. They recruit Sawyer to help them alter a wardstone rune despite his recent leg amputation. The group sneaks across the campus and evades two different guard patrols to reach the northwest turret. Imogen knocks out the guards at the entrance to the wardstone chamber before the group descends. Violet and her friends enter the massive room and find Mira and Brennan waiting for them.
+
+Mira agrees to help the squad modify the stone instead of arresting them for their presence. Sawyer and Maren use their specific abilities to change the material of the runes under Mira's direction. A line of runes bubbles and leaks melted metal, but Ridoc quickly freezes it with ice. Maren successfully levitates a rock, confirming that fliers can now wield magic within the Navarrian wards. The squad finishes the modification and prepares to face the consequences of their actions in the morning.
+
+Professor Devera and flier professor Kiandra lead the Battle Brief and integrate the two groups into squads. Dain Aetos is promoted to Fourth Wing leader and the cadets are told to prepare for war. Colonel Aetos interrupts the session by slamming the doors open and searching for Violet. He publicly charges Violet with high treason against the kingdom and places her under arrest. Four riders follow Aetos to escort Violet out of the room as her squad looks on.
+
+**Sentence Count Check:** 15
+
+---
+
+### 8: Chapter 8
+General Aetos delivers the charge of treason and disowns his son Dain in the hallway. He escorts Violet to the Senarium where Xaden sits as the new Duke of Tyrrendor. Violet confesses to altering the wardstone and explains it was necessary to save the alliance. Xaden reveals that the king signed a full pardon for all previous crimes earlier that morning. The Senarium acknowledges the pardon and allows Violet to return to her duties without further penalty.
+
+Queen Maraya of Poromiel arrives at the hall and invites Violet to study her royal library. Violet tells Xaden she is determined to find a cure for his condition in the historical records. Brennan reveals his survival to General Aetos and confirms his leadership in the ongoing revolution. Aetos announces that King Tauri has appointed him as the commanding general of Basgiath. He tells Violet that he will target her friends as punishment since he cannot legally kill her.
+
+General Aetos orders Violet's entire squad to report to the Samara outpost for immediate active duty. The squad must fly for twenty hours to reach the front lines during an active war. Rhiannon and Ridoc prepare to depart despite the exhaustion of the previous night's events. Violet understands that Aetos is sending them to a dangerous combat zone to force her submission. The group takes to the air and begins the long flight toward the southern borders.
+
+**Sentence Count Check:** 15
+
+---
+
+### 9: Chapter 9
+Violet's squad arrives at the Samara fortress and views the destruction caused by a wyvern attack. Lieutenant Colonel Degrensi reports that a venin horde recently breached the western wall before being repelled. Wounded soldiers line the bailey while healers in bloody smocks move between the makeshift beds. Degrensi tells the group to keep Tairn hidden to avoid drawing a mass enemy assault. He informs the fliers that the Poromish casualties beyond the wards have been catastrophic.
+
+The squad sleeps in Xaden’s warded bedchamber to avoid potential attacks from hostile Navarrian riders. Violet experiences a nightmare about a fire consuming her family and wakes up screaming in the room. She discusses the trauma of her mother's death with Rhiannon as the rest of the squad stirs. The group prepares to assist the outpost staff when they overhear officers discussing the village of Newhall. Maren realizes her family is currently trapped in Newhall under a new venin attack.
+
+Major Safah explains that the village is too small to justify an evacuation mission for the riders. Maren becomes distraught at the news and fears her parents and brothers are already dead. Violet's squad votes unanimously to ignore their orders and fly to Newhall to rescue the civilians. They mount their dragons and gryphons and depart from Samara into a developing storm. Rhi leads the extraction mission as they fly toward the smoke rising on the horizon.
+
+**Sentence Count Check:** 15
+
+---
+
+### 10: Chapter 10
+Violet and Tairn fly ahead of the squad into the Stonewater River valley to reach the village of Newhall. Tairn kills three wyvern with his tail and Violet’s lightning as they navigate the smoke. Violet spots a silver-haired venin woman named Theophanie standing in the center of the burning town. A massive tornado catches Tairn and flings him against a mountainside, knocking the black dragon unconscious. Violet is injured in the crash and hangs from her saddle belt with a dislocated knee.
+
+Garrick arrives on his dragon Chradh, a brown scorpiontail with a poisonous barb, and catches Violet as she drops from her saddle. He resets her kneecap and helps her wrap the joint while they wait for Tairn to recover. Tairn wakes up and resumes breathing as the rest of the squad arrives at the village. Garrick reveals that Xaden lost his control when he heard Violet was crossing the border into danger. Violet realizes the venin woman was expecting her and that the attack is a trap.
+
+Theophanie approaches the group and reveals that she can also wield lightning through stolen magic. She uses her power to lift Garrick into the air and threatens to kill him. The venin reveals she killed Maren’s parents but left the brothers as a lure for Violet. She identifies herself as a Sage or Maven and claims to know everything about Violet's bonds. Theophanie demands to know which dragon chose Violet first as the rest of the fliers approach.
+
+**Sentence Count Check:** 15
