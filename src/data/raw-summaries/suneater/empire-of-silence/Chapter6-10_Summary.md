@@ -1,0 +1,52 @@
+### Chapter 6: Truth Without Beauty
+Hadrian and Crispin attend the Colosso season opening on Delos. They watch a team of douleters (steward-servants) use stun rods to manage an azhdarch, a pterosaur-like predator with teeth lining its long neck. Hadrian draws a portrait of Lieutenant Kyra while Crispin expresses excitement about his upcoming fight. Hadrian feels deep resentment because his father, Alistair, has implied that Crispin will inherit the Marlowe title. Crispin wears titanium and ceramic armor with the Marlowe devil (a house crest) embossed on the breastplate.
+
+The Meidua Devils, a group of gladiator performers, enter the arena dressed as bone-white Imperial legionnaires. Thirty slaves, marked as felons with slit nostrils and castrated, are forced to reenact a battle against the Cielcin (a pale, xeno-race). The Devils use plasma rifles and lances to butcher the unarmed slaves for the entertainment of the crowd. Hadrian observes Tom Marcoh, the lead performer, and the gratuitous violence of the staged melee. Crispin cheers wildly for the bloodshed and leaves the box to prepare for his own bout.
+
+Hadrian remains alone in the lord’s box while the smell of burned flesh and singed fabric rises from the killing floor. He reflects on how a portrait captures truth through imperfections while a photograph only records facts. Hadrian observes that the shouting crowd uses noise to drown out an inner silence in their souls. He buttons his jacket and exits the coliseum, deciding he cannot endure the inheritance of this violent world. The peasants cheer for Crispin as Hadrian walks away from the stadium in silence.
+
+**Sentence Count Check:** 15
+
+---
+
+### Chapter 7: Meidua
+Hadrian walks through the city of Meidua alone, feeling alienated from the common citizens. He passes the Redtine river and observes serfs rowing a galleus, an old-style ship powered by manual labor. He decides to walk home to the black castle rather than use a shuttle. Hadrian reflects on his genetic modifications, noting he is taller and paler than the plebeians around him. He passes through narrow streets with limestone-and-glass facades toward the acropolis.
+
+A man on a powered cycle (a primitive petroleum-engine vehicle) strikes Hadrian in the back with a metal pipe. Hadrian falls in a broad alleyway and realizes he is being ambushed by three boys. He activates his shield-belt, which creates a Royse field (an energy curtain that stops fast-moving objects but not slow ones). The attackers, including one named Jem with a slit nostril, ignore his offer to yield and ransom. Hadrian draws his main gauche, a short white ceramic knife, to defend himself.
+
+One attacker strikes Hadrian's wrist with a pipe, shattering the bone and forcing him to drop his knife. The boys kick Hadrian in the ribs and head until he loses consciousness. They steal his terminal and his signet ring, which contains his genetic history and property deeds. One boy realizes Hadrian is a Marlowe and expresses fear of the consequences. Hadrian remains in the pavement, certain that he is dying and Crispin will rule.
+
+**Sentence Count Check:** 15
+
+---
+
+### Chapter 8: Gibson
+Hadrian wakes up in his room in Devil’s Rest five days after the attack. He sees Gibson, his elderly tutor and a scholiast (a scholar trained to suppress emotion), sitting by his bed. Hadrian is restrained by a medical gauntlet and a corrective brace that uses fine needles to accelerate bone healing. Gibson explains that Hadrian suffered a shattered hand, broken ribs, and damage to his internal organs. Tor Alma, the family physician, performed the reconstruction while Hadrian was in medical suspension.
+
+Hadrian asks about his mother, Lady Liliana, and learns she is still at her summer palace in Haspida. Gibson informs him that his father, Alistair, is too busy with state matters to visit. Sir Roban and Lieutenant Kyra rescued Hadrian from the alley just in time. The prefects (the local police force) apprehended the attackers and recovered Hadrian's signet ring. Gibson conveys a message from Alistair regarding how Hadrian's injuries reflect poorly on the dignity of House Marlowe.
+
+Hadrian laments the lack of parental affection and realizes his father intended to provoke him. Gibson notes that Alistair views Hadrian as too soft to rule and prefers Crispin’s predatory nature. They discuss the Eight Forms of Obedience, concluding that Alistair rules through the fear of pain. Hadrian experiences a fever dream involving his grandmother’s funeral and a living statue of his father. He wakes to see a vision of Gibson with a slit nostril before the image fades.
+
+**Sentence Count Check:** 15
+
+---
+
+### Chapter 9: Bread and Circuses
+Hadrian removes his rib brace and travels to his father's office in the prefecture capitol. He passes through the underground tramways and enters a deltoid building topped with bell towers. Sir Roban guards the circular metal door and uses a palm scanner to grant Hadrian entry. Hadrian finds his father, Alistair, surrounded by holographic diagnostics at a black glass desk. Alistair ignores Hadrian at first, watching rocket contrails through a massive round window.
+
+Alistair criticizes Hadrian for leaving the Colosso and getting wounded by commoners. He explains that the attackers were given to the Chantry (the state religion and enforcement body) for punishment. Alistair argues that the peerage rules through fear and that Hadrian's vulnerability damaged the house's reputation. He mentions that the Meidua Broadcast showed Hadrian's departure to the public. Alistair invokes the concept of "bread and circuses" to justify the use of violence to control the serfs.
+
+Father announces that Hadrian is being sent to Lorica College on Vesperad to join the Chantry’s seminary. Hadrian objects, preferring to become a scholiast or join the Expeditionary Corps (the Imperial explorers). Alistair reveals he wants a family member within the Chantry to exert influence for House Marlowe. When Hadrian calls Crispin incompetent, Alistair strikes him across the face twice. Father hands Hadrian a crystal chit (a small bluish data device) containing his travel orders and dismisses him.
+
+**Sentence Count Check:** 15
+
+---
+
+### Chapter 10: The Law of Birds and Fishes
+Hadrian sits on a stony beach at the base of the acropolis two weeks after the meeting. He draws a deep-sea trawler in his journal and watches gulls hunt fish in the sea. Gibson descends the cliff steps to find Hadrian, who has missed his rhetoric lessons. Hadrian’s hand is fully healed, but he still feels discomfort in the mended bones. He shows Gibson the pinhead scars from the medical needles on his arm.
+
+Hadrian expresses his hatred for the Chantry and his desire to follow the path of a scholiast. Gibson admits Hadrian has the aptitude for it but warns against challenging Alistair's decree. They discuss the inevitability of the Chantry appointment, noting the letters of introduction have already been sent. Gibson quotes Marcus Aurelius and The Book of the Mind regarding fear and reason. Hadrian complains that he is being used as a pawn for his father's political strategies.
+
+Hadrian decides he will not go to Vesperad and asks Gibson for a letter of introduction to an athenaeum (a scholar school). He suggests Teukros as a potential destination for his escape from his father's control. Gibson hesitates, realizing that assisting Hadrian would be an act of treason against Lord Alistair. After a long silence, Gibson agrees to help, and Hadrian embraces him in gratitude. Hadrian recognizes that Gibson is the only true father figure in his life, despite the danger of their plan.
+
+**Sentence Count Check:** 15

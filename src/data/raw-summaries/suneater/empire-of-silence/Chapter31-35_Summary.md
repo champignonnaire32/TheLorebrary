@@ -1,0 +1,52 @@
+### Chapter 31: Mere Humanity
+Hadrian lives in a storm drain in Borosevo to hide from Imperial authorities during a Gray Rot epidemic. His palatine genetics make him immune to the disease, but his companion Cat is dying from it. Hadrian uses their remaining cash on medicine and bandages while the city burns corpses in the squares. He refuses to take a job because the required blood-typing would reveal his identity to his father. Cat asks Hadrian to promise he will not let the authorities burn her body in the plague pyres.
+
+Hadrian tells Cat the story of Kharn Sagara and the city of poets as she passes away in the storm drain. He holds her hand until her fingers go slack and cold in the moonlight. After she dies, he wraps her body in a flower-dappled curtain he stole from a tenement. He carries her through back alleys and access tunnels to avoid the prefects. He eventually lays her to rest in a canal, weighing her body down with stones to fulfill his promise.
+
+The narrative shifts to Hadrian reflecting on the randomness of death and his inability to save those he loves. He returns to the city alone to continue his struggle for survival among the living. The Gray Rot continues to ravage the native population of Emesh while the palatines remain untouched. Hadrian admits that Cat's death was a turning point that he initially wanted to omit from his account. He realizes that his own story is far from over despite the loss of his partner.
+
+**Sentence Count Check: 15**
+
+---
+
+### Chapter 32: Stand Clear
+Hadrian hides on a rooftop while watching Borosevo prefects corner and stun several members of Rells’s gang. He holds a stolen purse containing hurasams and kaspums while still carrying the knife used to stab a shop manager. Prefect-Inspector Gin leads the squad and orders the thieves to surrender or face conditioning by bonecutters. One thief is stunned while attempting to protect his companion with a length of pipe. The prefects use projection drones to maintain a holographic cordon around the active crime scene.
+
+The prefect-inspector offers the thieves a choice between mental conditioning or fighting as fodder in the Colosso. Hadrian realizes that the crowd of spectators never looks up to discover his hiding place among the antennae. He watches as the remaining thieves are stunned and taken into custody for their crimes. The holographic drones eventually pack up and roll away once the criminals are secured. Hadrian remains on the roof reflecting on the violent nature of the gang he had joined.
+
+An old sailor named Crow had previously suggested that Hadrian could find work as a gladiator in the games. Hadrian decides that the Colosso represents his best chance to earn enough money for passage offworld. He views the prefect-inspector's mention of the arena as a prophetic sign for his future. The dangers of the fighting pits seem preferable to the slow starvation of living on the streets. He questions why he did not pursue this path immediately after Cat's death.
+
+**Sentence Count Check: 15**
+
+---
+
+### Chapter 33: To Make a Myrmidon
+Hadrian uses his stolen coin to buy new clothes and a room in a starport flophouse. He shaves his head completely bald to alter his appearance and remove his tangled hair. He enters the Colosso vomitorium beneath the jade sphinx banners of House Mataro to seek employment. A huge homunculus worker and several staff members treat him with an unexpected level of deference. Hadrian decides to apply for the fodder pool instead of becoming a professional gladiator to avoid deep background checks.
+
+A slave medic named Chand conducts a physical examination of Hadrian in a low-ceilinged medical chamber. She identifies herself as a former legionnaire from the Republic of Durannos and notices Hadrian's unusual fitness. Hadrian signs a contract waiving his kin's rights to legal action against the arena's proprietors. Chand observes scars on Hadrian's ribs and correctly identifies him as a member of the palatine caste. Hadrian attempts to leave the room once his identity is discovered, but Chand blocks the door.
+
+Hadrian offers Chand a gold hurasam to keep his secret, but she rejects the bribe. He speaks to her in Durantine to build rapport and explains his desire to live as a commoner. He tells her that he has spent three years on the streets and has no other options. Chand eventually agrees to place him in the fodder pool as a myrmidon under the name Had of Teukros. Hadrian accepts the position despite the high mortality rate associated with the fodder pool.
+
+**Sentence Count Check: 15**
+
+---
+
+### Chapter 34: Men of Grosser Blood
+Hadrian trains with a team of myrmidons in the Colosso quadrangle under the heat of Emesh's sun. He spars with a young man named Switch, a former prostitute who struggles with basic sword footwork. The team consists of criminals like Ghen and Siran, as well as a peasant mother named Kiri. Ghen mocks Switch and claims the team will be slaughtered because they lack shields and proper equipment. Hadrian throws his helmet at Switch to demonstrate that a shield-belt would not provide total protection.
+
+Ghen challenges Hadrian to a fight after Hadrian insults his intelligence in front of the other recruits. Hadrian uses his superior aristocratic combat training to easily disarm and overbalance the larger man. He pins Ghen to the ground with a training blade and addresses the crowd to build unity. Hadrian argues that the team must work together to disappoint the audience expecting their deaths. He publicly offers Ghen a hand up to mend their relationship and establish himself as a leader.
+
+The veterans Pallino and Banks watch the exchange with skepticism while the raw recruits show signs of fear. Hadrian notices that the armor provided to the myrmidons is a mismatched collection of printed steel plates. He identifies his own helmet as an open-faced design strengthened with carbon wire threads. Siran watches Hadrian with an unreadable expression as he returns to coaching Switch on his stance. Hadrian realizes he actually missed the feeling of holding a sword and preparing for a proper battle.
+
+**Sentence Count Check: 15**
+
+---
+
+### Chapter 35: Proper Men
+Hadrian wanders the coliseum hypogeum at night because he is unable to sleep before his first combat. He follows the sound of weeping into the bath chamber and finds Switch hiding in a running shower. Switch admits he is terrified of dying and regrets leaving his former master, a man named Set. He confesses that he only joined the Colosso because he wanted to become a proper man. Hadrian reveals his own childhood dream of becoming a legendary explorer like Simeon the Red.
+
+The conversation shifts to the upcoming battle as Switch expresses his deep-seated self-loathing and fear. Hadrian tries to comfort him with a joke about his poor sword skills to break the tension. He tells Switch that hope is a cloud and that they must focus on survival. Switch sits fully clothed in the shower stall with his red hair plastered to his face. Hadrian proposes that they stick together as friends and look out for one another in the pits.
+
+Hadrian suggests that they can save their earnings for a year to buy their own ship or find work as guards. Switch points out the irony of Hadrian's plan after his earlier statements about the nature of hope. Hadrian checks the clock and realizes there are only five hours left before the morning games begin. He continues to coach Switch on his mental state to prepare him for the violence ahead. The two men remain in the gray bath chamber as the night watches tick toward their debut.
+
+**Sentence Count Check: 15**
