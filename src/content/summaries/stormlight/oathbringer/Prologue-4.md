@@ -17,7 +17,7 @@ The Five decide they must assassinate Gavilar to prevent the return of their anc
 
 
 
-### 1: Broken and Divided
+### Chapter 1: Broken and Divided
 Six days after reaching the tower city of Urithiru, Dalinar Kholin enters a vision of Kholinar's destruction. He uses his bond with the Stormfather, the sentient soul of the highstorm, to explore the ruins. Dalinar observes physical gouges in the stone that indicate massive monsters attacked the city. He knows the Everstorm, a new tempest with red lightning, will soon awaken parshmen across Roshar. The Stormfather warns that while the storm is a catastrophe, the ensuing war will be worse.
 
 Dalinar witnesses a final wave of destruction that reveals a dark figure in black Shardplate. This figure is Odium’s champion, who possesses red eyes and is followed by nine shadows representing the Unmade. The Unmade are ancient, terrible spren that serve the enemy god and corrupt human minds. Dalinar wakes from the vision in Urithiru and tells Navani he must unite the world. Navani points out that their armies are broken and they lack sustainable food sources for the refugees.
@@ -26,7 +26,7 @@ Dalinar proposes using the Soulcasters, fabrials that transform matter, to feed 
 
 
 
-### 2: One Problem Solved
+### Chapter 2: One Problem Solved
 Adolin Kholin supervises the chaotic unloading of supplies within the cavernous halls of Urithiru. He deals with frustrated workers and soldiers who refuse to perform tasks previously relegated to parshman slaves. Adolin reflects on the fact that he murdered Torol Sadeas in a secluded corridor the previous day. A messenger arrives to lead him to the location where the body has been discovered. Dalinar and his retinue arrive at the scene to find Sadeas dead from a knife wound through the eye.
 
 The soldiers from Sadeas’s camp and Bridge Four nearly clash in the tunnel before Dalinar intervenes. Dalinar inspects the body and confirms that Sadeas was killed with a practiced battlefield maneuver. Highprince Sebarial and his mistress Palona suggest that the death is a convenient solution to their political problems. Dalinar disagrees and mourns the loss of a capable general who was once his closest friend. He takes his leadership team to a balcony overlooking the mountain peaks to discuss their strategy.
@@ -35,7 +35,7 @@ Dalinar explains that Urithiru must become a bastion of order as the Everstorm r
 
 
 
-### 3: Momentum
+### Chapter 3: Momentum
 Thirty-four years ago, young Dalinar Kholin charges across a burning field during a military campaign. He experiences the "Thrill," a supernatural battle-fury that provides clarity and a physical need for combat. Dalinar kills an enemy spearman and then engages a group of officers in red and white uniforms. He targets an enemy brightlord who wears steel armor made to look like magical Shardplate. One of Dalinar’s soldiers shoots the brightlord’s horse to force the man into a ground duel.
 
 Dalinar loses his shield during the fight and suffers a broken nose from the brightlord’s gauntlet. The Thrill surges through him, allowing him to ignore the pain and kill the brightlord with a poleaxe. An assassin hidden on a ridge four hundred yards away shoots Dalinar with a massive black bow. The arrow pierces Dalinar’s Shard-less breastplate and pins his shoulder, but he remains on his horse. Dalinar gallops up the switchbacks to the ridge to confront the archer who attempted to kill him.
@@ -44,7 +44,7 @@ He finds a young man with a blue tattoo on his cheek and a bow made of unknown b
 
 
 
-### 4: Oaths
+### Chapter 4: Oaths
 Two days after Sadeas’s death, the Everstorm returns and flows around the plateau of Urithiru. Dalinar watches the red lightning from his balcony and senses the storm is driven by a hateful intent. The Stormfather confirms that the enemy rides the storm and is fully aware of Dalinar’s presence. Navani joins Dalinar on the balcony and comforts him as they watch the tempest pass below them. They discuss their relationship and the fact that the Alethi priests refuse to marry them.
 
 Dalinar confesses to Navani that he cannot remember his first wife’s name or face due to a magical curse. He explains that his memories of her are a blur and her name sounds like rushing air. This condition was caused by the Old Magic, a mysterious force that grants a boon and a curse. Dalinar insists that their marriage must be done properly with binding oaths to avoid his past mistakes. He proposes that the Stormfather, as a sliver of the Almighty, should perform the wedding ceremony.

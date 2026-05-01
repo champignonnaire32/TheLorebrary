@@ -17,7 +17,7 @@ Darrow asserts that none of the Gold students gathered in the assembly will surv
 
 
 
-### Part I: Slave - Chapter 1: Helldiver
+### Chapter 1: Part I: Slave - Chapter 1: Helldiver
 Darrow recalls the public execution of his father, who was hanged by Grays after a trial by Golds. His brother Kieran cried during the event, but Darrow remained stoic as his sister Leanna sang a lament. A young girl named Eo placed a red haemanthus flower, a hardy "blood blossom," into his father's boot before the hanging. Because of low gravity on Mars, family members must pull the legs of the condemned to break their necks. Darrow now works as a Helldiver, the highest-earning role in his mining clan, operating a massive clawDrill.
 
 A clawDrill is a titanic metal hand designed to melt and grasp rock to extract precious helium-3. Darrow sits in a holster seat at the drill's elbow joint, controlling rock-melting digits with his fingers. He wears a frysuit, a nanoplastic garment that insulates him from extreme heat but traps sweat and urine. While drilling, Darrow scans the dark tunnels for pitvipers, black oil-like beasts that burrow into suits to lay eggs. Darrow is sixteen years old and married to Eo, who is also sixteen and from the same clan of Red diggers.

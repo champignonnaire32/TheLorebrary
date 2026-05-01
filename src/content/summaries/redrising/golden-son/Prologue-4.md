@@ -17,7 +17,7 @@ Mustang, the daughter of Augustus, takes Darrow's hand as they prepare to depart
 
 
 
-### 1: Warlords
+### Chapter 1: Warlords
 Darrow stands on the bridge of his man-of-war, Quietus, with a broken arm held in a gelcast. He is now twenty years old and a student at the Academy, where Golds learn the art of astral combat. His uniform is wrinkled, and his Golden eyes are bloodshot from the exhaustion of the final wargame. Darrow observes the tactical display while searching for his quarry, Karnus au Bellona. He reflects on his mission to win a fleet for the Sons of Ares to destroy the Society.
 
 Roque au Augustus, a soft-faced poet and space combat prodigy, warns Darrow of a trap between two asteroids. Tactus au Rath leans against the viewport and injects a stim into his nose from a ring on his finger. Victra au Julii, a scarred and aggressive Gold of twenty-seven years, argues for a direct assault on the enemy. She mocks Tactus for his drug use and demands they crush the remaining Bellona ship. Darrow ignores their banter to focus on the narrow corridor where Karnus is hiding.
@@ -26,7 +26,7 @@ Karnus au Bellona is the monstrous older brother of Cassius and the deceased Jul
 
 
 
-### 2: The Breech
+### Chapter 2: The Breech
 Darrow watches the tactical display as his fleet engages Karnus's ship with dummy munitions and flak screens. Two of Darrow’s destroyers suffer simulated damage from incoming railgun salvos and missiles. He orders the Talon and Ripper squadrons to execute a flanking maneuver around the asteroids. The squadrons ambush Karnus’s ship and disable it with thirty simulated nuclear explosions. The bridge crew erupts in cheers as Darrow claims victory in the final game of the Academy.
 
 A hidden destroyer suddenly emerges from a hollow in an asteroid and rams the Quietus at its midline. The impact throws Darrow across the bridge and shatters the leg of his Pink valet, Theodora. Darrow carries the injured Theodora through the dying ship as internal explosions rip through the hallways. He reaches his private suite, where an escape pod with four seats is located. A group of Grays—elite soldiers with tactical armor and scorcher pistols—assists Darrow in clearing a path through the panicked crew.
@@ -35,7 +35,7 @@ A Gray sergeant executes a fellow soldier who tries to steal a seat in the escap
 
 
 
-### 3: Blood and Piss
+### Chapter 3: Blood and Piss
 Darrow sits in a rescue ship and repeats the number eight hundred and thirty-three to track his dead crew members. He arrives at the Academy, a domed port on an asteroid, where House Bellona is preparing a victory celebration. The halls are decorated with blue and silver eagle crests and white rose petals to honor Karnus's triumph. Darrow seeks solitude in a glass-enclosed garden featuring a hot spring and indigenous haemanthus blossoms. He removes his clothes and razor to soak in the water while reflecting on his failure to Eo’s dream.
 
 Seven members of House Bellona, led by the massive Karnus, corner Darrow in the garden. Among them is Kellan, a powerful Legate and knight, and Cagney, a female lancer who has stolen Darrow's razor. Karnus explains that while killing Darrow would start a war, a severe beating is permitted under the Society's laws. Darrow attempts to fight back but is quickly overwhelmed by the group’s mastery of kravat, a lethal martial art. They target his nerves and organs, eventually shattering his ribs and knocking out a tooth.
@@ -44,7 +44,7 @@ Cagney pins Darrow to the ground and uses a knife to roughly saw off his Golden 
 
 
 
-### 4: Fallen
+### Chapter 4: Fallen
 Two months after the beating, Darrow stands in Nero au Augustus’s office on a ship traveling toward Luna. He is joined by Pliny, a smooth-skinned Politico with no Peerless scar, and Leto, a skilled lancer ten years Darrow’s senior. Augustus reviews reports of crude bombings on Mars that are being attributed to the Sons of Ares. The ArchGovernor plans to counter these attacks by forcing Red suicide bombers to target children of other Colors. This strategy aims to alienate the Sons of Ares from the general population and create a racial divide.
 
 Pliny informs Darrow that his contract as a lancer for House Augustus has been terminated effective in three days. The Politico cites Darrow’s failure at the Academy and his public embarrassment in the garden as the primary reasons for the dismissal. He further accuses Darrow of using his celebrity status to shame the house and attempting to turn Mustang against her father. Darrow is stripped of his house datapad and his lancer identification codes are immediately downgraded to lower access levels. Augustus remains cold and detached, refusing to look at Darrow as he pets a lion beside his desk.

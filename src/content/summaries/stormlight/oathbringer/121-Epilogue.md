@@ -8,7 +8,7 @@ startChapter: 121
 ---
 
 
-### 121: Ideals
+### Chapter 121: Ideals
 Moash uses a pickaxe to clear stone rubble from the eastern wing of the Kholinar palace where he killed King Elhokar. The Fused leader Hnanan presents Moash with a golden knife set with a sapphire pommel and asks if he would kill a god. On the battlefield of Thaylen City, Navani embraces Dalinar as he carries a large ruby containing the trapped Unmade, Nergaoul. Dalinar gives the gemstone to Navani for study and asks her to teach him how to read. Shallan speaks to Adolin on the city wall and decides to remain herself instead of using her Veil or Radiant personas.
 
 Venli sails toward Marat while bonded to the spren Timbre, hiding her new powers from the Fused while she teaches other singers about listener culture. Szeth-son-Neturo swears an oath to follow Dalinar Kholin’s will and receives instructions from Nale to protect the man he once tried to assassinate. In a Thaylen alley, Shallan kisses Adolin and confirms her commitment to him despite her internal struggle with her Veil and Radiant personas. Kaladin discusses the history of the Recreance with Syl, realizing that humans were the original Voidbringers who arrived on Roshar from another world. Teft and the rest of Bridge Four share a meal of flatbread while Kaladin observes the scars of victory on the city.
@@ -17,7 +17,7 @@ Rock sits on the temple steps with his Stormlight extinguished and his shardbow 
 
 
 
-### 122: A Debt Repaid
+### Chapter 122: A Debt Repaid
 Kaladin flies across the ocean to a rock formation near the Alethkar coast to find a group of refugees. He meets Drehy and Skar, who have hidden their tattoos with ash and are guarding King Elhokar's young son, Gavinor. Taravangian meets with Odium in a vision of infinite light and negotiates a contract to preserve the city of Kharbranth. Odium agrees to spare the humans born in Kharbranth in exchange for Taravangian’s service and the retrieval of an Honorblade. Shallan creates a massive illusionary map of Roshar for Dalinar and the highprinces to use for strategic planning in Urithiru.
 
 Adolin confesses to Dalinar that he murdered Torol Sadeas in a corridor to protect the Kholin family. Dalinar attempts to name Adolin as the King of Alethkar, but Adolin refuses the crown because he broke the Codes of War. Jasnah Kholin enters the grand conference room wearing a crown, signaling her ascension as the new monarch of Alethkar. Moash receives the Honorblade of Jezerezeh from the Fused Leshwi and takes the name Vyre, meaning "He Who Quiets." He breathes in Stormlight from a sphere and Lashes himself into the sky for the first time.

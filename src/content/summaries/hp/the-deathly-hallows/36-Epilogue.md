@@ -8,7 +8,7 @@ startChapter: 36
 ---
 
 
-### 36: The Flaw in the Plan
+### Chapter 36: The Flaw in the Plan
 Harry wakes up on the forest floor after being hit by the Killing Curse. Narcissa Malfoy examines him and falsely declares him dead to the Death Eaters after Harry whispers that Draco is still alive. Voldemort uses the Cruciatus Curse on Harry's limp body but Harry feels no pain. Hagrid is forced to carry Harry's body back toward Hogwarts as a trophy. Voldemort stops the procession at the edge of the forest and uses magic to amplify his voice, announcing Harry's death to the castle's defenders.
 
 The survivors of the battle emerge from the castle to see Harry's body. Neville Longbottom charges at Voldemort and is subsequently forced to wear the burning Sorting Hat. Centaurs and reinforcements from Hogsmeade arrive, causing a massive battle to break out in the grounds. In the chaos, Neville pulls the Sword of Gryffindor from the hat and cuts off Nagini's head. Harry covers himself with the Invisibility Cloak and casts Shield Charms to protect the defenders.

@@ -8,7 +8,7 @@ startChapter: 54
 ---
 
 
-### 54: An Ancient Singer’s Name
+### Chapter 54: An Ancient Singer’s Name
 Moash works in a Voidbringer lumberyard near Kholinar alongside parshman slaves like Sah and Khen. The Fused, ancient singer spirits reborn in new bodies, oversee the construction of ladders for a city assault. One Fused subspecies grows wicked carapace armor and uses Voidlight to transform their limbs into tools. Sah reveals that the Fused took his daughter away and assigned him to a suicide unit. Moash abandons his work and stalks through the town to find someone in authority.
 
 A flying Fused lifts Moash high into the air where the atmosphere is thin and cold. He meets Lady Leshwi, a Fused leader with marbled white, red, and black skin and ruby eyes. Leshwi explains that her current body was a sacrifice from a singer to allow her rebirth. She recognizes Moash as the human who killed her previous host during a recent skirmish. Leshwi questions Moash about his name and his reasons for protecting the parshman slaves.
@@ -19,7 +19,7 @@ Moash admits he seeks vengeance against those he believes have failed the world.
 
 
 
-### 55: Alone Together
+### Chapter 55: Alone Together
 Rlain sits outside Narak on the Shattered Plains and attunes the Rhythm of the Lost. He watches Alethi soldiers repurpose the ancient singer ruins into a military fortress. Rlain wears warform, a singer shape with thick carapace armor on the skull and protrusions on the limbs. He remains the only member of Bridge Four who cannot draw Stormlight or fly. Teft leads a group of Radiant squires in aerial drills while Rlain drinks spiced cremling water with Rock.
 
 The bridgemen discuss recent Voidbringer raids on caravans and ask Rlain for tactical information. Rlain explains that the Fused are his enemies and that he does not understand their current motives. Kaladin lands with his squad and reports that the Shattered Plains feel smaller when viewed from the sky. The crew gathers around Rock’s drink station to discuss Renarin Kholin’s recent behavior. Several men express discomfort with Renarin learning to read, a skill traditionally reserved for women.
@@ -30,7 +30,7 @@ Drehy defends his own choices and Lopen argues that pursuing scholarly interests
 
 
 
-### 56: Always with You
+### Chapter 56: Always with You
 Dalinar manifests in a vision of Feverstone Keep while holding the hands of Navani and Jasnah. The fortress features a towering wall of bloodred stones closing a gap in a mountain range. Jasnah observes soldiers carrying bronze weapons and wearing iron armor Soulcast from clay. She determines the setting is the False Desolation, an era occurring roughly two thousand years after Aharietiam. Navani uses scientific instruments to record data in an attempt to locate the physical ruins of the keep.
 
 The Stormfather brings the young Azish emperor, Yanagawn, into the vision at Dalinar’s request. Yanagawn watches from a boulder as Knights Radiant fly down and drive their Blades into the ground. The knights renounce their Shardplate and walk away, leaving weapons of incalculable value behind. Dalinar explains that he shows these visions to prepare the Azish for the coming True Desolation. Yanagawn expresses doubt in his own authority, claiming he was only chosen to replace the assassinated emperors.
@@ -41,7 +41,7 @@ The Almighty’s voice speaks through a soldier to deliver a recording about the
 
 
 
-### 57: Passion
+### Chapter 57: Passion
 Odium sits on a boulder beside Dalinar and discusses the nature of the fallen Knights Radiant. He claims the knights were unified by passion rather than divided by political infighting. Odium identifies himself as the god of emotion, representing lust, joy, hatred, and exultation. He explains that Honor is dead and Cultivation has hidden herself away from his reach. Dalinar refuses to release Odium from his ancient bonds and attempts to propose a challenge of champions.
 
 Odium rejects the challenge and insists that Dalinar will eventually choose to free him. The god transforms the vision into a void containing an eternal, all-embracing flame of violet-black fire. Dalinar experiences a sensory overload of extreme heat, ecstasy, victory, and intense hatred. This raw power threatens to consume his mind and makes the planet Roshar seem inconsequential. The vision returns to Feverstone Keep, where Dalinar lies on the ground, physically and mentally drained.

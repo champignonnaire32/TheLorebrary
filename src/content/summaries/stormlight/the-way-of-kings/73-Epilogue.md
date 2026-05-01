@@ -8,7 +8,7 @@ startChapter: 73
 ---
 
 
-### 73: Trust
+### Chapter 73: Trust
 Kaladin stands on Dalinar’s staging ground at night and discusses his uncertainty regarding the highprince with Syl. Dalinar arrives punctually and offers Kaladin a position as his personal bodyguard and the leader of a new battalion. The highprince explains his plan to change the war’s structure, which will likely incite betrayal from other lighteyes. Kaladin accepts the offer on the condition that Bridge Four serves as the elite honor guard while the other bridgemen form a spearman company. He further stipulates that his men will answer only to Dalinar’s family and the king to avoid outside interference.
 
 Dalinar grants Kaladin the rank of captain and provides him with the authority of a fourth dahn lighteyes. He hands Kaladin his own blue cloak, marked with the Kholin glyphs, as a symbol of their new alliance. Kaladin returns to the barracks and finds Bridge Four sharing a meal of stew prepared by Rock. He admits his supernatural abilities to the men, fearing their rejection or fear. Instead of ostracizing him, the bridgemen express excitement and support for his powers.
@@ -17,7 +17,7 @@ Sigzil and Rock immediately begin planning empirical tests to measure the limits
 
 
 
-### 74: Ghostblood
+### Chapter 74: Ghostblood
 Shallan spends the night reviewing Jasnah’s research notes in a hospital alcove while wrapped in a blanket. She concludes that the silent parshmen, a race of subservient workers found across Roshar, are actually the ancient Voidbringers. Jasnah explains that the Parshendi of the Shattered Plains are the key to understanding the coming disaster. She describes how the parshmen have been integrated into every level of human society as slaves and servants. Jasnah warns that their shared mental connection, similar to spanreeds, makes them a dormant threat capable of sudden, coordinated violence.
 
 Jasnah details the history of the Desolations, where periods of peace were repeatedly ended by parshman invasions. She expresses fear that the Parshendi have the ability to transform ordinary parshmen into lethal soldiers. Shallan agrees to remain in Jasnah’s service despite her family’s financial crisis because the threat to civilization is more urgent. Jasnah reveals they will depart the next day for the Shattered Plains to conduct further field research. They must discover what triggered the Parshendi before their enemies use that knowledge to collapse human society.
@@ -26,7 +26,7 @@ Jasnah introduces a sheet of paper bearing a symbol of three overlapping diamond
 
 
 
-### 75: In the Top Room
+### Chapter 75: In the Top Room
 Dalinar huddles with Navani during a highstorm and experiences a vision that takes him to a realm of smoke and bone-white rock. Amorphous smoke figures rise from the ground into a dark sky while a booming voice commands him to unite the highprinces. Dalinar demands answers for the betrayal he suffered at the Tower, but the voice continues to speak in cryptic warnings. The vision shifts to show an ordinary stone field on Roshar that appears familiar to Dalinar. He realizes this is a repetition of the very first vision he ever received from the storm.
 
 Dalinar hikes to a high ridge and looks down upon Kholinar, the capital of Alethkar, which has been completely destroyed. A man with white hair and gold clothing appears beside him, pointing toward a wall of dust approaching from the horizon. This figure, who Dalinar initially thought was ignoring his questions, is actually a pre-recorded message from the past. Dalinar discovers that the man cannot see or hear him, meaning the previous advice to trust Sadeas was a misunderstanding. The ground begins to shatter and dissolve into dust as the True Desolation approaches in the vision.
