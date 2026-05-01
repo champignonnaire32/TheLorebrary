@@ -1,4 +1,4 @@
-# Project Panic Catchup (The Distiller Platform)
+# The Lorebrary
 
 ## 🎯 The Core Mission
 This project is a fast, SEO-optimized static website built to host "High-Density Narrative Summaries" of long book series (e.g., Sun Eater, Stormlight Archive). The target audience is returning readers who already own the books but need a "concrete refresher" before a new sequel release.
@@ -28,6 +28,60 @@ We are using a modern Static Site Generation (SSG) approach.
     *   `/[series]/[book]/` → `index.astro` (Chunk grid with read-state checkmarks + progress bar).
     *   `/[series]/[book]/[range]` → `[range].astro` (Reading page — 5 chapters at a time).
     *   `/[series]/[book]/full` → `full.astro` (Mega-Catchup — entire book as one continuous scroll).
+
+---
+
+## 🚀 Deployment & Git Workflow
+
+**How the pipeline works:**
+GitHub (`main` branch) → push → Vercel detects the push → auto-builds and deploys within ~1-2 minutes.
+
+**GitHub repo:** `https://github.com/champignonnaire32/TheLorebrary`
+**Live site:** Vercel project "thelorebrary" (custom domain or `.vercel.app` URL)
+
+### Making a change and pushing it live
+
+```bash
+# 1. Stage the changed file(s)
+git add src/path/to/changed-file.astro
+
+# 2. Commit with a message
+git commit -m "describe what changed"
+
+# 3. Push to GitHub — Vercel auto-deploys from here
+git push
+```
+
+After pushing, go to the Vercel dashboard to watch the build. It typically goes live in under 2 minutes.
+
+### Common gotchas
+
+**"Your branch is up to date with 'origin/main'" does NOT mean your files are clean.**
+It only means your local branch pointer matches the remote. If you edited a file, it still needs to be staged (`git add`) and committed before it will push. Run `git status` to see the actual state of your working directory.
+
+**Always quote paths that contain brackets `[ ]`:**
+The shell interprets `[series]` as a glob pattern. Always wrap these paths in single quotes:
+```bash
+git add 'src/pages/[series]/[book]/[range].astro'   # correct
+git add src/pages/[series]/[book]/[range].astro      # will silently do nothing
+```
+
+**CSS/style changes may not appear immediately after deploy.**
+Vercel CDN caches assets aggressively. If a style change looks absent on the live site, do a hard refresh: `Cmd + Shift + R` (Mac) or `Ctrl + Shift + R` (Windows).
+
+**Gemini-swapped files still need to be committed.**
+If Gemini replaces a file on disk, git detects it as "modified" but does NOT auto-stage or push it. You must still run `git add` + `git commit` + `git push`.
+
+### Editing content vs. editing the site
+
+| What you want to change | File(s) to edit |
+|---|---|
+| A chapter summary | `src/data/raw-summaries/[series]/[book]/ChapterXX-XX_Summary.md`, then run `node scripts/split-summaries.js` and re-commit `src/content/summaries/...` |
+| Author, genre, or blurb for a series | `src/data/series-metadata.ts` |
+| Archive or landing page layout/text | `src/pages/archive.astro` or `src/pages/index.astro` |
+| Site-wide layout (nav, fonts, theme) | `src/layouts/Layout.astro` |
+| Color tokens / typography | `src/styles/global.css` |
+| Reader controls (dark/sepia/font size) | `src/components/ReaderControls.tsx` |
 
 ---
 
@@ -99,7 +153,7 @@ A full visual identity overhaul was applied on top of the existing SSG architect
 *   [x] Built a custom React floating action button (`ReaderControls.tsx`) that toggles Dark / Sepia / Light mode and adjusts root font size across the site.
 *   [x] Fixed the Tailwind v4 dark mode class variant issue across all pages.
 *   [x] Ingested the rest of the Sun Eater series (Howling Dark, Demon in White, Kingdoms of Death) and refactored the ingestion script to handle multiple books/series dynamically.
-*   [x] Ingested the Dune series (Books 1-6), The Stormlight Archive (Books 1-3), the Red Rising series (Books 1-6), The Lord of the Rings (Books 1-3), Harry Potter (Books 1-7), and The Empyrean Series (Books 1-3: Fourth Wing, Iron Flame, Onyx Storm).
+*   [x] Ingested the Dune series (Books 1-6), The Stormlight Archive (Books 1-3), the Red Rising series (Books 1-6), The Lord of the Rings (Books 1-3), Harry Potter (Books 1-7), The Empyrean Series (Books 1-3: Fourth Wing, Iron Flame, Onyx Storm), and His Dark Materials (Books 1-3: The Golden Compass, The Subtle Knife, The Amber Spyglass).
 *   [x] Implemented proper `bookOrder` routing sorting and updated the UI to display "Book X" instead of "Volume".
 *   [x] Built a smart, fuzzy-search component (`SearchBar.tsx`) powered by `fuse.js` on the homepage to find series and books.
 *   [x] Injected dynamic SEO meta tags (Title, Description, OpenGraph, Twitter Cards) targeting "Panic Recap" keywords into the layout templates.
@@ -111,6 +165,13 @@ A full visual identity overhaul was applied on top of the existing SSG architect
 *   [x] "Next Book" navigation card at the end of each book's final chunk.
 *   [x] Custom 404 page.
 *   [x] Overhauled legal disclaimers with materially stronger Fair Use language.
+*   [x] Project renamed to **The Lorebrary** — updated in Vercel, GitHub, site title, and all page headings.
+*   [x] Custom SVG favicon — gold book icon on ink-dark rounded square (replaces Astro default).
+*   [x] Landing page split into two visual zones: Hero card (tagline + Enter button + project description) and a separate dashed-border Legal Notices card below it.
+*   [x] Floating chapter banner — fixed bar at top of viewport on reading pages showing the current chapter range. Appears only after the page header scrolls out of view. Live on both `[range].astro` and `full.astro`.
+*   [x] Fixed mobile padding root cause — `<main class="flex-1 p-8">` in `Layout.astro` was adding 32px to every page; changed to `p-0` and let each page control its own spacing.
+*   [x] Fixed `split-summaries.js` — sentence count annotation stripping now handles `**Sentence Count Check:** 15` format (closing `**` before the number); added `headingTitleCase()` to fix ALL CAPS headings (affected His Dark Materials ingestion).
+*   [x] Revised Fourth Wing chapters 31-35 summary and resolved git staging issue (Gemini-swapped file wasn't staged; committed and pushed manually).
 
 ## 🚧 Current Status & Next Steps
 The platform is live on Vercel (auto-deployed from GitHub `main`). Full design system, reader QoL features, series metadata with blurbs, Mega-Catchup pages, and legal disclaimers are all in place.
@@ -119,6 +180,13 @@ The platform is live on Vercel (auto-deployed from GitHub `main`). Full design s
 *   **CSS Strategy:** Keeping Tailwind CSS v4.
 *   **Audio TTS Strategy:** The native Web Speech API voices are too robotic/inaccurate for sci-fi jargon. Any future audio integration will require pre-generated MP3s using a premium AI API (like Google Cloud Journey or ElevenLabs).
 *   **Series metadata:** Intentionally a manual file (`series-metadata.ts`) — author names and blurbs are authored content that cannot be auto-derived. The workflow is documented above. This is the correct architectural decision.
+
+**Next Series to Add (Priority Order):**
+See `lorebrary-ideas.md` on the Desktop for the full ranked list. Top candidates:
+1. A Court of Thorns and Roses (Sarah J. Maas) — Book 6 due Oct 2026, Hulu adaptation in development
+2. Inheritance Cycle / Eragon (Christopher Paolini) — Disney+ adaptation in production
+3. Mistborn Era 1 (Brandon Sanderson) — Apple TV+ adaptation announced
+4. Wheel of Time (Robert Jordan) — 14 books, Amazon Prime series ongoing
 
 **Future Phases (Prioritized):**
 1.  **Contact email** — add a real email address to the "Affiliation & Content Removal" disclaimer section on `index.astro`.
