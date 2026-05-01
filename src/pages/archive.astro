@@ -4,47 +4,49 @@ import Layout from '../layouts/Layout.astro';
 import SearchBar from '../components/SearchBar.tsx';
 import type { SearchItem } from '../components/SearchBar.tsx';
 import ContinueReading from '../components/ContinueReading.tsx';
+import { seriesMetadata } from '../data/series-metadata';
 
 const allSummaries = await getCollection('summaries');
 
-// Get unique series and unique books for the search data
-const uniqueSeriesMap = new Map();
-const searchDataMap = new Map<string, SearchItem>();
+const uniqueSeriesMap = new Map<string, { seriesName: string; url: string }>();
+const seriesBookSets  = new Map<string, Set<string>>();
+const searchDataMap   = new Map<string, SearchItem>();
 
 allSummaries.forEach(summary => {
   const seriesSlug = summary.data.series.toLowerCase().replace(/\s+/g, '-');
-  const bookSlug = summary.data.book.toLowerCase().replace(/\s+/g, '-');
+  const bookSlug   = summary.data.book.toLowerCase().replace(/\s+/g, '-');
 
-  // Build the unique Series list for the homepage grid
   if (!uniqueSeriesMap.has(seriesSlug)) {
-    uniqueSeriesMap.set(seriesSlug, {
-      seriesName: summary.data.series,
-      url: `/${seriesSlug}`
-    });
+    uniqueSeriesMap.set(seriesSlug, { seriesName: summary.data.series, url: `/${seriesSlug}` });
   }
 
-  // Populate the Search Data array for the fuzzy finder
+  // Track unique books per series for book count
+  if (!seriesBookSets.has(seriesSlug)) seriesBookSets.set(seriesSlug, new Set());
+  seriesBookSets.get(seriesSlug)!.add(bookSlug);
+
+  // Search data
   const seriesKey = `series-${seriesSlug}`;
   if (!searchDataMap.has(seriesKey)) {
-    searchDataMap.set(seriesKey, {
-      type: 'Series',
-      title: summary.data.series,
-      url: `/${seriesSlug}`
-    });
+    searchDataMap.set(seriesKey, { type: 'Series', title: summary.data.series, url: `/${seriesSlug}` });
   }
-
   const bookKey = `book-${seriesSlug}-${bookSlug}`;
   if (!searchDataMap.has(bookKey)) {
     searchDataMap.set(bookKey, {
       type: 'Book',
       title: summary.data.book,
       subtitle: summary.data.series,
-      url: `/${seriesSlug}/${bookSlug}`
+      url: `/${seriesSlug}/${bookSlug}`,
     });
   }
 });
 
-const seriesList = Array.from(uniqueSeriesMap.values());
+const seriesList = Array.from(uniqueSeriesMap.values()).map(series => {
+  const slug      = series.url.slice(1);
+  const meta      = seriesMetadata[series.seriesName];
+  const bookCount = seriesBookSets.get(slug)?.size ?? 0;
+  return { ...series, author: meta?.author ?? '', genre: meta?.genre ?? '', bookCount };
+});
+
 const searchData = Array.from(searchDataMap.values());
 ---
 
@@ -68,19 +70,39 @@ const searchData = Array.from(searchDataMap.values());
       {seriesList.map(series => (
         <a
           href={series.url}
-          class="block group relative p-6 bg-cream-50 dark:bg-ink-800 rounded-lg border border-cream-300 dark:border-ink-700 hover:border-gold-400 dark:hover:border-gold-400 transition-all duration-200 shadow-sm hover:shadow-[0_4px_24px_rgba(201,168,76,0.10)]"
+          class="flex flex-col p-6 bg-cream-50 dark:bg-ink-800 rounded-lg border border-cream-300 dark:border-ink-700 hover:border-gold-400 dark:hover:border-gold-400 transition-all duration-200 shadow-sm hover:shadow-[0_4px_24px_rgba(201,168,76,0.10)] group"
         >
-          <div class="text-xs font-bold text-cream-500 dark:text-cream-500 uppercase tracking-[0.15em] mb-2 transition-colors duration-300">
-            Series
+          <!-- Label -->
+          <div class="text-xs font-bold text-cream-500 dark:text-cream-500 uppercase tracking-[0.15em] mb-2">
+            {series.genre || 'Series'}
           </div>
-          <h2 class="text-2xl font-display font-semibold text-cream-900 dark:text-cream-100 group-hover:text-gold-600 dark:group-hover:text-gold-400 transition-colors duration-200">
+
+          <!-- Series name -->
+          <h2 class="text-2xl font-display font-semibold text-cream-900 dark:text-cream-100 group-hover:text-gold-600 dark:group-hover:text-gold-400 transition-colors duration-200 mb-1">
             {series.seriesName}
           </h2>
-          <div class="mt-4 text-cream-500 dark:text-cream-500 text-sm flex items-center transition-colors duration-300">
-            Access Records
-            <svg class="w-4 h-4 ml-2 group-hover:translate-x-1 group-hover:text-gold-500 dark:group-hover:text-gold-400 transition-all duration-200" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3" />
-            </svg>
+
+          <!-- Author -->
+          {series.author && (
+            <p class="text-sm text-cream-600 dark:text-cream-300 mb-4">
+              {series.author}
+            </p>
+          )}
+
+          <!-- Footer row -->
+          <div class="mt-auto flex items-center justify-between pt-3 border-t border-cream-200 dark:border-ink-700">
+            <div class="flex items-center gap-1.5 text-xs text-cream-500 dark:text-cream-500">
+              <svg class="w-3.5 h-3.5 flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
+                <path d="M9 4.804A7.968 7.968 0 005.5 4c-1.255 0-2.443.29-3.5.804v10A7.969 7.969 0 015.5 14c1.669 0 3.218.51 4.5 1.385A7.962 7.962 0 0114.5 14c1.255 0 2.443.29 3.5.804v-10A7.968 7.968 0 0014.5 4c-1.255 0-2.443.29-3.5.804V12a1 1 0 11-2 0V4.804z"/>
+              </svg>
+              {series.bookCount} {series.bookCount === 1 ? 'book' : 'books'} in archive
+            </div>
+            <div class="flex items-center gap-1.5 text-xs text-cream-500 dark:text-cream-500 group-hover:text-gold-500 dark:group-hover:text-gold-400 transition-colors duration-200">
+              Access Records
+              <svg class="w-3.5 h-3.5 group-hover:translate-x-0.5 transition-transform duration-200" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3" />
+              </svg>
+            </div>
           </div>
         </a>
       ))}
