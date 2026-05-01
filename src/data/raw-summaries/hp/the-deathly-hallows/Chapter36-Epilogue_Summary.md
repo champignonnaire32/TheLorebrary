@@ -1,5 +1,3 @@
-# THE DISTILLER: Chapter 36-Epilogue Summary
-
 ### Chapter 36: The Flaw in the Plan
 Harry wakes up on the forest floor after being hit by the Killing Curse. Narcissa Malfoy examines him and falsely declares him dead to the Death Eaters after Harry whispers that Draco is still alive. Voldemort uses the Cruciatus Curse on Harry's limp body but Harry feels no pain. Hagrid is forced to carry Harry's body back toward Hogwarts as a trophy. Voldemort stops the procession at the edge of the forest and uses magic to amplify his voice, announcing Harry's death to the castle's defenders.
 
@@ -11,7 +9,7 @@ Molly Weasley duels and kills Bellatrix Lestrange after the Death Eater nearly h
 
 ---
 
-### [Epilogue]: Epilogue
+### Epilogue
 Nineteen years after the battle, Harry and Ginny arrive at King’s Cross Station with their three children. Their youngest son, Albus Severus, expresses anxiety about being sorted into Slytherin House. Ron and Hermione are also on the platform with their children, Rose and Hugo. The group spots Draco Malfoy across the platform with his own wife and son, Scorpius. Ron jokes about Rose's academic performance and his own Muggle driving test experience.
 
 James Potter, the eldest son, returns from the train to report that Teddy Lupin is kissing Victoire Weasley. Lily Potter, the youngest child, discusses the possibility of Teddy joining their family through marriage. Harry checks his old watch and reminds the children that the train is about to depart. Ginny and Harry hug their sons before they board the scarlet Hogwarts Express. James teases Albus one last time about the thestrals that pull the school carriages.
