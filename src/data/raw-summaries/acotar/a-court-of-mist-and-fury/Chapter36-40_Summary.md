@@ -1,4 +1,4 @@
-### 36: Chapter 36
+### Chapter 36
 Feyre spends a final day in Adriata with Tarquin before returning to the palace for a tense final dinner. She and Amren dress in Illyrian fighting leathers and are flown by Rhysand to a small temple ruin at low tide. They discover a lead door in the muck that Feyre opens by magically shifting her essence to mimic Tarquin’s signature. A spiral staircase leads them down into a flooded chamber filled with a suffocating primordial power. They wade through waist-deep, freezing water to reach a second lead door guarded by a more intense blood-spell. Feyre uses her stolen Summer Court power again to unlock the barrier and access a dry inner sanctum.
 
 Inside the hidden room, they find a lead box containing the half of the Book of Breathings. Amren warns Feyre that the tide is returning and that the sea itself might be serving the High Lord’s will. Feyre identifies herself to the sentient box as its master, suppressing its ancient and suspicious voice. She snatches the box from its pedestal, but the heavy metal bites into her hands as the artifact Hisses "Liar." The lead door slams shut, trapping them inside the chamber as water begins to flood the space. Amren uses her own mysterious power to heat and force the door open against the rising deluge.
@@ -9,7 +9,7 @@ The two women struggle through the rapidly filling hallway, with Feyre carrying 
 
 ---
 
-### 37: Chapter 37
+### Chapter 37
 Amren takes the Book of Breathings to her home in Velaris while Feyre, Rhysand, and the rest of the inner circle eat breakfast. Feyre explains that she saved the water-wraiths by giving them jewelry to pay their Tithe, which prompted their life-saving intervention. Rhysand asks Feyre to use her combined powers to finally unlock the lead box on the dining room table. The Book speaks to Feyre, calling her "Cursebreaker" and "Liar" before clicking open under her mental pressure. Inside the box, they find dark metal plates bound by rings of gold, silver, and bronze, covered in an unrecognizable alphabet. Amren identifies the script as the Leshon Hakodesh, or Holy Tongue, a language from another world.
 
 Rhysand reveals he gambled on Amren’s ability to read the book because she is not from their world and might find the spell to go home. The group discusses the threat of Jurian, a resurrected human commander from the War who now serves the King of Hybern. Rhysand speculates that Jurian is motivated by the loss of his lover, Miryam, and a desire for revenge against Prince Drakon. The inner circle plans to meet with the mortal queens to request the second half of the Book. Feyre spends the following afternoon in the garden of the town house, recovering from the physical and mental exhaustion of the heist. She eventually moves to the rooftop patio to watch the sunset, where she finds Rhysand waiting with a decanter of liquor.
@@ -20,7 +20,7 @@ Rhysand reflects on the necessity of stealing from Tarquin and expresses regret 
 
 ---
 
-### 38: Chapter 38
+### Chapter 38
 Feyre flirts with Rhysand on the rooftop, challenging him to accompany her to a lingerie shop to buy items for Tarquin. Azriel arrives with news, prompting Feyre to retreat to the stairwell where she experiences a vivid, sexually charged vision sent by Rhysand. She counters his mental intrusion with a cold bath and spends the evening talking with Mor about the history of the world. At two in the morning, a massive surge of dark power and nightmarish energy erupts from Rhysand’s bedroom. Feyre enters his room to find him trapped in a violent nightmare that causes the entire house to moan and shudder. She climbs onto the bed and slaps him to break the trance, eventually using her own darkness to soothe his power.
 
 Rhysand pins Feyre to the mattress with talons at her throat before realizing where he is and who she is. His body has partially shifted into a beastial form with claws and wings, which he hides from his court to maintain his image. He explains that these nightmares have plagued him since his time Under the Mountain and occur as frequently as Feyre’s own. Feyre offers to listen whenever he needs to talk and promises to keep his vulnerability a secret from the others. She kisses his cheek in a gesture of comfort before leaving him alone in his room. This moment of shared trauma begins to heal the emotional void Feyre has felt since her resurrection.
@@ -31,7 +31,7 @@ Feyre spends the next several weeks training her physical body with Cassian and 
 
 ---
 
-### 39: Chapter 39
+### Chapter 39
 Feyre visits Amren's apartment and brings her jars of lamb's blood to sustain her during her intensive research. Amren explains that she prefers the blood of animals over humans because human blood often tastes like their poor diets. Feyre notices that Amren is using the blood ruby from the Summer Court as a paperweight on her desk. Amren also displays a necklace of diamonds and rubies sent to her by Varian, Tarquin's commander, to soften the blood feud declaration. The inner circle waits for Azriel to attempt further infiltration of the mortal courts, though he remains unsuccessful. Feyre continues her brutal training sessions with Cassian, who is particularly irritable after a visit to the human realm to see Nesta.
 
 Rhysand spends his days managing the Night Court's internal affairs and preparing for the inevitable conflict with the King of Hybern. He sends Feyre notes from across the court, asking her about her abandoned passion for painting and her desires for the future. Rhysand explains that he chose to be a different kind of High Lord than his father, aiming to protect his people and eliminate corruption. Feyre realizes that Tamlin’s resentment of his title contrasts sharply with Rhysand’s active vision and dedication to his realm. Their banter continues through the bond, with Feyre even splashing Rhysand with a bucket of water to break his smugness. The news arrives that the five mortal queens will visit the estate the following morning at eleven o'clock.
@@ -42,7 +42,7 @@ The group travels to the human realm after dinner, where Nesta and Elain prepare
 
 ---
 
-### 40: Chapter 40
+### Chapter 40
 The five mortal queens and their guards take their seats in the sitting room while the sixth queen remains absent due to illness. Rhysand introduces Feyre as his emissary and Mor as his cousin, identifying Mor as "The Morrigan" from the ancient War. The queens reveal they have been preparing for war for years but consider Feyre's territory a waste of resources to defend. Nesta interrupts the negotiations to condemn the queens as cowards for abandoning the human families and children in the path of the Fae. The eldest queen dismisses Feyre’s plea for the second half of the Book, citing the Night Court’s reputation for cruelty and mind-shattering. Feyre explains her own death and resurrection at the hands of Hybern to illustrate the severity of the coming threat.
 
 Rhysand warns the queens not to condescend to Feyre and calls their refusal to help a choice of selfishness. Mor stands and uses her gift of truth to remind the queens of their ancestors who signed the original Treaty. She reveals the secret existence of an island where Miryam and Drakon live in peace with both Fae and humans. This revelation shocks the queens, as the world has believed the legendary figures to be dead for five centuries. The queens demand proof that Rhysand is truly a male of peace before they will consider surrendering their half of the Book. Rhysand agrees to provide the proof and dismisses the queens, telling them to return when they are summoned.

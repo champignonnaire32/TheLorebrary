@@ -1,4 +1,4 @@
-### 21: Chapter 21
+### Chapter 21
 Feyre retrieves a ring from a chimney ledge inside the Weaver's cottage but is detected when the spinning wheel stops. She discovers the Weaver is a gray-skinned creature with rotting black pits for eyes and a mouth full of jagged stumps. To escape, Feyre throws a candle at bolts of woven fabric to start a fire and climbs into the soot-stained chimney. She becomes stuck midway up the flue as the Weaver begins climbing after her to consume her flesh. Feyre smashes a brick loose and hurls it at the Weaver's face, breaking bone and drawing black blood.
 
 The brick impact allows Feyre to scramble out onto the roof, which is thatched with human hair and slicked with boiled fat. She jumps to a nearby tree branch and flees through the forest until she encounters Rhysand lounging on a branch. Rhysand winnows them to Velaris where they land in a war room containing Cassian and Amren. Feyre vomits on the floor due to the smell of grease and human remains clinging to her skin. She confronts Rhysand for allowing her to face the Weaver alone to test her ability to master her panic.
@@ -9,7 +9,7 @@ Cassian agrees to train Feyre in physical combat so she no longer has to rely on
 
 ---
 
-### 22: Chapter 22
+### Chapter 22
 Mor visits Feyre the next morning to discuss their upcoming trip to the mortal realm to meet the human queens. Feyre explains that human women in her land are restricted to domestic roles and marriage planning while wearing layers of covering clothing. Mor reveals her own history in the Court of Nightmares where her virginity was treated as a commodity for family alliances. She describes how her power manifested at age seventeen, causing the mountain to tremble and making her a prize for ruling families. Mor declines to join the trip to the mortal realm because she cannot tolerate the way women are treated there.
 
 Feyre prepares for the journey by donning a turquoise ensemble with a gold diadem and lapis lazuli jewelry. She chooses to fly with Azriel rather than Rhysand to avoid the physical tension and the weight of their shared mental connection. Azriel carries Feyre into the air as they head toward the invisible wall that divides the faerie and mortal lands. They fly through a crack in the magical wall located half a mile offshore where the air feels crackling and nauseating. Feyre notices that the air in the mortal realm feels less alive and significantly colder than the spring climate of Prythian.
@@ -20,7 +20,7 @@ The group clears the white cliffs of the coastline and begins sweeping over a la
 
 ---
 
-### 23: Chapter 23
+### Chapter 23
 Feyre stands before her family's marble estate and rings the bell while her three Fae companions remain hidden by glamours. The housekeeper Mrs. Laurent answers the door and reacts with suspicion to Feyre's preternatural stillness and Fae appearance. Elain appears in the hallway and begins to cry upon seeing her sister alive after believing she was dead. Nesta stands on the stairs and stares at Feyre as if she is a ghost before ordering tea for the drawing room. Feyre enters the house and feels like a predator in a fragile environment as she prepares to reveal the threat of Hybern.
 
 Inside the sitting room, Feyre removes her hood to show her pointed ears and slender, immortal hands to her shocked sisters. She recounts the details of her trials Under the Mountain, her death, and her rebirth as a High Fae. Feyre explains that she needs to use the house as a meeting place for the High Fae and the human queens. Nesta initially refuses to host the meeting because she fears the social repercussions and the danger to Elain's upcoming wedding. Elain reveals she is betrothed to the son of a lord who is a notorious hunter of faeries.
@@ -31,7 +31,7 @@ Elain intervenes and convinces Nesta to help by arguing that the wedding will no
 
 ---
 
-### 24: Chapter 24
+### Chapter 24
 Mrs. Laurent and the remaining staff depart the estate in a carriage after Elain pays them to hasten their packing. Rhysand, Cassian, and Azriel knock on the front door and enter the house as the light fades over the snowy landscape. Cassian surveys the wealthy interior and remarks that the Archeron father must be an exceptionally successful merchant. Feyre introduces her sisters to the three males, noting that Rhysand has dimmed his aura of power to appear less threatening. Nesta leads the group to the dining room where a cold meal has been left on the cherry wood table.
 
 The meal consists of poached salmon, whipped potatoes, and roast chicken, which Feyre finds tastes like ash compared to Fae food. Cassian and Nesta immediately clash when Cassian insults her for allowing Feyre to hunt alone in the forest as a child. Nesta retorts with a snarl, leading Cassian to realize she is a formidable opponent rather than a helpless human. Elain attempts to bridge the gap by explaining their fear of the Fae and mentioning the brutal murder of their neighbor Clare Beddor. Azriel uses his polite manners to put Elain at ease while Cassian continues to watch Nesta with intense interest.
@@ -42,7 +42,7 @@ The group drafts a letter to the human queens that combines a formal invitation 
 
 ---
 
-### 25: Chapter 25
+### Chapter 25
 Feyre and Rhysand enter the snow-heavy forest the next morning so she can practice using the elemental powers she inherited from the High Lords. Rhysand shows Feyre a map of the Night Court, pointing out the Illyrian Steppes and the location of Velaris on the western coast. He places a candle on the ground and instructs Feyre to light it, douse it with water, and dry the wick using only her magic. Feyre finds she cannot focus with Rhysand nearby and asks him to leave her alone in the woods to practice. Rhysand departs but leaves a magically warmed canister of stew and a note in her pack to stave off her boredom.
 
 Feyre spends an hour attempting to manifest fire or smoke by focusing on her anger toward Ianthe but achieves no results. She exchanges several notes with Rhysand through their mental bond, learning that Cassian and Nesta are arguing again back at the house. Rhysand flirts with Feyre over the notes, complimenting her handwriting and stating that life is better when she is around. Feyre smiles at the exchange but remains frustrated by her inability to trigger her magical abilities during the solitary training session. She considers trying out her Illyrian bow but decides to remain focused on the task Rhysand set for her.

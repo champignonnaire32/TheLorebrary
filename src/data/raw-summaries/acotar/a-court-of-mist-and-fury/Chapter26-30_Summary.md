@@ -1,4 +1,4 @@
-### Chapter 26: Chapter 26
+### Chapter 26
 The Attor, a spindly and malicious winged faerie serving the King of Hybern, captures Feyre in the mortal woods but is immediately intercepted by Rhysand. Rhysand uses bands of solid night to bind the Attor to a tree and shoots spears of darkness through its wings. Under interrogation, the Attor reveals that the King of Hybern ordered Feyre's capture and that an endless army is preparing to invade Prythian. Azriel, the High Lord’s shadowsinger, arrives and takes the Attor away to the Court of Nightmares for further questioning. Rhysand admits he used Feyre as bait to draw out his enemies, which triggers a violent confrontation between them in the snow.
 
 Feyre attacks Rhysand in a fit of rage, shoving him and attempting to strike him as he winnows around the clearing. Rhysand taunts her, pushing her to remember her own strength and the powers she gained from the High Lords. Feyre pursues him with such intensity that she inadvertently folds herself into shadow and wind, successfully winnowing for the first time. She tackles Rhysand into the snow, pinning him down with her talons extended and demanding he never use her as bait again. Rhysand stops laughing and acknowledges her demand while observing her newly manifested power with wicked delight.
@@ -9,7 +9,7 @@ After the fight, Feyre insists on returning to the mortal chateau and rejects Rh
 
 ---
 
-### Chapter 27: Chapter 27
+### Chapter 27
 Feyre stands over Rhysand in the snow and threatens to quit working for him if he ever treats her like a pawn again. Rhysand agrees to her terms and asks her to demonstrate her winnowing ability once more, but she refuses. They return to the mortal chateau where Feyre finds her sisters and notices Cassian's predatory interest in Nesta. Rhysand and Feyre accompany Elain and Nesta to a village shop to mail a letter while remaining glamoured and invisible. After the task is finished, Rhysand winnows Feyre back to Velaris as the morning mist settles over the city.
 
 Rhysand leaves Feyre in the foyer to recover from the cold while he goes to check on the progress of the Attor’s interrogation. Feyre eats with Nuala and Cerridwen, two half-wraiths who serve as her handmaidens, and reflects on her first successful winnow. Rhysand returns an hour later and offers to show Feyre exactly what happened during the interrogation in the Hewn City. He warns her that the methods used by Azriel were not pleasant, but Feyre insists on knowing everything. Rhysand steps closer and prepares to share his memories with her through their mental bond.
@@ -20,7 +20,7 @@ Feyre enters a pocket of Rhysand’s memory and witnesses Azriel torturing the A
 
 ---
 
-### Chapter 28: Chapter 28
+### Chapter 28
 Feyre writes a brief letter to Tamlin stating she is safe, cared for, and will never return to the Spring Court. Rhysand takes the letter and makes it vanish, then asks if she is certain about her decision to cut ties completely. Feyre declares she is no one’s pet and expresses a desire to finally see the city of Velaris and engage with the world. Rhysand promises to take her out for dinner that night to experience the city's nightlife properly. Amren visits Feyre’s room and explains that her handmaidens are actually wraiths who report to Azriel.
 
 Amren reveals that the Inner Circle is built on loyalty and compassion rather than brute obedience, explaining why Rhysand allows Azriel to occasionally disobey orders. Feyre attempts to return a gold amulet to Amren, but Amren tells her to keep it because it has no actual magic. Amren confesses she lied about the amulet's power to give Feyre the confidence needed to escape the Prison. Feyre realizes Rhysand was only looking at the jewelry because he had given it to Amren two centuries ago. The group prepares for their night out, with Mor and Cassian bickering about their respective speeds of travel.
@@ -31,7 +31,7 @@ Downstairs, the atmosphere is light as the group prepares to head into the city 
 
 ---
 
-### Chapter 29: Chapter 29
+### Chapter 29
 The group walks through the vibrant city of Velaris, crossing marble bridges and passing crowded theaters and shops. Feyre observes that the citizens show no fear toward Rhysand or his powerful companions, treated instead with awed respect. They dine at a small riverside restaurant where the owner treats the High Lord and his inner circle like regular patrons. Amren consumes a goblet of spiced blood while the others enjoy a rich, spicy meal that makes Feyre feel truly awake for the first time in months. Rhysand watches Feyre with a soft expression as she interacts with the restaurant owner and expresses her appreciation for the food.
 
 After dinner, Mor, Azriel, and Cassian head to a club called Rita’s to go dancing, while Rhysand and Feyre choose to walk home. Rhysand takes Feyre to a spot by the river to view the Rainbow of Velaris, the city's colorful artists' quarter. He explains the secret history of Velaris, revealing that an ancient High Lord staged a coup to create a sanctuary for dreamers. The city is protected by powerful spells and a permanent divide between the peaceful Velaris and the nightmare-filled Hewn City. Rhysand admits that keeping the city a secret has isolated his people but preserved their safety for millennia.
@@ -42,7 +42,7 @@ As they walk, Feyre hears a symphony being played by street performers that matc
 
 ---
 
-### Chapter 30: Chapter 30
+### Chapter 30
 Feyre trains with Cassian in a sparring ring atop the House of Wind, struggling with hand-to-hand combat and her uncoordinated left side. Cassian corrects her punching technique and forces her to work on her core strength and basic stances. Nearby, Rhysand and Azriel spar with blades, their muscled bodies covered in sweat and Illyrian battlefield tattoos. Cassian explains that the tattoos are given for luck and glory, while Feyre envisions a painting of their dark wings and silver blades. Azriel returns from the mortal realm with news of a barrier protecting the queens' palace, adding to his visible frustration during training.
 
 Cassian asks Feyre about her letter to Tamlin, which sparks a defensive response where she mocks his feelings for Mor. Feyre eventually admits the difficulty of her decision to leave the Spring Court and the fear she felt regarding Tamlin’s rage. During a focused punching drill, Feyre begins to sob as she reflects on the innocents she killed Under the Mountain. Her fists burn through the sparring pads as her Autumn Court fire powers manifest unexpectedly, causing the training to come to a halt. Feyre finally speaks the words "I killed them" aloud, acknowledging her guilt for the first time since the events occurred.

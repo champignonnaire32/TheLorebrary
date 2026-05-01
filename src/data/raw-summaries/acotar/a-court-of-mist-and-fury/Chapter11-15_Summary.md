@@ -1,4 +1,4 @@
-### 11: Chapter 11
+### Chapter 11
 Rhysand brings Feyre back to the Night Court and urges her to eat breakfast despite her initial refusal. He admits to feeling a spike of terror through their mental bond and questions her about events at the Spring Court. Feyre denies his request to work for him and informs him that her wedding to Tamlin is currently on hold. Rhysand recounts his fifty years of imprisonment and torture Under the Mountain as a reason to protect Prythian from the coming war. Feyre spends her days alone until Rhysand returns a week later and finds her reading in a lounge.
 
 He attempts to provoke her into showing emotion by magically sealing her book shut and moving her food plate away. Feyre reacts with a burst of icy rage and throws the book at his head, which Rhysand greets with apparent relief. The next morning, Tamlin waits in the garden and orders Feyre to return inside the manor immediately. Rhysand vanishes after telling Feyre to fight her circumstances, leaving her with a murderous Tamlin. Tamlin vows to end the bargain with Rhysand while forcing Feyre to recount every detail of her week away.
@@ -9,7 +9,7 @@ He increases the sentry presence at the manor and keeps a constant watch over Fe
 
 ---
 
-### 12: Chapter 12
+### Chapter 12
 Tamlin restricts Feyre to the manor grounds while he and Lucien investigate a nameless threat on their borders. Ianthe, a High Priestess wearing a pale hood and silver circlet, returns to the manor to provide Feyre company. Feyre's hands involuntarily sprout sharp claws during a moment of stress, which she quickly hides from the others. Lucien promises to ask Tamlin to allow Feyre to train her new powers, but Feyre doubts he will agree. Feyre overhears Ianthe and Lucien debating whether other High Lords will steal Feyre for the purpose of breeding powerful offspring.
 
 Tamlin refuses to allow Feyre to train, arguing that any sign of her abilities will make her a target for enemies. He eventually orders Feyre to stay behind as he and Lucien leave to defend the western sea border. When Feyre tries to follow them, she strikes an invisible wall of air that Tamlin has constructed around the manor. Lucien explains that Tamlin has sealed the entire house to prevent Feyre from leaving until he returns. Feyre suffers a panic attack in the foyer, feeling trapped like a prisoner in a cell Under the Mountain.
@@ -20,7 +20,7 @@ Her distress causes the gold ring on her finger to melt into ore and the emerald
 
 ---
 
-### 13: Chapter 13
+### Chapter 13
 Feyre wakes up on a couch at the Night Court and learns she had been screaming in her sleep. Rhysand explains that Mor carried her over the border to follow legal protocols and avoid an internal war with Tamlin. He offers Feyre food, shelter, and clothing in exchange for her working as his assistant. Feyre decides not to return to the Spring Court and asks to accompany Rhysand on his upcoming business trip. Rhysand warns that she must never reveal the secrets of his court to anyone, including Tamlin or Lucien.
 
 Feyre agrees to the condition and cleans herself up before they winnow to a new location. They arrive at a wood-paneled town house in a city that Rhysand identifies as Velaris, the City of Starlight. Rhysand describes the town house as his private home, which is protected by ancient wards and shields. Feyre notes that the house is small and comfortable, filled with artwork and worn furniture. She learns that Rhysand's power can create a shield of adamant that even other High Lords cannot easily breach.
@@ -31,7 +31,7 @@ Feyre questions Rhysand about the different powers she inherited from the variou
 
 ---
 
-### 14: PART TWO THE HOUSE OF WIND - Chapter 14
+### Chapter 14
 Rhysand welcomes Feyre to his town house in Velaris and explains that the city has remained secret for five millennia. The city survived Amarantha's reign because its existence was hidden from the rest of Prythian by powerful wards. Cassian and Azriel, two Illyrian warriors with large leathery wings, arrive at the front door and demand breakfast. Amren, a female with a crisp voice and hidden power, joins them and insults the male warriors for their behavior. Mor arrives as well and mentions a planned meeting at a location called the House of Wind.
 
 Feyre heads upstairs to a sunlit bedroom that overlooks a winter garden with a stone fountain. Nuala and Cerridwen, twin housekeepers who move with the grace of shadows, help Feyre settle in. They explain that Rhysand's devotion to his people led him to shield the city from external threats. Feyre insists that the bedroom curtains remain open to avoid the feeling of being trapped in darkness. She falls into a deep, four-hour sleep while the Inner Circle gathers in the dining room below.
@@ -42,7 +42,7 @@ The Inner Circle consists of Mor, Amren, Cassian, and Azriel, who are Rhysand's 
 
 ---
 
-### 15: Chapter 15
+### Chapter 15
 Feyre and Rhysand walk through the streets of Velaris, observing the High Fae and lesser faeries in the markets. They visit the Palace of Thread and Jewels and the Palace of Bone and Salt to see the local commerce. Feyre notices that the residents do not fear Rhysand and instead greet him with warm smiles and handshakes. Rhysand explains that he is a daemati and warns Feyre that other telepaths could enslave her if her shields fall. Feyre sees her own gaunt and hollow reflection through Rhysand's eyes during a brief mental slip.
 
 They reach the artists' quarter, known as the Rainbow, where galleries and theaters line the hills near the river. Feyre feels a surge of resentment that this city remained untouched while the rest of the world suffered. Rhysand admits he made difficult choices to preserve a piece of goodness in a wretched world. He takes Feyre to the rooftop of the town house and explains they must fly to the House of Wind. Rhysand carries Feyre in his arms and flies up toward the mountain-top residence overlooking the twinkling city.
