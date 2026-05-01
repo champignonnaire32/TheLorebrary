@@ -3,23 +3,23 @@ import Layout from '../layouts/Layout.astro';
 ---
 
 <Layout title="The Lorebrary | Welcome" showBackBtn={false}>
-  <div class="flex flex-col items-center justify-center min-h-[75vh] px-4 sm:px-6 py-12">
+  <div class="flex flex-col items-center justify-center min-h-[75vh] px-2 sm:px-4 py-8 sm:py-12">
 
     <!-- Hero Card -->
-    <div class="max-w-3xl w-full bg-cream-50 dark:bg-ink-900 border border-cream-200 dark:border-ink-700 rounded-2xl shadow-xl dark:shadow-black/40 p-8 sm:p-12 transition-colors duration-300 mb-6">
+    <div class="max-w-3xl w-full bg-cream-50 dark:bg-ink-900 border border-cream-200 dark:border-ink-700 rounded-2xl shadow-xl dark:shadow-black/40 p-5 sm:p-8 md:p-12 transition-colors duration-300 mb-4 sm:mb-6">
 
       <!-- Title -->
-      <div class="text-center mb-10 border-b border-cream-200 dark:border-ink-700 pb-8">
-        <h1 class="text-4xl md:text-5xl font-display font-semibold mb-4 tracking-wide text-cream-900 dark:text-cream-100 transition-colors duration-300">
+      <div class="text-center mb-7 sm:mb-10 border-b border-cream-200 dark:border-ink-700 pb-6 sm:pb-8">
+        <h1 class="text-3xl sm:text-4xl md:text-5xl font-display font-semibold mb-3 sm:mb-4 tracking-wide text-cream-900 dark:text-cream-100 transition-colors duration-300">
           The Lorebrary
         </h1>
-        <p class="text-lg font-body text-cream-600 dark:text-cream-300 transition-colors duration-300">
+        <p class="text-base sm:text-lg font-body text-cream-600 dark:text-cream-300 transition-colors duration-300">
           High-Density Narrative Summaries for returning readers.
         </p>
       </div>
 
       <!-- Heart of the project -->
-      <div class="prose prose-lg dark:prose-invert max-w-none mb-12 transition-colors duration-300">
+      <div class="prose sm:prose-lg dark:prose-invert max-w-none mb-8 sm:mb-12 transition-colors duration-300">
         <p><strong>Welcome to The Lorebrary.</strong><br/>
         This project was born from my own needs as an avid sci-fi and fantasy reader of very long series. Sometimes we have to wait years for a new installment. Other times we have read 2,000 pages of a story and just need a break. And other times, life simply gets in the way. In any case, it is easy to forget the characters, details, and intricate plot lines of these beloved stories. I created this archive to help us all out.</p>
 
@@ -31,7 +31,7 @@ import Layout from '../layouts/Layout.astro';
       <div class="flex justify-center">
         <a
           href="/archive"
-          class="inline-flex items-center px-10 py-5 bg-gold-500 hover:bg-gold-400 dark:bg-gold-400 dark:hover:bg-gold-300 text-ink-950 text-lg font-bold font-display uppercase tracking-widest rounded-xl shadow-lg shadow-gold-400/20 transition-all hover:scale-105 active:scale-95 focus:outline-none focus:ring-2 focus:ring-gold-400 focus:ring-offset-2 focus:ring-offset-cream-50 dark:focus:ring-offset-ink-900"
+          class="inline-flex items-center px-6 py-4 sm:px-10 sm:py-5 bg-gold-500 hover:bg-gold-400 dark:bg-gold-400 dark:hover:bg-gold-300 text-ink-950 text-base sm:text-lg font-bold font-display uppercase tracking-widest rounded-xl shadow-lg shadow-gold-400/20 transition-all hover:scale-105 active:scale-95 focus:outline-none focus:ring-2 focus:ring-gold-400 focus:ring-offset-2 focus:ring-offset-cream-50 dark:focus:ring-offset-ink-900"
         >
           Enter the Lorebrary
           <svg class="w-6 h-6 ml-3" fill="none" viewBox="0 0 24 24" stroke="currentColor">
@@ -43,7 +43,7 @@ import Layout from '../layouts/Layout.astro';
     </div>
 
     <!-- Legal Notices Card -->
-    <div class="max-w-3xl w-full border border-dashed border-cream-300 dark:border-ink-600 rounded-xl px-6 sm:px-10 py-7 transition-colors duration-300">
+    <div class="max-w-3xl w-full border border-dashed border-cream-300 dark:border-ink-600 rounded-xl px-4 sm:px-8 md:px-10 py-5 sm:py-7 transition-colors duration-300">
       <p class="text-[10px] font-bold uppercase tracking-[0.2em] text-cream-400 dark:text-cream-600 mb-5">Legal Notices</p>
 
       <div class="space-y-4 text-sm text-cream-500 dark:text-cream-500 leading-relaxed transition-colors duration-300">
