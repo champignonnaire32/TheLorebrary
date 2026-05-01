@@ -1,0 +1,52 @@
+### Chapter 51
+Feyre and Rhys arrive at the Illyrian mountain camp with Mor and the Archeron sisters. They meet Lord Devlon and other Illyrians, winged warriors who are scarred and armed with Siphons, jewels that funnel and control raw magic. Rhys wears his High Lord attire instead of Illyrian leathers to assert his authority over the testy legion. Nesta, Elain, and Mor stay back to avoid the backward Illyrian views on females. Rhys gives orders for the southern push while Azriel stares down the warlords who despise his heritage.
+
+Devlon notices Nesta and asks if she is a witch after seeing her eerie composure. Nesta flatly confirms she is a witch, causing the warlords to flinch in fear. Cassian clarifies she is High Fae, but Devlon remains suspicious and orders her away from children. Mor reveals Elain, whom Devlon grunts at as she looks overwhelmed by the bustling army. The sisters and Mor head to the war tent to avoid further conflict with Devlon.
+
+Inside the luxurious war tent, Mor explains that witches use tools and spells to amass power beyond their natural reserve. Elain worries about the high death toll of the coming war while Nesta bluntly confirms many will die. Mor uses a glamour, a magical illusion used to mask appearance, on Elain to make her look like an ordinary human. The group winnows to the human lands where they face a massive stone wall and iron gates. Elain demands the guards tell Graysen she has arrived and is begging for sanctuary.
+
+**Sentence Count Check: 15**
+
+---
+
+### Chapter 52
+The group waits outside the human estate while a guard informs Graysen of Elain's arrival. Rhys maintains a protective shield as he and Mor monitor the fearful, arrow-pointing human guards. They are eventually led into a cramped, stuffy guardhouse instead of the main keep for security reasons. Feyre struggles with the small space due to her trauma, leading Nesta to reveal she can no longer submerge in bathtubs. Horses soon arrive, carrying two dozen guards and the human lords to the meeting.
+
+Lord Nolan and his son Graysen enter the guardhouse, haul the young man back, and demand an explanation. Graysen appears handsome and human, a stark contrast to the lethal Fae accompanying the sisters. Nesta explains that the wall has fallen and that she was kidnapped and turned Fae against her will. Feyre introduces herself as High Lady of the Night Court along with Rhysand, Mor, and Azriel. The human guards and lords react with terror and shock to the presence of the powerful Fae.
+
+Elain pleads with Graysen and Nolan to open their gates to human refugees fleeing the invasion. Graysen notices Elain's iron engagement ring and accuses her of lying to him. Lord Nolan suggests they are being deceived by faerie magic and questions the risk to the Fae. The High Lords mention their ash weapons, which are lethal to Fae, but Nolan points out that Elain is no longer human. Suddenly, Jurian steps into the room and reveals he was the one who told the lords the truth.
+
+**Sentence Count Check: 15**
+
+---
+
+### Chapter 53
+Jurian enters the guardhouse with tanned hands and tells the Fae to stop snarling at him. He reveals that the human queens desire power and youth, and they betrayed the noble sixth queen. Jurian explains that Hybern resurrected him believing he had gone mad during his five centuries of imprisonment. He claims he has spent five hundred years plotting against his enemies while acting as their ally. Mor is shaken by his familiarity, as they were once friends who fought together in the War.
+
+Jurian argues that he played the villain to learn the enemy's weaknesses and protect the human realm. He asks Rhys why he didn't look into his mind to see the truth earlier. Rhys admits he avoided looking because he didn't want to see any trace of Amarantha. Jurian mentions he is looking for Miryam and Drakon to beg for their forgiveness rather than kill them. He urges the group to find the vanished pair because their legion could turn the tide of the war.
+
+Jurian invites Rhys to look into his mind to verify his claims and his true intentions. He explains he is warning the humans now because the fallen wall allows him to move freely. Jurian reveals that Tamlin returned to Hybern's camp immediately after the High Lords' meeting. Hybern is planning a land assault on the Summer Court to begin the following day. This intel changes the immediate focus of the Night Court's military strategy.
+
+**Sentence Count Check: 15**
+
+---
+
+### Chapter 54
+Rhys and Feyre verify Jurian’s claims by searching his mind and finding only truth and pain. Jurian provides specific details about the upcoming attack, leading Azriel to vanish to alert the legion. He explains that the sixth queen, Vassa, was cursed and stolen by a death-lord after warning against Hybern. The group does not tell Jurian that Lucien is currently hunting for the missing queen. Elain attempts to apologize to Graysen, but he is cold and disgusted by her transformation.
+
+Graysen rejects Elain, stating he doesn't want her heart because she is now bound to Lucien as a mate. Elain insists the mating bond, a predestined and biological connection, means nothing, but Graysen remains firm. Feyre intervenes, demanding the lords take in human refugees in exchange for Fae wards and protection. Lord Nolan initially resists but agrees after Jurian threatens to direct Hybern's army toward their estate. Graysen orders Elain to take off her engagement ring, which she refuses to do.
+
+The confrontation escalates until Nesta strikes Graysen across the face for his cruelty toward Elain. Nesta then leads her sobbing sister out of the guardhouse with Mor following to protect them. Jurian apologizes for shooting Azriel and details his plan to sow discord among the human queens. He advises Cassian to hammer Hybern's left flank, which consists of untested and spoiled nobles. Jurian admits he decided to trust Feyre because she killed Hybern's commanders to save the Children of the Blessed.
+
+**Sentence Count Check: 15**
+
+---
+
+### Chapter 55
+The Illyrian army settles at the northern border of the Winter Court to prepare for the dawn attack. Mor and Feyre discuss the unexpected turn of Jurian becoming an ally rather than a foe. Messages are sent to other High Lords to join the battle against Hybern's forces. Elain remains catatonic and tearful in her tent, refusing to remove the iron ring from her finger. Feyre considers retaliating against Graysen but decides against it to avoid further trauma for her sister.
+
+Mor reflects on the difficulty of friends becoming enemies and the hidden brokenness everyone carries. Feyre realizes that Elain's final tether to her human life has been violently snapped. The sisters will remain in camp until the battlefield is secured by the Night Court's forces. Mor encourages Feyre to sleep, but the weight of the coming war keeps her awake. Feyre spends the night alone as Rhys manages the preparations for the massive military engagement.
+
+Feyre finds Rhys at dawn on a rocky outcropping as the camp prepares for the push south. Rhys expresses his grief over the lives that will be lost in the coming slaughter. Feyre admits she is not ready for the battle but acknowledges there is no other choice. The Illyrian legion and the Darkbringers, a unit of soldiers from the Night Court, will converge on the Summer Court to face Hybern. Rhys tells Feyre he is grateful to have her by his side as the first stars fade.
+
+**Sentence Count Check: 15**

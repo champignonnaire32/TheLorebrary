@@ -1,0 +1,52 @@
+### Chapter 56
+Rhysand uses his power to cloak the entire Illyrian and Darkbringer army as they arrive at the Spring Court border. The Illyrians, winged warriors of the Night Court, wear black armor and carry shields and blades. Rhysand, Cassian, and Azriel wear specialized black helmets with cheek-guards fashioned like razor-sharp raven wings. The Darkbringers, Keir’s elite soldiers from the Court of Nightmares, charge on foot with shadowy shields and silver steel. The army takes the high ground on a sloped field while a narrow river traps Hybern’s forces from behind.
+
+Cassian leads the charge into the left flank of the Hybern army, utilizing red Siphons to blast through magic shields. He eventually leaves the shield line to single-handedly pursue a mounted Hybern commander across the muddy battlefield. Cassian catches a thrown spear with his shield, shears off the shaft, and continues his run toward the enemy leader. He hurls a fallen spear with such force that it pierces the commander's chest and knocks him off his horse. High Lord Tarquin’s army waits on the opposite riverbank to intercept the fleeing Hybern soldiers.
+
+Tarquin uses his power over water to drown the remaining Hybern prisoners on dry land as their lungs fill with fluid. The Illyrian war-camp moves to the edge of the battlefield after Rhysand incinerates the enemy corpses into black dust. Nesta observes Cassian's exhaustion and uses linen bandages to wrap his swollen, sprained wrist by the evening fire. Feyre and Rhysand return to their tent to have sex before discussing the difference between open warfare and skirmishes. Azriel reports that Hybern has sent a second force toward the Winter Court border, prompting a plan to use glamours to deceive the enemy.
+
+**Sentence Count Check: 15**
+
+---
+
+### Chapter 57
+Feyre commands Mor to leave her side and join the battle to support Cassian and Azriel. Mor winnows to the battlefield and immediately kills a Hybern soldier about to strike Azriel from behind. Together, Mor and Azriel fight through the press of bodies to reach the front line where Cassian's power is fading. Nesta remains at the camp outlook, watching the combat below with focused dread. Feyre decides she must leave the camp to find the Suriel and obtain information about Hybern’s true location.
+
+Feyre enters Elain’s tent and lays a map of Prythian across her sister’s lap. She uses her Daemati powers to plant an image of the Suriel into Elain’s mind to help her track it. Elain describes the creature moving through the world like the breath of the western wind. The Seer points to a specific location in the Middle, just south of the Weaver’s ancient forest. Feyre leaves Elain and performs five consecutive winnowing leaps to reach the gnarled beech trees of the wood.
+
+The air in the forest is heavy and ripe, filled with gnarled trees and choking moss. Feyre draws her Illyrian blade as she walks through the silent, oppressive environment. She recalls that the Weaver, also known as Stryga, is the sister of the Bone Carver. A raspy voice speaks from behind Feyre, asking if she has come to kill or beg for help. The Suriel appears, wearing a shredded dark cloak that has been ripped by phantom winds.
+
+**Sentence Count Check: 15**
+
+---
+
+### Chapter 58
+The Suriel reveals that it cannot see Hybern’s army because the King uses the Cauldron to cloak them. It instructs Feyre to have Nesta track the Cauldron since "like calls to like" after Nesta stole power from it. The creature suggests that Nesta can use scrying with bones and stones to find the King’s location. Feyre learns that the spell she attempted to use to nullify the Cauldron would have drained her life completely. The Suriel explains that the King will not allow anyone to get close enough to the Cauldron to attempt a nullification again.
+
+Feyre asks if the Bone Carver can help, but the Suriel cannot see him because he was not born of this earth. The Suriel identifies the Ouroboros as the Mirror of Beginnings and Endings and tells Feyre she must decide what breaks her. It instructs Feyre to tell Amren that the key to stopping Hybern lies on the second and penultimate pages of the Book. As the Suriel begins to explain what is needed, an ash arrow bursts through its throat from behind. Black blood sprays onto Feyre’s face, and the creature collapses to its knees under the impact of multiple arrows.
+
+Ianthe emerges from the trees with two Hybern guards, laughing at Feyre’s attempts to communicate with the creature. The priestess reveals that the King of Hybern spent days unraveling the damage Feyre did to her hand. Ianthe explains that she used a tracking spell on the robe she gave the Suriel to find Feyre. The Suriel silently mouths the word "Run" to Feyre while it bleeds out on the mossy ground. Feyre realizes the arrows were intended to kill the Suriel rather than capture it.
+
+**Sentence Count Check: 15**
+
+---
+
+### Chapter 59
+Feyre hides behind a gnarled tree while Ianthe mocks her for being unable to heal the Suriel's ash-poisoned wounds. The priestess claims that the King built mental shields to protect her from Feyre’s Daemati attacks. Feyre meets the Suriel’s eyes one last time and realizes the creature is willing to die to allow her to escape. She steps into the clearing and insults Ianthe before turning to sprint away into the dense woods. A Hybern guard fires an arrow that Feyre deflects with a weakening wall of hard air.
+
+Feyre hurls herself through the forest, leaping over rocks and streams to draw the guards away from the dying Suriel. The trees and roots seem to shift to impede the Hybern soldiers while clearing a path for Feyre. Ianthe and her guards remain close behind as Feyre intentionally leads them toward a familiar clearing. Feyre recognizes the landmarks near the cottage where she once encountered the Weaver with Rhysand. She emits a calculated whimper of relief to ensure the pursuers follow her toward the wooden threshold.
+
+Feyre bursts into the Weaver’s cottage and uses her remaining strength to hold the heavy door open. The Weaver, a death-god named Stryga, awakens in the darkness and identifies Feyre as a thief. Ianthe and the two Hybern guards step into the cottage, believing they have cornered a drained and defenseless Feyre. Feyre shouts the word "Dinner" to the Weaver before leaping back outside and slamming the door shut. The cottage rattles as Ianthe and the guards begin to scream while being attacked by the hungry death-god.
+
+**Sentence Count Check: 15**
+
+---
+
+### Chapter 60
+Feyre returns to the spot where the Suriel fell and finds the creature breathing its final, labored breaths. She offers to remove the ash arrows and use her blood to heal the wounds, but the Suriel refuses. The creature explains that it knew about the tracking spell but came to help because Feyre was kind to it. Feyre takes the Suriel’s bony hand in hers and promises to stay until the life leaves its body. The Suriel repeats its earlier warning for Feyre to stay with the High Lord to see everything righted.
+
+Feyre cries as the Suriel’s leathery skin grows cold and its heartbeat begins to fail. The creature makes a final request for Feyre to leave the world a better place than she found it. Its monstrous chest stops moving, and the dreamer’s heart inside finally ceases to beat. Feyre weeps over the silent body until the High Lord Helion appears and places a hand on her shoulder. Helion, the High Lord of the Day Court, possesses brown skin and ashen features in the somber light of the wood.
+
+Feyre refuses to leave the body until she can ensure it is treated with dignity and respect. She requests Helion’s rich crimson cloak and uses it to carefully shroud the Suriel’s remains. Helion uses the pure white flame of the sun to incinerate the body and the cloak into ashes. A phantom wind stirs the pile of ashes as Helion prepares to whisk Feyre away using his magic. The High Lord takes Feyre's hand and winnows her back to the safety of the war-camp.
+
+**Sentence Count Check: 15**

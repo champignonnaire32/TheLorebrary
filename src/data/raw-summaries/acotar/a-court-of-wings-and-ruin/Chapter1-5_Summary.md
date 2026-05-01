@@ -1,0 +1,52 @@
+### Chapter 1
+Feyre creates a painting of a rose garden to feign healing while secretly plotting revenge against the Spring Court. She breaks her paintbrush in a moment of rage and incinerates the pieces with hidden Night Court magic. Tamlin and Lucien visit her studio to announce a meeting with the High Priestess Ianthe. Feyre maintains her facade of trauma and recovery while internally blaming Ianthe for her sisters' abduction. She moves to a new bedroom because her old one is overgrown with magical thorns and debris. Lucien expresses suspicion regarding Feyre's calm demeanor and her previous promises of violence against their enemies.
+
+Lucien demands information about Elain's whereabouts and suggests he is willing to risk death to find his mate. Feyre lies to him, claiming she does not know where Rhysand would hide Elain. She manipulates Lucien by feigning fear and trauma to avoid answering dangerous questions about her bond with Rhysand. The group gathers in the formal dining room to confront Ianthe. Ianthe apologizes for her betrayal, claiming she acted to protect the Spring Court from Hybern's inevitable arrival. Lucien remains openly hostile toward Ianthe while Tamlin continues to offer her his trust.
+
+Feyre demands that Ianthe never repeat her actions but inwardly plans to destroy the priestess. Tamlin admits he has bargained with Hybern to ensure the safety of the Spring Court's citizens. He reveals that families are being relocated to the eastern part of the territory to avoid the coming conflict. Feyre notes this strategic detail, concluding that Hybern forces will arrive from the west. Tamlin announces that the first delegation from Hybern is scheduled to arrive the following day. Jurian is named as one of the representatives coming to survey the wall.
+
+**Sentence Count Check:** 15
+
+---
+
+### Chapter 2
+Feyre prepares for the arrival of the Hybern delegation while concealing her ability to communicate through the mating bond. She successfully sends a brief message to Rhysand and receives confirmation that her sisters and friends are healing. Jurian arrives at the Spring Court accompanied by Prince Dagdan and Princess Brannagh, the King of Hybern’s twin relatives. Feyre observes that the royals appear cold and unfeeling, possessing a lack of emotion honed by millennia of cruelty. Tamlin welcomes the delegation and offers them rooms within the manor, despite the tension in the air. Jurian mocks Feyre’s appearance and talents, but she responds with frozen calm and icy retorts.
+
+Feyre baiting Jurian serves to convince Tamlin of her loyalty and love for the Spring Court. During lunch, Feyre notices that the twins are likely daemati and maintains her mental shields with black adamant. The delegation demands to use Spring Court sentries to find holes in the wall for the Cauldron to rend. Jurian reveals his obsession with finding Miryam and Drakon, but Feyre lies and claims they are dead. Dagdan and Brannagh admit to keeping the wings of Illyrian generals as trophies from previous wars. Tamlin grows defensive of Feyre when Jurian suggests she was involved with Rhysand before leaving the Spring Court.
+
+The Hybern royals attempt to use their daemati powers to infiltrate the minds of Tamlin and Lucien. Feyre detects the mental intrusion and uses her own night-kissed power to strike back at the twins. She creates a mental barrier around her companions and gouges the royals' mental shields with black talons. The physical blow forces Dagdan and Brannagh to jolt in their seats, though Tamlin remains unaware of the psychic battle. Feyre hides her headache and continues eating as the meal ends in a heavy, forced silence. She realizes the twins are dangerous but believes she has successfully established herself as a formidable opponent.
+
+**Sentence Count Check:** 15
+
+---
+
+### Chapter 3
+The party rides to the wall, where Feyre observes the visible distress of the horses near the magical barrier. Lucien leads the Hybern royals to a narrow gap in the wall that Feyre previously used to enter Prythian. The twins reveal that they intend to break the wall on land rather than at the sea entrances. Feyre manipulates the situation by feigning physical fear of the royals and seeking proximity to Lucien for protection. Dagdan admits he can winnow a few miles while carrying others, a detail Feyre notes for future reference. Lucien questions Feyre’s intentions, but she avoids giving him a direct answer while they rest on a rock.
+
+Lucien confesses that he participated in the retrieval of Feyre from Hybern out of a sense of guilt. He explains that he disposed of Feyre’s melted wedding ring before Tamlin could see it as evidence of her departure. Feyre lies and claims the ring was melted off her finger by her captors to maintain her ruse. They discuss the Great War, and Lucien asserts he would have fought for the human-Fae alliance against his father. Jurian interrupts their private conversation and makes a crude comment about males who touch the High Lord’s belongings. Tamlin’s sentries remain at a distance while Feyre and Lucien share a moment of mutual understanding regarding Jurian’s baiting.
+
+Ianthe waits at the stables to greet the returning party and announce a party for the Summer Solstice. Feyre allows Lucien to lift her off her horse in full view of the High Priestess to provoke jealousy. Lucien reveals that he completed the Great Rite with Ianthe because Tamlin refused to participate during Calanmai. Feyre promises not to tell Elain about Lucien’s encounter with Ianthe and offers him genuine friendship. Alis discovers a Night Court outfit in Feyre’s armoire and reveals she saw Mor rescue Feyre months ago. Alis begs Feyre to spare her nephews from whatever retribution is planned against the Spring Court.
+
+**Sentence Count Check:** 15
+
+---
+
+### Chapter 4
+On Summer Solstice, Feyre dresses in white and wears a crown of hawthorn blossoms to project an image of purity. Ianthe leads a sunrise ceremony atop a hill, attempting to use the light to bolster her own religious authority. Feyre uses a phantom wind to move Ianthe’s ritual marker stone five feet to the right before the sun rises. When the sun crests the horizon, the light hits Feyre instead of Ianthe, making her body appear incandescent and holy. The gathered crowd witnesses the event and begins whispering that Feyre is a "Cursebreaker" blessed by the Cauldron. Lucien kneels before Feyre and presses her hand to his brow, prompting the rest of the crowd to follow suit.
+
+Ianthe struggles to reclaim control of the narrative by claiming the sun changed its path to celebrate Feyre’s return. Tamlin appears disturbed by the display of light, remembering Feyre’s similar use of power during the conflict in Hybern. Feyre spends the day playing the role of a beatific figure, allowing common faeries to touch her hand. She briefly communicates with Rhysand through the mating bond and learns that her friends are recovering from their injuries. Rhysand expresses his desire to be with her, but Feyre cuts the connection short to avoid magical detection. Feyre returns to the celebration and asks Tamlin to dance with her in front of the musicians and guests.
+
+Tamlin and Feyre dance for hours, with Feyre suppressing her hatred and remembering Rhysand’s endurance during his time with Amarantha. Tamlin admits he couldn't stomach the Great Rite and expresses relief that Feyre has seemingly returned to him. Feyre realizes that the peace of the Spring Court will be destroyed once Hybern’s armies officially arrive. She watches the stars throughout the night, feeling as though they are providing her with silent companionship and strength. The celebration continues with food and music until the early hours of the morning when Feyre finally retreats. Feyre notes that Tamlin's suspicion of Ianthe's surprise is growing, which serves her long-term goal of destabilizing their alliance.
+
+**Sentence Count Check:** 15
+
+---
+
+### Chapter 5
+Feyre returns to the manor after the solstice celebration and prepares to execute a new phase of her plan. She spends thirty minutes thrashing her bedsheets to create the physical evidence of a violent nightmare. Feyre monitors the house with invisible magical snares to detect Tamlin’s approach to her bedroom. When she senses Tamlin is near, she runs to Lucien’s room wearing a provocative, lacy nightgown. She bursts into Lucien's chambers, feigning a traumatic flashback regarding her time Under the Mountain and Clare Beddor. Lucien, who is half-dressed, attempts to comfort her by wrapping his arms around her and stroking her hair.
+
+Feyre uses her magical gifts to manifest seawater tears that fall onto Lucien’s bare chest during the embrace. She ensures the door to Lucien's room remains open and uses a shield of hard air to mask his scent and sound. As Tamlin arrives at the doorway, Feyre drops the magical shield so he can witness the intimate scene. Tamlin reacts with cold fury, his claws partially extending as he watches Lucien holding the scantily clad Feyre. Feyre immediately pushes away from Lucien and claims she had a nightmare and didn't want to wake the house. She leads Tamlin away from the room, leaving a tense and silent Lucien behind to face Tamlin's suspicion.
+
+Tamlin refrains from attacking Lucien but remains visibly unsettled by the proximity and emotional intensity he observed. Feyre shuts her bedroom door on Tamlin, effectively ending the encounter and leaving him to dwell on his jealousy. She recalls Tamlin’s past warnings to Lucien to stay away from her and realizes her manipulation has been successful. Feyre understands that Tamlin is now questioning Lucien’s loyalty and the strength of the mating bond with Elain. By making herself the "nightmare," she has effectively begun to turn the leaders of the Spring Court against each other. She finishes the night by dressing and preparing for the next steps in her campaign of subversion.
+
+**Sentence Count Check:** 15

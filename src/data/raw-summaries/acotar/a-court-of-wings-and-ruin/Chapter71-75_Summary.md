@@ -1,0 +1,52 @@
+### Chapter 71
+The Bone Carver is annihilated by the Cauldron’s power, leaving only ash behind on the battlefield. Nesta and Elain are incapacitated by terror, prompting Amren and Feyre to decide they must disable the Cauldron themselves. A massive Hybern armada appears from the west, threatening to crush the remaining allied forces from behind. Rhysand orders Azriel and Cassian to lead the failing flanks while telling Feyre to flee if everyone else dies. The alliance is saved by the sudden arrival of thousands of white-winged Seraphim and a vast human fleet.
+
+Prince Drakon leads the Seraphim, who are a race of warriors with white, feathered wings and honey-brown skin. They were hidden on the island of Cretea behind a magical glamour that made the land appear as ruins. Miryam and her human soldiers accompany the fleet, which has come to aid Prythian against Hybern. The human ships are led by a woman named Vassa and a man known as the Prince of Merchants. Feyre realizes the merchant is her father, who named his three primary ships after his daughters.
+
+The lead ship, named the Nesta, sails at the front of the human armada to engage the enemy. Queen Vassa transforms into a firebird, a massive avian creature composed of molten metal and burning embers. She flies over the waves, incinerating Hybern ships and their crews with her intense heat. Drakon winks at Rhysand and offers his legion’s assistance to turn the tide of the battle. Feyre cries as she watches her father lead the charge against the invading forces.
+
+**Sentence Count Check:** 15
+
+---
+
+### Chapter 72
+Feyre and Nesta watch from the air as their father’s fleet and Vassa’s firebird form destroy Hybern’s ships. Drakon places his Seraphim legion under Cassian’s command to bolster the struggling aerial lines. The prince learns that Jurian is fighting for the allies but remains deeply suspicious of his former rival. Nesta proposes a plan to act as bait to lure the King of Hybern away from the Cauldron. She believes the king will sense her stolen power and come to reclaim it personally.
+
+Cassian agrees to protect Nesta during the diversion so Feyre and Amren can reach the Cauldron. Rhysand initially refuses the plan but relents when Cassian explains he must repay a debt to Rhysand’s mother. Cassian and Nesta fly toward a copse of trees behind the battlefield to wait for the king. Rhysand carries Elain to safety at the edge of the camp before returning to the main fight. Feyre and Amren use a glamour to hide themselves as they begin their trek toward the enemy position.
+
+Amren maintains a silver-eyed focus as they move through the carnage toward the craggy overlook where the Cauldron sits. Feyre maintains the visual veil to ensure they are not spotted by Hybern commanders. The Seraphim soar overhead, providing cover as the two women approach the center of Hybern's power. Nesta begins to rally her stolen magic to signal her location to the king. Feyre avoids looking back at the battle, focusing entirely on reaching the hill.
+
+**Sentence Count Check:** 15
+
+---
+
+### Chapter 73
+Feyre and Amren reach the base of the hill where the black, iron Cauldron is perched in a craggy overlook. They pass through a trail of carnage left by the Weaver, who has already slaughtered the primary guards. Hybern commanders wait nearby, discussing which allied leaders they intend to capture and torture. Stryga, also known as the Weaver, appears with blood on her face and wearing Ianthe’s stolen jewel. She smiles at Feyre and Amren before launching a suicidal attack on the remaining guards.
+
+The King of Hybern approaches Stryga and snaps her neck with his bare hands before tossing her to his hounds. These naga-hounds are monstrous, serpentine canine hunters that immediately begin devouring the Weaver’s limp body. The king senses Nesta’s power surge in the distance and winnows away to confront her. Feyre and Amren use the distraction to climb the cliff face and reach the unguarded Cauldron. The Cauldron is a massive black vessel that radiates a palpable sense of hatred and ancient power.
+
+Amren pulls the Book of Breathings from her belongings but refuses to give it to Feyre. She instructs Feyre to place her hand on the rim of the Cauldron to begin the process. The vessel’s power immediately slams into Feyre, threatening to pull her consciousness into an endless void. Feyre realizes too late that Amren has lied about their plan to control the artifact. Amren kicks the Book away, revealing that she has a different purpose for Feyre’s magic.
+
+**Sentence Count Check:** 15
+
+---
+
+### Chapter 74
+Feyre’s hand becomes magically fused to the Cauldron as its power attempts to dissolve her identity. Amren apologizes for lying and explains that Feyre is now a conduit for the vessel's energy. Feyre’s consciousness is projected across the battlefield, allowing her to see the desperate state of the fighting. She watches Rhysand transform into his nightmare beast form, a scaled creature with massive talons and a monstrous face. Helion also shifts into a golden-feathered beast to engage a Hybern commander in magical combat.
+
+The King of Hybern appears in the clearing with Nesta and Cassian, holding their father as a hostage. He snaps the father's neck in front of Nesta, killing the man instantly as he apologizes to his daughters. Cassian attacks the king in a rage, but the king brutally breaks his wings and legs. Nesta uses the last of her stolen magic in a single failed blast against the king. She eventually covers Cassian’s broken body with her own to protect him from the king’s final blow.
+
+Elain suddenly emerges from a shadow behind the king and stabs him through the neck with Truth-Teller. Truth-Teller is an obsidian blade capable of bypassing magical defenses and striking from the shadows. The king collapses to his knees, choking on his own blood as the sisters converge on him. Nesta takes the blade from Elain and slowly twists it into the king’s throat to finish him. She eventually decapitates the king and holds his severed head aloft before dropping it onto the moss.
+
+**Sentence Count Check:** 15
+
+---
+
+### Chapter 75
+Nesta decapitates the King of Hybern and drops his severed head while Elain discovers their father’s dead body. The Cauldron retreats from the clearing and pulls Feyre’s consciousness back into her physical form on the hill. Amren reveals that the "answer" in the Book of Breathings was actually an unbinding spell for herself. She explains that she is an ancient being of light and fire from another world who gave up her form centuries ago. Varian arrives and begs Amren not to sacrifice herself, but she insists on ending the war.
+
+Feyre uses the spell provided by Amren to act as a conduit and release the being’s true form. Amren dives into the Cauldron, and the vessel shatters into three pieces as she explodes into blinding light. She emerges as a massive, burning entity with incandescent wings and a crown of fire. She sweeps across the battlefield, incinerating thousands of Hybern soldiers and the commander fighting Helion. She rains fire and brimstone upon the enemy, drinking in their deaths to fuel her final moments.
+
+The entity moves to the sea and annihilates the remaining Hybern fleet by inhaling the life from the crews. She destroys every last enemy ship until the threat of the invasion is completely wiped away. As her stolen power and life force fade, the being dissolves into bright light dancing on the waves. The Hybern army is decimated, and the king is dead, ending the primary threat to the alliance. Feyre remains on the hill with Varian, watching the last of Amren’s light disappear over the ocean.
+
+**Sentence Count Check:** 15

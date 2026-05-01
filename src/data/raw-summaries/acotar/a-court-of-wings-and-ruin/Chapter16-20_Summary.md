@@ -1,0 +1,52 @@
+### Chapter 16
+Rhysand leads Lucien to a suite in the House of Wind, which is a massive red stone palace carved into a mountain. Feyre tells Lucien he is free to wander the city of Velaris but forbids him from entering her sisters' floor. Rhysand, Feyre, Cassian, Mor, and Azriel meet in Amren’s loft, a converted attic filled with ancient books. They discuss the news Feyre brought from Hybern and the potential allies of the King of Hybern. Azriel reveals that Cretea, the secret island of Miryam and Drakon, is in ruins and abandoned.
+
+Rhysand explains that Jurian works for Hybern because the King promised to find Miryam and Drakon using the Cauldron. Amren describes the people of Hybern as being hungry for a return to the days when they held human slaves. The Inner Circle discusses how Hybern plans to break the wall by exploiting existing tears in the magical barrier. They decide that Feyre might be able to patch the wall because she possesses a blend of magic from all seven High Lords. Mor threatens to throw Amren into the Sidra River after Amren compares Feyre’s protective nature to Tamlin’s.
+
+Feyre agrees to ask her sisters, Nesta and Elain, for help but refuses to force them into the conflict. Amren insists that the sisters are necessary to convince other Fae territories to join their cause against Hybern. Rhysand reveals that the Illyrian legions, an army of winged warriors, are nearly prepared for battle. He announces his intention to send invitations to every High Lord in Prythian for a summit to discuss the war. The meeting is set for two weeks in the future to determine which courts will stand with the Night Court.
+
+**Sentence Count Check:** 15
+
+---
+
+### Chapter 17
+Cassian flies Feyre back to the House of Wind to continue strengthening his wings after his previous injuries. Feyre finds the half-wraith twins, Nuala and Cerridwen, who serve as her spies and handmaidens, waiting in her room. She dresses in Illyrian leathers and embroidered slippers for a casual dinner with the Inner Circle and Lucien. Lucien expresses his belief that the Spring Court cannot compare to the beauty and scale of Velaris. Nesta joins the group for dinner wearing a long-sleeved dark blue gown and silver hair combs.
+
+Mor attempts to engage Nesta in conversation about her dress, but Nesta remains cold and distant toward everyone. Amren notices a "kernel" of shared nature in Nesta, claiming they are both beings who did not fit their original molds. Nesta questions Amren about her glowing eyes, and Amren reveals they are a side effect of the spell containing her true form. The group eats a variety of fresh foods while discussing their upcoming training schedules and the war summit. Cassian and Mor trade insults and gestures throughout the meal, maintaining their long-standing playful rivalry.
+
+Lucien offers unsolicited advice to Rhysand regarding the High Lords meeting and Feyre’s revealed powers. He warns that his father, Beron of the Autumn Court, would likely betray them to Hybern for personal gain. Rhysand suggests that Lucien and Azriel work together to gather information on the other High Lords' intentions. Feyre asks Cassian and Azriel to teach her how to fly using the shape-shifting abilities she inherited from the High Lords. Rhysand concludes the dinner by stating that another meeting must be held with the Court of Nightmares soon.
+
+**Sentence Count Check:** 15
+
+---
+
+### Chapter 18
+Rhysand explains that they must travel to the Court of Nightmares to recruit the Darkbringer legion for the war. Mor is horrified by the prospect of facing her father, Keir, who rules the Hewn City within the mountain. The group discusses the legal protocols that allow the Court of Nightmares to refuse to assist in external conflicts. Feyre and Rhysand take a long walk through Velaris to decompress and discuss the balance of their shared power. They visit the Rainbow artists' district and reflect on how the city helped Feyre recover from her trauma under Amarantha.
+
+Rhysand warns that Tarquin of the Summer Court and Beron of the Autumn Court are likely to be hostile at the summit. He admits that he trusts Lucien's desire for Elain but remains cautious about Lucien's loyalty to the Night Court. Feyre expresses her concern that Rhysand will sacrifice himself to save everyone else during the coming battles. They agree to present a unified front to the world while maintaining honesty and open disagreement in private. Rhysand promises to keep planning for their future together regardless of the looming threat from Hybern.
+
+Azriel and Cassian both express their willingness to teach Feyre the intricacies of Illyrian aerial combat and unit maneuvers. Amren suggests that Nesta accompany them to the Court of Nightmares to practice her new powers in a place of ancient energy. Nesta demands a promise that the King of Hybern and the human queens will be killed as payment for her cooperation. She refuses to "whore out" her story of trauma to the other High Lords as testimony during the summit. Feyre decides to look for the Bone Carver to see if he will trade information or power for a way back to his home.
+
+**Sentence Count Check:** 15
+
+---
+
+### Chapter 19
+Feyre spends a slow morning with Rhysand before heading to the sparring ring to meet Cassian at eight o'clock. Cassian is visibly angry because Feyre and Rhysand kept her title as High Lady a secret from the Inner Circle. He explains that as High Lady, Feyre belongs to the entire court, and they would have protected her more fiercely in Hybern. Feyre defends her actions, stating she did what was necessary to save her friends and sisters from the King. Cassian reveals that he was terrified when Rhysand went to Amarantha's court alone fifty years ago to save the Illyrians.
+
+Nesta interrupts the sparring session wearing a pale blue dress and insults Cassian by calling him an "oversized bat." Rhysand sends Azriel to the ring to rescue Feyre from the tension between Nesta and the Illyrian general. Azriel carries Feyre to a turquoise mountain lake surrounded by pines and granite for her first flight lesson. Feyre uses her shape-shifting magic to manifest a pair of Illyrian wings based on her memory of Rhysand's wings. Azriel checks the wing structure for strength and thickness, ensuring they are capable of supporting Feyre's weight in the air.
+
+He explains that it is considered inappropriate for an Illyrian to touch another person's wings without explicit permission. Feyre struggles to lift both wings simultaneously, finding that the right one droops significantly due to weak back muscles. Azriel demonstrates the proper technique for flaring, folding, and angling wings to catch the wind effectively. He tells Feyre that she must strengthen her core, back, and thighs to maintain balance while airborne. The lesson focuses on the repetitive motions of lifting and folding the wings to build the necessary muscular endurance.
+
+**Sentence Count Check:** 15
+
+---
+
+### Chapter 20
+Rhysand leads Feyre into the massive subterranean library carved into the base of the mountain beneath the House of Wind. They meet Clotho, a High Fae priestess with gnarled, scarred hands and a missing tongue due to past brutalization by males. Rhysand explains that the library serves as a sanctuary for priestesses who have survived extreme trauma and violence. The library is a deep pit with spiraling levels of books and reading areas that descend into total darkness. Cassian once flew to the bottom of the pit but returned terrified and refused to describe what he had seen.
+
+Clotho uses her magic to gather ancient texts regarding the history and formation of the wall between Fae and humans. Feyre and Rhysand learn that the wall was originally intended to be a temporary solution for peace after the War. Over five hundred years, the wall became permanent as humans forgot their ancestors' promises and High Fae adapted to the split. Rhysand admits that his army stands little chance of victory against Hybern's superior numbers without significant allies. He expresses a willingness to sacrifice himself to ensure Feyre and the people of Velaris have a future.
+
+Feyre rejects his offer of sacrifice and insists they find a way to win the war together as a unified force. She proposes recruiting the Bone Carver, an ancient death god imprisoned in the Prison, to fight on their behalf. Rhysand uses his magic to tease Feyre in the library, winnowing between levels to distract her from her research. They discuss the possibility of opening the gates of Velaris to refugees from both races if the wall is destroyed. Feyre concludes that they must find something the Bone Carver wants more than his freedom to secure his aid.
+
+**Sentence Count Check:** 15
