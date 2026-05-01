@@ -8,7 +8,7 @@ startChapter: 21
 ---
 
 
-### 21: Chapter 21
+### Chapter 21
 Alia takes a massive overdose of melange to pierce the prescient fog. She watches a boy bounce a ball outside the temple while the spice fugue begins. Hayt approaches her on a balcony overlooking the city of Arrakeen. Alia observes that Hayt is a union of opposites and calls him Duncan. Hayt insists he is Hayt and notes Alia's physical distress from the spice.
 
 Alia tells Hayt she sees her future children but cannot see their father. She explains that she is lost in a Tarot fog and describes the sensation of hunting the future. Hayt attempts to provide medical help, but Alia resists to maintain her vision. The landscape of the Shield Wall crumbles in her mind like a sandcastle. Hayt eventually forces her into the family chambers for treatment.
@@ -17,9 +17,7 @@ A family medic treats Alia with a tube and a slapshot while Hayt stays by her si
 
 
 
-
-
-### 22: Chapter 22
+### Chapter 22
 Chani stands in a fault cleft below Sietch Tabr while experiencing labor pains. She observes the desert landscape and the presence of various companions like Bijaz and Edric. Paul touches her abdomen to feel their unborn child and speaks of his own blindness. Chani sees a sandworm flee from the water-rich plantings at the base of the cliffs. She feels the approach of a coriolis storm, which is a massive sand-lifting wind that carries the scent of death.
 
 Hayt calls to Chani from the sietch entrance to warn her of the coming wind. Chani enters the sietch and notices the outworld odors brought by Paul's bureaucratic staff. She experiences a strong birth constriction but attempts to hide it from the ghola. Hayt observes her distress and insists she go to the medical quarters immediately. Chani realizes that even the smells of her home have changed in Muad'Dib's presence.
@@ -28,9 +26,7 @@ Hayt hurries Chani through the sietch halls and calls for Harah to summon medics
 
 
 
-
-
-### 23: Chapter 23
+### Chapter 23
 Paul stands outside Sietch Tabr and signs a treaty on a magnaboard for an aide. He reflects on his empire and the burden of his prescient affliction. Hayt approaches Paul and reveals the Tleilaxu compulsion Bijaz placed upon his mind. Paul commands Hayt to free himself from the ghola persona by performing a human act. The Emperor hears Chani's voice calling his name from the desert before he receives news of her death.
 
 Tandis informs Paul that Chani has died giving birth to twins, a boy and a girl. Paul enters the sietch and finds Hayt struggling against his violent Tleilaxu programming. The ghola draws his knife to kill Paul but restores his original memories as Duncan Idaho instead. Paul visits the creche, a metaglass structure housing the infants, to touch Leto and Ghanima. He realizes his son possesses full ancestral awareness and can see through the infant's eyes.
@@ -39,16 +35,12 @@ Scytale, a Tleilaxu Face Dancer—a being capable of mimicking any physical form
 
 
 
-
-
-### 24: Chapter 24
+### Chapter 24
 Paul walks out into the open desert alone to fulfill Fremen law regarding the blind. Duncan Idaho stands by a qanat and watches the moonlight on the Sietch Tabr promontory. He reflects on Gurney Halleck and the impossibility of answering certain universal problems. The Fremen refuse to search for Paul, believing he has entered the ruh-world, or spirit world. A mother storm rises in the distance to cover the Emperor's final footprints in the sand.
 
 Stilgar joins Duncan on the bridge and explains that all men are interlopers on Arrakis. He reports that Alia has taken command and ordered the execution of the conspirators. Stilgar admits he killed the Reverend Mother Mohiam against Paul's previous wishes. He informs Duncan that Alia is currently distraught and needs the comfort of his presence. Duncan realizes that the Guild and the Tleilaxu have been completely discredited by their failed plot.
 
 Alia meets Duncan and expresses her grief and anger over Paul's choice to enter the desert. She reveals that Princess Irulan has defected from the Bene Gesserit to serve the Atreides heirs. Irulan swears to spend her life teaching Paul's children while wailing for the man she loved. Alia admits she needs Duncan and asks him to love her during this transition of power. Duncan promises to follow her wherever she leads as they return to the safety of the sietch.
-
-
 
 
 

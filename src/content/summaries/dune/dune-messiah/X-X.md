@@ -17,8 +17,6 @@ The Palmaries of the South are located at approximately forty degrees south lati
 
 
 
-
-
 ### Copyright: Copyright
 Frank Herbert asserted his right to be identified as the author of this work in 1969. The eBook version was first published in Great Britain in 2010 by the publisher Gollancz. This publishing house is part of the Orion Publishing Group Limited located in London. The British Library maintains a CIP catalogue record for this specific book. The publication is assigned the International Standard Book Number nine seven eight zero five seven five one zero four four two six.
 

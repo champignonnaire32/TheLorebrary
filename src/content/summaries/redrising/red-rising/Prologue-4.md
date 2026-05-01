@@ -17,16 +17,12 @@ Darrow asserts that none of the Gold students gathered in the assembly will surv
 
 
 
-
-
 ### Part I: Slave - Chapter 1: Helldiver
 Darrow recalls the public execution of his father, who was hanged by Grays after a trial by Golds. His brother Kieran cried during the event, but Darrow remained stoic as his sister Leanna sang a lament. A young girl named Eo placed a red haemanthus flower, a hardy "blood blossom," into his father's boot before the hanging. Because of low gravity on Mars, family members must pull the legs of the condemned to break their necks. Darrow now works as a Helldiver, the highest-earning role in his mining clan, operating a massive clawDrill.
 
 A clawDrill is a titanic metal hand designed to melt and grasp rock to extract precious helium-3. Darrow sits in a holster seat at the drill's elbow joint, controlling rock-melting digits with his fingers. He wears a frysuit, a nanoplastic garment that insulates him from extreme heat but traps sweat and urine. While drilling, Darrow scans the dark tunnels for pitvipers, black oil-like beasts that burrow into suits to lay eggs. Darrow is sixteen years old and married to Eo, who is also sixteen and from the same clan of Red diggers.
 
 Uncle Narol, the headTalk for the Lambda clan, orders Darrow to stop drilling due to a potential gas pocket. Darrow argues with his crew, including Old Barlow and his brother Kieran, wanting to take risks to win the Laurel. The Laurel is a quarterly prize awarded to the most productive clan, providing extra food, alcohol, and luxury goods. Darrow insults Uncle Narol by calling him a coward for preferring a slow safety scan over continued drilling. To avoid the delay, Darrow jumps down a hundred-meter shaft to manually scan the gas pocket near the molten drills.
-
-
 
 
 
@@ -39,16 +35,12 @@ Darrow cleans himself in an air shower tube that uses antibacterial molecules to
 
 
 
-
-
 ### Chapter 3: The Laurel
 Darrow and Eo walk to the Common, where the residents of Lykos gather for the Laureltide festival. The holoCan broadcasts news about a terrorist group called the Sons of Ares, who use a spiked helmet symbol. Obsidians are described as colossal warriors twice the size of Reds, while Yellows act as the Society's doctors. Uncle Narol plays a zither, a stringed instrument with a plastic soundboard, while the children of the township dance. Darrow notes the central gallows in the square, where a single skeleton hangs as a reminder of Society law.
 
 The people of Lykos drink a distilled fungus called grendel and dance to resist the monotony of their labor. Darrow describes the forbidden dance and song that his father died for, which mentions a reaper and loss. At the Lambda feast table, Darrow sits with his brother Kieran, his mother, and his cousins Loran and Dio. He reflects on the Sigils on his hands, which are bonelike textures representing his status as a Red miner. A physical fight breaks out between Darrow and Uncle Narol, ending when the other men pull them apart.
 
 A group of Grays in gravBoots descends from the Pot along with Magistrate Podginus, a Copper-caste official. Podginus announces that the Mu and Chi clans will receive no extra rations due to failing their production quotas. He mocks the "rustic" nature of the Reds before presenting the gold-painted Laurel branch to the crowd. Despite Darrow's record-breaking helium-3 production, the Magistrate awards the Laurel to the rival Gamma clan. Darrow realizes the Laurel is a tool of control used to keep the clans divided and subservient to the Golds.
-
-
 
 
 

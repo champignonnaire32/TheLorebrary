@@ -17,16 +17,12 @@ Rock sits on the temple steps with his Stormlight extinguished and his shardbow 
 
 
 
-
-
 ### 122: A Debt Repaid
 Kaladin flies across the ocean to a rock formation near the Alethkar coast to find a group of refugees. He meets Drehy and Skar, who have hidden their tattoos with ash and are guarding King Elhokar's young son, Gavinor. Taravangian meets with Odium in a vision of infinite light and negotiates a contract to preserve the city of Kharbranth. Odium agrees to spare the humans born in Kharbranth in exchange for Taravangian’s service and the retrieval of an Honorblade. Shallan creates a massive illusionary map of Roshar for Dalinar and the highprinces to use for strategic planning in Urithiru.
 
 Adolin confesses to Dalinar that he murdered Torol Sadeas in a corridor to protect the Kholin family. Dalinar attempts to name Adolin as the King of Alethkar, but Adolin refuses the crown because he broke the Codes of War. Jasnah Kholin enters the grand conference room wearing a crown, signaling her ascension as the new monarch of Alethkar. Moash receives the Honorblade of Jezerezeh from the Fused Leshwi and takes the name Vyre, meaning "He Who Quiets." He breathes in Stormlight from a sphere and Lashes himself into the sky for the first time.
 
 Lopen swears the Second Ideal of the Windrunners while tending to a one-armed Thaylen soldier in a medical tent. Ash feels the ripping sensation of her father’s soul being destroyed and collapses unconscious in the refugee line. Mraize sends a note to Shallan demanding that she capture or persuade an Unmade to serve the Ghostbloods. Shallan marries Adolin in a formal Alethi ceremony and receives her three brothers as a wedding gift. Dalinar completes the manuscript for his book, Oathbringer, and signs it with his own hand.
-
-
 
 
 

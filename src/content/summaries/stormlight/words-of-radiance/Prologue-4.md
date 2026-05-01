@@ -17,16 +17,12 @@ The Parshendi leaders are later hanged for their crime after refusing to provide
 
 
 
-
-
 ### 1: Santhid
 Shallan Davar sails on a Thaylen ship toward the Shattered Plains to continue her studies under Jasnah Kholin. She observes a reclusive sea creature called a santhid, which has a massive domed shell and trailing blue tendrils. Shallan notices a complex geometric pattern appearing as an embossing on her sketchpad and moving across the pages. She demands that Captain Tozbek stop the vessel so she can inspect the santhid underwater using a diving mask. Submerged in the cold ocean, she views the creature's massive eye and the schools of fish living beneath its shell.
 
 Jasnah explains that the pattern Shallan sees is a spren from Shadesmar, the Cognitive Realm of thought. The older scholar reveals that spren are sentient ideas that inhabit a world made of glass beads. Jasnah informs Shallan that they are both Surgebinders capable of manipulating the fundamental forces of the world. To secure Shallan's family's future, Jasnah initiates a betrothal between her ward and Adolin Kholin. Adolin is a famous duelist and the heir to a powerful Alethi princedom.
 
 Shallan accepts the engagement, seeing it as a way to protect her brothers from their father's debts. Jasnah warns that the Voidbringers have already returned and are living among humans as parshmen slaves. Shallan receives news that her family's broken Soulcaster might be repaired by Navani Kholin. The ship continues its journey around the eastern edge of the continent toward New Natanan. Shallan realizes she must now balance her artistic passion with the weight of her new magical destiny.
-
-
 
 
 
@@ -39,16 +35,12 @@ Kaladin dons a captain's longcoat but remains a darkeyes, the highest rank Dalin
 
 
 
-
-
 ### 3: Pattern
 Shallan reads Jasnah's research regarding the Hierocracy while the ship sails through the night. The geometric pattern returns to her cabin and moves across the walls as a raised embossing. Shallan uses ink to create a detailed drawing of the maze-like entity, which causes hundreds of creationspren to appear. The pattern leaves the paper and begins moving across the floor in a playful, inquisitive manner. Jasnah enters the cabin and identifies the creature as a Cryptic, a type of spren also known as a liespren.
 
 She explains that Shallan's bond with this spren allows her to Soulcast without the use of a mechanical fabrial. The Cryptic, which Shallan names Pattern, acts as a sentient geometric abstraction that can speak in humming tones. Jasnah describes the ten fundamental Surges that govern the world and how spren are fragments of that power. She reveals that she has her own spren companion, Ivory, who appears as a man of inky blackness. Jasnah tasks Shallan with keeping a detailed journal of Pattern's behavior and their interactions.
 
 The conversation turns to Jasnah's atheism and her refusal to worship the Almighty or the Heralds. Shallan struggles with the idea that her new powers link her to the ancient Knights Radiant. She recalls repressed memories of a silvery sword but forces herself to ignore the dangerous thoughts. Jasnah plans for them to travel to the Shattered Plains to search for the lost city of Urithiru. Shallan begins her first significant work of scholarship by observing Pattern's movement around her cabin.
-
-
 
 
 

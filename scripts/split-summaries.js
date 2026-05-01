@@ -126,10 +126,13 @@ for (const seriesFolder of seriesFolders) {
       // Strip AI sentence-count annotations — handles both:
       //   **Sentence Count Check:** 15   (** closes before number)
       //   **Sentence Count Check: 15**   (** closes after number)
-      let body = rawContent.replace(/\*{0,2}Sentence Count Check:\*{0,2}\s*\d+\s*\*{0,2}/gi, '').trim();
+      let body = rawContent.replace(/\*{0,2}Sentence Count Check:?\*{0,2}\s*\d+\s*\*{0,2}/gi, '').trim();
 
       // Remove stray horizontal rules left by the AI
       body = body.replace(/^---\s*$/gm, '').trim();
+
+      // Remove top-level H1 summary headers (e.g. "# Chapter 21-25 Summary")
+      body = body.replace(/^#\s+.*Summary.*$/gim, '').trim();
 
       // Fix ALL CAPS heading titles → Proper Title Case
       // Matches: ### 16: THE SILVER GUILLOTINE  or  ### Chapter 3: TITLE HERE
@@ -141,7 +144,8 @@ for (const seriesFolder of seriesFolders) {
         return match;
       });
 
-      // Clean up duplicate chapter titles (e.g. "### Chapter 1: Chapter 1")
+      // Clean up duplicate chapter titles (e.g. "### Chapter 1: Chapter 1" or "### 16: Chapter 16" or "### [Chapter 18]: Chapter 18")
+      body = body.replace(/^###\s+(?:\[?Chapter\s+(\d+)\]?|(\d+))[:\s-]+Chapter\s+.*$/gim, '### Chapter $1$2');
       body = body.replace(/###\s+(Chapter\s+\d+)[:\s-]+\1/gi, '### $1');
       body = body.replace(/###\s+\[(Chapter\s+\d+)\][:\s-]+\1/gi, '### $1');
 

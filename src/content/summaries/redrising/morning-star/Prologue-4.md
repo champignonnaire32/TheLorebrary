@@ -17,16 +17,12 @@ Autumn wind whips Darrow's hair before the mask shuts out his sight completely. 
 
 
 
-
-
 ### Chapter 1: Only the Dark
 Darrow is imprisoned in a ball in a pitch-black stone cell. He is naked with his hands cuffed behind his back. Yellows, the medical and scientific Color of society, have threaded tubes into his gut for nutrients. Time passes without measure as Darrow tracks his breath and heartbeat to remain sane. He experiences hallucinations and voices mocking his failures and his love for Mustang.
 
 Darrow recites ancient literature in various languages to maintain his mental faculties. He slams his head against the stone to stop the voices of self-doubt. The Jackal previously offered him a comfortable life if he would say "I am broken." This bargain required Darrow to sacrifice his family to the prisoners of the fortress. Darrow's family is held in the bowels of the Attica fortress, the Jackal's primary stronghold on Mars.
 
 He believes the Vale, the Red afterlife, is a lie told to comfort the starving. Darrow attempts to commit suicide by repeatedly smashing his skull against the stone wall. He screams at the darkness as he tries to deliver a final killing blow. A sudden earthquake-like rumbling interrupts his attempt to end his life. A blazing sword of light slashes down through the cracking darkness of his cell.
-
-
 
 
 
@@ -39,16 +35,12 @@ The Jackal reveals that Mickey the Carver is believed to be alive in Tinos. Aja 
 
 
 
-
-
 ### Chapter 3: Snakebite
 A Gray soldier named Danto shaves Darrow's head with an electric razor. Twelve lurchers, specialized urban combat Grays, drag Darrow through the halls using an electric collar. They pin Darrow in a corner and blast him with a high-pressure power hose. Darrow is dressed in a black prisoner's jumpsuit and restrained in a metal chair. The group includes three Obsidian men, the massive warrior Color of the hierarchy.
 
 A Yellow doctor examines Darrow and notes his abnormally strong circulatory system. Danto stomps on Darrow's foot, splitting his toenail to inflict casual pain. Holiday ti Nakamura and her brother Trigg, disguised as Grays, suddenly open fire. They execute the centurion and the other dragoons with silenced slug shooters. Trigg shoots Danto between the eyes and secures the processing room.
 
 Holiday identifies themselves as members of the Sons of Ares, a revolutionary group, sent to rescue Darrow. Trigg returns Darrow's razor, a shape-shifting weapon capable of becoming a whip or a blade. A holographic message from Sevro confirms the rescue and reveals Darrow's family is safe. Holiday injects "snakebite," a potent and painful stimulant, directly into Darrow's heart. The drug causes Darrow's body to explode with kinetic energy, enabling him to move.
-
-
 
 
 

@@ -7,8 +7,6 @@ range: "Prologue-4"
 startChapter: 0
 ---
 
-# ChapterPrologue-4_Summary
-
 
 ### Prologue: Prologue
 Darrow walks beside Nero au Augustus on a floating mountain as snow falls over the captured Institute. Great Golds of Mars descend in swarms of ships to claim the top students from the year's class. Augustus warns Darrow that all previous bonds and oaths are now dust as they approach his shuttle. Across the crowd, Darrow spots Cassius au Bellona accompanied by his family. Darrow recalls the death of Julian au Bellona and the sound of his heart stopping.
@@ -16,8 +14,6 @@ Darrow walks beside Nero au Augustus on a floating mountain as snow falls over t
 Nero au Augustus places a firm hand on Darrow’s shoulder and claims him as a personal prize. The ArchGovernor stares at the Bellona family and declares that they cannot harm Darrow while he is under Augustus's protection. Darrow accepts the claim but privately resolves to infiltrate and destroy Augustus's house. He reflects on his mission as a sword for the Reds who have been enslaved for seven hundred years. Darrow enters the shuttle while maintaining his facade of loyalty to the man who owns him.
 
 Mustang, the daughter of Augustus, takes Darrow's hand as they prepare to depart. Darrow feels the heavy burden of his lies and the internal division caused by his feelings for her. He acknowledges the saying that a kingdom divided against itself cannot stand. The narrative emphasizes his status as a Peerless Scarred, a Gold rank earned through the brutal trials of the Institute. Darrow prepares to leave the floating mountain of Olympus to enter the broader world of the Golds.
-
-
 
 
 
@@ -30,8 +26,6 @@ Karnus au Bellona is the monstrous older brother of Cassius and the deceased Jul
 
 
 
-
-
 ### 2: The Breech
 Darrow watches the tactical display as his fleet engages Karnus's ship with dummy munitions and flak screens. Two of Darrow’s destroyers suffer simulated damage from incoming railgun salvos and missiles. He orders the Talon and Ripper squadrons to execute a flanking maneuver around the asteroids. The squadrons ambush Karnus’s ship and disable it with thirty simulated nuclear explosions. The bridge crew erupts in cheers as Darrow claims victory in the final game of the Academy.
 
@@ -41,16 +35,12 @@ A Gray sergeant executes a fellow soldier who tries to steal a seat in the escap
 
 
 
-
-
 ### 3: Blood and Piss
 Darrow sits in a rescue ship and repeats the number eight hundred and thirty-three to track his dead crew members. He arrives at the Academy, a domed port on an asteroid, where House Bellona is preparing a victory celebration. The halls are decorated with blue and silver eagle crests and white rose petals to honor Karnus's triumph. Darrow seeks solitude in a glass-enclosed garden featuring a hot spring and indigenous haemanthus blossoms. He removes his clothes and razor to soak in the water while reflecting on his failure to Eo’s dream.
 
 Seven members of House Bellona, led by the massive Karnus, corner Darrow in the garden. Among them is Kellan, a powerful Legate and knight, and Cagney, a female lancer who has stolen Darrow's razor. Karnus explains that while killing Darrow would start a war, a severe beating is permitted under the Society's laws. Darrow attempts to fight back but is quickly overwhelmed by the group’s mastery of kravat, a lethal martial art. They target his nerves and organs, eventually shattering his ribs and knocking out a tooth.
 
 Cagney pins Darrow to the ground and uses a knife to roughly saw off his Golden hair. Karnus head-butts Darrow in the chest and then urinates on his broken body while his cousins laugh. The Bellona giant delivers a message from his mother, stating that a pauper can never be a prince. He warns Darrow that his heart will one day be on their table before leaving him in the mud. Darrow lies in the garden, choking on his own blood and urine as the Bellona family departs.
-
-
 
 
 

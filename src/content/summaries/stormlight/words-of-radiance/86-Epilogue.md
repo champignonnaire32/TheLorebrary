@@ -17,16 +17,12 @@ Shallan uses her Shardblade, Pattern, to unlock the Oathgate fabrial and transpo
 
 
 
-
-
 ### 87: The Riddens
 Kaladin surveys the destruction on the Shattered Plains after the storm collision. Syl explains that the Everstorm is a new phenomenon created by the enemy. Kaladin carries Szeth’s Honorblade, which Syl identifies as a Herald’s weapon that feeds heavily on Stormlight. He discovers the Alethi army has disappeared from the circular plateau. He encounters Bridge Four members who remained behind to wait for his return.
 
 The bridgemen reveal that Shallan taught them how to operate the plateau’s teleportation mechanism. Rlain, the Bridge Four parshman, reveals he was a spy for the Parshendi but has been pardoned by Dalinar. Teft reports that some Bridge Four members have begun to glow with Stormlight. Kaladin learns that his eyes have turned pale blue due to his Radiant bond. He uses Syl as a key to activate the fabrial and rejoin the army.
 
 Shallan explores the tower city of Urithiru, which sits high in a remote mountain range. The Oathgate teleportation drained most of the army's gemstones and left them isolated. Dalinar and Navani receive reports that King Elhokar is missing and Kholinar is in riot. The Lopen, guarding the King in a secret location, successfully breathes in Stormlight and begins regrowing his arm. Moash and Graves flee the warcamps, revealing their membership in the Diagram and their plan to return Voidbringers.
-
-
 
 
 
@@ -39,16 +35,12 @@ Highlord Amaram writes to the leader of the Sons of Honor about the success of r
 
 
 
-
-
 ### 89: The Four
 Dalinar experiences a dream of his childhood home bathed in a warm, piercing light. He awakens in Urithiru and prepares to scout the tower's roof. Adolin encounters Sadeas in a dark hallway and confronts him about his plans to undermine Dalinar. Sadeas admits he will continue to oppose Dalinar and try to take control of the city. Adolin snaps, attacks Sadeas, and kills him by driving a knife through his eye into his brain.
 
 Adolin discards Sadeas's Shardblade out a window and conceals his involvement in the murder. Dalinar reaches the roof of the tower and speaks directly to the Stormfather. The Stormfather explains he is a spren of the Almighty and that the Everstorm will transform all parshmen into Voidbringers. Dalinar swears the second oath of the Bondsmiths, promising to unite instead of divide. The Stormfather accepts the words but warns Dalinar he will have no Shardblade and must lead a dying people.
 
 Dalinar returns to find Kaladin and Shallan, demonstrating his new ability to infuse gemstones. Renarin reveals he is also a Radiant of the Truthwatcher order and has healed his own eyes. Dalinar explains the threat of the Everstorm and the need to find more Radiants. Kaladin decides to fly to his hometown of Hearthstone to protect his parents from the parshmen. Dalinar provides him with Stormlight, and the four Radiants commit to saving whom they can.
-
-
 
 
 
