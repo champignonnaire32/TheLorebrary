@@ -3,10 +3,12 @@ import Layout from '../layouts/Layout.astro';
 ---
 
 <Layout title="Project: Panic Catchup | Welcome">
-  <div class="flex flex-col items-center justify-center min-h-[75vh] px-4 sm:px-6">
-    <div class="max-w-3xl w-full bg-cream-50 dark:bg-ink-900 border border-cream-200 dark:border-ink-700 rounded-2xl shadow-xl dark:shadow-black/40 p-8 sm:p-12 transition-colors duration-300">
+  <div class="flex flex-col items-center justify-center min-h-[75vh] px-4 sm:px-6 py-12">
 
-      <!-- Title Section -->
+    <!-- Hero Card -->
+    <div class="max-w-3xl w-full bg-cream-50 dark:bg-ink-900 border border-cream-200 dark:border-ink-700 rounded-2xl shadow-xl dark:shadow-black/40 p-8 sm:p-12 transition-colors duration-300 mb-6">
+
+      <!-- Title -->
       <div class="text-center mb-10 border-b border-cream-200 dark:border-ink-700 pb-8">
         <h1 class="text-4xl md:text-5xl font-display font-semibold mb-4 tracking-wide text-cream-900 dark:text-cream-100 transition-colors duration-300">
           Project: Panic Catchup
@@ -16,22 +18,13 @@ import Layout from '../layouts/Layout.astro';
         </p>
       </div>
 
-      <!-- Disclaimer Section -->
+      <!-- Heart of the project -->
       <div class="prose prose-lg dark:prose-invert max-w-none mb-12 transition-colors duration-300">
         <p><strong>Welcome to Project: Panic Catchup.</strong><br/>
         This project was born from my own needs as an avid sci-fi and fantasy reader of very long series. Sometimes we have to wait years for a new installment. Other times we have read 2,000 pages of a story and just need a break. And other times, life simply gets in the way. In any case, it is easy to forget the characters, details, and intricate plot lines of these beloved stories. I created this archive to help us all out.</p>
 
         <p><strong>The Goal is to Encourage Reading, Not Skip It.</strong><br/>
-        This project is intended to support authors and is in no way meant to undermine their works. These novels are popular for a reason—writers pour their souls into these stories. Therefore, these summaries are intentionally brief and "soulless" because they are NOT meant to replace the actual reading experience. They are purely concrete refreshers designed to reactivate the journeys that we readers have already gone on. The authors are the ones who write the magic into these works. Go support them by buying their books, and even better, support them by shopping at your local bookstores and libraries.</p>
-
-        <p><strong>Fair Use & Copyright Disclaimer</strong><br/>
-        <em>The summaries provided on this site are transformative, non-commercial reference and memory aid materials created under the Fair Use doctrine (17 U.S.C. § 107). They consist solely of factual, high-level plot synopses and do not reproduce the authors' original prose, dialogue, or artistic expression. This project does not serve as a market substitute for the original novels; its intended audience consists exclusively of returning readers who have already purchased and experienced the original works. All character names, world-building elements, and other intellectual property belong entirely to their respective authors and publishers.</em></p>
-
-        <p><strong>A Note on AI</strong><br/>
-        <em>I personally own and have read every single book featured in this archive — these are works I love and have lived with as a reader. The summaries here reflect my own understanding and recollection of these stories. I used AI as a writing and formatting tool to help express those recollections as clean, consistent prose — in the same way a writer might use any productivity tool. The AI did not summarize the books; I did. Every entry was personally reviewed, corrected, and curated to ensure accuracy and fairness to the source material.</em></p>
-
-        <p><strong>Affiliation & Content Removal</strong><br/>
-        <em>This site is not affiliated with, endorsed by, or sponsored by any author or publisher. If you are a rights holder and have concerns about any content on this site, please reach out directly and I will respond promptly.</em></p>
+        This project is intended to support authors and is in no way meant to undermine their works. These novels are popular for a reason — writers pour their souls into these stories. Therefore, these summaries are intentionally brief and "soulless" because they are NOT meant to replace the actual reading experience. They are purely concrete refreshers designed to reactivate the journeys that we readers have already gone on. The authors are the ones who write the magic into these works. Go support them by buying their books, and even better, support them by shopping at your local bookstores and libraries.</p>
       </div>
 
       <!-- Enter Button -->
@@ -48,5 +41,30 @@ import Layout from '../layouts/Layout.astro';
       </div>
 
     </div>
+
+    <!-- Legal Notices Card -->
+    <div class="max-w-3xl w-full border border-dashed border-cream-300 dark:border-ink-600 rounded-xl px-6 sm:px-10 py-7 transition-colors duration-300">
+      <p class="text-[10px] font-bold uppercase tracking-[0.2em] text-cream-400 dark:text-cream-600 mb-5">Legal Notices</p>
+
+      <div class="space-y-4 text-sm text-cream-500 dark:text-cream-500 leading-relaxed transition-colors duration-300">
+
+        <div>
+          <p class="font-semibold text-cream-600 dark:text-cream-400 mb-1">Fair Use & Copyright Disclaimer</p>
+          <p>The summaries provided on this site are transformative, non-commercial reference and memory aid materials created under the Fair Use doctrine (17 U.S.C. § 107). They consist solely of factual, high-level plot synopses and do not reproduce the authors' original prose, dialogue, or artistic expression. This project does not serve as a market substitute for the original novels; its intended audience consists exclusively of returning readers who have already purchased and experienced the original works. All character names, world-building elements, and other intellectual property belong entirely to their respective authors and publishers.</p>
+        </div>
+
+        <div>
+          <p class="font-semibold text-cream-600 dark:text-cream-400 mb-1">A Note on AI</p>
+          <p>I personally own and have read every single book featured in this archive — these are works I love and have lived with as a reader. The summaries here reflect my own understanding and recollection of these stories. I used AI as a writing and formatting tool to help express those recollections as clean, consistent prose — in the same way a writer might use any productivity tool. The AI did not summarize the books; I did. Every entry was personally reviewed, corrected, and curated to ensure accuracy and fairness to the source material.</p>
+        </div>
+
+        <div>
+          <p class="font-semibold text-cream-600 dark:text-cream-400 mb-1">Affiliation & Content Removal</p>
+          <p>This site is not affiliated with, endorsed by, or sponsored by any author or publisher. If you are a rights holder and have concerns about any content on this site, please reach out directly and I will respond promptly.</p>
+        </div>
+
+      </div>
+    </div>
+
   </div>
 </Layout>
