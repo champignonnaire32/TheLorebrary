@@ -9,7 +9,7 @@ Rhonna successfully extracts Orion using a starShell, detonating a bomb that for
 
 ---
 
-### Chapter 1: Part I: Mischief - Chapter 1: Darrow: Till the Vale
+### Chapter 1: Darrow: Till the Vale
 Darrow surveys thousands of blind, maimed legionnaires left in the wake of the Fear Knight's ambush, reflecting on the grim necessities of war. He encounters an old man, Dago, a survivor from his original home in Lykos, who offers Darrow a handful of Martian soil. This interaction reinforces Darrow's connection to his roots and his determination to fight for his people despite the overwhelming odds. Darrow then departs for his northern headquarters in a glacier, lamenting the strategic irrelevance of Heliopolis and the suffocating atmosphere of fear gripping his men.
 
 The army waits in a state of attrition, plagued by snipers, mines, and the psychological warfare conducted by Atlas au Raa. Darrow internalizes the heavy burden of command and the difficult choices he must make to secure a future for the Republic. He consults with his niece, Rhonna, regarding Orion's precarious mental state and her recovery progress. Darrow suppresses his own exhaustion and grief, maintaining a stoic facade while secretly grappling with his doubts about the Republic's will to survive.
@@ -20,7 +20,7 @@ Darrow visits the excavation site of an ancient weather-shaping machine called a
 
 ---
 
-### Chapter 2: Part I: Mischief - Chapter 2: Lysander: Annihilo
+### Chapter 2: Lysander: Annihilo
 Lysander au Lune arrives on the Annihilo, the flagship of Atalantia au Grimmus, accompanied by the Rim deputation led by Diomedes and Seraphina au Raa. They are met by a hostile reception from Ash Guard, signaling Atalantia’s refusal to recognize the Rim’s independence. Lysander reflects on his relationship with the Rim, specifically his respect for Diomedes despite their conflicting loyalties. The group is intercepted by Olympic Knights, including the Love Knight, Kalindora, and Ajax au Raa, who test Lysander’s identity with a Manteío.
 
 The Manteío confirms Lysander’s identity, ending the initial skepticism of the Core Golds regarding his return. Lysander reunites with his childhood companion, Ajax, who greets him with deceptive warmth and affection. Tensions escalate between the Core and Rim delegates, specifically between Ajax and Diomedes, as Ajax taunts the Rim for their shabby appearance and perceived weakness. Lysander maintains a delicate balance, maneuvering through the complex social and political dynamics of the Core court.
@@ -31,7 +31,7 @@ Lysander acknowledges his precarious position as an heir of House Lune in a cour
 
 ---
 
-### Chapter 3: Part I: Mischief - Chapter 3: Darrow: Storm God
+### Chapter 3: Darrow: Storm God
 Darrow observes the activation of the Storm God engine, which slowly rises from the glacial ice, creating a low-gravity field. Imperator Harnassus expresses lingering doubts about the machine's reliability and the wisdom of the operation, but Darrow remains steadfast. Glirastes, the Master Maker, confirms the engine's operational status despite the significant risk of catastrophic failure. The engineers and legionnaires, exhausted and reliant on stimulants, prepare the engine to be deployed in the upcoming battle.
 
 Darrow reflects on the sacrifices made by his people and the heavy cost of his promise to Glirastes to minimize civilian casualties. The atmosphere at the dig site is heavy with the tension of impending combat and the desperate need for a strategic victory. Darrow maintains strict command, keeping Orion focused on her duties despite her trauma and erratic behavior. He prepares for the mobilization of his forces, fully aware that the activation of the Storm God is a gamble that could define the outcome of the war.
@@ -42,7 +42,7 @@ As the machine ascends, Darrow feels a grim satisfaction, knowing the risks take
 
 ---
 
-### Chapter 4: Part I: Mischief - Chapter 4: Lysander: Ajax, Son of Aja
+### Chapter 4: Lysander: Ajax, Son of Aja
 Lysander and the Rim delegation arrive at the Annihilo to face the Core leadership, navigating a tense corridor of Ash Guard. They encounter the Olympic Knights, Kalindora and Ajax au Raa, who subject Lysander to a Manteío to verify his identity. The test confirms Lysander’s lineage, leading to an emotional, albeit calculated, reunion with Ajax. Lysander observes the profound physical and psychological changes in his childhood companion, noting Ajax's transformation into a formidable warrior.
 
 The interaction between the Rim and Core delegates is marked by deliberate disrespect and power plays, particularly from Ajax. Ajax insults Diomedes by desecrating his cloak, a maneuver intended to assert dominance and gauge the Raa’s tolerance. Diomedes responds with restrained dignity, refusing to engage in an impulsive confrontation that would undermine their diplomatic mission. Lysander observes these exchanges, understanding that Ajax is testing their resolve and assessing potential vulnerabilities in the Rim’s leadership.
