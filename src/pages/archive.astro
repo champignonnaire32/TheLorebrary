@@ -57,14 +57,22 @@ const searchData = Array.from(searchDataMap.values());
 
 <Layout title="The Lorebrary | Narrative Summaries">
   <div class="max-w-4xl mx-auto py-4 sm:py-12 px-2 sm:px-6">
-    <div class="mb-8 sm:mb-12 flex flex-col items-center text-center">
-      <h1 class="text-3xl sm:text-4xl md:text-5xl font-display font-semibold mb-4 sm:mb-6 tracking-wide text-cream-900 dark:text-cream-100 transition-colors duration-300">
-        The Lorebrary
-      </h1>
-      <p class="text-lg text-cream-600 dark:text-cream-300 leading-relaxed max-w-2xl mb-8 transition-colors duration-300">
+
+    <!-- Title Card — gold bg, ink text -->
+    <div class="w-full rounded-2xl shadow-xl mb-6" style="background:#c9a84c; padding: 2rem 2.5rem; text-align:center;">
+      <div style="display:flex; align-items:center; gap:14px; margin-bottom:12px;">
+        <div style="flex:1; height:4px; background:linear-gradient(to right, transparent, rgba(9,15,30,0.65)); border-radius:2px;"></div>
+        <h1 class="font-display font-semibold tracking-wide flex-shrink-0" style="font-size:clamp(1.8rem,5vw,3rem); color:#090f1e;">
+          The Lorebrary
+        </h1>
+        <div style="flex:1; height:4px; background:linear-gradient(to left, transparent, rgba(9,15,30,0.65)); border-radius:2px;"></div>
+      </div>
+      <p class="font-body" style="color:#1a2e4a; font-size:1.05rem;">
         You read it. You loved it. You forgot half of it. I got you.
       </p>
+    </div>
 
+    <div class="mb-8 sm:mb-12 flex flex-col items-center text-center">
       <SearchBar client:load searchData={searchData} />
     </div>
 
