@@ -1,12 +1,3 @@
----
-title: "Chapters 55-59"
-series: "The Inheritance Cycle"
-book: "Brisingr"
-bookOrder: 3
-range: "55-59"
-startChapter: 55
----
-
 ### Chapter 55: Flight
 
 Eragon and Saphira depart from Ellesméra and fly south over the forest of Du Weldenvarden to rejoin the Varden. Oromis and Glaedr accompany them to the forest's edge before turning toward Gil'ead to assist the elves in battle. Saphira flies continuously for two days and nights, pausing only briefly for water and to allow Eragon to stretch. Eragon practices his swordsmanship with Brisingr during these short breaks to manage his growing anxiety about the upcoming siege. They cross the Hadarac Desert and enter the Empire, avoiding detection by the king's forces while heading for the city of Feinster.
@@ -15,7 +6,9 @@ Saphira suffers from extreme physical exhaustion as her flight muscles burn with
 
 The duo arrives at Feinster and observes a sea of Varden soldiers surging against the city's well-fortified walls and iron gates. Saphira announces their arrival with a massive roar and a blast of blue fire that illuminates the night sky. The Varden cheer at the sight of the dragon, while the city's defenders groan in despair. Trianna, a Varden sorceress, contacts Eragon mentally to report that Arya and another elf are trapped behind enemy lines. Saphira immediately dives toward the city to rescue the two elves before they are overwhelmed by imperial soldiers.
 
+Sentence Count Check: 15
 
+---
 
 ### Chapter 56: Brisingr!
 
@@ -25,7 +18,9 @@ Eragon draws his new sword, which shimmers with blue light, and decapitates a so
 
 Eragon stabs the captain through his shield and chest, killing him instantly as the gears within the towers begin to turn. He cuts through the remaining soldiers with blinding speed while Saphira incinerates several others with her breath. The massive city gates swing open, allowing the Varden's battering ram and a column of warriors to stream into Feinster. Eragon greets Roran and Horst among the ranks and informs them that Brom, not Morzan, was his biological father. Jörmundur orders the group to fight toward the central keep while Saphira harries the imperial forces from the air.
 
+Sentence Count Check: 15
 
+---
 
 ### Chapter 57: Shadow of Doom
 
@@ -35,7 +30,9 @@ Glaedr's physical body is killed in the vision, and his consciousness retreats i
 
 Arya breaks the Shade's wrist and elbow to free herself, but the creature's bones instantly pop back into place. Eragon manages to distract the Shade's mind for a split second, allowing Arya to reach her fallen sword. She lunges forward and stabs Varaug through the heart, causing the spirits within him to tear his body apart in a burst of light. Eragon uses magic to heal Arya's internal injuries while Saphira keens in mourning for the loss of Oromis and Glaedr. They decide to inform Nasuada of the deaths and the existence of the Eldunarí once they reach safety.
 
+Sentence Count Check: 15
 
+---
 
 ### Chapter 58: Sunrise
 
@@ -45,12 +42,4 @@ Nasuada is shocked to learn that Galbatorix's power comes from hundreds of ensla
 
 Eragon and Saphira leave the city to rest in the Varden's camp, accompanied by their eleven elven guards. They watch the sunrise from the city walls, observing the smoke rising from the burning hovels and the distant sea. Eragon realizes they are the last free dragon and Rider left in Alagaësia to oppose Galbatorix's reign. He hugs Glaedr's Eldunarí to his chest and feels a renewed sense of purpose despite the heavy loss they suffered. He presents the golden stone to the new day, smiling as he prepares for the final battles of the war.
 
-
-
-### Chapter 59: Deluxe Material
-
-The text transitions to a collection of supplemental content, including deleted scenes and pronunciation guides for the Inheritance Cycle. A scene titled "Healing Scene" depicts Eragon oiling his mail hauberk when a man named Gull, son of Ware, approaches his tent. Gull's wife, Signa, has a growth in her belly that the Varden's regular healers cannot cure. Eragon initially tells the man that death is inevitable but eventually agrees to attempt a magical healing. He learns that Blödhgarm and the other elves have been turning away many such petitioners to protect Eragon's privacy.
-
-The chapter provides a comprehensive pronunciation guide for names like Alagaësia, Ajihad, and Tronjheim to assist readers. It also includes a dictionary for the Ancient Language, the Dwarf Language, and terms from the Urgal and Nomad cultures. Definitions for words like Brisingr, Eldunarí, and Shur'tugal are listed alongside common phrases used throughout the trilogy. Christopher Paolini provides an afterword explaining his decision to expand the series from three books to four. He acknowledges the complexity of the plot and the need for more space to develop the characters' relationships.
-
-The author thanks his family, agents, and editorial team for their support during the difficult writing process for Brisingr. He highlights the research involved in describing swordmaking, citing "The Craft of the Japanese Sword" as a primary source. Paolini mentions a subtle reference to "Doctor Who" included in a scene involving Eragon and Arya by a campfire. He concludes by promising that the fourth and final book will be the most exciting installment in the series. The supplementary material serves as a transition between the events of the third book and the forthcoming conclusion.
+Sentence Count Check: 15
