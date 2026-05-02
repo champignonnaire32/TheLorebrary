@@ -1,4 +1,4 @@
-### Chapter 21: The Daughter of a King
+### Chapter 21
 
 Allrianne Cett arrives at the palace atrium and surprises Breeze with an affectionate greeting. Elend and Ham witness the encounter while Breeze attempts to manage the young woman’s unexpected presence. Allrianne is the daughter of Lord Ashweather Cett, the ruler currently besieging Luthadel from the West. She explains that she fled her father’s war camp to seek asylum and find Breeze. She provides minor intelligence about her father's supply lines from the Haverfrex cannery.
 
@@ -10,7 +10,7 @@ Sentence Count Check: 15
 
 ---
 
-### Chapter 22: The Truth of the Contract
+### Chapter 22
 
 Vin follows Ham through the mists as he inspects the palace guard posts and patrols. She uses OreSeur to startle Ham, forcing him to flare his pewter and prove he is not the kandra impostor. After confirming Ham's identity, Vin admits she has run out of atium, leaving her vulnerable to other Mistborn. Ham explains that defeating an atium-user requires either overwhelming force or catching them in an unavoidable trap. Vin leaves Ham and retreats to the city wall with OreSeur to continue her patrol.
 
@@ -22,7 +22,7 @@ Sentence Count Check: 15
 
 ---
 
-### Chapter 23: The Mists of Death
+### Chapter 23
 
 Sazed informs Elend and the crew that King Jastes Lekal is approaching with an army of twenty thousand koloss. He explains that the koloss have become volatile and have been attacking villages and garrisons since the Lord Ruler’s death. The crew realizes that this third army represents a catastrophic threat to the city and the other besieging forces. Sazed also reports that the mists have begun appearing during the day in the Outer Dominances. He provides witness accounts of the mists killing individuals by curling around them and inducing seizures.
 
@@ -34,7 +34,7 @@ Sentence Count Check: 15
 
 ---
 
-### Chapter 24: The Weight of Power
+### Chapter 24
 
 Vin sits atop Keep Venture and reads a page from the Hero’s logbook while burning tin. She hears a rhythmic thumping in the distance that matches the descriptions of the pulses mentioned in the text. OreSeur waits beside her, and Vin wonders if she is the only one who can hear the beat. Zane arrives on the roof, having expected to find Vin at Keep Hasting where they last fought. He questions Vin about her childhood desire for power and why she remains subservient to Elend. Vin argues that she chooses to protect Elend and that he does not give her orders.
 
@@ -46,7 +46,7 @@ Sentence Count Check: 15
 
 ---
 
-### Chapter 25: A Test of Walls
+### Chapter 25
 
 Tindwyl wakes Vin early in the morning and insists they go shopping for a suitable dress for the parlay. Vin reluctantly joins Tindwyl, Allrianne, and Spook on a trip to a dressmaker in the city. During the ride, Allrianne asks Vin about her background and is shocked to learn she is skaa. At the shop, Vin puts on a blue gown and finds herself slipping back into the grace of her Valette persona. Tindwyl encourages Vin to embrace her complexity and helps her choose a more practical style for a queen.
 

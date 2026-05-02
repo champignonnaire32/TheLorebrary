@@ -1,4 +1,4 @@
-### Chapter 16: Shadows of the Past
+### Chapter 16
 
 Vin studies the Lord Ruler’s logbook in her quarters, having separated the pages to search for mentions of the mist spirit. She discovers a passage describing a translucent, formless thing of black fog that followed the author. Vin realizes this mist creature also watched the Hero of Ages and decides to believe it is a real entity rather than a delusion. She identifies a specific entry where the author claims the spirit placed a knife in the chest of a companion named Fedik. This confirmation of the spirit's physical influence strengthens Vin's resolve to treat the supernatural threat as legitimate.
 
@@ -8,7 +8,7 @@ Tindwyl forces Elend to undergo a radical physical transformation, beginning wit
 
 Sentence Count Check: 15
 
-### Chapter 17: Zane
+### Chapter 17
 
 Elend and Vin meet the messenger, who identifies himself as Zane and claims to be an ambassador for Straff Venture. Vin immediately recognizes Zane as the Mistborn she has been encountering in the mists and warns Elend of the danger. Zane delivers a message stating that Straff is pleased by the offer of an alliance but insists that Elend must come to the Venture camp for a meeting. Elend refuses to set a time immediately, promising to send a response once he has considered the proposal. Zane departs, but not before acknowledging Vin's reputation as the Mistborn who killed the Lord Ruler.
 
@@ -18,7 +18,7 @@ Zane eventually maneuvers Vin into a collision and tells her that Mistborn do no
 
 Sentence Count Check: 15
 
-### Chapter 18: Father and Son
+### Chapter 18
 
 Zane watches Elend from a distance and hears a voice in his head, which he calls God, commanding him to kill his brother. He ignores the voice and travels to the Venture army camp, where he is recognized and respected as a powerful asset. Although Zane is Straff’s bastard son, his existence remains a secret to most of the world. He enters the command tent to provide troop concentrations and night patrol data he gathered from Luthadel. Zane uses self-inflicted wounds to manage his insanity and the constant whispers of the voice.
 
@@ -28,7 +28,7 @@ Zane attempts to poison Straff’s tea with birchbane, but the king detects the 
 
 Sentence Count Check: 15
 
-### Chapter 19: The Koloss
+### Chapter 19
 
 Sazed travels toward Luthadel, having exhausted his steelminds to move at great speeds across the Central Dominance. He discovers a massive army blocking his path, consisting not of men but of thousands of blue-skinned koloss. These creatures never stop growing and possess skin that tears as they reach massive heights of ten or twelve feet. Sazed observes their violent society, noting that they frequently murder one another over trivial disputes or internal rage. He realizes the Lord Ruler’s former monsters are now a direct threat to the stability of the region.
 
@@ -38,7 +38,7 @@ Jastes demands that Sazed serve as his steward, but Sazed refuses, asserting the
 
 Sentence Count Check: 15
 
-### Chapter 20: Political Gambits
+### Chapter 20
 
 Elend holds a meeting with his crew to discuss the invitation to enter Straff Venture’s camp. He argues that they must play the two kings against each other to survive the siege and prevent a direct attack. Despite the risks of being taken hostage or assassinated, Elend decides he must meet his father personally to project an image of weakness. He instructs Dockson to draft a letter suggesting an informal meeting where he will introduce Vin as his companion. The crew provides tips on how to effectively scam and manipulate Straff during the upcoming encounter.
 

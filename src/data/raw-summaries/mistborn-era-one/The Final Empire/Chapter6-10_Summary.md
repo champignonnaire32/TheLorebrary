@@ -1,4 +1,4 @@
-### Chapter 6: The Lair
+### Chapter 6
 
 Vin wakes up in a private, comfortable room at Clubs's shop, which serves as the crew's new headquarters. She observes the shop's front, noting that Clubs is a master carpenter and a "Smoker" Misting who can hide Allomancy. Dockson informs her that Kelsier has planned a meeting for the afternoon once Breeze and Ham arrive. Vin explores the building, noticing its unusual cleanliness and the respectful treatment she receives from the skaa staff. She practices staying observant, keeping track of everyone's locations within the shop throughout the morning.
 
@@ -10,7 +10,7 @@ Sentence Count Check: 15
 
 ---
 
-### Chapter 7: The Mists
+### Chapter 7
 
 Marsh confronts Kelsier about his motives, accusing him of using the rebellion for personal gain and revenge. Kelsier defends his actions, claiming he truly cares about the cause and needs Marsh's help to infiltrate the Steel Ministry. Marsh, a Seeker who can sense Allomancy, eventually agrees to listen to Kelsier's plan despite his skepticism. After Marsh leaves, Kelsier catches Vin eavesdropping at the door and tells her it is time to begin her training. They leave the shop and head out into the foggy night streets of Luthadel.
 
@@ -22,7 +22,7 @@ Sentence Count Check: 15
 
 ---
 
-### Chapter 8: The Pits of Hathsin
+### Chapter 8
 
 Vin and Kelsier trek through the barren, ash-covered landscape outside the Luthadel city walls. They encounter a mistwraith, a scavenger creature with translucent skin that incorporates the bones and muscles of corpses it finds. Kelsier explains that the creature is relatively harmless but serves as a disturbing reminder of the world's dangers. They eventually reach the imperial highroad, where they meet a tall Terrisman steward named Sazed. Sazed has brought a carriage to transport them to the nearby city of Fellise.
 
@@ -34,7 +34,7 @@ Sentence Count Check: 15
 
 ---
 
-### Chapter 9: Rebels Beneath a Sky of Ash
+### Chapter 9
 
 Several months pass as Vin continues her rigorous training in both Allomancy and noble etiquette. She practices Steelpushing and Ironpulling through the streets of Fellise, gaining a sense of freedom and mastery over the night. During a training session with Kelsier, she uses a coin pouch as a decoy to trick him and practices high-speed maneuvers. Kelsier praises her rapid progress but warns her to avoid direct physical matches with opponents who weigh more than she does. Vin realizes she must rely on stealth and precision rather than brute force to succeed against other Mistborn.
 
@@ -46,7 +46,7 @@ Sentence Count Check: 15
 
 ---
 
-### Chapter 10: The Cracks
+### Chapter 10
 
 Vin travels through the Luthadel slums, known as "The Cracks," to meet Breeze at a hidden soup kitchen. She observes the crushing poverty and the constant presence of the Garrison guards who harass the skaa population. Breeze explains that emotional Allomancy, like Soothing and Rioting, is an extension of the natural human art of manipulation. He teaches Vin that a successful Soother must read a person's existing emotions before attempting to nudge them. Vin practices using her copper to hide her own Allomancy from other Seekers while watching Breeze work.
 
