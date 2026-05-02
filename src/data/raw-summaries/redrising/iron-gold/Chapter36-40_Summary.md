@@ -42,7 +42,7 @@ Ephraim cannot bring himself to shoot Lyria and instead carries her out of the s
 
 ---
 
-### Chapter 40: Part III: Dust - Chapter 40: Lysander
+### Chapter 40: Lysander
 Cassius reflects on a white edelweiss flower his father gave him before the Bellona family was massacred on Mars. He expresses his fear that there is nothing after death and that the Void is the only thing waiting for him. Lysander argues that they should give Dido the evidence to restore order to the Society and stop the wolves. Cassius warns Lysander that opening the safe will lead to their deaths once the Raa discover Lysander's true identity. The two men realize their brotherhood has ended as Cassius is led to the Bleeding Place for his duel.
 
 The Bleeding Place is a circular amphitheater where hundreds of Golds gather to watch the combat. Bellerephon uses a long hasta while Cassius is given a standard razor and a small aegis shield generator. The duel begins and Bellerephon quickly wounds Cassius’s head and shoulder with the superior reach of his weapon. Cassius uses a "Snapping Branch" gambit to pull Bellerephon close and severs both of the knight's arms. He offers to spare Bellerephon’s life in exchange for their freedom, but Dido refuses and Bellerephon chooses death.
