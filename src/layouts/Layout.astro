@@ -70,7 +70,7 @@ const {
     <button
       id="backToTopBtn"
       aria-label="Back to top"
-      style="position:fixed; bottom:24px; left:24px; z-index:9999; display:flex; align-items:center; gap:8px; padding:12px 16px; background:#101828; border:1px solid #2a3f5f; color:#c8baa2; border-radius:9999px; box-shadow:0 4px 16px rgba(0,0,0,0.4); opacity:0; pointer-events:none; transition:opacity 0.3s, transform 0.2s; cursor:pointer; font-family:inherit;"
+      style="position:fixed; bottom:24px; left:24px; z-index:9999; display:flex; align-items:center; gap:8px; padding:12px 16px; background:#101828; border:1px solid #2a3f5f; color:#c8baa2; border-radius:9999px; box-shadow:0 4px 16px rgba(0,0,0,0.4); transition:transform 0.2s; cursor:pointer; font-family:inherit;"
     >
       <svg width="20" height="20" fill="none" viewBox="0 0 24 24" stroke="currentColor">
         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 10l7-7m0 0l7 7m-7-7v18" />
@@ -85,16 +85,6 @@ const {
       const backToTopBtn = document.getElementById('backToTopBtn');
 
       if (backToTopBtn) {
-        window.addEventListener('scroll', () => {
-          if (window.scrollY > 200) {
-            backToTopBtn.style.opacity = '1';
-            backToTopBtn.style.pointerEvents = 'auto';
-          } else {
-            backToTopBtn.style.opacity = '0';
-            backToTopBtn.style.pointerEvents = 'none';
-          }
-        });
-
         backToTopBtn.addEventListener('click', () => {
           window.scrollTo({ top: 0, behavior: 'smooth' });
         });
