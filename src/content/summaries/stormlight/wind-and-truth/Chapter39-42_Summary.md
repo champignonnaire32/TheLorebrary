@@ -1,5 +1,5 @@
 ---
-title: "Chapter 39: BETWEEN TWO REALMS 39"
+title: "Chapter 39: BETWEEN TWO REALMS"
 series: "The Stormlight Archive"
 book: "Wind and Truth"
 bookOrder: 5
@@ -7,7 +7,7 @@ range: "39-42"
 startChapter: 39
 ---
 
-### Chapter 39: Between Two Realms 39
+### Chapter 39: Between Two Realms
 
 Adolin Kholin dons his Shardplate in the Azish city as he prepares for a defensive battle against singer forces. He receives a report that a Truthwatcher named Rahel will provide healing at a makeshift hospital near an emergency saferoom for the emperor. Adolin meets with several old friends and volunteers, placing them in charge of battalions and trusting their tactical judgment. He organizes a platoon of archers under May Aladar's command and positions them on an interior balcony within the bronze dome. Maya informs Adolin through their bond that the enemy forces have arrived and are being supported by corrupted Oathgate spren.
 
@@ -17,7 +17,7 @@ Crossbowmen fire into the control building, but stormforms respond with lethal b
 
 ---
 
-### Chapter 40: Stuko Stem 40
+### Chapter 40: Stuko Stem
 
 Szeth and Kaladin arrive at the monastery of Talmut after a quick flight to a high mountain ridge. The military encampment appears abandoned despite the buildings being in better repair than the surrounding homesteads. Szeth explains the Shin reverence for stone and the belief that soldiers live a life of blasphemy by defiling it. They discover thousands of citizens hiding inside the barracks, terrified that the soil will swallow them if they walk on it during the day. The locals report that the soldiers went north to follow a voice, which Szeth suspects belongs to an Unmade.
 
@@ -27,7 +27,7 @@ Back in Azimir, Adolin continues his assault on the singer ranks as more troops 
 
 ---
 
-### Chapter 41: Skybreaker 41
+### Chapter 41: Skybreaker
 
 Szeth begins his duel with Rit inside the monastery, restricted by his spren to using only the Surge of Gravitation. Rit uses the Honorblade to turn the stone floor into liquid, forcing Szeth to stay in the air to avoid being swallowed. She manifests a rising column of stone to pursue him and creates waves of liquid rock that harden into obstacles. Szeth realizes that Honorblades consume significantly more Stormlight than Radiant bonds, yet Rit shows no signs of exhausting her resources. He continues to evade her strikes while his spren encourages him to embrace the fear of being encased in a stone tomb.
 
@@ -37,7 +37,7 @@ Szeth touches the stone surrounding him and infuses it with destructive power, t
 
 ---
 
-### Chapter 42: Celebrations 42
+### Chapter 42: Celebrations
 
 Szeth questions the nature of Rit’s death and the source of her power as she vanishes into smoke. He retrieves Talmut’s Honorblade and observes that it had been swapped for a different weapon when the Herald first arrived at the Shattered Plains. Szeth explains the "pilgrimage of Truth" to Kaladin, which involves defeating the owners of each Honorblade to join their ranks. He realizes that he must retrace his youthful path through the monasteries to cleanse his homeland and investigate the shamans. Kaladin agrees to assist Szeth, noting that the Wind is whispering to him and urging him to stay in Shinovar.
 
