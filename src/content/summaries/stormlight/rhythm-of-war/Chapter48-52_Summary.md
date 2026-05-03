@@ -1,3 +1,12 @@
+---
+title: "Chapter 48: Scent of Death, Scent of Life"
+series: "The Stormlight Archive"
+book: "Rhythm of War"
+bookOrder: 4
+range: "48-52"
+startChapter: 48
+---
+
 ### Chapter 48: Scent of Death, Scent of Life
 
 Eshonai meets humans for the first time nine years ago. She observes their metallic armor and lack of rhythms. She notes they brought "dullform" creatures who look like listeners but do not speak. Eshonai learns the human language faster than other listeners. She leads a group of humans, including King Gavilar and his brother Dalinar, onto the Shattered Plains.

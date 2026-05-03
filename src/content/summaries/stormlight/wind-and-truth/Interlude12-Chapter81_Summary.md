@@ -1,3 +1,12 @@
+---
+title: "Interlude 12: WHAT MUST BE DONE"
+series: "The Stormlight Archive"
+book: "Wind and Truth"
+bookOrder: 5
+range: "Interlude12-81"
+startChapter: 12
+---
+
 ### Interlude 12: WHAT MUST BE DONE
 
 Odium discovers Cultivation is moving against him in Kharbranth. Cultivation's forces, equipped with advanced gear and strange armor, infiltrate the city in black boats. Taravangian forms an invisible avatar to watch as his city guards are systematically slaughtered. Cultivation appears beside him, threatening his family who have been captured in the palace. She demands an immediate armistice and peace with the human coalition.

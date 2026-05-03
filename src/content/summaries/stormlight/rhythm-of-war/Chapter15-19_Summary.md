@@ -1,3 +1,12 @@
+---
+title: "Chapter 15: The Light and the Music"
+series: "The Stormlight Archive"
+book: "Rhythm of War"
+bookOrder: 4
+range: "15-19"
+startChapter: 15
+---
+
 ### Chapter 15: The Light and the Music
 
 Kaladin officially steps down from his military leadership role and promotes Sigzil to companylord of the Windrunners. He visits the tower’s outer plateau where Rlain manages a project growing rockbuds using large emeralds and rhythmic drumming. Kaladin offers the honorspren Yunfah to Rlain for a potential bond, but Rlain refuses a forced arrangement. Seeking advice on his future, Kaladin finds the ardent Zahel working on laundry detail at the tower’s edge. Zahel challenges Kaladin to a duel using sheets and scarves as improvised weapons to test his combat resolve.

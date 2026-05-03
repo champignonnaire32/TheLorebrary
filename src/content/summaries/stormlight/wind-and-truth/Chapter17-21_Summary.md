@@ -1,3 +1,12 @@
+---
+title: "Chapter 17: A TOUGH KIND OF LOVE"
+series: "The Stormlight Archive"
+book: "Wind and Truth"
+bookOrder: 5
+range: "17-21"
+startChapter: 17
+---
+
 ### Chapter 17: A TOUGH KIND OF LOVE
 
 Adolin meets the Cobalt Guardsman Colot, a yellow-green eyed former squire of the elite guard unit, in the tower's atrium. He learns his father Dalinar slipped his guards again and joins the Azish Emperor Yanagawn on a high-speed lift ride. Yanagawn is swathed in thick robes and wears a headdress several feet wide as he heads to a high-level meeting. Adolin admits to the Emperor that the invading army is approximately fifteen to twenty thousand strong. He expresses his fear of failure and the lingering trauma from the fall of Kholinar and Elhokar's death.

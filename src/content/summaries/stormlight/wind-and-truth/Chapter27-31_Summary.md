@@ -1,3 +1,12 @@
+---
+title: "Chapter 27: WHAT IS RIGHT"
+series: "The Stormlight Archive"
+book: "Wind and Truth"
+bookOrder: 5
+range: "27-31"
+startChapter: 27
+---
+
 ### Chapter 27: WHAT IS RIGHT
 
 Twenty-six years ago, Szeth and his father Neturo-son-Vallano discover a new stone on their property. Szeth’s mother Zeenid-daughter-Beth arrives with a Soulcast metal shovel to relocate the rock in secret. The family decides to move the stone a few hundred yards to avoid the Stone Shamans seizing their land. Szeth is forced to make the final decision and chooses to move the rock to save their home. His parents dig up the small grey stone and hide it in a tree nook near their house.

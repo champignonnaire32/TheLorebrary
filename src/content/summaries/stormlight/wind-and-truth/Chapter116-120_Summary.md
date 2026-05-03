@@ -1,3 +1,12 @@
+---
+title: "Chapter 116: TWO WOMEN"
+series: "The Stormlight Archive"
+book: "Wind and Truth"
+bookOrder: 5
+range: "116-120"
+startChapter: 116
+---
+
 ### Chapter 116: TWO WOMEN
 
 Taravangian reveals a contract Jasnah signed to watch Queen Aesudan with the option of assassination. He uses this evidence to accuse Jasnah of hypocrisy and manipulative behavior before Queen Fen of Thaylenah. Jasnah admits to investigating every monarch for potential threats to her people. Taravangian highlights Fen’s admitted softheartedness and contrasts it with Jasnah’s cold pragmatism. He attempts to convince Fen that joining his coalition is the only rational choice for her kingdom's survival.

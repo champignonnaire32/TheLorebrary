@@ -1,3 +1,12 @@
+---
+title: "Chapter 82: THE PRIMARY PURPOSE OF SCIENCE"
+series: "The Stormlight Archive"
+book: "Wind and Truth"
+bookOrder: 5
+range: "82-86"
+startChapter: 82
+---
+
 ### Chapter 82: THE PRIMARY PURPOSE OF SCIENCE
 
 Navani enters a vision of the ancient tower-city Urithiru as it begins to grow cold and inhospitable. She successfully establishes a mental connection with the Sibling and learns about the Skybreakers' historic departure from the tower. The Sibling describes how the previous Bondsmith, Melishi, grew distant after inventing the method for imprisoning spren within fabrials. Navani and Dalinar realize they are observing the timeline leading up to the Recreance, roughly a decade before the event occurs. Dalinar manipulates the vision to move them to a battlefield where they encounter a Windrunner named Garith.

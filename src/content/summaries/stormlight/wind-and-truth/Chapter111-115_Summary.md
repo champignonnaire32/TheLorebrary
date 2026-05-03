@@ -1,3 +1,12 @@
+---
+title: "Chapter 111: THE FLAG OF REBELLION"
+series: "The Stormlight Archive"
+book: "Wind and Truth"
+bookOrder: 5
+range: "111-115"
+startChapter: 111
+---
+
 ### Chapter 111: THE FLAG OF REBELLION
 
 Szeth stands before his old home and attempts to convince General Lumo that the Honorbearers are controlled by an Unmade. Honorbearer Pozen arrives via an Elsegate to denounce Szeth as a heretic. An army from seven other monasteries arrives through a portal to attack Szeth's small force. Szeth raises the flag of rebellion but refuses to kill any enemies with his Blade during the battle. He leads his men from the air, using Stormlight to hover and shout orders while his army retreats up the cliffs.

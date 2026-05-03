@@ -1,3 +1,12 @@
+---
+title: "Chapter 128: THE PRICE OF SURVIVAL"
+series: "The Stormlight Archive"
+book: "Wind and Truth"
+bookOrder: 5
+range: "128-132"
+startChapter: 128
+---
+
 ### Chapter 128: THE PRICE OF SURVIVAL
 
 Szeth, Kaladin, and Nin travel in a wagon while Nin explains Ishar’s history of violence. Nin reveals that Ishar took Odium’s power to create physical spren and Human Fused called Honorbearers. These Honorbearers require a new human body for every rebirth, which Ishar claims is a necessary price for survival. Kaladin argues that the cost of such an army is too high because it destroys the integrity of those it protects. Szeth decides that he must stop Ishar to save his family and his people from this system.

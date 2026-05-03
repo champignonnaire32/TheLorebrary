@@ -1,3 +1,12 @@
+---
+title: "Interlude 7: MOASH"
+series: "The Stormlight Archive"
+book: "Wind and Truth"
+bookOrder: 5
+range: "55-57"
+startChapter: 55
+---
+
 ### Interlude 7: MOASH
 
 Moash lies in a plush bed in Kholinar with his eyes burned away. Odium, possessing a new voice, refuses to take Moash's emotional pain and guilt over killing Teft. The new Odium explains that passion and sacrifice are necessary for a hero and that he celebrates emotion rather than feeding on it. Odium shows Moash a vision of an immortal army marching across worlds to bring retribution to the highborn. Moash sees himself leading this army as a man in black Shardplate with red glowing eyes.

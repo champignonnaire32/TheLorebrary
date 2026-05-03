@@ -1,3 +1,12 @@
+---
+title: "Chapter 51: TEST"
+series: "The Stormlight Archive"
+book: "Wind and Truth"
+bookOrder: 5
+range: "51-54"
+startChapter: 51
+---
+
 ### Chapter 51: TEST
 
 Young Szeth and his family arrive at a military training camp situated on a ridge near the Stoneward monastery. His sister Elid displays resentment toward their new life while their mother gives Szeth a small wool toy for comfort. They meet Betheth, a burly recruitment captain with dark hair, who notes that the parents are volunteers. Szeth hears a mysterious voice in his head for the first time as he steps onto the hard stone. The voice remains silent after its initial greeting, leaving the boy feeling unnerved and apprehensive about his future.

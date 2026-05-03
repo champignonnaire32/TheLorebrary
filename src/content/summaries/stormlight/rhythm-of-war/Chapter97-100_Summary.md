@@ -1,3 +1,12 @@
+---
+title: "Chapter 97: Freedom"
+series: "The Stormlight Archive"
+book: "Rhythm of War"
+bookOrder: 4
+range: "97-100"
+startChapter: 97
+---
+
 ### Chapter 97: Freedom
 
 Navani enters a feverish state of study, ignoring sleep and food to find the opposite of Voidlight. She applies mathematics and sound theory to identify the concept of destructive interference as a means to negate Light using opposing sound waves. After filing metal plates to match specific resonant frequencies, she creates a tone that successfully ejects Voidlight from gemstones. She discovers that producing this anti-sound requires specific Intent to align the hummed tones with the desired outcome. Raboniel observes the breakthrough and experiences a physical cringing in her gemheart when hearing the tone.

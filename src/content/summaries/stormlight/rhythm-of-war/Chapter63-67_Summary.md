@@ -1,3 +1,12 @@
+---
+title: "Chapter 63: Practice"
+series: "The Stormlight Archive"
+book: "Rhythm of War"
+bookOrder: 4
+range: "63-67"
+startChapter: 63
+---
+
 ### Chapter 63: Practice
 
 Kaladin wakes from nightmares of his friends dying to find gemstones left by Dabbid. He tends to the comatose Teft and speaks with Syl about her evolving human emotions and memories. Syl explains that spren can change if they choose, just as humans do, which encourages Kaladin. Dabbid brings Kaladin a new fabrial device that functions as a personal lift for vertical travel. Kaladin uses the stone veins to contact Navani, who explains how to operate the weight-based levitation device.

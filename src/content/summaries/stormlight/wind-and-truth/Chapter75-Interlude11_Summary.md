@@ -1,3 +1,12 @@
+---
+title: "Chapter 75: FAMILY"
+series: "The Stormlight Archive"
+book: "Wind and Truth"
+bookOrder: 5
+range: "75-Interlude11"
+startChapter: 75
+---
+
 ### Chapter 75: FAMILY
 
 Szeth prepares for his pilgrimage to become an Honorbearer—a traditional warrior role trained in the skills of the Heralds—in a monastery rock garden. He prays to a large stone with a crystal vein, believing it houses a guiding spren. An internal Voice speaks to Szeth, claiming it orchestrated his life and warning him that the next phase of his journey will be difficult. His sister Elid—a lean woman who trains with the shamans—interrupts his meditation to tell him their father Neturo plans to follow him. Elid carries a small side sword—a weapon indicating her commitment to Truth—and criticizes Szeth for allowing their father to abandon his position as mayor.

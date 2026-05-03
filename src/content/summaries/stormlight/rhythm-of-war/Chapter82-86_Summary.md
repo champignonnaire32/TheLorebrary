@@ -1,3 +1,12 @@
+---
+title: "Chapter 82: Knife"
+series: "The Stormlight Archive"
+book: "Rhythm of War"
+bookOrder: 4
+range: "82-86"
+startChapter: 82
+---
+
 ### Chapter 82: Knife
 
 Veil confronts Mraize through a communication cube regarding his withholding of Restares's true identity as the Herald Kelek. Mraize instructs her to open a hidden compartment in the cube containing an intricate metal dagger with a gemstone on its pommel. He explains that the weapon is designed to trap the soul of a Herald within the gemstone rather than killing them. Veil initially resists the mission but Shallan takes control when she realizes replacing Kelek with an illusion could win Adolin's trial. Mraize promises to release Shallan from her apprenticeship and make her a full Ghostblood if she completes the task.

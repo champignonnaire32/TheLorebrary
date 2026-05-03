@@ -1,3 +1,12 @@
+---
+title: "Chapter 58: THE SONG OF THE BEASTS"
+series: "The Stormlight Archive"
+book: "Wind and Truth"
+bookOrder: 5
+range: "58-62"
+startChapter: 58
+---
+
 ### Chapter 58: THE SONG OF THE BEASTS
 
 Dalinar enters a dugout vision containing the Heralds Jezrien, Ishar, Chana, and Vedel. The group discusses moving east to help other humans while Battar manages the current camp. Dalinar attempts to probe Ishar for information regarding their secretive plans, but Ishar claims they are not ready. A young Shalash enters the room and expresses anger at being treated like a child despite being sixty years old. The vision begins to unravel after Shalash discards her hair ribbon, which Navani identifies as a potential anchor.

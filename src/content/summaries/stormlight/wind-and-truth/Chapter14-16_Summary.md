@@ -1,3 +1,12 @@
+---
+title: "Interlude 1: KALAK"
+series: "The Stormlight Archive"
+book: "Wind and Truth"
+bookOrder: 5
+range: "14-16"
+startChapter: 14
+---
+
 ### Interlude 1: KALAK
 
 Kalak locks himself in a secure building in Lasting Integrity and repeatedly checks the locks in a state of panic. He reflects on his survival and feels a crushing darkness that only the Herald Ishar could previously hold back. While rushing into his study to prepare for another escape, magical drapes seize him and bind him against the wall. A foreigner named Felt, accompanied by the seon spren Ala, waits in the study to interrogate the bound Herald. Ala reveals that she was spying on Shallan and Adolin and has already sent Ba-Ado-Mishram’s location to Iyatil and Kelsier.

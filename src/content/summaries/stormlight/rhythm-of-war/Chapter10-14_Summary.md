@@ -1,3 +1,12 @@
+---
+title: "Chapter 10: A Single Casualty"
+series: "The Stormlight Archive"
+book: "Rhythm of War"
+bookOrder: 4
+range: "10-14"
+startChapter: 10
+---
+
 ### Chapter 10: A Single Casualty
 
 Kaladin flies toward the Shattered Plains and meets with the honorspren Yunfah. He orders the spren to attempt a bond with the singer Rlain within ten days. The group lands at Narak, a central plateau outpost protected by new stone walls and lightning rods. Dalinar receives a report confirming the death of Ialai Sadeas and orders the occupation of the warcamps. Kaladin explains his policy of releasing Heavenly Ones, flying Fused warriors, who show honor in battle.

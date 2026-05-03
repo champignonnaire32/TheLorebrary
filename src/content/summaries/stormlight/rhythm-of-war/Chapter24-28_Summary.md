@@ -1,3 +1,12 @@
+---
+title: "Chapter 24: Full of Awe"
+series: "The Stormlight Archive"
+book: "Rhythm of War"
+bookOrder: 4
+range: "24-28"
+startChapter: 24
+---
+
 ### Chapter 24: Full of Awe
 
 Shallan, Radiant, and Veil navigate control of their body while traveling on a barge through Shadesmar. Radiant attempts to organize the mission while Shallan retreats due to stress and Veil is punished for her previous actions. The group investigates Ialai’s book and discovers the Ghostbloods are hunting Ba-Ado-Mishram, an Unmade who once connected the singers. Radiant suspects Mraize wants the gemstone containing the spren to transport Stormlight offworld. Veil eventually takes control, promising to find the spy among their Lightweaver agents.

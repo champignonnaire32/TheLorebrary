@@ -1,3 +1,12 @@
+---
+title: "Chapter 34: A Flame Never Extinguished"
+series: "The Stormlight Archive"
+book: "Rhythm of War"
+bookOrder: 4
+range: "34-38"
+startChapter: 34
+---
+
 ### Chapter 34: A Flame Never Extinguished
 
 Adolin holds counsel with the Radiants in Shadesmar to discuss their plea to the honorspren. The Stump and Godeke reject Adolin's initial proposals, arguing that honorspren will not be moved by guilt or threats. Notum, an honorspren on a white patrol steed with glowing ribbons for hair, warns the group that he is forbidden from entering Lasting Integrity. He salutes the party and rides south to continue his patrol along the coast. Adolin remains anxious about the success of the mission as they approach the end of their journey.

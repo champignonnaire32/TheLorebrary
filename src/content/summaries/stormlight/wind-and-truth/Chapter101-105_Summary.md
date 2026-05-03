@@ -1,3 +1,12 @@
+---
+title: "Chapter 101: STEERING A CHULL"
+series: "The Stormlight Archive"
+book: "Wind and Truth"
+bookOrder: 5
+range: "101-105"
+startChapter: 101
+---
+
 ### Chapter 101: STEERING A CHULL
 
 Venli and the listeners spend a fitful night at the Shattered Plains considering an offer to serve Odium. The listener leaders known as the Five argue over whether they can maintain their identity while accepting Odium’s dominance. Thude insists that rejecting Odium defines their people, while others fear they will be used as fodder in the coming battle. Venli comforts the Fused Leshwi and realizes she no longer fears the god who once enslaved her. She decides to propose a dangerous alternative plan to the Five to seek true freedom for the listeners.

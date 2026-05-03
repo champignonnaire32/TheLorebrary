@@ -1,3 +1,12 @@
+---
+title: "Chapter 58: Spanreeds"
+series: "The Stormlight Archive"
+book: "Rhythm of War"
+bookOrder: 4
+range: "58-62"
+startChapter: 58
+---
+
 ### Chapter 58: Spanreeds
 
 Kaladin infiltrates a laundry facility in Urithiru to steal a Voidlight spanreed for Navani. He uses Syl to scout ahead while he hides in a darkened room from passing singer guards. Syl discovers a spanreed hub where dozens of communication devices are centrally managed and monitored. Kaladin observes a new type of red lightning Voidspren that leaves visible trails for the guards. He successfully lures the guards away by having Syl impersonate a Voidspren and point out an infused rope on a wall.

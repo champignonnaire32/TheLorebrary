@@ -1,3 +1,12 @@
+---
+title: "Chapter 5: WHAT MIGHT STILL BE"
+series: "The Stormlight Archive"
+book: "Wind and Truth"
+bookOrder: 5
+range: "5-9"
+startChapter: 5
+---
+
 ### Chapter 5: WHAT MIGHT STILL BE
 
 Shallan sits in the open-air forum of Lasting Integrity and sketches a surreal depiction of vertical falling. She notices that each of her drawings contains the hidden face of a singer with crownlike carapace. Adolin and the Edgedancer Godeke wait for honorspren volunteers but only twelve individuals respond to the call. Notum explains that many honorspren support Adolin’s cause but are still hesitant to form a Nahel bond. The twelve volunteers begin to fade from Shadesmar to reappear as bonded spren for squires at Urithiru.

@@ -1,3 +1,12 @@
+---
+title: "Chapter 143: ONE OF THEM WILL DESTROY US"
+series: "The Stormlight Archive"
+book: "Wind and Truth"
+bookOrder: 5
+range: "143-Epilogue"
+startChapter: 143
+---
+
 ### Chapter 143: ONE OF THEM WILL DESTROY US
 
 Szeth kills his sister and a Truthwatcher in the Shinobar land before confronting his father, Neturo. Neturo reveals he followed the Honorbearers because he thought Szeth had found the truth, rather than having answers himself. Szeth realizes his father is just a man and stabs him with Nightblood, releasing Neturo's soul to join the shadows. Nightblood attempts to consume Szeth's soul, but Szeth chooses to live and casts the sword away. The sword spins and screams for destruction until Kaladin speaks to it, convincing Nightblood it can choose not to kill its friends.

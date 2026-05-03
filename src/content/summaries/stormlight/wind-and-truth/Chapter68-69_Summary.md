@@ -1,3 +1,12 @@
+---
+title: "Chapter 68: ACOLYTE Years Ago"
+series: "The Stormlight Archive"
+book: "Wind and Truth"
+bookOrder: 5
+range: "68-69"
+startChapter: 68
+---
+
 ### Chapter 68: ACOLYTE Years Ago
 
 Szeth waits outside a meeting where his father and Shin leaders decide his punishment for attacking outlanders. His sister Elid arrives and discusses the military consequences of his unauthorized preemptive strike against the raiders. Szeth argues that the Farmer leaves offerings only because of fear, while the Voice urges him to maintain his defensive stance. Inside the tribunal, Honorbearers Pozen, Sivi, and Vambra deliberate with the General and the Farmer. The General initially sentences Szeth to labor in the mines for his insubordinate actions on the coast.

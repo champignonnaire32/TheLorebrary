@@ -1,3 +1,12 @@
+---
+title: "Chapter 29: A Cage without Bars"
+series: "The Stormlight Archive"
+book: "Rhythm of War"
+bookOrder: 4
+range: "29-33"
+startChapter: 29
+---
+
 ### Chapter 29: A Cage without Bars
 
 Adolin’s group reaches a Shadesmar port town after weeks of travel on a barge. Shallan disguises herself as a cultivationspren to scout the outpost alongside Vathah and Ua’pam. Adolin remains under the barge’s tarp with the rest of the humans and horses to avoid detection. Godeke notes that their Stormlight supplies are nearly exhausted and will not last the full journey. Adolin practices a centering sword kata in the cramped cargo space to ease his growing anxiety.

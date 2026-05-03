@@ -1,3 +1,12 @@
+---
+title: "Chapter 87: Trial By Witness"
+series: "The Stormlight Archive"
+book: "Rhythm of War"
+bookOrder: 4
+range: "87-91"
+startChapter: 87
+---
+
 ### Chapter 87: Trial By Witness
 
 Adolin Kholin enters the amphitheater of Lasting Integrity to begin his trial before the High Judge Kelek, a Herald of the Almighty. The honorspren prosecutor Sekeir establishes that Adolin must stand trial for the sins of the Recreance on behalf of all humanity. Amuna, an honorspren who cares for the sightless deadeyes (spren with scratched-out eyes from the Recreance), testifies about the historical extermination of her kind. Blended, an inkspren (spren with oily, dark appearances), unexpectedly testifies against Adolin, arguing that human bonds are inherently unnatural and destructive. Captain Notum provides a written testimony until he suddenly shouts that honor still lives in the hearts of men, causing a riot.

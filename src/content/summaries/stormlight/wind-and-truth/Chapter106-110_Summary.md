@@ -1,3 +1,12 @@
+---
+title: "Chapter 106: CARDINAL SIN"
+series: "The Stormlight Archive"
+book: "Wind and Truth"
+bookOrder: 5
+range: "106-110"
+startChapter: 106
+---
+
 ### Chapter 106: CARDINAL SIN
 
 Nine years ago, Szeth leads a rebellion of acolytes in Shinovar to root out corruption. He kills twenty soldiers in a single pass to shatter an enemy line during his first battle. He uses an infused holy boulder to crush the remaining resistance and secures a small town. The townspeople pay him lip service out of fear but refuse to truly join his cause. Szeth realizes the other Honorbearers will ignore his revolution as long as it remains small.

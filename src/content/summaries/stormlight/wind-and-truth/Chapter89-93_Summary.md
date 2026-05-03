@@ -1,3 +1,12 @@
+---
+title: "Chapter 89: REVELATIONS"
+series: "The Stormlight Archive"
+book: "Wind and Truth"
+bookOrder: 5
+range: "89-93"
+startChapter: 89
+---
+
 ### Chapter 89: REVELATIONS
 
 Kaladin and Nale debate the validity of ancient laws as they hike through the soil-covered highlands of Shinovar towards a Dustbringer monastery. Nale recounts his early days as a Herald and the origins of Odium’s influence over the singers to a listening Kaladin. Szeth remains focused on his mission to stop an Unmade that is disrupting the traditions and laws of his homeland. The group enters a corrupted town where the air feels dark and the inhabitants hide fearfully within their homes. Kaladin reflects on the importance of individual choice and the true meaning of the Windrunners’ journey as they approach their destination.

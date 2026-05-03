@@ -1,3 +1,12 @@
+---
+title: "Chapter 101: Undertext"
+series: "The Stormlight Archive"
+book: "Rhythm of War"
+bookOrder: 4
+range: "101-105"
+startChapter: 101
+---
+
 ### Chapter 101: Undertext
 
 Dalinar enters the Azish Prime's warcamp home and observes the excessive, ornate decorations and furniture. He meets with Yanagawn, Jasnah, and the vizier Noura to discuss the military situation at Urithiru. Jasnah reports that the tower is inaccessible because fabrials fail near it and the enemy has blocked the entrance tunnels. She argues that the war effort must continue without Urithiru, despite Dalinar's insistence on a rescue mission. Dalinar reveals that Kaladin's powers still function and suggests a infiltration team to disable the suppression fabrial.

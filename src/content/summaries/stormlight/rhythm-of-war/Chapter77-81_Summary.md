@@ -1,3 +1,12 @@
+---
+title: "Chapter 77: The Proper Legality"
+series: "The Stormlight Archive"
+book: "Rhythm of War"
+bookOrder: 4
+range: "77-81"
+startChapter: 77
+---
+
 ### Chapter 77: The Proper Legality
 
 Seven and a half years ago, Venli sneaks through the palace of Kholinar during the treaty negotiations to find a bag of gemstones for Ulim. She reaches a privy and finds a ciphered note from Ulim's agent, Axindweth, who has fled the planet after being discovered by another agent. Ulim becomes furious and abandons Venli, leaving her alone in a forbidden section of the human stronghold. Venli is quickly apprehended by an Alethi guard and taken to a room to be held until the feast begins. She initially feels small and weak, but her isolation is interrupted when Ulim returns with news that Heralds are in the palace.

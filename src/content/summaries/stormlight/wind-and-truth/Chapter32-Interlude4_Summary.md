@@ -1,3 +1,12 @@
+---
+title: "Chapter 32: CORDS OF LIGHT"
+series: "The Stormlight Archive"
+book: "Wind and Truth"
+bookOrder: 5
+range: "32-Interlude4"
+startChapter: 32
+---
+
 ### Chapter 32: CORDS OF LIGHT
 
 Dalinar opens a perpendicularity, a pillar of light connecting three realms, while Wit and Navani assist him. Inside the tower, Shallan realizes Mraize has spotted them and the Ghostbloods attack, leading to immediate chaos. Mraize wields a dagger that warps the air with anti-light, while Iyatil and Lieke target the Windrunner guards. Iyatil slashes Isasik's neck, but Renarin begins healing him as the perpendicularity floods the room with power. Radiant, manifesting in physical Shardplate, pins Iyatil to the ground while Shallan dodges attacks.

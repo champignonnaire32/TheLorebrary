@@ -1,3 +1,12 @@
+---
+title: "Chapter 106: A Hundred Discordant Rhythms"
+series: "The Stormlight Archive"
+book: "Rhythm of War"
+bookOrder: 4
+range: "106-110"
+startChapter: 106
+---
+
 ### Chapter 106: A Hundred Discordant Rhythms
 
 Kaladin collapses into a state of shock while holding Teft’s lifeless body. Navani triggers a painrial trap—a fabrial device designed to inflict debilitating nerve pain—that disables Raboniel. This allows Navani to stab the Fused with a dagger containing anti-Voidlight. Although wounded, Raboniel survives long enough to warn Navani that the assassin Moash is returning. Navani seizes her research notebook and attempts to flee before Moash can reach her.

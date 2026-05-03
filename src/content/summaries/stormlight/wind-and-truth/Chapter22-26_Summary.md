@@ -1,3 +1,12 @@
+---
+title: "Chapter 22: LOOKING FOR A THIRD OPTION"
+series: "The Stormlight Archive"
+book: "Wind and Truth"
+bookOrder: 5
+range: "22-26"
+startChapter: 22
+---
+
 ### Chapter 22: LOOKING FOR A THIRD OPTION
 
 Kaladin and Szeth descend the mountain pass and enter the lush, forested region of Shinovar. Kaladin observes that the local plants are docile and do not retract or hide when touched as plants elsewhere on Roshar do. Syl zips through the white-barked trees, delighted by the novelty of the unresponsive flora. Szeth explains that the Shin do not believe plants have volition or feelings. The black sword on Szeth's back speaks, jokingly threatening to kill Szeth for the perceived insult to inanimate objects.

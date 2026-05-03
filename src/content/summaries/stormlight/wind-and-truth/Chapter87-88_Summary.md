@@ -1,3 +1,12 @@
+---
+title: "Chapter 87: LOVE AND BETRAYAL Breaking of Mishram"
+series: "The Stormlight Archive"
+book: "Wind and Truth"
+bookOrder: 5
+range: "87-88"
+startChapter: 87
+---
+
 ### Chapter 87: LOVE AND BETRAYAL Breaking of Mishram
 
 Dalinar witnesses a historical re-creation of the Bondsmith Melishi and his Windrunners meeting a singer Regal named Shmone. Shmone has fallen in love with a human Windrunner named Garith and hopes to forge a lasting peace between their peoples. She introduces the humans to the Unmade Ba-Ado-Mishram, who appears as a small, glowing singer spren with overlapping rhythms. Mishram explains that she intends to replace Odium as the singers' deity to protect them from the coming destruction. Dalinar realizes with horror that the humans are not there for peace, but are executing a pre-planned assassination using a massive gemstone.

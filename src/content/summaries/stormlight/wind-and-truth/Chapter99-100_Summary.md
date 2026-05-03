@@ -1,3 +1,12 @@
+---
+title: "Chapter 99: NEVER TOO LATE"
+series: "The Stormlight Archive"
+book: "Wind and Truth"
+bookOrder: 5
+range: "99-100"
+startChapter: 99
+---
+
 ### Chapter 99: NEVER TOO LATE
 
 Shallan corners her mother, Chanarach, in a vision of her wedding day in Urithiru. The Herald admits she broke on Braize and expresses remorse for attempting to kill Shallan in the past. Shallan chooses to forgive her mother, who warns her that no Herald can be trusted except for Taln. Chana dissolves into smoke, and Testament warns Shallan that Odium has arrived within the vision. Dalinar finds himself trapped in a mental reconstruction of the burning of Rathalas and the death of his wife, Evi.

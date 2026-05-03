@@ -1,3 +1,12 @@
+---
+title: "Chapter 10: BOOK-QUARTERMASTER"
+series: "The Stormlight Archive"
+book: "Wind and Truth"
+bookOrder: 5
+range: "10-13"
+startChapter: 10
+---
+
 ### Chapter 10: BOOK-QUARTERMASTER
 
 Kaladin follows Syl into the Urithiru library, which he describes as a scribes’ supply depot filled with books and ardents. Syl approaches a pale, frowning head librarian to retrieve a rucksack of supplies for their upcoming mission. The librarian provides a movable type copy of The Way of Kings and a set of lightweight writing pens. Syl changes her appearance to wear a ko-takama, an ancient female warrior outfit consisting of a pleated skirt and fitted jacket. She jokes with the librarian about having a chull head, a large shelled creature, hidden beneath her clothing to mock human modesty.

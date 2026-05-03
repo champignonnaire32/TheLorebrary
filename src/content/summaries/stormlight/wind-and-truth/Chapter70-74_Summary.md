@@ -1,3 +1,12 @@
+---
+title: "Chapter 70: CONTEST OF ILLUSIONS"
+series: "The Stormlight Archive"
+book: "Wind and Truth"
+bookOrder: 5
+range: "70-74"
+startChapter: 70
+---
+
 ### Chapter 70: CONTEST OF ILLUSIONS
 
 Szeth, Kaladin, and Nale arrive at the Lightweaver monastery, which is cut into a rock face in a quiet ravine. Szeth carries several Honorblades and reflects on his past while speaking to Nightblood. Nightblood questions if killing innocents is evil, causing Szeth to explain the need for guidelines and laws. They find the monastery empty of servants and keepers before Szeth enters the main hall alone. Inside, thirty illusory women wearing the same face stand in a column of sunlight beneath a skylight.

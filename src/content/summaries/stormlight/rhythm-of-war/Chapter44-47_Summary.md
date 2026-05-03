@@ -1,3 +1,12 @@
+---
+title: "Chapter: Interludes"
+series: "The Stormlight Archive"
+book: "Rhythm of War"
+bookOrder: 4
+range: "44-47"
+startChapter: 44
+---
+
 ### Chapter: Interludes
 
 Vyre, formerly known as Moash, works in a quarry near Kholinar where he practices throwing his Honorblade and realizes it is inferior to Radiant Shards. He claims to be unchained and freed from all guilt and negative emotions because he has given them to Odium. Khen, a singer in warform who has worked with him, announces she is leaving the quarry because she no longer wishes to participate in raids and wants to live for herself. Vyre hauls marble into Kholinar for the construction of specialized housing for the Deepest Ones, a brand of Fused that prefers touching natural stone. While hauling, Vyre is pulled into a vision by Odium, who appears as a majestic Fused on a field of golden light.

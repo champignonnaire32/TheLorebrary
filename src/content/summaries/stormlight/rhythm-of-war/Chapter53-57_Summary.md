@@ -1,3 +1,12 @@
+---
+title: "Chapter 53: Compassion"
+series: "The Stormlight Archive"
+book: "Rhythm of War"
+bookOrder: 4
+range: "53-57"
+startChapter: 53
+---
+
 ### Chapter 53: Compassion
 
 Venli reviews scouting reports on the sixth floor of Urithiru while reflecting on the gemstone she stole from her sister. The singers maintain checkpoints to prevent human movement and have captured fifty unconscious Radiants from the city. Raboniel orders the execution of any Radiants found hidden by families, though those surrendered willingly are spared. A Regal informs Venli that a tall human surgeon with slave brands killed a soldier and escaped to the upper floors. Venli identifies this man as Kaladin Stormblessed and realizes he remains conscious despite the tower's corruption.

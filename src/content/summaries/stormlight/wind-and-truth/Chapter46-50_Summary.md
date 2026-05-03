@@ -1,3 +1,12 @@
+---
+title: "Chapter 46: ALASWHA"
+series: "The Stormlight Archive"
+book: "Wind and Truth"
+bookOrder: 5
+range: "46-50"
+startChapter: 46
+---
+
 ### Chapter 46: ALASWHA
 
 Navani and Dalinar witness a vision of Ashyn's destruction and the first arrival of human refugees on Roshar. Ishar, appearing much younger in simple blue robes, forcibly holds open a thirty-foot portal while thousands of people flee the burning sky. Dalinar identifies several figures as younger versions of future Heralds, including Jezrien, Chanaranach, and Shalash. The refugees bring strange animals like horses and chickens, but notably lack wagons or carts. Dalinar is shocked to recognize the future King of Heralds, Jezrien, as Ahu, the beggar he used to drink with in Kholinar.

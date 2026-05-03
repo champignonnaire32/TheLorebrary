@@ -1,3 +1,12 @@
+---
+title: "Chapter 94: SACRED TRUTH"
+series: "The Stormlight Archive"
+book: "Wind and Truth"
+bookOrder: 5
+range: "94-98"
+startChapter: 94
+---
+
 ### Chapter 94: SACRED TRUTH
 
 Szeth arrives at the center of the Bondsmith monastery, which is a natural rock formation created by the First Spren. He observes the nine stone divots where the Honorblades were kept, realizing there were only nine instead of the ten he expected. He prays to Taln, the Herald who remained in Damnation alone to save humanity from the Desolation. The Voice, which Szeth has followed for years, directs him to a hidden trail along a shallow ridge. Szeth encounters a dark presence that he senses but cannot visually identify in the clear sunlight.

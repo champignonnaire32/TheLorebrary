@@ -1,3 +1,12 @@
+---
+title: "Chapter 5: Broken Spears"
+series: "The Stormlight Archive"
+book: "Rhythm of War"
+bookOrder: 4
+range: "5-9"
+startChapter: 5
+---
+
 ### Chapter 5: Broken Spears
 
 The Windrunners engage a force of Heavenly Ones led by Leshwi above the town of Hearthstone. Kaladin identifies Leshwi among the Fused and accepts her challenge for a one-on-one duel. Dalinar opens a perpendicularity on the Fourth Bridge to provide the Radiants with an infinite supply of Stormlight during the engagement. The Heavenly Ones use spears tipped with aluminum and gemstones designed to drain a Radiant's Stormlight upon contact. Leshwi and Kaladin pursue each other through the town and around the massive airship while the evacuation of refugees continues.

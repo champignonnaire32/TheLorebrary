@@ -1,3 +1,12 @@
+---
+title: "Prologue: To Pretend"
+series: "The Stormlight Archive"
+book: "Rhythm of War"
+bookOrder: 4
+range: "Prologue-4"
+startChapter: 4
+---
+
 ### Prologue: To Pretend
 
 Seven years ago in Kholinar, Navani Kholin manages the frantic preparations for a treaty feast with the Parshendi. She struggles to coordinate the sudden arrival of foreign dignitaries and the large drums requested by the Parshendi. Amidst the chaos, she encounters Aesudan, who is failing to properly entertain the important guests in the gardens. Navani is frustrated to learn that Gavilar has invited the master artifabrian Rushur Kris without informing her. While trying to reach the artifabrian, she is pulled away to resolve a wine shortage caused by Dalinar’s drinking.

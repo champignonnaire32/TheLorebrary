@@ -1,3 +1,12 @@
+---
+title: "Interlude 17: DIENO"
+series: "The Stormlight Archive"
+book: "Wind and Truth"
+bookOrder: 5
+range: "126-127"
+startChapter: 126
+---
+
 ### Interlude 17: DIENO
 
 Dieno the Mink lies on a headsman’s block in a Herdazian courtyard awaiting execution by beheading. A Herdazian judiciary in singer robes reads his crimes while warform singers stand guard over the prisoner. Dieno mocks the execution method and suggests more creative alternatives like being launched by a catapult or thrown from a tower. He successfully baits the judiciary and singer minders into considering a more dramatic death involving a mallet. The headsman and assistants are distracted by the discussion of a more legendary finale for the Herdazian general.

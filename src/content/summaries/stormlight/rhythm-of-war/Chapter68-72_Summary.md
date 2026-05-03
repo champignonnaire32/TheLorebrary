@@ -1,3 +1,12 @@
+---
+title: "Chapter 68: One Family"
+series: "The Stormlight Archive"
+book: "Rhythm of War"
+bookOrder: 4
+range: "68-72"
+startChapter: 68
+---
+
 ### Chapter 68: One Family
 
 Eshonai and her mother Jaxlim venture into a highstorm eight years ago to seek a transformation. Eshonai protects her mother with a wooden shield while they carry an orange gemstone for the change. During the storm, Eshonai hears a pure and powerful tone that she identifies as the note of Honor. The light from the gemstone is absorbed into Eshonai’s gemheart instead of her mother's. She undergoes a transformation into warform that grants her thick carapace and immense physical strength.

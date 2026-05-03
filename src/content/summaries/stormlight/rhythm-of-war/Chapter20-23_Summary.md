@@ -1,3 +1,12 @@
+---
+title: "Chapter: Interludes"
+series: "The Stormlight Archive"
+book: "Rhythm of War"
+bookOrder: 4
+range: "20-23"
+startChapter: 20
+---
+
 ### Chapter: Interludes
 
 Sylphrena observes Rock’s daughter, Cord, who wears Shardplate and prepares an offering of tubers in Urithiru. The honorspren senses contentment from the Plate and reflects on her own dual nature between responsibility and child-like curiosity. Syl visits the sleeping Kaladin and worries about his mental state before flying out to join the highstorm's windspren. She enters the center of the storm to speak with the Stormfather, her father, who manifests as a voice in the blackness. Syl asks to feel Kaladin’s darkness to better understand and help him, but the Stormfather refuses.

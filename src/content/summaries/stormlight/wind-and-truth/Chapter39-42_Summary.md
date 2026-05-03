@@ -1,3 +1,12 @@
+---
+title: "Chapter 39: BETWEEN TWO REALMS 39"
+series: "The Stormlight Archive"
+book: "Wind and Truth"
+bookOrder: 5
+range: "39-42"
+startChapter: 39
+---
+
 ### Chapter 39: BETWEEN TWO REALMS 39
 
 Adolin Kholin dons his Shardplate in the Azish city as he prepares for a defensive battle against singer forces. He receives a report that a Truthwatcher named Rahel will provide healing at a makeshift hospital near an emergency saferoom for the emperor. Adolin meets with several old friends and volunteers, placing them in charge of battalions and trusting their tactical judgment. He organizes a platoon of archers under May Aladar's command and positions them on an interior balcony within the bronze dome. Maya informs Adolin through their bond that the enemy forces have arrived and are being supported by corrupted Oathgate spren.

@@ -1,3 +1,12 @@
+---
+title: "Chapter 116: Mercy"
+series: "The Stormlight Archive"
+book: "Rhythm of War"
+bookOrder: 4
+range: "116-Epilogue"
+startChapter: 116
+---
+
 ### Chapter 116: Mercy
 
 Kaladin visits Dalinar at the top of the tower four hours after Teft’s funeral. Dalinar attempts to apologize for relieving Kaladin of command, but Kaladin insists he needs time to heal and help others with mental trauma. Dalinar grants permission and reveals he has set a ten-day deadline for the contest of champions against Odium. The contest will decide the fate of Alethkar and the immediate future of the war. Dalinar admits he needs to master his Bondsmith powers before the duel begins.

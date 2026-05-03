@@ -1,3 +1,12 @@
+---
+title: "Chapter Prologue: TO LIVE"
+series: "The Stormlight Archive"
+book: "Wind and Truth"
+bookOrder: 5
+range: "Prologue-4"
+startChapter: 4
+---
+
 ### Chapter Prologue: TO LIVE
 
 Gavilar Kholin enters a vision with the Stormfather, an ancient spren, to examine the nine Honorblades, ancient swords that grant the powers of the Heralds. He believes he can achieve immortality and join the Oathpact by finding the correct Words within the book *The Way of Kings*. Gavilar dismisses the failure of the past Heralds and expects to replace Talenelat as a new guardian of Roshar. He reveals he has learned to read in secret to search for divine secrets without the knowledge of his wife, Navani. The Stormfather remains skeptical of Gavilar's worthiness and warns him about the mental toll of eternal life.

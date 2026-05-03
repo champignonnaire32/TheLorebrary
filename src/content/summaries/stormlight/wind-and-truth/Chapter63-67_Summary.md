@@ -1,3 +1,12 @@
+---
+title: "Chapter 63: ONE WAY FORWARD"
+series: "The Stormlight Archive"
+book: "Wind and Truth"
+bookOrder: 5
+range: "63-67"
+startChapter: 63
+---
+
 ### Chapter 63: ONE WAY FORWARD
 
 Renarin uses Glys's guidance to navigate the vision of the Heralds' gathering. He successfully identifies himself as Vedel to Jezrien and Nale by reciting the correct historical script. Gavinor interrupts the vision by asking Navani a question that deviates from the expected events. Renarin realizes that he can identify intruders like the Ghostbloods by their inability to follow the established script. Glys warns Renarin that the assassins might also have learned the script, complicating his plan to find them.

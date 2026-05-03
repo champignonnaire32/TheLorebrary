@@ -1,3 +1,12 @@
+---
+title: "Interludes"
+series: "The Stormlight Archive"
+book: "Rhythm of War"
+bookOrder: 4
+range: "73-76"
+startChapter: 73
+---
+
 ### Interludes
 
 Szeth-son-Honor attempts to follow Dalinar’s advice on acting like an ordinary soldier while guarding the High King and young Gavinor in Emul. The assassin feels a kinship with the traumatized boy but fears that his own presence as a killer will eventually ruin the child’s happiness. His sentient blade, Nightblood, speaks into his mind and expresses a desire to be drawn so it can see better. Szeth makes a circuit of the clearing and worries that the lack of visible enemies means he is being too lax in his duties. He meets with his highspren in a rift of reality to discuss his upcoming crusade to cleanse his homeland of Shinovar.

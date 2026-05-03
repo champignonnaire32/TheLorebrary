@@ -1,3 +1,12 @@
+---
+title: "Chapter 111: Unchained"
+series: "The Stormlight Archive"
+book: "Rhythm of War"
+bookOrder: 4
+range: "111-115"
+startChapter: 111
+---
+
 ### Chapter 111: Unchained
 
 Dalinar and a group of Windrunners land at Ishar's camp on the border of Tukar to confront the Herald. Ishar claims to be the Almighty and challenges Dalinar, whom he believes is Odium's champion, to a duel. The Herald summons the Honorblade of the Bondsmiths and easily fends off the five Windrunners simultaneously. During the skirmish, Ishar uses Bondsmith powers to tether the Windrunners to the ground and drain their Stormlight. Dalinar opens a perpendicularity to restore his soldiers, but Ishar attempts to steal the bond to the Stormfather and Dalinar’s Connection to Odium.

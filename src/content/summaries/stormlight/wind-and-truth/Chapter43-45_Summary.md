@@ -1,3 +1,12 @@
+---
+title: "Interlude 5: BAXIL"
+series: "The Stormlight Archive"
+book: "Wind and Truth"
+bookOrder: 5
+range: "43-45"
+startChapter: 43
+---
+
 ### Interlude 5: BAXIL
 
 Baxil walks through Azimir wrapped in crimson cloths, invisible to most unless they seek him out. He visits a tea shop and meets Axies the Collector, an Aimian who records notes as tattoos on his skin and is currently hitting his hand with a hammer to attract rare spren. Axies is an Aimian, a race of blue-skinned people who can alter their skin color and are often immortal or very long-lived. Baxil tastes bitter jaramon tea through the collective memories of the patrons because he can no longer consume physical things directly due to his condition. He exchanges a gemstone containing a spren for specialized red bandages that are essential for his continued existence.

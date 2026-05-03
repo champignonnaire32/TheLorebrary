@@ -1,3 +1,12 @@
+---
+title: "Chapter 34: FOR THE GOOD OF ALL ROSHAR"
+series: "The Stormlight Archive"
+book: "Wind and Truth"
+bookOrder: 5
+range: "34-38"
+startChapter: 34
+---
+
 ### Chapter 34: FOR THE GOOD OF ALL ROSHAR
 
 Adolin Kholin transfers through the Azimir Oathgate and surveys the bronze-domed platform in preparation for an incoming singer invasion. He notes the Azish defenders have positioned archers on high balconies and hung oil sacks as a contingency for burning the interior. Maya communicates telepathically with Adolin, revealing that her strength has increased since the restoration of Urithiru. Adolin identifies a tactical weakness in the defense, fearing the singers will overwhelm a narrow ring of defenders around the central control building. He argues against using the oil early because singer carapace provides natural heat resistance and the fire would destroy the dome's defensive utility.

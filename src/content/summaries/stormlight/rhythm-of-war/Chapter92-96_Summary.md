@@ -1,3 +1,12 @@
+---
+title: "Chapter 92: A Gift"
+series: "The Stormlight Archive"
+book: "Rhythm of War"
+bookOrder: 4
+range: "92-96"
+startChapter: 92
+---
+
 ### Chapter 92: A Gift
 
 Venli serves as Raboniel’s Voice while reports are delivered regarding the hunt for the surviving Windrunner. Raboniel expresses admiration for the listeners who rejected Fused rule to create their own kingdom. During their conversation, Raboniel questions Venli about her personal regret regarding the betrayal of her people. Venli admits her shame and questions why the Fused continue to fight such a costly war. Raboniel dismisses Venli from her service, noting that her time in the tower is nearing its end.

@@ -1,3 +1,12 @@
+---
+title: "Chapter 133: PUPPET"
+series: "The Stormlight Archive"
+book: "Wind and Truth"
+bookOrder: 5
+range: "133-137"
+startChapter: 133
+---
+
 ### Chapter 133: PUPPET
 
 Adolin fights the Fused Abidi in the Azir palace while struggling with his physical exhaustion. He uses an aluminum candelabra to parry a Shardblade strike and targets a single plate section. After landing three precise hits, Adolin stabs his sword through the eyeslit of Abidi's helmet. The Fused heals the wound instantly and lifts Adolin by the throat to taunt him. Adolin realizes he must become a leader for his people rather than just a swordsman.

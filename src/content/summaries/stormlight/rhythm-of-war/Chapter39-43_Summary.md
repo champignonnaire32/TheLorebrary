@@ -1,3 +1,12 @@
+---
+title: "Chapter 39: Invasion"
+series: "The Stormlight Archive"
+book: "Rhythm of War"
+bookOrder: 4
+range: "39-43"
+startChapter: 39
+---
+
 ### Chapter 39: Invasion
 
 Teft collapses during withdrawal-like symptoms, and Kaladin attempts to stabilize him before realizing other Radiants are also falling unconscious. Kaladin finds that his Gravitation lashings fail while his Adhesion powers remain functional, suggesting a partial suppression of his abilities. Navani receives a message from the Sibling via spanreed warning of an enemy invasion already inside the tower. She mobilizes runners and guards to secure the lower levels and alert the remaining military forces. Hundreds of Fused and Regals descend upon Urithiru, utilizing the Oathgates to bring in reinforcements and seizing control of the pillar room.
