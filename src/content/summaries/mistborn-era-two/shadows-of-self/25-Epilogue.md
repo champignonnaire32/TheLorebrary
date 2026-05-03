@@ -1,8 +1,8 @@
 ---
 title: "Chapters 25-Epilogue"
-series: "Mistborn: Era Two"
+series: "Mistborn Era Two"
 book: "Shadows Of Self"
-bookOrder: 2
+bookOrder: 99
 range: "25-Epilogue"
 startChapter: 25
 ---

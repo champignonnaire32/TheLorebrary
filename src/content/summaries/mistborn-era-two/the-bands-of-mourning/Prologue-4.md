@@ -1,8 +1,8 @@
 ---
 title: "Chapters Prologue-4"
-series: "Mistborn: Era Two"
+series: "Mistborn Era Two"
 book: "The Bands Of Mourning"
-bookOrder: 3
+bookOrder: 99
 range: "Prologue-4"
 startChapter: 0
 ---
