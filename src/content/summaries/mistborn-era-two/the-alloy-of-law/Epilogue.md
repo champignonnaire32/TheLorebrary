@@ -4,7 +4,7 @@ series: "Mistborn: Era Two"
 book: "The Alloy Of Law"
 bookOrder: 1
 range: "Epilogue"
-startChapter: 0
+startChapter: 21
 ---
 
 ### Epilogue
