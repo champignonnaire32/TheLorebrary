@@ -68,9 +68,9 @@ const {
     
     <!-- Floating Back to Top Button -->
     <button
-      id="backToTopBtn"
+      id="lore-top-btn"
       aria-label="Back to top"
-      style="position:fixed; bottom:24px; left:24px; z-index:9999; display:flex; align-items:center; gap:8px; padding:12px 16px; background:#1f2e47; border:1px solid #3b5278; color:#c8baa2; border-radius:9999px; box-shadow:0 4px 16px rgba(0,0,0,0.5); transition:transform 0.2s; cursor:pointer; font-family:inherit;"
+      style="position:fixed; bottom:24px; left:24px; z-index:55; display:flex; align-items:center; gap:8px; padding:12px 16px; background:#1f2e47; border:1px solid #3b5278; color:#c8baa2; border-radius:9999px; box-shadow:0 4px 16px rgba(0,0,0,0.5); transition:transform 0.2s; cursor:pointer; font-family:inherit;"
     >
       <svg width="20" height="20" fill="none" viewBox="0 0 24 24" stroke="currentColor">
         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 10l7-7m0 0l7 7m-7-7v18" />
@@ -82,10 +82,10 @@ const {
 
     <!-- Navigation Logic -->
     <script is:inline>
-      const backToTopBtn = document.getElementById('backToTopBtn');
+      const loreTopBtn = document.getElementById('lore-top-btn');
 
-      if (backToTopBtn) {
-        backToTopBtn.addEventListener('click', () => {
+      if (loreTopBtn) {
+        loreTopBtn.addEventListener('click', () => {
           window.scrollTo({ top: 0, behavior: 'smooth' });
         });
       }
