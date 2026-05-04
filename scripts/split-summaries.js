@@ -48,6 +48,8 @@ const bookOrderMap = {
   'The Way Of Kings': 1,
   'Words Of Radiance': 2,
   'Oathbringer': 3,
+  'Rhythm Of War': 4,
+  'Wind And Truth': 5,
   'Red Rising': 1,
   'Golden Son': 2,
   'Morning Star': 3,

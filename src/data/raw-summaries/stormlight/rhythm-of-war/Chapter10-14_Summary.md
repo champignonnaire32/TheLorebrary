@@ -1,0 +1,57 @@
+### Chapter 10: A Single Casualty
+
+Kaladin flies toward the Shattered Plains and meets with the honorspren Yunfah. He orders the spren to attempt a bond with the singer Rlain within ten days. The group lands at Narak, a central plateau outpost protected by new stone walls and lightning rods. Dalinar receives a report confirming the death of Ialai Sadeas and orders the occupation of the warcamps. Kaladin explains his policy of releasing Heavenly Ones, flying Fused warriors, who show honor in battle.
+
+Dalinar informs Kaladin that he is being relieved of active duty due to his psychological exhaustion. He describes Kaladin’s tendency to freeze in combat and his inability to sleep. Kaladin initially resists the order and draws Stormlight in anger before deflating in realization. He watches his teammates from Bridge Four laughing in the courtyard while he remains isolated. Dalinar promises that the transition will be framed as a promotion to the coalition.
+
+Kaladin requests ten days to decide on a new support position within the military. He worries that his inability to speak the Fourth Ideal makes him a broken soldier. Dalinar assures him that there are ways to protect and serve the war effort without fighting. Syl nods in agreement as Kaladin realizes he cannot remain with the Windrunners. He walks away from the conversation feeling like a profound casualty of the ongoing conflict.
+
+**Sentence Count Check:** 15
+
+---
+
+### Chapter 11: Passion and Courage
+
+Venli stands in envoyform, a tall body with orange-red hair, and manages singer servants in a Kholinar tower. She oversees the arrival of Leshwi, a member of the shanay-im or flying Heavenly Ones. The tower is a simple stone column with wooden steps that overlooks the city streets far below. Leshwi receives refreshments and a shave from servants while her long white and red traveling train is removed. Venli successfully masks her identity as a Radiant by hiding her spren Timbre from the Fused.
+
+Venli presents a new recruit named Shumin to the lady and forces the girl to stand at the spire’s edge. The recruit must demonstrate determination to serve the Fused without cowering from the heights. Leshwi reveals that she fought the Windrunner leader again but the battle reached no conclusion. She mentions that a newly reawakened Fused named the Pursuer is angry because the human killed him. Venli maintains her role as Leshwi’s Voice by translating the lady’s hummed rhythms for the servants.
+
+Venli takes Shumin to a guardhouse and reveals her secret organization of singers seeking independence. She uses a sphere of Voidlight to peek into Shadesmar and check for spying mavset-im, or Masked Fused. She explains her goal to find a neutral homeland away from both human and Fused control. Timbre pulses within her gemheart to warn her of the dangers of her double life. Leshwi suddenly enters the room and announces that a dangerous turn in the war is approaching.
+
+**Sentence Count Check:** 15
+
+---
+
+### Chapter 12: A Way to Help
+
+Kaladin returns to the tower city of Urithiru and avoids the celebratory mood of the returning Windrunners. He feels a sense of dissociation when looking at the massive stone city and its internal patterns of strata. His friends attempt to cheer him up with jokes and invitations to spar, but he deflects them with a false smile. Rock laughs with the others but maintains a respectful distance while watching Kaladin’s true mood. Kaladin enters his empty, dark highlord quarters and collapses against the door in a state of hyperventilation.
+
+Adolin and Syl push into the room and find Kaladin surrounded by exhaustion-spren and agony-spren. Adolin refuses to leave and forces Kaladin to change his clothes and accompany him to the market. They visit the Ten Rings, an orderly section of wooden storefronts arranged according to Navani’s plans. Inside the tavern Jez’s Duty, they find Shallan acting through her personas of Veil and Radiant. Kaladin drinks chilled orange juice while the group discusses the recent mission to rescue the Mink.
+
+Adolin admits he is worried about both Kaladin and Shallan’s mental health and promises to find a way to help. Kaladin suggests that Adolin should bond a spren and discard his dead Shardblade Maya. Rock approaches the table and informs Kaladin that he is leaving the Bridge Four team forever. He intends to return to the Horneater Peaks to face justice for his decision to use a weapon in battle. Kaladin gives his blessing for a Windrunner honor guard to escort Rock’s family home across the lowlands.
+
+**Sentence Count Check:** 15
+
+---
+
+### Chapter 13: Another Hunt
+
+Shallan wakes with a headache and attends to her duties as the wife of a highprince. She visits her brothers Jushu and Balat in their quarters and draws a hearth from her childhood home. Her spren Pattern moves across the floor as she struggles with the memory of killing her mother. She realizes that her brothers have become different people since their time in Jah Keved. Balat’s wife Eylita joins them on the balcony while the group uses heating fabrials to combat the cold.
+
+Shallan spots Mraize disguised as a guardsman named Gobby interacting with her family. She follows him to a small garden outside the tower where he is watching a green chicken hunt a mole. Mraize explains that a mole is an invasive species from Shinovar that has adapted to the mountains. He shows her a diamond broam and defines Investiture as raw power tied to specific lands like Roshar. Mraize claims that his goal is to find a way to transport this energy offworld through Shadesmar.
+
+Mraize informs Shallan that the Sons of Honor have been destroyed but their leader Restares remains alive. Restares is currently seeking asylum in Lasting Integrity, the capital city of the honorspren in Shadesmar. Shallan is tasked with infiltrating the fortress to find the man and learn his secrets. Mraize promises that he will answer all of her questions about her past if she completes this mission. Shallan walks away realizing that Mraize is using her hunger for answers to keep her bound to the Ghostbloods.
+
+**Sentence Count Check:** 15
+
+---
+
+### Chapter 14: Voice
+
+Venli walks through the Kholinar palace, which has been rebuilt with organic arcs and shalebark walls by Fused architects. She enters the pinnacle chamber where the Nine, the leaders of the Fused, are entombed in stone pillars. These pillars grow directly into the chests of the Fused, leaving only their heads and shoulders free. The Nine sing in a rhythm that Venli cannot comprehend because Odium is shielding its meaning. They discuss the humans’ new flying ship and the loss of a suppression fabrial that negates Radiant powers.
+
+The Pursuer, a Fused of the nex-im brand with jagged carapace, enters and demands to hunt Kaladin. Leshwi interrupts the proceedings to claim prior privilege to the human’s life to protect him from Lezian. Raboniel, a scholar known as the Lady of Pains, arrives with a proposal to capture Urithiru. She plans to use the suppression technology to turn the tower’s own defenses against the Radiants. The human Vyre, formerly Moash, watches from a ledge and warns that Kaladin will attempt to stop them.
+
+Raboniel intends to corrupt the Sibling, the soul of the tower, and use its heart for experiments. The Nine agree to the plan and decide to use information provided by the human king Taravangian. Leshwi orders Venli and her singer staff to serve Raboniel during the upcoming infiltration of the tower. She secretly tells Venli to report on Raboniel’s actions to prevent a catastrophe that could desolate the land. Venli prepares to leave Kholinar, hoping to find a way to learn from the human Radiants at Urithiru.
+
+**Sentence Count Check:** 15

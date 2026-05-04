@@ -1,0 +1,57 @@
+### Chapter 53: Compassion
+
+Venli reviews scouting reports on the sixth floor of Urithiru while reflecting on the gemstone she stole from her sister. The singers maintain checkpoints to prevent human movement and have captured fifty unconscious Radiants from the city. Raboniel orders the execution of any Radiants found hidden by families, though those surrendered willingly are spared. A Regal informs Venli that a tall human surgeon with slave brands killed a soldier and escaped to the upper floors. Venli identifies this man as Kaladin Stormblessed and realizes he remains conscious despite the tower's corruption.
+
+The Pursuer has discovered Kaladin's family and intends to interrogate and execute them at a nearby clinic. Timbre, Venli’s hidden Reacher spren, pulses with distress at the news of the impending violence. Venli travels to the tower's central atrium and takes a lift to the fifteenth floor to meet with Leshwi. She informs her mistress that the conscious Windrunner has killed a soldier and is now a fugitive. Leshwi expresses respect for the human warrior and acknowledges that the Pursuer will hunt him regardless of her prior claim.
+
+Venli suggests that holding Kaladin's family would be a valuable strategic resource for finding the fugitive before the Pursuer does. Leshwi descends to the sixth floor and uses her authority as an Ancient to take the family into her custody. She hides the surgeon, his wife, and child in a safe location and instructs them to remain hidden. Leshwi warns Venli that her compassion for humans is a dangerous passion that could be misconstrued by other Fused. Venli accepts her role as a false Radiant while Timbre encourages her to continue taking steps toward true honor.
+
+Sentence Count Check: 15
+
+---
+
+### Chapter 54: The Future Become Dust
+
+Dalinar Kholin plays with his grandson Gavinor in a small room within the Alethi warcamp in Emul. The child expresses his belief that his father died because of him and asks if his mother was evil. Dalinar reassures the boy that Queen Aesudan was possessed by an enemy and that Elhokar died heroically trying to save his family. After Gavinor falls asleep clutching a wooden sword, Dalinar meets with his officers to manage the political fallout from Jasnah's duel with Ruthar. He ensures the legality of the near-execution is not questioned and arranges for the disgraced highprince to be watched in Azimir.
+
+Dalinar walks through the camp and reflects on Jasnah’s desire to transition Alethkar into a neutered monarchy similar to Thaylenah. He finds the Windrunners gathered around a communal cookfire and joins them for a bowl of Horneater stew. Renarin smiles at his father’s approval of the tradition and later pulls Dalinar aside to discuss his recent visions. The two men walk into the dark wilderness outside the camp to speak privately about the future of the war. Renarin explains that his blood sickness has been replaced by a new, more dangerous type of fit involving his corrupted spren.
+
+Renarin summons a vision that transforms the ground into black glass and depicts Dalinar in white Shardplate pierced by a black arrow. He explains that Odium is like a dominating sun in the vision and will likely keep the humans fighting distractions forever. Renarin’s ability to see possibilities interferes with Odium's foresight, making those close to him difficult for the enemy to track. Dalinar encourages his son to embrace his unique status as a Radiant and promises to consider bonding more corrupted spren. Glys, the corrupted Truthwatcher spren, suggests that they need more allies like themselves to survive the coming darkness.
+
+Sentence Count Check: 15
+
+---
+
+### Chapter 55: Kinship With the Open Sky
+
+Kaladin cleans and hydrates the unconscious Teft within a hidden room on the fourth floor of the tower. Syl reflects on the death of her previous Radiant and expresses concern about her own immortality compared to Kaladin’s lifespan. The mute bridgeman Dabbid arrives at the hideout carrying a pot of broth and guided by the Sibling’s light. Kaladin teaches Dabbid how to use a metal syringe to feed Teft and demonstrates how to operate the gemstone-locked door. He instructs Dabbid to remain in the hideout to care for the sleeping captain while Kaladin investigates the enemy’s activities.
+
+Kaladin plans to observe the Oathgate plateau by climbing down the exterior of the tower rather than sneaking through hallways. He uses scrub brushes with the bristles removed and infuses them with Stormlight to act as adhesive handholds. The descent requires significant upper-body strength as he sticks his boots to the stone wall to maintain his position. He takes a brief rest on a tenth-floor balcony, watching coldspren and windspren move through the darkness around him. Kaladin feels a renewed sense of freedom in the sky despite being stripped of his ability to fly by the tower’s dampening field.
+
+As he nears the third floor, Kaladin pauses when he hears singer scouts using spyglasses to watch for Windrunner reinforcements. A violet flash from the Oathgate indicates that the Fused are moving troops under the cover of night. Kaladin realizes that the scouts are using a spanreed to communicate with the operators on the ground level. Since the scouts are packing up their equipment, he decides to follow them and steal the device for Navani’s research. He hopes that capturing a functioning fabrial will provide the Queen with the clues she needs to reclaim the tower.
+
+Sentence Count Check: 15
+
+---
+
+### Chapter 56: Nodes
+
+Venli examines a large scale model of Urithiru while standing in the room where the unconscious Radiants are being stored. She notes that the Windrunners among the captives are twitching and muttering, suggesting they are closer to waking than the others. Dul, a singer loyal to Venli, reports that he is stockpiling broth paste and blankets in preparation for their eventual escape. Venli instructs Dul to attempt to wake a Windrunner secretly to provide a distraction or aid during their departure. She promises to recruit a human surgeon to help care for the prisoners and prevent the spread of rotspren.
+
+Venli travels to the central atrium and observes humans opening temporary shops now that their confinement to quarters has been relaxed. She meets with a group of Deepest Ones who are searching for the fabrial nodes that maintain the tower's protective shield. The Deepest Ones explain that secretspren are useless within the tower because the structure itself is a massive fabrial. Venli realizes that she can use her own Radiant powers without being detected by the enemy's spren due to this interference. Timbre pulses with excitement as they realize the tower provides a safe environment for Venli to practice her abilities.
+
+The Fused theorize that the nodes must be accessible to Radiants and are likely connected to the crystal pillar by veins of gemstones. One Deepest One asks Venli where she would hide such a device if she were a mortal with limited time. Venli remains silent to avoid helping them, but the Fused correctly guess that a node might be hidden outside to receive storm infusions. Timbre expresses disappointment when the Deepest Ones decide to search the exterior walls for signs of embedded gemstones. Mazish interrupts the meeting to inform Venli that her group has discovered another living listener within the tower's halls.
+
+Sentence Count Check: 15
+
+---
+
+### Chapter 57: Child of Odium
+
+Eight years ago, Eshonai observes the Kholin family as they prepare to depart from the Shattered Plains after their second visit. Dalinar Kholin stands near the edge of the camp with his Shardblade summoned, staring eastward toward the Origin of Storms. He warns Eshonai that Gavilar’s interest in her people is dangerous and advises the listeners to be cautious and forceful. Eshonai is overwhelmed by the realization that hundreds of cities exist in the human realm, dwarfing the listener population. Dalinar promises that a permanent envoy will be sent to establish a more lasting relationship between their cultures.
+
+During a highstorm, young Venli huddles in a stormshelter while her mother sings traditional songs by the light of uncut gemhearts. Venli carries a bright red gemstone given to her by the human Ulim and feels a mounting anxiety about her choice. She slips out of the shelter into the freezing tempest, seeking a new form to rival her sister's growing fame. In the eye of the storm, she encounters the Stormfather, who questions if she is truly willing to make this choice for her people. Venli accuses the Stormfather of serving their enemies and insists that her people need new forms to survive.
+
+Venli smashes the red gemstone with a rock, releasing a Voidspren that takes the shape of a tiny glowing human male. The spren, Ulim, enters Venli's gemheart and instructs her to maintain her current workform while he scouts the modern world. He mentions the need to reach the new storm in the south and begins guiding her toward incredible but dangerous goals. Eshonai finds Venli returning from the storm and is disturbed by her sister's lack of rhythm and sudden, arrogant confidence. Venli mocks the idea that she was seeking mateform and struts toward the fire with a new, terrifying swagger.
+
+Sentence Count Check: 15

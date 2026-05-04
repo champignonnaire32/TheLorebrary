@@ -1,0 +1,81 @@
+### Chapter: Interludes
+
+Vyre, formerly known as Moash, works in a quarry near Kholinar where he practices throwing his Honorblade and realizes it is inferior to Radiant Shards. He claims to be unchained and freed from all guilt and negative emotions because he has given them to Odium. Khen, a singer in warform who has worked with him, announces she is leaving the quarry because she no longer wishes to participate in raids and wants to live for herself. Vyre hauls marble into Kholinar for the construction of specialized housing for the Deepest Ones, a brand of Fused that prefers touching natural stone. While hauling, Vyre is pulled into a vision by Odium, who appears as a majestic Fused on a field of golden light.
+
+Odium explains that their connection has grown so strong that a storm is no longer required to initiate these visions. The deity commands Vyre to go to Urithiru to transport ground forces because the Oathgates are non-functional and he believes Vyre's sword will still work. Odium expresses concern regarding Kaladin's influence on Vyre, but Vyre insists his emotions now belong to the god. The god identifies Kaladin as a significant threat who has left the battle, which strangely makes him more dangerous. Odium asks Vyre for a way to break the Windrunner since he cannot strike Kaladin down directly unless the man puts himself in his hands.
+
+Vyre suggests isolating Kaladin, removing his friends, and breaking his spirit through fear and dread. Odium notes he lacks a direct connection to Kaladin but realizes he can manipulate the holes in Kaladin's soul using someone connected to him. Vyre agrees to influence Kaladin through visions during his sleep, utilizing their shared past and dreams as a bridge. The goal is to bring Kaladin to the brink of despair and eventually force him to commit suicide. Moash concludes that they will find a way to make Kaladin jump once he is at the ledge. Vyre then prepares to leave for Urithiru to fulfill his role in the invasion.
+
+Sentence Count Check: 15
+
+---
+
+### Chapter: Interludes (Lift)
+
+Lift dangles from a ceiling rope in Urithiru to steal a food basket but realizes the thrill is gone because people have become fond of her. She retreats into the ventilation tunnels with her spren, Wyndle, who appears as a vine with a crystal face. They inspect the "stolen" goods, which include flatbread, curry, mashed beans, and jam left out specifically for her by a Horneater boy. Lift grumbles about the gift, preferring to be seen as a mysterious and feared shadow rather than a liked member of the community. She reaches her "nest," a junction of ventilation shafts where she keeps treasures like blankets and one of Dalinar's knives.
+
+Lift uses chalk to mark her height on a wall and becomes distressed upon realizing she has grown almost a full inch. She reminds Wyndle that she asked the Nightwatcher for the boon of never changing so she could remain her mother's little girl. Wyndle suggests that her request was too vague and that she actually spoke with Cultivation, who provided a unique situation involving turning food into Light. Lift feels her body is mutating against her will and worries that her deceased mother would no longer recognize her. Wyndle suddenly senses a darkness resting on the tower and feels the tower's spren stir despite it being considered dead.
+
+Lift discovers her "awesomeness" ability is gone when she tries to use Stormlight to slick her body through a tight tunnel. She observes from a window as Windrunners fall unconscious on the Oathgate platform and hears screams that are not human. Lift spots a red chicken being hunted by a green predatory bird and climbs the outside of the tower to rescue it. She finds the red chicken on a balcony with a wounded wing but discovers Wyndle cannot transform into a weapon. After biting the green bird to drive it off, Lift heals the red chicken's wing with a forced burst of Stormlight.
+
+Sentence Count Check: 15
+
+---
+
+### Chapter: Interludes (Taravangian)
+
+Taravangian sits in a stormwagon during the end of an Everstorm, feeling the weight of his dwindling intelligence and his mandatory compassion. He prepares to give the order for his Veden forces to betray the coalition, knowing Odium is likely attacking Urithiru simultaneously. He reviews hidden pages from the Diagram, noting that Renarin Kholin is invisible to the deity's foresight. Taravangian weeps for the people he has failed, realizing his deal with Odium only saves Kharbranth while condemning the rest of the world. Odium pulls him into a vision, appearing as a twenty-foot-tall human with golden features and ornate robes.
+
+Odium commands Taravangian to send the betrayal orders, and Taravangian complies despite knowing his Veden leaders are being deceived about their future safety. The god reveals that he intended Dalinar to be his champion but failed, and now intends to use humanity as frontline troops for a greater cosmic war. Taravangian tricks Odium into showing his vast plans again by offering a fragment of the Diagram as bait. In the vision, Taravangian notices a black scar representing Renarin's influence and sees his own name partially consumed by it. He realizes that being near Renarin clouds his own future from Odium's sight, giving him a surge of hope.
+
+Taravangian identifies that Odium fears Szeth and the sword the assassin carries, which are both currently near Renarin and Dalinar. He observes that Odium, despite his godlike power, possesses human-like loneliness and a desire to boast about his accomplishments. Taravangian concludes that if the god can be tricked and feels loneliness, he can also be made afraid. After the vision ends, Taravangian uses a spanreed to send the two-word command "Do it" to initiate the betrayal. Dalinar's soldiers immediately storm the wagon to arrest him, but Taravangian feels a new sense of resolve to continue fighting.
+
+Sentence Count Check: 15
+
+---
+
+### Chapter 44: Tinder Waiting for the Spark
+
+Kaladin jogs through the dark tunnels of Urithiru carrying the unconscious Teft while feeling the weight of his failure as a soldier and son. He remains unarmed except for a scalpel and worries about his dwindling supply of Stormlight and infused spheres. Syl checks intersections ahead of him as they head toward the uninhabited tenth floor to find a secure hiding place. Kaladin ducks into a side passage when he senses danger and observes a Fused with marbled red skin patterns and glowing eyes. He recognizes the creature as the one he killed in Hearthstone, now reborn and hunting him specifically.
+
+Syl distracts the Fused, known as the Pursuer, by zipping past him in his light-ribbon form while Kaladin remains hidden in the shadows. The Pursuer eventually realizes the distraction, finding a smear of Kaladin's blood on a wall and narrowing his search. Kaladin discovers that multiple squads of enemy soldiers have formed a noose around his position on the floor. He prepares for a final stand in a small room, gripping his scalpel and waiting for the enemy to arrive with lights. Fearspren and gloomspren manifest around him as he contemplates surrendering to protect Syl from being alone.
+
+A faint violet light appears in a corner of the room, moving along a garnet vein in the stone floor. Kaladin follows the light into a nearby chamber where it illuminates a hidden gemstone embedded deep in the wall. He infuses the gemstone with his last bits of Stormlight, causing a secret door to slide open silently. He enters a hidden corridor and follows the pulsing violet light up to the eleventh floor while avoiding enemy patrols. After infusing another gemstone to enter a second hidden room, Kaladin collapses from exhaustion next to Teft.
+
+Sentence Count Check: 15
+
+---
+
+### Chapter 45: A Bold Heart, A Keen and Crafty Mind
+
+Nine years ago, Eshonai explores and maps a forest near the Shattered Plains, driven by a desire to discover the world's secrets. She ignores the warnings of her fellow listeners who believe that charting the wilderness risks stealing its mystery or offending the spren. While tracking a river's course, she observes unique cremlings and enjoys the freedom her ancestors sought when they abandoned their gods. She hears flat, rhythm-less shouts in the distance that do not match the tones of her people. Upon rounding a bend, Eshonai is shocked to encounter humans for the first time in generations.
+
+In the listener camp, Venli practices reciting the ninety-one stanzas of the songs under the guidance of her mother, Jaxlim. Venli feels a sense of competition with Eshonai and hungers for a grand destiny beyond living in a hogshide tent. Jaxlim, the keeper of songs, possesses a beautiful voice that cuts Venli to the soul and inspires her to seek new forms. Venli reveals she has been experimenting with painspren during storms in an attempt to rediscover the ancient warform. She believes that adopting a new form will open her mind and help her lead her people to greatness.
+
+Jaxlim takes Venli to speak with the Five, the leaders of the listener families, to seek their blessing for the warform experiments. The elders show interest in the possibility of new forms but are interrupted by the sounding of warning drums. The Five grab their ancient metal weapons, which are precious heirlooms that the listeners cannot reproduce. Venli stays back, considering herself too valuable as an apprentice keeper of songs to risk in a skirmish. She soon learns that Eshonai has returned with a discovery that will permanently change their world and overshadow Venli's own ambitions.
+
+Sentence Count Check: 15
+
+---
+
+### Chapter 46: The Weight of the Tower
+
+Navani begins her first full day under the occupation of Urithiru by maintaining her personal appearance to show she is not broken. She meets with Raboniel in the basement library and agrees to organize her scholars to continue research under Fused observation. Navani realizes she must share the secret of the flying machine's lateral movement because her scholars already know the mechanisms. Raboniel reveals that ancient Soulcasters were actually spren manifested in the Physical Realm, a fact the modern humans had forgotten. Navani explains how aluminum wires are used to isolate planes in conjoined fabrials, allowing for horizontal motion.
+
+Raboniel suggests that this knowledge could be used to create spanreeds that function while moving, a problem Navani's team had been investigating. Navani discovers that several of her scholars were killed during the initial attack on the crystal pillar room. She instructs her remaining scholars to cooperate with the occupation for the time being to ensure their safety and morale. Meanwhile, Kaladin experiences a horrific nightmare where he kills his brother Tien and sees his Bridge Four friends slaughtering each other. In the vision, Moash appears with black pits for eyes and encourages Kaladin to commit suicide by jumping into a chasm.
+
+Kaladin wakes up in the hidden room, relieved to find Teft alive but distressed by the man's physical condition and his own isolation. Syl enters the enclosure through a small vent and reports that the enemy has stopped actively searching for them on the upper floors. She theorizes that the violet light was the Sibling, a mysterious third Bondsmith spren associated with the tower. Kaladin discovers that the hidden door's gemstone is now charged with a white light that functions like a fabrial. He resolves to leave the room to find water, food, Stormlight, and a weapon to sustain himself and Teft.
+
+Sentence Count Check: 15
+
+---
+
+### Chapter 47: A Cage Forged of Spirits
+
+Dalinar observes a battle from a flying platform as Skybreakers attack the fabrial housings to disrupt the machine. Sigzil and a force of Windrunners defend the platform, striking at the flying Fused and providing a vantage point for the Mink. Beneath them, the Alethi and Azish troops hold their formation against Taravangian's Veden forces and a small group of singers. The Mink coordinates the ground movements, using light riders to harry the Veden flank as their lines begin to buckle. Dalinar uses his Bondsmith powers to open a sliver of a perpendicularity, renewing his Windrunners' Stormlight while denying it to the Skybreakers.
+
+A scribe delivers a spanreed message from Navani reporting that a defensive aura has disabled Radiants and fabrials within Urithiru. The message claims everyone is safe, though the Mink suspects the attack is a distraction from a larger enemy plan. Dalinar orders his troops to keep pressing the Veden traitors until they surrender to prevent them from reinforcing the southern front. He is guarded by the Horneater woman Cord and the Assassin in White, Szeth, who is disguised by a Lightweaving. Szeth suddenly grabs Dalinar as the flying platform begins to lurch violently and smoke billows from the fabrial housings.
+
+The platform tilts sharply as the conjoined fabrials fail, throwing archers and soldiers into the air. Dalinar realizes the Fused have found a way to disable the flying machine's stabilization mechanisms remotely or through direct sabotage. He prepares to open a perpendicularity to save the Mink and himself by transitioning to the Cognitive Realm. The Skybreakers take advantage of the chaos to launch a fresh assault on the falling command structure. Dalinar watches in horror as the platform plunges toward the ground, realizing the full extent of the enemy's coordinated strike.
+
+Sentence Count Check: 15

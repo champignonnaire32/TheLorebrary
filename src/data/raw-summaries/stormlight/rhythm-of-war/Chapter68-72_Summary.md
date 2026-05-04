@@ -1,0 +1,57 @@
+### Chapter 68: One Family
+
+Eshonai and her mother Jaxlim venture into a highstorm eight years ago to seek a transformation. Eshonai protects her mother with a wooden shield while they carry an orange gemstone for the change. During the storm, Eshonai hears a pure and powerful tone that she identifies as the note of Honor. The light from the gemstone is absorbed into Eshonai’s gemheart instead of her mother's. She undergoes a transformation into warform that grants her thick carapace and immense physical strength.
+
+After the storm, Eshonai discovers she has attained warform, a powerful martial state for the listener people. She meets Thude and several other listeners who also successfully transitioned into this new armored form. Their celebration is interrupted by the sound of battle drums as a rival listener family attacks their city. Eshonai instinctively takes leadership of the new warforms as they approach the city gates. They encounter Venli, who urges Eshonai to visit the family's elderly Shardbearer named Sharefel.
+
+Sharefel offers his Shardblade and Plate to the new warriors, but Eshonai refuses to take them yet. Instead, she leads the warforms outside to confront the rival family who are performing traditional pre-battle boasts. Eshonai gives a speech promising a united nation of listeners rather than squabbling tribes. She demonstrates the power of warform by hurling a spear an incredible distance over the enemy's heads. The rival family shies away in terror, and the conflict ends with a promise of future unification.
+
+Sentence Count Check: 15
+
+---
+
+### Chapter 69: Pure Tones of Roshar
+
+Navani Kholin conducts experiments inside a steel box to understand the properties of Stormlight and Voidlight. She discovers that specific tuning forks can draw Stormlight or Voidlight out of gemstones. Research into ancient music theory reveals a three-note scale corresponding to the three pure tones of Roshar. These tones represent the Shards Honor, Odium, and Cultivation, though the Sibling claims Odium's tone is an interloper. Navani successfully uses the tuning forks to replicate Raboniel’s ability to manipulate Light through song.
+
+Navani communicates secretly with the Sibling by touching a vein in the library wall. The Sibling explains that Towerlight is a blend of Honor’s and Cultivation’s tones and powers the tower’s defenses. Raboniel sends Navani a diamond infused with green Lifelight, which is the Light of Cultivation. Navani attempts various experiments to mix the different Lights together, but they refuse to combine. She grows frustrated as every attempt to create hybrid Towerlight ends in failure.
+
+Fearing Raboniel's ultimate goals, Navani begins planning a secret resistance using fabrial technology. She sketches designs for traps like painrials and heating fabrials to be hidden in the hallways as disguised failed experiments. Navani suggests that the Sibling should bond a singer like Rlain to restore their powers. The Sibling remains skeptical of bonding anyone again but identifies the third node's location. The node is hidden in a well within the Breakaway market, but the Sibling suddenly senses that the enemy has found it.
+
+Sentence Count Check: 15
+
+---
+
+### Chapter 70: Well
+
+Kaladin Stormblessed wakes from a terrifying nightmare to find his spear and Navani’s flying fabrial missing. Dabbid has taken the weapons to stop the Fused after the Sibling alerted him to the third node's discovery. Kaladin catches the bridgeman and takes the gear, moved when Dabbid speaks the words of the First Ideal. Kaladin leaps into the tower's atrium and uses the flying fabrial to simulate Lashings as he descends eleven stories. He reaches the Breakaway market and faces an ambush from the Pursuer and dozens of Heavenly Ones.
+
+Kaladin grapples with the Pursuer in midair and manages to disable the creature by slicing its tendons with a scalpel. He challenges the Fused leader Leshwi to a duel to buy time for Syl to scout the well. During the lopsided aerial battle, Kaladin realizes his Radiant powers and Stormlight healing are failing significantly. He breaks away from Leshwi and dives into the water of the deep well at the market's center. Underwater, he outmaneuvers a Fused guardian and successfully destroys the gemstone node and its glass housing.
+
+The Pursuer traps Kaladin inside the well by placing a heavy lid on top and weighting it with human bodies. Kaladin panics in the dark, airless space but remembers his military training and searches for a submerged exit. He swims through a dark, high-pressure tunnel and barely reaches a reservoir beneath the tower before drowning. After recovering some Stormlight from nearby lamps, he trudges to the ground floor and encounters a group of singer soldiers. He fights through the guards and flees the tower, running directly into the fury of a highstorm.
+
+Sentence Count Check: 15
+
+---
+
+### Chapter 71: Rider of Storms
+
+Dalinar Kholin prepares for a highstorm in Emul while worrying about the lack of communication from Navani. The Stormfather offers Dalinar the rare privilege of riding within the storm as it crosses the continent. Dalinar’s consciousness soars across the landscape, witnessing the devastation caused by the Everstorm in remote villages. He sees two foragers crushed by a boulder and rebukes the Stormfather for his lack of mercy. The Stormfather insists he is a force of nature and cannot choose to be anything other than a storm.
+
+As the storm reaches Urithiru, Dalinar searches the tower for signs of his family and the occupation. He discovers Kaladin Stormblessed clinging to the outside of the eighth floor, wounded and nearly dead. Dalinar speaks to the young man through the thunder, learning about the singer invasion and the suppression of Radiant powers. Kaladin informs him that Navani is captured and the tower is under a total lockdown. Before Kaladin falls unconscious from exhaustion, Dalinar uses a surge of wind to hurl him onto a safe balcony.
+
+Dalinar returns to his body in Emul and immediately calls for an emergency meeting with the coalition monarchs. He realizes the enemy sacrificed their position in Emul specifically to distract him from the siege of the tower. The Stormfather warns that Dalinar is not yet strong enough to reclaim Urithiru or overwhelm the corrupted Sibling. Dalinar decides he must seek out the Herald Ishar, who was a Bondsmith, to learn more about his abilities. He sets a new course to find the god-priest of Tukar and convince him to help the coalition.
+
+Sentence Count Check: 15
+
+---
+
+### Chapter 72: Outmatched
+
+Navani remains in her library cell for several hours, consumed by the realization of her tactical errors. Raboniel eventually visits the room wearing traditional male Thaylen clothing that she find intriguing. The Lady of Wishes reveals that she had been eavesdropping on every secret conversation Navani had with the Sibling. She admits that she allowed Navani to continue the ruse of the Sibling's death to gather intelligence. Navani feels a deep sense of nausea and humiliation upon learning how easily she was manipulated.
+
+Raboniel tells Navani to focus on her research into the nature of Light instead of trying to fight. She argues that Navani's true purpose is to help end the eternal war through scientific discovery. When Navani asks about Kaladin's fate, Raboniel confirms that the Windrunner successfully destroyed the third node. However, Raboniel also notes that Kaladin was wounded and his powers were failing before he fled into the storm. The Fused leader believes it is highly unlikely that the human survived the conditions outside the tower.
+
+Navani is left alone in her cell to process the profound scope of her failure and the Sibling's corruption. She writes a formal prayer for Kaladin's protection and burns it, though she fears he is already dead. The corruption of the Sibling is nearly complete, which threatens the last remaining node in the tower. Navani rests her head on her table, feeling defeated and isolated in the enemy-controlled fortress. This conclusion marks the end of the third part of the narrative.
+
+Sentence Count Check: 15

@@ -1,0 +1,45 @@
+### Chapter 68: ACOLYTE Years Ago
+
+Szeth waits outside a meeting where his father and Shin leaders decide his punishment for attacking outlanders. His sister Elid arrives and discusses the military consequences of his unauthorized preemptive strike against the raiders. Szeth argues that the Farmer leaves offerings only because of fear, while the Voice urges him to maintain his defensive stance. Inside the tribunal, Honorbearers Pozen, Sivi, and Vambra deliberate with the General and the Farmer. The General initially sentences Szeth to labor in the mines for his insubordinate actions on the coast.
+
+The Farmer intervenes and offers Szeth a solitary post herding sheep at the high pass to watch for stonewalkers. Szeth accepts the post with relief, but the Voice suddenly manifests to all three Honorbearers simultaneously. Pozen draws an Honorblade, a glowing weapon of the Heralds, and orders everyone except Szeth to leave the room. The Honorbearers reveal they can also hear the Voice and have served its directives for years. They realize the Voice chose Szeth as a child and orchestrated his recent tactical success against the ships.
+
+Pozen cancels Szeth's punishment and instead recruits him to train as a shaman acolyte at his monastery. The Honorbearers inform the General that Szeth's recent attack was a test of leadership rather than a crime. Neturo insists on moving his family to the monastery city to remain with Szeth during his training. Szeth's mother, Zeenid, refuses to join them and chooses to return to her previous life instead. The chapter ends with Szeth departing on a horse while his mother walks back to the camp alone.
+
+Sentence Count Check: 15
+
+---
+
+### Interlude 9: ZAHEL
+
+Vasher, known in this land as Zahel, hangs naked from chains in a room lined with aluminum sheets. He is a prisoner of Axindweth, who uses his inability to bring fabric to life against him. A red parrot sits in a cage nearby, and Zahel attempts to keep it engaged by playing a game. He periodically erases his own memories to nullify the effects of the physical torture his captors inflict. Zahel reflects on his long life and his recent decision to flee from his past responsibilities.
+
+Axindweth enters the circular room with a green bird called an Aviar perched on her shoulder. She reveals a painrial, a specialized fabrial designed to generate intense physical agony at the touch of a button. She offers to release Zahel if he surrenders half of the Breaths he possesses. Zahel recognizes this as a manipulation and realizes she will only demand more Investiture if he complies. He watches the parrot while Axindweth activates the device to begin a new round of interrogation.
+
+Axindweth uses the painrial to force Zahel into a state of extreme suffering. The aluminum room prevents any spren or external forces from detecting his presence or his current location. Zahel remains silent about his motives despite the increasing intensity of the fabrial's power. He maintains his refusal to negotiate for his freedom through the distribution of his divine power. The session concludes with Zahel screaming as the device is applied directly to his body.
+
+Sentence Count Check: 15
+
+---
+
+### Interlude 10: THE MOMENT OF DECISION
+
+Taravangian observes the landscape of Shinovar from a mountaintop while contemplating his plans for total conquest. He monitors Szeth's movements through the land and considers his own ability to dominate distant kingdoms. Cultivation appears behind him to question if his mind and heart still reject her assumptions. Taravangian realizes that he possesses both the divine intellect and the overwhelming emotions of the god Odium. He admits to himself that he wants to conquer the cosmere for his own personal satisfaction.
+
+The power of Odium reacts to Taravangian's internal acknowledgment of his desire for unchecked accomplishment. He acknowledges that he respects Jasnah and Dalinar Kholin as equals who currently oppose his divine will. Taravangian concludes that Dalinar is fundamentally wrong and requires a lesson in the necessity of a single ruler. He decides to stop denying his own wants and fully aligns his mind with the destructive intent of the Shard. This decision causes the two halves of his soul to vibrate with a singular, pure tone.
+
+Taravangian coalesces into a new avatar wearing radiant gold vestments and holding a small cane. His eyes begin to beam with the light of a sun as he fully accepts his role as the new Odium. Cultivation expresses profound disappointment through rhythmic tones and departs from the mountain peak. Odium begins planning his next moves to influence the growth of his respected rivals on Roshar. He prepares to exert his full influence over the planet now that his internal conflict has been resolved.
+
+Sentence Count Check: 15
+
+---
+
+### Chapter 69: RADICAL PHILOSOPHY
+
+Kaladin and Szeth travel toward the Lightweaver monastery on foot under the supervision of the Herald Nale. Nale walks with an imperious gait and requires no rest or water during the long journey northward. Kaladin attempts to convince Szeth to think for himself rather than blindly following Nale's rigid legalism. Nale joins the conversation and defends the absolute authority of the law as the only valid moral compass. He argues that human hearts are too weak to be trusted and requires something greater to guide them.
+
+Nale claims that the laws of Shinovar were forged by the Herald Jezrien and God himself. He dismisses Kaladin's concerns about the corruption of kings and the inherent flaws in man-made codes. Kaladin points out that the law allowed Sadeas to send his friends to their deaths on the Shattered Plains. Nale retorts by asking what better system Kaladin has to offer as a replacement for established order. He states that Szeth's oath to follow a moral compass is a valid and respected choice.
+
+The group approaches the Lightweaver monastery, which is hidden from view by the natural mesas and landscape. Nale reminds Kaladin that it was the law, not compassion, that saved Szeth from the storm. Szeth prepares his weapon to kill the Honorbearer at the monastery despite his personal reservations. Meanwhile, Jasnah Kholin participates in a strategy meeting to plan the defense of Thaylen City. She realizes that the city's impregnability hides a logic problem that only a scholar can solve.
+
+Sentence Count Check: 15

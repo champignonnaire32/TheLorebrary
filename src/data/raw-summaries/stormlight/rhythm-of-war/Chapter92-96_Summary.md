@@ -1,0 +1,57 @@
+### Chapter 92: A Gift
+
+Venli serves as Raboniel’s Voice while reports are delivered regarding the hunt for the surviving Windrunner. Raboniel expresses admiration for the listeners who rejected Fused rule to create their own kingdom. During their conversation, Raboniel questions Venli about her personal regret regarding the betrayal of her people. Venli admits her shame and questions why the Fused continue to fight such a costly war. Raboniel dismisses Venli from her service, noting that her time in the tower is nearing its end.
+
+The Ancient One gives Venli a writ of authority as payment for her services. On the back of the document, Raboniel has sketched a map based on a human scout's report. The report describes a group of Parshendi migrants, including many children, near the eastern rim of the Shattered Plains. Venli realizes these are the rebels who escaped into the chasms before the Everstorm arrived. She is shocked to discover that thousands of her people might still be alive.
+
+Venli clutches the paper and flees Raboniel’s presence without a formal farewell. She reflects on the losses of her sister, mate, and mother, all of which she caused. Raboniel suggests that confusion is a scholar's tool that can lead to truth. The Ancient One intends to finish unmaking the Sibling before moving on to new tasks. Venli recognizes that this map represents a potential future for the surviving listeners. She runs to find Rlain and share the discovery of their people's survival.
+
+Sentence Count Check: 15
+
+---
+
+### Chapter 93: Strong Enough
+
+Formless awakens on the day of Adolin’s final judgment and prepares to execute her plan. Adolin notices Veil’s clothing and attempts to offer Shallan emotional support. Formless dismisses Shallan as too weak to handle the stress of the trial. Adolin argues that true strength comes from struggling against one's own disadvantages. After Adolin returns to sleep, Formless sketches the layout of the High Judge’s quarters to plan an assassination.
+
+Veil’s voice persists in Shallan’s mind, accusing Formless of being a lie to avoid pain. Formless ignores Pattern's warnings and Lightweaves herself to look like the honorspren Lusintia. She sneaks through the fortress of Lasting Integrity to reach Kelek's home near the battlements. Upon entering, she prepares to Soulcast the doorknob and kill the Herald with Mraize’s knife. Radiant suddenly intervenes, revealing that she was the one who killed Ialai to protect Shallan.
+
+Veil appears and confronts Shallan, forcing her to realize that Formless is just another mask. Shallan finally accepts the memory of killing her original spren, a different Cryptic, during her childhood. Veil integrates her memories and skills back into Shallan before fading away forever. Shallan enters Kelek's study and surrenders the Ghostblood knife to the weary Herald. honorspren guards burst in and arrest Shallan for colluding with the judge and attempting to influence the trial.
+
+Sentence Count Check: 15
+
+---
+
+### Chapter 94: Sacrifice
+
+Adolin arrives at the forum for the final day of his trial, expecting a harsh judgment. He discovers that Kelek has been replaced as High Judge by the elder honorspren Sekeir. Sekeir announces that Shallan has been detained for attempting to influence the court. The new judge delivers a long speech condemning humanity for their ancient betrayal of the spren. Adolin remains at parade rest, refusing to react to the judge’s inflammatory rhetoric.
+
+Sekeir calls Mayalaran to the stand as the final witness against the human race. The deadeye appears terrified by the crowd and begins to thrash in the grip of her captors. Sekeir claims her screams and agony are a direct condemnation of Adolin and all humans. Adolin lunges forward to help her but is restrained by the honorspren guards. Maya’s guttural howls reach a crescendo as Sekeir demands the audience remember what humans did to her.
+
+Maya suddenly speaks two words, "We chose," which silences the entire forum in shock. She explains that the ancient Radiants did not murder their spren, but that both parties decided together. Maya screams that her sacrifice belongs only to her and cannot be used by the honorspren for their agenda. The trial ends without a formal conviction as the stunned audience and elders begin to disperse. Blended admits she orchestrated Maya's testimony to see if a true bond existed between her and Adolin.
+
+Sentence Count Check: 15
+
+---
+
+### Chapter 95: What She Truly Was
+
+Fourteen months ago, Venli flees through the chaos of the battle at Narak as the Everstorm approaches. She passes lines of listeners singing to summon the storm, their eyes glowing with red Voidlight. Venli attempts to use her stormform lightning, but the energy discharges unpredictably without hitting any humans. A human soldier corners her with a spear but spares her life when she pleads for mercy. She realizes the listeners are being consumed by the new forms and the influence of Odium.
+
+Venli watches from a distance as her sister Eshonai duels a human Shardbearer on the edge of a chasm. Eshonai is eventually shoved into the abyss, and Venli feels a strange lack of concern for her sister. The environment becomes a nightmare of clashing storms as the highstorm and Everstorm meet. Red and white lightning tangle in the sky, and debris whips through the air with lethal force. Venli finds shelter in a stone building that has been partially cut open by a Shardblade.
+
+The winds rip away a section of the building, leaving Venli exposed to the full fury of the tempest. In this moment of extreme danger, she is forced to confront the truth of her own character. She admits that she is not a genius or a queen, but a selfish coward. All her discoveries were merely hints provided by the Voidspren Ulim to manipulate her. She realizes she cares nothing for her people and has only ever acted out of self-interest.
+
+Sentence Count Check: 15
+
+---
+
+### Chapter 96: A Thousand Lies
+
+Rlain finds Venli crying in the infirmary as she reviews the map of the Shattered Plains. Venli reveals the note from Raboniel confirming that thousands of listeners survived the storms. She confesses her entire history of lies and her role in bringing the Voidspren to their people. Rlain is horrified and calls her a monster for the destruction she has caused. Despite his anger, he suggests that helping to save the unconscious Radiants is her only path to redemption.
+
+Venli refuses to stay and help Rlain, insisting she must find her surviving people immediately. She plans to use Raboniel’s writ of authority to escape the tower through the Oathgates. Rlain mocks her, pointing out that she is acting like a traitor and might lead the Fused to the survivors. Venli gathers her loyal followers, Dul and Mazish, to prepare for their secret departure. They have siphoned rations and supplies to survive a long journey into the wilderness.
+
+Venli hopes to use the impending human rescue attempt as a distraction for their escape. She intends to travel to Alethkar and then disappear into the Unclaimed Hills to the east. Her ultimate goal is to find her mother, Jaxlim, who was among those who escaped. She fears that her people will condemn her, but she feels compelled to reach them anyway. The chapter concludes as Venli prepares to abandon the tower and her duties to both the Fused and the Radiants.
+
+Sentence Count Check: 15

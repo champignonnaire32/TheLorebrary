@@ -1,0 +1,57 @@
+### Chapter 63: ONE WAY FORWARD
+
+Renarin uses Glys's guidance to navigate the vision of the Heralds' gathering. He successfully identifies himself as Vedel to Jezrien and Nale by reciting the correct historical script. Gavinor interrupts the vision by asking Navani a question that deviates from the expected events. Renarin realizes that he can identify intruders like the Ghostbloods by their inability to follow the established script. Glys warns Renarin that the assassins might also have learned the script, complicating his plan to find them.
+
+Sigzil fights the thunderclast Kai-garnis alongside several Stonewards at the breached wall of Narak Four. He rallies the troops and coordinates a defense using Windrunners, Edgedancers, and a squad of Shardbearers. Dami, a Riran Stoneward known as the Stormwall, arrives in massive Shardplate to reinforce the defensive line. Sigzil engages a Focused One, a new type of Fused with tension-releasing physical capabilities that can crush helmets with their grip. He proves the Focused Ones can be killed by using multiple Lashings to drive a Shardspear through one's head at high speed.
+
+Back in the vision, Dalinar watches as Vedel expresses guilt over the destruction of her nation. A man named Tanavast, the Almighty, suddenly appears in the tent wearing fine golden clothing. Adolin defends a dome arena against waves of singers and Regals while wearing his Shardplate. He discovers the enemy is distracting him to capture the Azish Shardbearer, Neziham, on the opposite side of the dome. Adolin charges through the enemy fortification, breaks the siege on Neziham, and intimidates the Heavenly One Abidi the Monarch, a Fused glowing with Voidlight.
+
+Sentence Count Check: 15
+
+---
+
+### Chapter 64: TO HOLD BACK THE DARKNESS
+
+Tanavast, the personification of Honor, addresses the Heralds and warns them that Rayse intends to annihilate them. Nale expresses doubt due to the destructive potential of the powers previously granted by Honor. Tanavast promises to prevent another cataclysm and explains Ishar’s plan to bind the Fused away on Braize. Ishar proposes a pact where the Heralds swear oaths to Honor to channel his power and govern their Surges. The ritual requires ten volunteers, though Shalash notes they are currently only nine.
+
+Ishar initiates the Oathpact by drawing cords of light from Tanavast and Connecting them to Jezrien. Jezrien, Nale, Chana, Vedel, Pralla, Shalash, and Battar each swear oaths to protect the land and hold back the darkness. Dalinar steps forward to take the role of Kalak and swears the oath to secure an anchor for the vision. Tanavast invites Navani, who is impersonating Wit, to join the circle as the final volunteer. Navani refuses to take the oath to stay in character, leading Nale to suggest an unnamed common woman for the final position.
+
+Kaladin and Szeth hike through Shinovar during a highstorm that recharges their gemstones. Szeth explains his plan to confirm that people are released from the Unmade's control after their Honorbearer dies. Kaladin tries to counsel Szeth on his mental health, but Szeth declares his intention to commit suicide once his mission is complete. Renarin identifies Shallan as the intruder playing Shalash because she deviates from the historical script. The group prepares to strike at the guards they suspect are Ghostbloods, but Tanavast suddenly attacks Renarin.
+
+Sentence Count Check: 15
+
+---
+
+### Chapter 65: NOT FOR HONOR
+
+Mraize, disguised as Tanavast, attacks Renarin and Radiant with a knife in the vision tent. Radiant engages Mraize in a knife fight while Rlain attempts to assist her with a spear. Mraize kills Rlain with a blowgun dart and a knife to the throat, causing the impersonated Heralds to freeze. Radiant stabs Mraize in the chest with an anti-Stormlight knife, but he survives because he does not immediately heal. Shallan realizes that Odium has kept Sja-anat's daughter, Mishram, imprisoned because he fears her.
+
+Mraize attempts to manipulate Shallan into helping the Ghostbloods obtain Mishram’s prison as leverage against Odium. Radiant takes control and refuses the alliance, asserting that they will not be manipulated. A terrifying manifestation of Shallan named Formless, who appears with a face of swirling black mist, urges her to kill Mraize and Dalinar. Formless taunts Shallan by claiming she can only destroy and will eventually hurt her new family. Panicked by the presence of Formless and the return of the Heralds, Shallan requests Glys and Tumi to pull her out of the vision.
+
+In a separate part of the vision, Dalinar finds Taln working as a horse keeper and lacking his future warrior build. Nale advocates for Taln to join the Oathpact to represent the common people rather than just kings and scholars. Taln initially refuses the offer of immortality and power but changes his mind when Nale presents a small stone disc. Each of the ten Heralds stretches out a hand and receives a glowing splinter of light that becomes an Honorblade. Dalinar grips the Honorblade intended for Kalak to secure the anchor before the vision evaporates and Shallan recovers in the Spiritual Realm.
+
+Sentence Count Check: 15
+
+---
+
+### Chapter 66: REINFORCEMENTS
+
+Szeth, Kaladin, and Syl arrive at a monastery in a small Shin city located on an island. They find a woman sweeping a house who explains that the townspeople were recently released from a mental fog. The woman reveals that the inhabitants were sent to the first monastery to gather as an army against Szeth. Szeth explores the empty monastery and leads Kaladin to the acolyte rooms where he once lived. He retrieves a hidden toy lamb from his old bunk and weeps while holding it to his forehead.
+
+Kaladin realizes that Szeth was only eleven years old when he was taken from his home to become a soldier. He concludes that Szeth is more like his brother Tien than himself, being a child twisted into a killer against his will. Kaladin abandons his attempt to make Szeth "reasonable" and instead focuses on offering him genuine empathy. He tells Szeth that he is a person with the right to choose and that he deserves to be happy. Kaladin argues that Szeth's parents would want him to find happiness despite the crimes he was forced to commit.
+
+Szeth admits that he wants to stop killing and cause no more pain to others. Kaladin promises to help him find a way to stop being used as a weapon by others. Szeth embraces Kaladin in a hug, expressing his deep desire to be finished with the violence. Syl successfully moves a heavy stone and retrieves the toy sheep for Kaladin to carry in his pocket. As they leave the monastery, they are confronted by the Herald Nale, who has come to mind Kaladin at the request of Szeth's highspren.
+
+Sentence Count Check: 15
+
+---
+
+### Chapter 67: FIELD COMMISSION
+
+Notum appears in Adolin's command tent and explains that he has transitioned to the Physical Realm to help the war effort. He claims a feminine voice called him to arms, allowing him to bypass the usual years of disorientation for spren. Adolin grants Notum a field commission as a captain in the Cobalt Guard to lead his messenger corps. May expresses skepticism about Notum’s quick recovery and his refusal to form a Radiant bond. Adolin prepares for a dinner appointment with Emperor Yanagawn while worrying about Shallan’s safety on her mission.
+
+Sigzil scouts the Shattered Plains and learns that the coalition army has rebuffed an enemy assault on Narak. He and Leyten use cloaks to hide their Stormlight while observing a gathering of enemy Regals. Sigzil flies high near the cloud line to investigate a violet ring of light, known as an Elsegate, in the center of the enemy army. Vienta identifies the Elsegate as a portal that allows for large-scale transportation of troops between the Physical and Cognitive realms. She hypothesizes that the enemy has either empowered the Unmade Dai-Gonarthis, a destructive entity, or obtained the Elsecaller Honorblade.
+
+Sigzil uses a spyglass to observe a tall Fused with a silvery body standing near the portal. He spots Moash emerging from the Elsegate wearing a black uniform and carrying a familiar Honorblade. Moash’s eyes glow violet, suggesting they have been replaced with gemstones full of Voidlight. Sigzil recognizes Moash as the killer of his friend Teft and realizes the gravity of his return. He watches as the enemy continues to bring reinforcements through the portal to bolster their forces on the Shattered Plains.
+
+Sentence Count Check: 15
