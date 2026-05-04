@@ -31,6 +31,7 @@ const seriesMap = {
   'acotar': 'A Court of Thorns and Roses',
   'inheritance-cycle': 'The Inheritance Cycle',
   'mistborn-era-one': 'Mistborn: Era One',
+  'mistborn-era-two': 'Mistborn: Era 2',
 };
 
 // Define explicit book orders
@@ -84,7 +85,13 @@ const bookOrderMap = {
   'Inheritance': 4,
   'The Final Empire': 1,
   'The Well of Ascension': 2,
+  'The Well Of Ascension': 2,
   'The Hero of Ages': 3,
+  'The Hero Of Ages': 3,
+  'The Alloy Of Law': 1,
+  'Shadows Of Self': 2,
+  'The Bands Of Mourning': 3,
+  'The Lost Metal': 4,
 };
 
 const rawBaseDir = path.join(process.cwd(), 'src', 'data', 'raw-summaries');

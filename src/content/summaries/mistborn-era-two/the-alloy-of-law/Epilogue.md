@@ -1,8 +1,8 @@
 ---
 title: "Chapters Epilogue"
-series: "Mistborn Era Two"
+series: "Mistborn: Era 2"
 book: "The Alloy Of Law"
-bookOrder: 99
+bookOrder: 1
 range: "Epilogue"
 startChapter: 0
 ---

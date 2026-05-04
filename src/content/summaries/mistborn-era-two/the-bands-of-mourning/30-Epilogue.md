@@ -1,8 +1,8 @@
 ---
 title: "Chapters 30-Epilogue"
-series: "Mistborn Era Two"
+series: "Mistborn: Era 2"
 book: "The Bands Of Mourning"
-bookOrder: 99
+bookOrder: 3
 range: "30-Epilogue"
 startChapter: 30
 ---

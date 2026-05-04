@@ -1,8 +1,8 @@
 ---
 title: "Chapters Prologue-4"
-series: "Mistborn Era Two"
+series: "Mistborn: Era 2"
 book: "The Lost Metal"
-bookOrder: 99
+bookOrder: 4
 range: "Prologue-4"
 startChapter: 0
 ---

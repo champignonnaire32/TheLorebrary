@@ -1,8 +1,8 @@
 ---
 title: "Chapters Prologue-4"
-series: "Mistborn Era Two"
+series: "Mistborn: Era 2"
 book: "Shadows Of Self"
-bookOrder: 99
+bookOrder: 2
 range: "Prologue-4"
 startChapter: 0
 ---

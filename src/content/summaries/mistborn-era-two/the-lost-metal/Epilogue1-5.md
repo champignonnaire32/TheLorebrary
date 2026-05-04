@@ -1,8 +1,8 @@
 ---
 title: "Chapters Epilogue1-5"
-series: "Mistborn Era Two"
+series: "Mistborn: Era 2"
 book: "The Lost Metal"
-bookOrder: 99
+bookOrder: 4
 range: "Epilogue1-5"
 startChapter: 0
 ---

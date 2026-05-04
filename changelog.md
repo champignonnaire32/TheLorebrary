@@ -5,6 +5,14 @@
 *   **Format:** Every entry heading must include the **Date**, the **Topic**, and the **Name of the AI** that completed the work (e.g., `## [May 1, 2026 - Feature Name] (by Gemini)`).
 *   **Content:** Keep entries concise and bulleted. 
 
+## [May 3, 2026 - Mistborn Era 2 Metadata & Era 1 Sequencing Fix] (by Gemini)
+*   **Series Renaming:** Updated "Mistborn Era Two" to its correct official title: **"Mistborn: Era 2"** (added colon and used numeral).
+*   **Book Ordering:** Corrected the `bookOrder` metadata for the entire Mistborn: Era 2 series (*The Alloy of Law*, *Shadows of Self*, *The Bands of Mourning*, *The Lost Metal*) from `99` to `1-4`.
+*   **Era 1 Fix:** Resolved a case-sensitivity issue in the ingestion script that was causing *The Well of Ascension* and *The Hero of Ages* to default to order `99`.
+*   **Ingestion:** Re-ran `split-summaries.js` to propagate these metadata changes to the live site.
+
+---
+
 ## [May 3, 2026 - Oathbringer Audit & Interlude Overhaul] (by Gemini)
 *   **Numbering Fix:** Corrected a labeling error where "On the Ground Looking Up" was marked as Chapter 40; it has been correctly updated to Chapter 41. This resolved a "double Chapter 40" issue in the Part Two summaries.
 *   **Sequencing Fix:** Resolved a major sorting bug where the Chapter 88-91 chunk (previously mislabeled `X-91`) was appearing at the start of the book list. Renamed the raw file to `Chapter88-91_Summary.md` to ensure correct `startChapter` derivation.
