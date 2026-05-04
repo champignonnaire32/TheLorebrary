@@ -6,6 +6,7 @@
 *   **Content:** Keep entries concise and bulleted. 
 
 ## [May 3, 2026 - Oathbringer Audit & Interlude Overhaul] (by Gemini)
+*   **Numbering Fix:** Corrected a labeling error where "On the Ground Looking Up" was marked as Chapter 40; it has been correctly updated to Chapter 41. This resolved a "double Chapter 40" issue in the Part Two summaries.
 *   **Sequencing Fix:** Resolved a major sorting bug where the Chapter 88-91 chunk (previously mislabeled `X-91`) was appearing at the start of the book list. Renamed the raw file to `Chapter88-91_Summary.md` to ensure correct `startChapter` derivation.
 *   **Interlude Labeling:** Converted generic "Interludes" headers to individual, descriptive labels (e.g., `### Interlude I-1: Puuli`) for all 14 interludes in the book.
 *   **Content Completion:** Added missing summaries for Interlude I-9 (*True Labor Begins*) and Interlude I-11 (*Her Reward*) to the Part Three interlude group, ensuring 100% narrative coverage.
